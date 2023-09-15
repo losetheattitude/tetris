@@ -9,13 +9,6 @@
 #include "./src/inputterminal.hpp"
 #include "./src/util/clock.hpp"
 
-void log(){
-    std::chrono::milliseconds t(1000);
-    std::this_thread::sleep_for(t);
-
-    std::cout << "asd" << std::endl;
-}
-
 int main()
 {
     InitWindow(500, 620, "Raylib Tetris");
