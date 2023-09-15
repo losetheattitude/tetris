@@ -22,20 +22,6 @@ private:
         return (int)((*this->score / this->levelThreshHold) + 0.5);
     }
 
-    void AdjustTick()
-    {
-        double newInterval = this->clock->GetInterval() - this->speedUp;
-        this->clock->SetInterval(newInterval);
-    }
-
-    void LevelUp()
-    {
-        int expectedLevel = this->GetExpectedLevel();
-        
-        this->AdjustTick();
-        this->level++;
-    }
-
 public:
     Clock* clock;
     virtual void Configure() = 0;
@@ -66,7 +52,6 @@ public:
     bool ShouldLevelUp()
     {
         return this->GetExpectedLevel() > this->level;
-
     }
 
     void SetScore(int* score)
