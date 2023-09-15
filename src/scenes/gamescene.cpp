@@ -50,8 +50,8 @@ void GameScene::DrawPause()
 void GameScene::DrawGameOver()
 {
     DrawRectangleRounded({20, 290, 280, 110}, 0.3, 6, lightBlue);
-    DrawTextEx(font, "GAME OVER", {30, 300}, 45, 2, WHITE);
-    DrawText("PRESS R", 90, 360, 30, WHITE);
+    DrawTextEx(font, "GAME OVER", {61, 305}, 45, 2, WHITE);
+    DrawTextEx(font, "PRESS R", {110, 355}, 30, 2, WHITE);
 }
 
 void GameScene::Draw()
