@@ -44,7 +44,7 @@ void GameScene::DrawScoreComponent(){
 void GameScene::DrawPause()
 {
     DrawRectangleRounded({47, 275, 230, 95}, 0.3, 6, lightBlue);
-    DrawTextEx(font, "PAUSED", {68, 300}, 50, 2, WHITE);
+    DrawTextEx(font, "PAUSED", {85, 300}, 50, 2, WHITE);
 }
 
 void GameScene::DrawGameOver()
