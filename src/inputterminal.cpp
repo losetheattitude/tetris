@@ -16,7 +16,8 @@ InputTerminal::InputTerminal()
 int InputTerminal::GetActiveKey()
 {       
     int pressedKey = GetKeyPressed();
-    if(pressedKey != 0){
+    if(pressedKey != 0)
+    {
         this->activeKey = pressedKey;
 
         if(this->activeKey == KEY_DOWN)
@@ -31,16 +32,21 @@ int InputTerminal::GetActiveKey()
         {
             this->clocks[2].lastUpdateTime = GetTime();
         }
+
+        return this->activeKey;
     }
 
-    if(this->activeKey != 0 && IsKeyReleased(this->activeKey)){
+    if(this->activeKey != 0 && IsKeyReleased(this->activeKey))
+    {
         this->activeKey = 0;
 
         return this->activeKey;
     }
 
-    if(this->activeKey != 0 && !IsKeyReleased(this->activeKey)){
-        if(this->activeKey == KEY_DOWN && this->clocks[0].HasPassed()){
+    if(this->activeKey != 0 && !IsKeyReleased(this->activeKey))
+    {
+        if(this->activeKey == KEY_DOWN && this->clocks[0].HasPassed())
+        {
             return this->activeKey;
         }
         else if((this->activeKey == KEY_LEFT || this->activeKey == KEY_RIGHT) && this->clocks[1].HasPassed())
@@ -51,7 +57,8 @@ int InputTerminal::GetActiveKey()
         {
             return this->activeKey;
         }
-        else{
+        else
+        {
             return pressedKey;
         }
     }

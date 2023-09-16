@@ -14,6 +14,8 @@ Game::Game(BaseLevel* level, InputTerminal* inputTerminal)
     score = 0;
     lastUpdateTime = 0;
     isPaused = false;
+
+    //Strategy pattern
     this->level = level;
     this->level->Configure();
     this->level->SetScore(&this->score);
