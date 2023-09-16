@@ -32,6 +32,7 @@ Game::~Game()
     CloseAudioDevice();
     UnloadSound(rotateSound);
     UnloadSound(clearSound);
+    delete this->level;
 }
 
 Block Game::GetRandomBlock()

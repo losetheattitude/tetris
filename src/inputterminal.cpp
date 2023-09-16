@@ -7,10 +7,10 @@ InputTerminal::InputTerminal()
     this->clocks[0].SetInterval(0.03);
 
     //Right-Left button
-    this->clocks[1].SetInterval(0.08);
+    this->clocks[1].SetInterval(0.09);
 
     //Up button
-    this->clocks[2].SetInterval(0.2);
+    this->clocks[2].SetInterval(0.35);
 }
 
 int InputTerminal::GetActiveKey()

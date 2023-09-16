@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/tetris-c++.dir/main.cpp.o"
+  "CMakeFiles/tetris-c++.dir/main.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/components/block.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/components/block.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/components/blocks.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/components/blocks.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/components/colors.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/components/colors.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/components/grid.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/components/grid.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/components/position.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/components/position.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/game.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/game.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/inputterminal.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/inputterminal.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/levels/baselevel.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/levels/baselevel.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/levels/easylevel.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/levels/easylevel.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/levels/hardlevel.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/levels/hardlevel.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/levels/levelfactory.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/levels/levelfactory.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/levels/mediumlevel.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/levels/mediumlevel.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/menu.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/menu.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/scenes/gamescene.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/scenes/gamescene.cpp.o.d"
+  "CMakeFiles/tetris-c++.dir/src/util/clock.cpp.o"
+  "CMakeFiles/tetris-c++.dir/src/util/clock.cpp.o.d"
+  "tetris-c++"
+  "tetris-c++.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/tetris-c++.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

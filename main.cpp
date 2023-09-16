@@ -2,10 +2,11 @@
 #include <raylib.h>
 #include <thread>
 
+#include "./src/levels/levelfactory.hpp"
 #include "./src/scenes/gamescene.hpp"
-#include "./src/levels/easylevel.cpp"
-#include "./src/levels/mediumlevel.cpp"
-#include "./src/levels/hardlevel.cpp"
+#include "./src/levels/easylevel.hpp"
+#include "./src/levels/mediumlevel.hpp"
+#include "./src/levels/hardlevel.hpp"
 #include "./src/inputterminal.hpp"
 #include "./src/util/clock.hpp"
 
@@ -16,12 +17,8 @@ int main()
 
     InputTerminal terminal = InputTerminal();
 
-    Clock levelClock = Clock();
-    EasyLevel easy = EasyLevel(&levelClock);
-    MediumLevel medium = MediumLevel(&levelClock);
-    HardLevel hard = HardLevel(&levelClock);
-
-    Game game = Game(&hard, &terminal);
+    BaseLevel* level = makeLevel(2);
+    Game game = Game(level, &terminal);
     GameScene gameScene = GameScene(&game);
     while(!WindowShouldClose())
     {

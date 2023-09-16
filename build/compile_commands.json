@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/main.cpp.o -c /home/bat/Proyectos/tetris/main.cpp",
+  "file": "/home/bat/Proyectos/tetris/main.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/components/block.cpp.o -c /home/bat/Proyectos/tetris/src/components/block.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/components/block.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/components/blocks.cpp.o -c /home/bat/Proyectos/tetris/src/components/blocks.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/components/blocks.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/components/colors.cpp.o -c /home/bat/Proyectos/tetris/src/components/colors.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/components/colors.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/components/grid.cpp.o -c /home/bat/Proyectos/tetris/src/components/grid.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/components/grid.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/components/position.cpp.o -c /home/bat/Proyectos/tetris/src/components/position.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/components/position.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/game.cpp.o -c /home/bat/Proyectos/tetris/src/game.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/game.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/inputterminal.cpp.o -c /home/bat/Proyectos/tetris/src/inputterminal.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/inputterminal.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/levels/baselevel.cpp.o -c /home/bat/Proyectos/tetris/src/levels/baselevel.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/levels/baselevel.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/levels/easylevel.cpp.o -c /home/bat/Proyectos/tetris/src/levels/easylevel.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/levels/easylevel.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/levels/hardlevel.cpp.o -c /home/bat/Proyectos/tetris/src/levels/hardlevel.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/levels/hardlevel.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/levels/levelfactory.cpp.o -c /home/bat/Proyectos/tetris/src/levels/levelfactory.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/levels/levelfactory.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/levels/mediumlevel.cpp.o -c /home/bat/Proyectos/tetris/src/levels/mediumlevel.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/levels/mediumlevel.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/menu.cpp.o -c /home/bat/Proyectos/tetris/src/menu.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/menu.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/scenes/gamescene.cpp.o -c /home/bat/Proyectos/tetris/src/scenes/gamescene.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/scenes/gamescene.cpp"
+},
+{
+  "directory": "/home/bat/Proyectos/tetris/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tetris-c++.dir/src/util/clock.cpp.o -c /home/bat/Proyectos/tetris/src/util/clock.cpp",
+  "file": "/home/bat/Proyectos/tetris/src/util/clock.cpp"
+}
+]
