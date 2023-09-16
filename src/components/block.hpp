@@ -16,6 +16,7 @@ public:
     std::vector<Position> GetCellPositions();
     void Rotate();
     void UndoRotation();
+    void DrawShadow(int rowDrop);
 
 private:
     int cellSize;
@@ -25,4 +26,5 @@ private:
     int columnOffset;
 
     std::vector<Color> colors;
+    std::vector<Color> shadowColors;
 };

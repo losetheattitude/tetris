@@ -13,4 +13,16 @@ extern const Color blue;
 extern const Color lightBlue;
 extern const Color darkBlue;
 
+extern const Color tDarkGrey;
+extern const Color tGreen;
+extern const Color tRed;
+extern const Color tOrange;
+extern const Color tYellow;
+extern const Color tPurple;
+extern const Color tCyan;
+extern const Color tBlue;
+extern const Color tLightBlue;
+extern const Color tDarkBlue;
+
 std::vector<Color> GetCellColors();
+std::vector<Color> GetShadowColors();

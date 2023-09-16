@@ -4,10 +4,10 @@
 InputTerminal::InputTerminal()
 {   
     //Down button
-    this->clocks[0].SetInterval(0.05);
+    this->clocks[0].SetInterval(0.03);
 
     //Right-Left button
-    this->clocks[1].SetInterval(0.07);
+    this->clocks[1].SetInterval(0.08);
 
     //Up button
     this->clocks[2].SetInterval(0.2);

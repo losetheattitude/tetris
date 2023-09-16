@@ -57,6 +57,7 @@ void Game::Draw()
 {
     grid.Draw();
     currentBlock.Draw(11, 11);
+    this->DrawBlockShadow(currentBlock);
 
     switch(nextBlock.id){
         case 3:
@@ -216,4 +217,22 @@ void Game::Reset()
 void Game::UpdateScore(int linesCleared, int moveDownPoints)
 {   
     score += this->level->GetLineScore(linesCleared) + moveDownPoints;
+}
+
+void Game::DrawBlockShadow(Block block)
+{   
+    int drop = 20;
+    for(Position cellPosition : block.GetCellPositions()){
+        int temp = 0;
+        while(this->grid.IsCellEmpty(cellPosition.row + temp + 1, cellPosition.column))
+        {
+            temp++;
+        }
+
+        if(temp < drop){
+            drop = temp;
+        }
+    }
+
+    block.DrawShadow(drop);
 }

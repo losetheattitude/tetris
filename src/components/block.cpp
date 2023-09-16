@@ -10,6 +10,7 @@ Block::Block()
     columnOffset = 0;
 
     colors = GetCellColors();
+    shadowColors = GetShadowColors();
 }
 
 void Block::Draw(int offsetX, int offsetY)
@@ -54,5 +55,18 @@ void Block::UndoRotation()
     rotationState--;
     if(rotationState == -1){
         rotationState = cells.size() - 1;
+    }
+}
+
+void Block::DrawShadow(int rowDrop)
+{
+    for(Position cellPosition : this->GetCellPositions()){
+        DrawRectangle(
+            (cellPosition.column * cellSize) + 11, 
+            (cellPosition.row * cellSize) + (rowDrop * cellSize) + 11, 
+            cellSize - 1, 
+            cellSize - 1, 
+            shadowColors[id]
+        );
     }
 }

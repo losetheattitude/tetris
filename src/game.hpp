@@ -38,5 +38,6 @@ private:
     void LockBlock();
     bool BlockFits();
     void Reset();
+    void DrawBlockShadow(Block block);
     void UpdateScore(int linesCleared, int moveDownPoints);
 };
