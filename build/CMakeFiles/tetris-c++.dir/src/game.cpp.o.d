@@ -200,5 +200,4 @@ CMakeFiles/tetris-c++.dir/src/game.cpp.o: \
  /usr/include/c++/11/bits/stl_multimap.h \
  /usr/include/c++/11/bits/erase_if.h \
  /home/bat/Proyectos/tetris/src/./components/position.hpp \
- /home/bat/Proyectos/tetris/src/./components/colors.hpp \
- /home/bat/Proyectos/tetris/src/../test.hpp
+ /home/bat/Proyectos/tetris/src/./components/colors.hpp

@@ -245,7 +245,6 @@ CMakeFiles/tetris-c++.dir/main.cpp.o: ../main.cpp \
   ../src/components/position.hpp \
   ../src/components/colors.hpp \
   ../src/inputterminal.hpp \
-  ../test.hpp \
   ../src/levels/easylevel.hpp \
   ../src/levels/mediumlevel.hpp \
   ../src/levels/hardlevel.hpp
@@ -1052,8 +1051,7 @@ CMakeFiles/tetris-c++.dir/src/game.cpp.o: ../src/game.cpp \
   /usr/include/c++/11/bits/stl_multimap.h \
   /usr/include/c++/11/bits/erase_if.h \
   ../src/components/position.hpp \
-  ../src/components/colors.hpp \
-  ../test.hpp
+  ../src/components/colors.hpp
 
 CMakeFiles/tetris-c++.dir/src/inputterminal.cpp.o: ../src/inputterminal.cpp \
   /usr/include/stdc-predef.h \
@@ -2526,8 +2524,7 @@ CMakeFiles/tetris-c++.dir/src/scenes/gamescene.cpp.o: ../src/scenes/gamescene.cp
   /usr/include/c++/11/tr1/poly_laguerre.tcc \
   /usr/include/c++/11/tr1/riemann_zeta.tcc \
   ../src/util/clock.hpp \
-  ../src/inputterminal.hpp \
-  ../test.hpp
+  ../src/inputterminal.hpp
 
 CMakeFiles/tetris-c++.dir/src/util/clock.cpp.o: ../src/util/clock.cpp \
   /usr/include/stdc-predef.h \
@@ -2787,10 +2784,6 @@ CMakeFiles/tetris-c++.dir/src/util/clock.cpp.o: ../src/util/clock.cpp \
 
 /usr/include/c++/11/tr1/modified_bessel_func.tcc:
 
-/usr/include/c++/11/pstl/glue_numeric_defs.h:
-
-/usr/include/x86_64-linux-gnu/bits/locale.h:
-
 /usr/include/locale.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
@@ -2994,6 +2987,10 @@ CMakeFiles/tetris-c++.dir/src/util/clock.cpp.o: ../src/util/clock.cpp \
 /usr/include/c++/11/map:
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/include/x86_64-linux-gnu/bits/locale.h:
+
+/usr/include/c++/11/pstl/glue_numeric_defs.h:
 
 /usr/include/c++/11/bits/exception_ptr.h:
 
@@ -3254,5 +3251,3 @@ CMakeFiles/tetris-c++.dir/src/util/clock.cpp.o: ../src/util/clock.cpp \
 ../src/components/blocks.cpp:
 
 ../src/components/block.hpp:
-
-../test.hpp:

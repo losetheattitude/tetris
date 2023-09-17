@@ -197,7 +197,6 @@ CMakeFiles/tetris-c++.dir/main.cpp.o: /home/bat/Proyectos/tetris/main.cpp \
  /home/bat/Proyectos/tetris/./src/scenes/.././components/position.hpp \
  /home/bat/Proyectos/tetris/./src/scenes/.././components/colors.hpp \
  /home/bat/Proyectos/tetris/./src/scenes/.././inputterminal.hpp \
- /home/bat/Proyectos/tetris/./src/scenes/../../test.hpp \
  /home/bat/Proyectos/tetris/./src/levels/easylevel.hpp \
  /home/bat/Proyectos/tetris/./src/levels/mediumlevel.hpp \
  /home/bat/Proyectos/tetris/./src/levels/hardlevel.hpp

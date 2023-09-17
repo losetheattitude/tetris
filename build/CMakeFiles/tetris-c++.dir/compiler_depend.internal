@@ -246,7 +246,6 @@ CMakeFiles/tetris-c++.dir/main.cpp.o
  /home/bat/Proyectos/tetris/src/components/position.hpp
  /home/bat/Proyectos/tetris/src/components/colors.hpp
  /home/bat/Proyectos/tetris/src/inputterminal.hpp
- /home/bat/Proyectos/tetris/test.hpp
  /home/bat/Proyectos/tetris/src/levels/easylevel.hpp
  /home/bat/Proyectos/tetris/src/levels/mediumlevel.hpp
  /home/bat/Proyectos/tetris/src/levels/hardlevel.hpp
@@ -1060,7 +1059,6 @@ CMakeFiles/tetris-c++.dir/src/game.cpp.o
  /usr/include/c++/11/bits/erase_if.h
  /home/bat/Proyectos/tetris/src/components/position.hpp
  /home/bat/Proyectos/tetris/src/components/colors.hpp
- /home/bat/Proyectos/tetris/test.hpp
 
 CMakeFiles/tetris-c++.dir/src/inputterminal.cpp.o
  /home/bat/Proyectos/tetris/src/inputterminal.cpp
@@ -2542,7 +2540,6 @@ CMakeFiles/tetris-c++.dir/src/scenes/gamescene.cpp.o
  /usr/include/c++/11/tr1/riemann_zeta.tcc
  /home/bat/Proyectos/tetris/src/util/clock.hpp
  /home/bat/Proyectos/tetris/src/inputterminal.hpp
- /home/bat/Proyectos/tetris/test.hpp
 
 CMakeFiles/tetris-c++.dir/src/util/clock.cpp.o
  /home/bat/Proyectos/tetris/src/util/clock.cpp

@@ -191,5 +191,4 @@ CMakeFiles/tetris-c++.dir/src/scenes/gamescene.cpp.o: \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
  /home/bat/Proyectos/tetris/src/scenes/.././levels/../util/clock.hpp \
- /home/bat/Proyectos/tetris/src/scenes/.././inputterminal.hpp \
- /home/bat/Proyectos/tetris/src/scenes/../../test.hpp
+ /home/bat/Proyectos/tetris/src/scenes/.././inputterminal.hpp
