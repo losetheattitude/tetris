@@ -6,5 +6,5 @@
 class MediumLevel : public BaseLevel {
 public:
     MediumLevel(Clock* clock);
-    void Configure();
+    void Configure() override;
 };

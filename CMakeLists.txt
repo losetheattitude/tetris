@@ -11,6 +11,8 @@ file(GLOB tetris-c++_SRC
     "src/components/*.cpp"
     "src/levels/*.cpp"
     "src/util/*.cpp"
+    "src/transformer/*.cpp"
+    "src/storage/*.cpp"
 )
 
 add_executable(tetris-c++ 

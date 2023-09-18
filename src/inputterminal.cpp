@@ -19,7 +19,6 @@ int InputTerminal::GetActiveKey()
     if(pressedKey != 0)
     {
         this->activeKey = pressedKey;
-
         if(this->activeKey == KEY_DOWN)
         {
             this->clocks[0].lastUpdateTime = GetTime();

@@ -64,7 +64,7 @@ void BaseLevel::AdjustLevel()
     double currentInterval = this->clock->GetInterval();
     while(this->level != this->GetExpectedLevel() && this->level < this->maxLevel){
         this->level++;
-        currentInterval = currentInterval - this->speedUp;
+        currentInterval -= this->speedUp;
     }
 
     this->clock->SetInterval(currentInterval);

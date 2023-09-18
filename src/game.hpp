@@ -10,19 +10,22 @@ public:
     int score;
     bool gameOver;
     bool isPaused;
+
+    Grid* grid;
     BaseLevel* level;
     InputTerminal* inputTerminal;
 
-    Game(BaseLevel* level, InputTerminal* inputTerminal);
+    Game(Grid* grid, BaseLevel* level, InputTerminal* inputTerminal, int saveFlags);
     ~Game();
     void Draw();
     void HandleInput(int keyPressed);
     void MoveBlockDown();
+    void UpdateScore(int linesCleared, int moveDownPoints);
+    void Save();
 
 private:
-    double lastUpdateTime;
+    int saveFlags;
 
-    Grid grid;
     std::vector<Block> blocks;
     Block nextBlock;
     Block currentBlock;
@@ -39,5 +42,4 @@ private:
     bool BlockFits();
     void Reset();
     void DrawBlockShadow(Block block);
-    void UpdateScore(int linesCleared, int moveDownPoints);
 };

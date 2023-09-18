@@ -1,25 +1,23 @@
 #include <random>
 
-#include "./levels/baselevel.hpp"
-#include "./inputterminal.hpp"
 #include "game.hpp"
+#include "exchangerbuilder.hpp"
 
-Game::Game(BaseLevel* level, InputTerminal* inputTerminal)
+Game::Game(Grid* grid, BaseLevel* level, InputTerminal* inputTerminal, int saveFlags)
 {
-    grid = Grid();
+    this->saveFlags = saveFlags;
     blocks = GetAllBlocks();
     currentBlock = GetRandomBlock();
     nextBlock = GetRandomBlock();
     gameOver = false;
     score = 0;
-    lastUpdateTime = 0;
     isPaused = false;
 
+    this->grid = grid;
     //Strategy pattern
     this->level = level;
     this->level->Configure();
     this->level->SetScore(&this->score);
-
     this->inputTerminal = inputTerminal;
 
     InitAudioDevice();
@@ -33,6 +31,7 @@ Game::~Game()
     UnloadSound(rotateSound);
     UnloadSound(clearSound);
     delete this->level;
+    delete this->grid;
 }
 
 Block Game::GetRandomBlock()
@@ -56,7 +55,7 @@ std::vector<Block> Game::GetAllBlocks()
 
 void Game::Draw()
 {
-    grid.Draw();
+    grid->Draw();
     currentBlock.Draw(11, 11);
     this->DrawBlockShadow(currentBlock);
 
@@ -164,7 +163,7 @@ bool Game::IsBlockOutside()
     std::vector<Position> tiles = currentBlock.GetCellPositions();
     for(Position item: tiles)
     {
-        if(grid.IsCellOutsize(item.row, item.column)){
+        if(grid->IsCellOutsize(item.row, item.column)){
             return true;
         }
     }
@@ -177,7 +176,7 @@ void Game::LockBlock()
     std::vector<Position> tiles = currentBlock.GetCellPositions();
     for(Position item: tiles)
     {
-        grid.grid[item.row][item.column] = currentBlock.id;
+        grid->grid[item.row][item.column] = currentBlock.id;
     }
 
     currentBlock = nextBlock;
@@ -186,7 +185,7 @@ void Game::LockBlock()
         gameOver = true;
     }
     nextBlock = GetRandomBlock();
-    int rowsCleared = grid.ClearFullRows();
+    int rowsCleared = grid->ClearFullRows();
     if(rowsCleared > 0){
         PlaySound(clearSound);
         UpdateScore(rowsCleared, 0);
@@ -197,7 +196,7 @@ bool Game::BlockFits()
 {
     std::vector<Position> tiles = currentBlock.GetCellPositions();
     for(Position item: tiles){
-        if(grid.IsCellEmpty(item.row, item.column) == false){
+        if(grid->IsCellEmpty(item.row, item.column) == false){
             return false;
         }
     }
@@ -207,7 +206,7 @@ bool Game::BlockFits()
 
 void Game::Reset()
 {
-    grid.Initialize();
+    grid->Initialize();
     blocks = GetAllBlocks();
     currentBlock = GetRandomBlock();
     nextBlock = GetRandomBlock();
@@ -225,7 +224,7 @@ void Game::DrawBlockShadow(Block block)
     int drop = 20;
     for(Position cellPosition : block.GetCellPositions()){
         int temp = 0;
-        while(this->grid.IsCellEmpty(cellPosition.row + temp + 1, cellPosition.column))
+        while(this->grid->IsCellEmpty(cellPosition.row + temp + 1, cellPosition.column))
         {
             temp++;
         }
@@ -236,4 +235,12 @@ void Game::DrawBlockShadow(Block block)
     }
 
     block.DrawShadow(drop);
+}
+
+void Game::Save()
+{
+    ExchangerBuilder builder = ExchangerBuilder();
+    Exchanger* b = builder.Build();
+
+    b->ExchangeToStorage(this);
 }

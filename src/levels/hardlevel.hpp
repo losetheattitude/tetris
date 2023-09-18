@@ -6,5 +6,5 @@
 class HardLevel : public BaseLevel {
 public:
     HardLevel(Clock* clock);
-    void Configure();
+    void Configure() override;
 };
