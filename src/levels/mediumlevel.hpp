@@ -1,9 +1,9 @@
 #pragma once
 
-#include "baselevel.hpp"
-#include "../util/clock.hpp"
+#include "level.hpp"
+#include "../core/clock.hpp"
 
-class MediumLevel : public BaseLevel {
+class MediumLevel : public Level {
 public:
     MediumLevel(Clock* clock);
     void Configure() override;

@@ -2,16 +2,22 @@
 #include <vector>
 #include <iostream>
 
-#include "gamescene.hpp"
-#include "../game.hpp"
+#include "./gamescene.hpp"
+#include "../core/game.hpp"
 #include "../components/colors.hpp"
-#include "../inputterminal.hpp"
+#include "../core/inputterminal.hpp"
 
 GameScene::GameScene(Game* game)
 {
     this->game = game;
 
     font = LoadFontEx("/home/bat/Proyectos/tetris-c++/font/Paul-le1V.ttf", 64, 0, 0);
+}
+
+GameScene::~GameScene()
+{
+    delete this->game;
+    UnloadFont(this->font);
 }
 
 void GameScene::DrawLevelComponent(){

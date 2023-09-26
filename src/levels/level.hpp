@@ -3,9 +3,9 @@
 #include <cmath>
 #include <iostream>
 
-#include "../util/clock.hpp"
+#include "../core/clock.hpp"
 
-class BaseLevel{
+class Level{
 protected:
     int level;
     int maxLevel;
@@ -25,8 +25,8 @@ public:
     
     virtual void Configure() = 0;
     
-    BaseLevel(Clock* clock);
-    ~BaseLevel();
+    Level(Clock* clock);
+    ~Level();
 
     int GetLineScore(int numLines);
     bool ShouldLevelUp();

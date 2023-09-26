@@ -6,13 +6,16 @@ include(CTest)
 enable_testing()
 
 file(GLOB tetris-c++_SRC
-    "src/*.cpp"
-    "src/scenes/*.cpp"
-    "src/components/*.cpp"
-    "src/levels/*.cpp"
-    "src/util/*.cpp"
-    "src/transformer/*.cpp"
-    "src/storage/*.cpp"
+"src/*.cpp"
+"src/core/*.cpp"
+"src/components/*.cpp"
+"src/exchanger/*.cpp"
+"src/exchanger/builder/*.cpp"
+"src/formatter/*.cpp"
+"src/levels/*.cpp"
+"src/scenes/*.cpp"
+"src/storage/*.cpp"
+"src/storage/decorator/*.cpp"
 )
 
 add_executable(tetris-c++ 

@@ -1,15 +1,15 @@
 #include "hardlevel.hpp"
 
-HardLevel::HardLevel(Clock* clock):BaseLevel(clock){}
+HardLevel::HardLevel(Clock* clock):Level(clock){}
 
 void HardLevel::Configure()
 {
     level = 0;
     maxLevel = 99;
-    speedUp = 0.005;
+    speedUp = 0.0045;
     this->clock->SetInterval(0.5);
     
-    levelThreshHold = 400;
+    levelThreshHold = 1000;
     levelText = "Hard";
 
     lineScores[0] = 200;

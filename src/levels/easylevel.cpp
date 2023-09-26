@@ -1,6 +1,6 @@
 #include "easylevel.hpp"
 
-EasyLevel::EasyLevel(Clock* clock):BaseLevel(clock){}
+EasyLevel::EasyLevel(Clock* clock):Level(clock){}
 
 void EasyLevel::Configure()
 {
@@ -10,7 +10,7 @@ void EasyLevel::Configure()
     this->clock->SetInterval(0.7);
 
     //each 1k levels up 1
-    levelThreshHold = 1000;
+    levelThreshHold = 2000;
 
     levelText = "Easy";
     lineScores[0] = 100;

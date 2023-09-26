@@ -34,8 +34,10 @@ std::vector<Position> Block::GetCellPositions()
     std::vector<Position> movedTiles;
 
     for(Position item: tiles){
-        Position newPos = Position(item.row + rowOffset, item.column + columnOffset);
-        movedTiles.push_back(newPos);
+        movedTiles.emplace_back(
+            item.row + rowOffset, 
+            item.column +columnOffset
+        );   
     }
 
     return movedTiles;

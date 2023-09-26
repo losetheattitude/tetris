@@ -2,7 +2,7 @@
 #include <iostream>
 
 #include <raylib.h>
-#include "./util/clock.hpp"
+#include "../core/clock.hpp"
 
 class InputTerminal {
 private:

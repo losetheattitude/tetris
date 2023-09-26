@@ -1,6 +1,6 @@
 #include "mediumlevel.hpp"
 
-MediumLevel::MediumLevel(Clock* clock):BaseLevel(clock){}
+MediumLevel::MediumLevel(Clock* clock):Level(clock){}
 
 void MediumLevel::Configure()
 {
@@ -10,7 +10,7 @@ void MediumLevel::Configure()
     this->clock->SetInterval(0.6);
     
     //each 1k levels up 1
-    levelThreshHold = 800;
+    levelThreshHold = 1500;
     levelText = "Medium";
 
     lineScores[0] = 150;

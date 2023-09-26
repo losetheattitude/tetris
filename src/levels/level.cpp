@@ -1,22 +1,22 @@
-#include "baselevel.hpp"
+#include "level.hpp"
 
-BaseLevel::BaseLevel(Clock* clock)
+Level::Level(Clock* clock)
 {
     this->clock = clock;
 }
 
-BaseLevel::~BaseLevel()
+Level::~Level()
 {
     delete this->clock;
 }
 
-int BaseLevel::GetExpectedLevel()
+int Level::GetExpectedLevel()
 {
     return (int)((*this->score / this->levelThreshHold) + 0.5);
 }
 
 
-int BaseLevel::GetLineScore(int numLines)
+int Level::GetLineScore(int numLines)
 {
     switch(numLines){
         case 0:
@@ -34,32 +34,32 @@ int BaseLevel::GetLineScore(int numLines)
     return 0;
 }
 
-bool BaseLevel::ShouldLevelUp()
+bool Level::ShouldLevelUp()
 {
     return this->GetExpectedLevel() > this->level;
 }
 
-void BaseLevel::SetScore(int* score)
+void Level::SetScore(int* score)
 {
     this->score = score;
 }
 
-int BaseLevel::GetLevel()
+int Level::GetLevel()
 {
     return this->level + 1;
 }
 
-std::string BaseLevel::GetLevelText()
+std::string Level::GetLevelText()
 {
     return this->levelText;
 }
 
-bool BaseLevel::ShouldTick()
+bool Level::ShouldTick()
 {
     return this->clock->HasPassed();
 }
 
-void BaseLevel::AdjustLevel()
+void Level::AdjustLevel()
 {
     double currentInterval = this->clock->GetInterval();
     while(this->level != this->GetExpectedLevel() && this->level < this->maxLevel){

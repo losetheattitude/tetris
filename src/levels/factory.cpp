@@ -1,13 +1,13 @@
 #include <iostream>
 
-#include "baselevel.hpp"
+#include "level.hpp"
 #include "easylevel.hpp"
 #include "mediumlevel.hpp"
 #include "hardlevel.hpp"
-#include "../util/clock.hpp"
+#include "../core/clock.hpp"
 
-BaseLevel* instances[3];
-BaseLevel* makeLevel(int degree)
+Level* instances[3];
+Level* makeLevelSingleton(int degree)
 {   
     if(instances[degree] != 0)
     {

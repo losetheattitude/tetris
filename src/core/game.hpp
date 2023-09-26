@@ -1,9 +1,10 @@
 #pragma once
 
-#include "./components/grid.hpp"
-#include "./components/blocks.cpp"
-#include "./levels/baselevel.hpp"
+#include "../components/grid.hpp"
+#include "../components/blocks.cpp"
+#include "../levels/level.hpp"
 #include "./inputterminal.hpp"
+#include "../exchanger/builder/exchangerbuilder.hpp"
 
 class Game{
 public:
@@ -12,10 +13,10 @@ public:
     bool isPaused;
 
     Grid* grid;
-    BaseLevel* level;
+    Level* level;
     InputTerminal* inputTerminal;
 
-    Game(Grid* grid, BaseLevel* level, InputTerminal* inputTerminal, int saveFlags);
+    Game(Grid* grid, Level* level, InputTerminal* inputTerminal, int saveFlags);
     ~Game();
     void Draw();
     void HandleInput(int keyPressed);
@@ -41,5 +42,6 @@ private:
     void LockBlock();
     bool BlockFits();
     void Reset();
-    void DrawBlockShadow(Block block);
+    void DrawBlockShadow(Block& block);
+    int ClosestDistance(Block& block);
 };

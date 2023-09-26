@@ -1,12 +1,10 @@
 #pragma once
 
-#include "storage.hpp"
+#include "storagedecorator.hpp"
 
-class LocalFileStorage : public Storage 
+class SignDecorator : public StorageDecorator
 {
 public:
-    LocalFileStorage();
-
     std::string Read();
     void Write(const std::string& payload);
 };

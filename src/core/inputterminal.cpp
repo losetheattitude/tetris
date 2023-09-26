@@ -1,5 +1,4 @@
 #include "inputterminal.hpp"
-#include "./util/clock.hpp"
 
 InputTerminal::InputTerminal()
 {   
@@ -10,7 +9,7 @@ InputTerminal::InputTerminal()
     this->clocks[1].SetInterval(0.09);
 
     //Up button
-    this->clocks[2].SetInterval(0.35);
+    this->clocks[2].SetInterval(0.45);
 }
 
 int InputTerminal::GetActiveKey()
@@ -31,8 +30,6 @@ int InputTerminal::GetActiveKey()
         {
             this->clocks[2].lastUpdateTime = GetTime();
         }
-
-        return this->activeKey;
     }
 
     if(this->activeKey != 0 && IsKeyReleased(this->activeKey))

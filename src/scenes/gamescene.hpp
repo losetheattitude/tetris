@@ -1,6 +1,6 @@
 #pragma once
 #include <raylib.h>
-#include "../game.hpp"
+#include "../core/game.hpp"
 
 class GameScene {
 private:
@@ -11,6 +11,8 @@ private:
 
 public:
     GameScene(Game* game);
+    ~GameScene();
+    
     void Play();
     void Draw();
     void DrawLevelComponent();

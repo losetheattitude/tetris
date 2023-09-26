@@ -1,9 +1,8 @@
 #include <random>
 
 #include "game.hpp"
-#include "exchangerbuilder.hpp"
 
-Game::Game(Grid* grid, BaseLevel* level, InputTerminal* inputTerminal, int saveFlags)
+Game::Game(Grid* grid, Level* level, InputTerminal* inputTerminal, int saveFlags)
 {
     this->saveFlags = saveFlags;
     blocks = GetAllBlocks();
@@ -32,6 +31,7 @@ Game::~Game()
     UnloadSound(clearSound);
     delete this->level;
     delete this->grid;
+    delete this->inputTerminal;
 }
 
 Block Game::GetRandomBlock()
@@ -107,10 +107,6 @@ void Game::HandleInput(int keyPressed)
 
 void Game::MoveBlockLeft()
 {
-    if(gameOver){
-        return;
-    }
-
     currentBlock.Move(0, -1);
     if(IsBlockOutside() || BlockFits() == false){
         currentBlock.Move(0, 1);
@@ -119,10 +115,6 @@ void Game::MoveBlockLeft()
 
 void Game::MoveBlockRight()
 {
-    if(gameOver){
-        return;
-    }
-
     currentBlock.Move(0, 1);
     if(IsBlockOutside() || BlockFits() == false){
         currentBlock.Move(0, -1);
@@ -131,10 +123,6 @@ void Game::MoveBlockRight()
 
 void Game::MoveBlockDown()
 {
-    if(gameOver){
-        return;
-    }
-
     currentBlock.Move(1, 0);
     if(IsBlockOutside() || BlockFits() == false){
         currentBlock.Move(-1, 0);
@@ -144,10 +132,6 @@ void Game::MoveBlockDown()
 
 void Game::RotateBlock()
 {
-    if(gameOver){
-        return;
-    }
-
     currentBlock.Rotate();
     if(IsBlockOutside() || BlockFits() == false){
         currentBlock.UndoRotation();
@@ -178,12 +162,14 @@ void Game::LockBlock()
     {
         grid->grid[item.row][item.column] = currentBlock.id;
     }
-
+    
     currentBlock = nextBlock;
     if(BlockFits() == false)
     {
         gameOver = true;
+        return;
     }
+
     nextBlock = GetRandomBlock();
     int rowsCleared = grid->ClearFullRows();
     if(rowsCleared > 0){
@@ -219,9 +205,9 @@ void Game::UpdateScore(int linesCleared, int moveDownPoints)
     score += this->level->GetLineScore(linesCleared) + moveDownPoints;
 }
 
-void Game::DrawBlockShadow(Block block)
-{   
-    int drop = 20;
+int Game::ClosestDistance(Block& block)
+{
+    int distance = 20;
     for(Position cellPosition : block.GetCellPositions()){
         int temp = 0;
         while(this->grid->IsCellEmpty(cellPosition.row + temp + 1, cellPosition.column))
@@ -229,18 +215,25 @@ void Game::DrawBlockShadow(Block block)
             temp++;
         }
 
-        if(temp < drop){
-            drop = temp;
+        if(temp < distance){
+            distance = temp;
         }
     }
 
-    block.DrawShadow(drop);
+    return distance;
+}
+
+void Game::DrawBlockShadow(Block& block)
+{   
+    int distance = this->ClosestDistance(block);
+    block.DrawShadow(distance);
 }
 
 void Game::Save()
 {
-    ExchangerBuilder builder = ExchangerBuilder();
-    Exchanger* b = builder.Build();
+    // ExchangerBuilder builder = ExchangerBuilder();
+    // Exchanger* b = builder.Build(123);
 
-    b->ExchangeToStorage(this);
+    // b->ExchangeToStorage(this);
+    // delete b;
 }
