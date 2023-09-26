@@ -4,3 +4,8 @@ MultiExchangerBuilder::MultiExchangerBuilder(Storage* storages) : storages(stora
 {
 
 }
+
+Exchanger* MultiExchangerBuilder::Build()
+{
+
+}

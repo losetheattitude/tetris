@@ -12,5 +12,5 @@ private:
 
 public:
     MultiExchangerBuilder(Storage* storages);
-    Exchanger* Build();
+    Exchanger* Build() override;
 };
