@@ -16,11 +16,6 @@
 #include "src/levels/level.hpp"
 #include "src/formatter/formatter.hpp"
 
-int* testFunc()
-{
-    return new int(5);
-}
-
 int main()
 {   
     InitWindow(500, 620, "Raylib Tetris");

@@ -6,6 +6,6 @@
 class Exchangeable 
 {
 public:
-    virtual std::map<std::string, std::string>* Unform() = 0;
-    virtual void Form(const std::map<std::string, std::string>& exchangables) = 0;
+    virtual std::map<std::string, std::string>* Decompose() = 0;
+    virtual void Compose(const std::map<std::string, std::string>& exchangables) = 0;
 };
