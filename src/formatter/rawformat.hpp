@@ -6,6 +6,6 @@ class RawFormat : public Formatter
 {
 public:
     RawFormat();
-    void form(const std::map<std::string, std::string>& data);
-    std::map<std::string, std::string> unform(const std::string& payload);
+    std::string Form(const std::map<std::string, std::string>& data);
+    std::map<std::string, std::string> Unform(const std::string& payload);
 };
