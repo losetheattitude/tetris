@@ -11,7 +11,7 @@ Exchanger::~Exchanger()
 
 }
 
-std::string Exchanger::ExchangeToStorage(Exchangeable* exchangeable)
+ExchangeableIdentity Exchanger::ExchangeToStorage(Exchangeable* exchangeable)
 {
-    return "zd";
+
 }

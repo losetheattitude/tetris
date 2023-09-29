@@ -10,9 +10,19 @@ enum class FormatType
     JSON
 };
 
+struct UnformedData 
+{
+    std::map<std::string, std::string> data;
+};
+
+struct FormedData
+{
+    std::string data;
+};
+
 class Formatter
 {
 public:
-    virtual std::string Form(const std::map<std::string, std::string>& data) = 0;
-    virtual std::map<std::string, std::string> Unform(const std::string& payload) = 0;
+    virtual FormedData Form(const UnformedData& data) = 0;
+    virtual UnformedData Unform(const FormedData& data) = 0;
 };

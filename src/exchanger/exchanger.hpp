@@ -10,9 +10,10 @@ private:
     Formatter* formatter;
 
 public:
+
     Exchanger(Storage* storage, Formatter* formatter);
     ~Exchanger();
 
-    std::string ExchangeToStorage(Exchangeable* exchangeable);
-    Exchangeable* ExchangeFroStorage(std::string id);
+    ExchangeableIdentity ExchangeToStorage(Exchangeable* exchangeable);
+    Exchangeable* ExchangeFroStorage(const ExchangeableIdentity& definition);
 };

@@ -5,9 +5,5 @@
 class LocalExchangerBuilder : public ExchangerBuilder 
 {
 public:
-    LocalExchangerBuilder();
-    // LocalExchangerBuilder();
-    // LocalExchangerBuilder();
-
     Exchanger* Build() override;
 };

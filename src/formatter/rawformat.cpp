@@ -5,11 +5,11 @@ RawFormat::RawFormat()
 
 }
 
-std::string RawFormat::Form(const std::map<std::string, std::string> &data)
+FormedData RawFormat::Form(const UnformedData &data)
 {
 }
 
-std::map<std::string, std::string> RawFormat::Unform(const std::string &payload)
+UnformedData RawFormat::Unform(const FormedData& data)
 {
-    return std::map<std::string, std::string>();
+
 }
