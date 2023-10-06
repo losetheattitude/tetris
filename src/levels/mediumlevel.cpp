@@ -1,7 +1,5 @@
 #include "mediumlevel.hpp"
 
-MediumLevel::MediumLevel(Clock* clock):Level(clock){}
-
 void MediumLevel::Configure()
 {
     level = 0;

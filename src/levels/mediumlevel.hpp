@@ -5,6 +5,5 @@
 
 class MediumLevel : public Level {
 public:
-    MediumLevel(Clock* clock);
     void Configure() override;
 };

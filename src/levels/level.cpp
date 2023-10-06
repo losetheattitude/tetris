@@ -1,8 +1,8 @@
 #include "level.hpp"
 
-Level::Level(Clock* clock)
+Level::Level()
 {
-    this->clock = clock;
+    this->clock = new Clock();
 }
 
 Level::~Level()

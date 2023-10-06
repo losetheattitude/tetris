@@ -33,7 +33,7 @@ int main()
     // Exchanger exchanger = Exchanger(&storage, &formatter);
 
     Game* game = new Game(grid, level, 0);
-    
+
     InputTerminal* terminal = new InputTerminal();
     GameScene gameScene = GameScene(game, terminal);
     while(!WindowShouldClose())

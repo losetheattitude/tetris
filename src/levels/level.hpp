@@ -25,7 +25,7 @@ public:
     
     virtual void Configure() = 0;
     
-    Level(Clock* clock);
+    Level();
     ~Level();
 
     int GetLineScore(int numLines);

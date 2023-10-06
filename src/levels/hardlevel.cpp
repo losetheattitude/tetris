@@ -1,7 +1,5 @@
 #include "hardlevel.hpp"
 
-HardLevel::HardLevel(Clock* clock):Level(clock){}
-
 void HardLevel::Configure()
 {
     level = 0;

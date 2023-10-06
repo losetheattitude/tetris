@@ -6,26 +6,13 @@
 #include "hardlevel.hpp"
 #include "../core/clock.hpp"
 
-Level* instances[3];
+Level* instances[3]{
+    new EasyLevel(),
+    new MediumLevel(),
+    new HardLevel()
+};
+
 Level* makeLevelSingleton(int degree)
 {   
-    if(instances[degree] != 0)
-    {
-        return instances[degree];
-    }
-
-    Clock* clock = new Clock();
-    switch(degree)
-    {
-        case 0:
-            instances[degree] = new EasyLevel(clock);
-        case 1:
-            instances[degree] = new MediumLevel(clock);
-        case 2:
-            instances[degree] = new HardLevel(clock);
-        default:
-            break;
-    }
-
     return instances[degree];
 }

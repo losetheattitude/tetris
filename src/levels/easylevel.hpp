@@ -5,6 +5,5 @@
 
 class EasyLevel : public Level {
 public:
-    EasyLevel(Clock* clock);
     void Configure() override;
 };

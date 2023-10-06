@@ -1,7 +1,5 @@
 #include "easylevel.hpp"
 
-EasyLevel::EasyLevel(Clock* clock):Level(clock){}
-
 void EasyLevel::Configure()
 {
     level = 0;
