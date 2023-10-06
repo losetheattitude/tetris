@@ -82,8 +82,6 @@ void GameScene::Draw()
 }
 
 void GameScene::Play()
-{      
-    // int keyPressed = this->game->inputTerminal->GetActiveKey();
-    
+{          
     game->HandleInput(this->terminal->GetActiveKey());
 }
