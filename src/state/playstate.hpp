@@ -18,26 +18,7 @@ public:
             return;
         }
 
-        switch(keyPressed){
-            case KEY_LEFT:
-            game.MoveBlockLeft();
-            break;
-
-            case KEY_RIGHT:
-            game.MoveBlockRight();
-            break;
-
-            case KEY_DOWN:
-            game.MoveBlockDown();
-
-            game.UpdateScore(0, 1);
-            break;
-
-            case KEY_UP:
-            game.RotateBlock();
-            break;
-        }
-
+        game.ProcessMove(keyPressed);
         if(game.level->ShouldLevelUp()){
             game.level->AdjustLevel();
         }

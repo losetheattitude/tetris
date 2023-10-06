@@ -3,4 +3,4 @@
 #include "./state.hpp"
 
 extern State* states[3];
-State* makeStateSingleton(GameState state);
+State *makeStateSingleton(GameState state);

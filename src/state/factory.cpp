@@ -5,7 +5,7 @@
 
 
 State* states[3];
-State* makeStateSingleton(GameState state)
+State *makeStateSingleton(GameState state)
 {
     int index = static_cast<int>(state);
     if(states[index] != 0)

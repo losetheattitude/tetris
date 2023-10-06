@@ -21,8 +21,7 @@ public:
     ~Game();
     void Draw();
     void HandleInput(const int& keyPressed);
-    void MoveBlockDown();
-    void UpdateScore(int linesCleared, int moveDownPoints);
+    void ProcessMove(const int& keyPressed);
     void Save();
 
 friend class PlayState;
@@ -39,6 +38,8 @@ private:
 
     Block GetRandomBlock();
     std::vector<Block> GetAllBlocks();
+    void UpdateScore(int linesCleared, int moveDownPoints);
+    void MoveBlockDown();
     void MoveBlockLeft();
     void MoveBlockRight();
     void RotateBlock();
