@@ -15,6 +15,7 @@ file(GLOB tetris-c++_SRC
 "src/levels/*.cpp"
 "src/scenes/*.cpp"
 "src/storage/*.cpp"
+"src/state/*.cpp"
 "src/storage/decorator/*.cpp"
 )
 

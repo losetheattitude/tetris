@@ -1,28 +1,32 @@
 #pragma once
 
+#include "../state/state.hpp"
+#include "../state/factory.hpp"
 #include "../components/grid.hpp"
 #include "../components/blocks.cpp"
 #include "../levels/level.hpp"
-#include "./inputterminal.hpp"
 #include "../exchanger/builder/exchangerbuilder.hpp"
+
+class State;
 
 class Game{
 public:
     int score;
-    bool gameOver;
-    bool isPaused;
 
     Grid* grid;
     Level* level;
-    InputTerminal* inputTerminal;
+    State* state;
 
-    Game(Grid* grid, Level* level, InputTerminal* inputTerminal, int saveFlags);
+    Game(Grid* grid, Level* level, int saveFlags);
     ~Game();
     void Draw();
-    void HandleInput(int keyPressed);
+    void HandleInput(const int& keyPressed);
     void MoveBlockDown();
     void UpdateScore(int linesCleared, int moveDownPoints);
     void Save();
+
+friend class PlayState;
+friend class OverState;
 
 private:
     int saveFlags;

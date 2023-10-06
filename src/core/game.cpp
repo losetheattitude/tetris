@@ -2,22 +2,21 @@
 
 #include "game.hpp"
 
-Game::Game(Grid* grid, Level* level, InputTerminal* inputTerminal, int saveFlags)
+Game::Game(Grid* grid, Level* level, int saveFlags)
 {
     this->saveFlags = saveFlags;
     blocks = GetAllBlocks();
     currentBlock = GetRandomBlock();
     nextBlock = GetRandomBlock();
-    gameOver = false;
     score = 0;
-    isPaused = false;
+
+    this->state = makeStateSingleton(GameState::PLAY);
 
     this->grid = grid;
     //Strategy pattern
     this->level = level;
     this->level->Configure();
     this->level->SetScore(&this->score);
-    this->inputTerminal = inputTerminal;
 
     InitAudioDevice();
     rotateSound = LoadSound("/home/bat/Proyectos/tetris-c++/sounds/rotate.mp3");
@@ -31,7 +30,7 @@ Game::~Game()
     UnloadSound(clearSound);
     delete this->level;
     delete this->grid;
-    delete this->inputTerminal;
+    delete this->state;
 }
 
 Block Game::GetRandomBlock()
@@ -72,37 +71,9 @@ void Game::Draw()
     }
 }
 
-void Game::HandleInput(int keyPressed)
+void Game::HandleInput(const int& keyPressed)
 {
-    if(gameOver && keyPressed == KEY_R)
-    {
-        gameOver = false;
-        Reset();
-    }
-
-    if(gameOver){
-        return;
-    }
-
-    switch(keyPressed){
-        case KEY_LEFT:
-        MoveBlockLeft();
-        break;
-
-        case KEY_RIGHT:
-        MoveBlockRight();
-        break;
-
-        case KEY_DOWN:
-        MoveBlockDown();
-
-        UpdateScore(0, 1);
-        break;
-
-        case KEY_UP:
-        RotateBlock();
-        break;
-    }
+    this->state->HandleInput(*this, keyPressed);
 }
 
 void Game::MoveBlockLeft()
@@ -166,7 +137,7 @@ void Game::LockBlock()
     currentBlock = nextBlock;
     if(BlockFits() == false)
     {
-        gameOver = true;
+        this->state = makeStateSingleton(GameState::OVER);
         return;
     }
 

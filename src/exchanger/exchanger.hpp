@@ -15,5 +15,5 @@ public:
     ~Exchanger();
 
     ExchangeableIdentity ExchangeToStorage(Exchangeable* exchangeable);
-    Exchangeable* ExchangeFroStorage(const ExchangeableIdentity& definition);
+    Exchangeable* ExchangeFroStorage(const struct ExchangeableIdentity& definition);
 };

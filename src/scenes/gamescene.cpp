@@ -6,10 +6,13 @@
 #include "../core/game.hpp"
 #include "../components/colors.hpp"
 #include "../core/inputterminal.hpp"
+#include "../state/pausestate.hpp"
+#include "../state/overstate.hpp"
 
-GameScene::GameScene(Game* game)
+GameScene::GameScene(Game* game, InputTerminal* terminal)
 {
     this->game = game;
+    this->terminal = terminal;
 
     font = LoadFontEx("/home/bat/Proyectos/tetris-c++/font/Paul-le1V.ttf", 64, 0, 0);
 }
@@ -17,6 +20,7 @@ GameScene::GameScene(Game* game)
 GameScene::~GameScene()
 {
     delete this->game;
+    delete this->terminal;
     UnloadFont(this->font);
 }
 
@@ -68,30 +72,18 @@ void GameScene::Draw()
     this->DrawLevelComponent();
     game->Draw();
 
-    if(game->gameOver){
+    if(game->state->identifier == GameState::OVER){
         this->DrawGameOver();
     }
 
-    if(game->isPaused && !game->gameOver){
+    if(game->state->identifier == GameState::PAUSE){
         this->DrawPause();
     }
 }
 
 void GameScene::Play()
 {      
-    int keyPressed = this->game->inputTerminal->GetActiveKey();
-    if(keyPressed == KEY_SPACE && !game->gameOver){
-        game->isPaused = !game->isPaused;
-    }
-
-    if(game->isPaused) return;
-
-    game->HandleInput(keyPressed);
-    if(game->level->ShouldLevelUp()){
-        game->level->AdjustLevel();
-    }
-
-    if(game->level->ShouldTick()){
-        game->MoveBlockDown();
-    }
+    // int keyPressed = this->game->inputTerminal->GetActiveKey();
+    
+    game->HandleInput(this->terminal->GetActiveKey());
 }

@@ -17,7 +17,7 @@
 #include "src/formatter/formatter.hpp"
 
 int main()
-{   
+{ 
     InitWindow(500, 620, "Raylib Tetris");
     SetTargetFPS(60);
 
@@ -27,14 +27,14 @@ int main()
 
     Grid* grid = new Grid();
     Level* level = makeLevelSingleton(2);
-    InputTerminal* terminal = new InputTerminal();
 
     // BaseStorage storage = BaseStorage();
     // BaseTransformer formatter = BaseTransformer();
     // Exchanger exchanger = Exchanger(&storage, &formatter);
 
-    Game* game = new Game(grid, level, terminal, 0);
-    GameScene gameScene = GameScene(game);
+    Game* game = new Game(grid, level, 0);
+    InputTerminal* terminal = new InputTerminal();
+    GameScene gameScene = GameScene(game, terminal);
     while(!WindowShouldClose())
     {
         BeginDrawing();
