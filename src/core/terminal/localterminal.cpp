@@ -1,18 +1,18 @@
-#include "inputterminal.hpp"
+#include "localterminal.hpp"
 
-InputTerminal::InputTerminal()
+LocalTerminal::LocalTerminal()
 {   
     //Down button
-    this->clocks[0].SetInterval(0.03);
+    this->clocks[0].SetInterval(0.032);
 
     //Right-Left button
-    this->clocks[1].SetInterval(0.09);
+    this->clocks[1].SetInterval(0.095);
 
     //Up button
-    this->clocks[2].SetInterval(0.45);
+    this->clocks[2].SetInterval(0.5);
 }
 
-int InputTerminal::GetActiveKey()
+int LocalTerminal::GetActiveKey()
 {       
     int pressedKey = GetKeyPressed();
     if(pressedKey != 0)

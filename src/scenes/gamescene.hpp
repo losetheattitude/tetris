@@ -1,18 +1,18 @@
 #pragma once
 #include <raylib.h>
 #include "../core/game.hpp"
-#include "../core/inputterminal.hpp"
+#include "../core/terminal/terminal.hpp"
 
 class GameScene {
 private:
     Game* game;
-    InputTerminal* terminal;
+    Terminal* terminal;
     Font font;
     char levelText[5];
     char scoreText[10];
 
 public:
-    GameScene(Game* game, InputTerminal* terminal);
+    GameScene(Game* game, Terminal* terminal);
     ~GameScene();
     
     void Play();

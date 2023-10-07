@@ -8,6 +8,7 @@ enable_testing()
 file(GLOB tetris-c++_SRC
 "src/*.cpp"
 "src/core/*.cpp"
+"src/core/terminal/*.cpp"
 "src/components/*.cpp"
 "src/exchanger/*.cpp"
 "src/exchanger/builder/*.cpp"

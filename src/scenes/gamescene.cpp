@@ -5,11 +5,11 @@
 #include "./gamescene.hpp"
 #include "../core/game.hpp"
 #include "../components/colors.hpp"
-#include "../core/inputterminal.hpp"
+#include "../core/terminal/terminal.hpp"
 #include "../state/pausestate.hpp"
 #include "../state/overstate.hpp"
 
-GameScene::GameScene(Game* game, InputTerminal* terminal)
+GameScene::GameScene(Game* game, Terminal* terminal)
 {
     this->game = game;
     this->terminal = terminal;

@@ -2,7 +2,8 @@
 #include <raylib.h>
 #include <thread>
 
-#include "./src/core/inputterminal.hpp"
+#include "./src/core/terminal/localterminal.hpp"
+
 #include "./src/core/clock.hpp"
 #include "./src/components/grid.hpp"
 #include "./src/scenes/gamescene.hpp"
@@ -33,8 +34,9 @@ int main()
     // Exchanger exchanger = Exchanger(&storage, &formatter);
 
     Game* game = new Game(grid, level, 0);
+    LocalTerminal* terminal = new LocalTerminal();
 
-    InputTerminal* terminal = new InputTerminal();
+    // GameScene* gameScene = new GameScene(game, terminal);
     GameScene gameScene = GameScene(game, terminal);
     while(!WindowShouldClose())
     {

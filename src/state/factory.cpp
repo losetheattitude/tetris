@@ -2,7 +2,6 @@
 #include "playstate.hpp"
 #include "pausestate.hpp"
 #include "overstate.hpp"
-#include <assert.h>
 
 State* states[3]{
     new PauseState(), 
