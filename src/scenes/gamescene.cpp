@@ -21,7 +21,6 @@ GameScene::~GameScene()
 {
     delete this->game;
     delete this->terminal;
-    UnloadFont(this->font);
 }
 
 void GameScene::DrawLevelComponent(){
