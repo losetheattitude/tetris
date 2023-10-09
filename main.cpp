@@ -19,6 +19,12 @@
 
 int main()
 { 
+    /**
+     * 
+     * 11 files will be included as well, Its those files who are serving it
+     * 
+    */
+
     InitWindow(500, 620, "Raylib Tetris");
     SetTargetFPS(60);
 

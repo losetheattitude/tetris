@@ -6,7 +6,7 @@ LocalTerminal::LocalTerminal()
     this->clocks[0].SetInterval(0.032);
 
     //Right-Left button
-    this->clocks[1].SetInterval(0.095);
+    this->clocks[1].SetInterval(0.1);
 
     //Up button
     this->clocks[2].SetInterval(0.5);
