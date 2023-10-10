@@ -17,14 +17,10 @@
 #include "src/levels/level.hpp"
 #include "src/formatter/formatter.hpp"
 
+#include "src/core/joystick.hpp"
+
 int main()
 { 
-    /**
-     * 
-     * 11 files will be included as well, Its those files who are serving it
-     * 
-    */
-
     InitWindow(500, 620, "Raylib Tetris");
     SetTargetFPS(60);
 
@@ -40,10 +36,12 @@ int main()
     // Exchanger exchanger = Exchanger(&storage, &formatter);
 
     Game* game = new Game(grid, level, 0);
-    LocalTerminal* terminal = new LocalTerminal();
+    CommandFactory::Init(*game);
 
-    // GameScene* gameScene = new GameScene(game, terminal);
-    GameScene gameScene = GameScene(game, terminal);
+    LocalTerminal* terminal = new LocalTerminal();
+    JoyStick* joyStick = new JoyStick(terminal);
+
+    GameScene gameScene = GameScene(game, joyStick);
     while(!WindowShouldClose())
     {
         BeginDrawing();

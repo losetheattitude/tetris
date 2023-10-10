@@ -9,10 +9,10 @@
 #include "../state/pausestate.hpp"
 #include "../state/overstate.hpp"
 
-GameScene::GameScene(Game* game, Terminal* terminal)
+GameScene::GameScene(Game* game, JoyStick* joystick)
 {
     this->game = game;
-    this->terminal = terminal;
+    this->joystick = joystick;
 
     font = LoadFontEx("/home/bat/Proyectos/tetris-c++/font/Paul-le1V.ttf", 64, 0, 0);
 }
@@ -20,7 +20,7 @@ GameScene::GameScene(Game* game, Terminal* terminal)
 GameScene::~GameScene()
 {
     delete this->game;
-    delete this->terminal;
+    delete this->joystick;
 }
 
 void GameScene::DrawLevelComponent(){
@@ -81,6 +81,11 @@ void GameScene::Draw()
 }
 
 void GameScene::Play()
-{          
-    game->HandleInput(this->terminal->GetActiveKey());
+{   
+    std::optional<Command*> command = this->joystick->ProduceCommand();
+    if(!command.has_value()){
+        return;
+    }
+
+    game->ProcessCommand(command.value());
 }

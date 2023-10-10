@@ -9,7 +9,17 @@ private:
     int activeKey;
     Clock clocks[3];
 
+    std::map<int, CommandType> keyMap{
+        {KEY_DOWN, CommandType::DOWN},
+        {KEY_UP, CommandType::ROTATE},
+        {KEY_LEFT, CommandType::LEFT},
+        {KEY_RIGHT, CommandType::RIGHT},
+        {KEY_R, CommandType::RESET},
+        {KEY_SPACE, CommandType::SWAP_STATE}
+    };
+
 public:
     LocalTerminal();
-    int GetActiveKey() override;
+    int Capture();
+    CommandType GetNext() override;
 };

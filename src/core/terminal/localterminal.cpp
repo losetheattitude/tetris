@@ -12,7 +12,7 @@ LocalTerminal::LocalTerminal()
     this->clocks[2].SetInterval(0.5);
 }
 
-int LocalTerminal::GetActiveKey()
+int LocalTerminal::Capture()
 {       
     int pressedKey = GetKeyPressed();
     if(pressedKey != 0)
@@ -60,4 +60,15 @@ int LocalTerminal::GetActiveKey()
     }
 
     return pressedKey;
+}
+
+CommandType LocalTerminal::GetNext() 
+{
+    int key = this->Capture();
+    if(key == 0){
+        return CommandType::NOOP;
+    }else{
+        return this->keyMap[key];
+    }
+    
 }

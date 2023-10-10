@@ -1,5 +1,9 @@
 #pragma once
 
+class State;
+class Command;
+
+#include "../commands/command.hpp"
 #include "../state/state.hpp"
 #include "../state/factory.hpp"
 #include "../components/grid.hpp"
@@ -7,7 +11,6 @@
 #include "../levels/level.hpp"
 #include "../exchanger/builder/exchangerbuilder.hpp"
 
-class State;
 
 class Game{
 public:
@@ -20,12 +23,12 @@ public:
     Game(Grid* grid, Level* level, int saveFlags);
     ~Game();
     void Draw();
-    void HandleInput(const int& keyPressed);
-    void ProcessMove(const int& keyPressed);
+    void ProcessCommand(Command* command);
     void Save();
 
 friend class PlayState;
 friend class OverState;
+friend class Command;
 
 private:
     int saveFlags;

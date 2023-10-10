@@ -8,15 +8,15 @@ public:
     PauseState()
     {
         identifier = GameState::PAUSE;
+        factory = CommandFactory::GetInstance();
     }
 
-    void HandleInput(Game& game, const int& keyPressed) override
+    void ProcessCommand(Game& game, Command* command) override
     {
-        if(keyPressed != KEY_SPACE)
-        {
+        if(command->type != CommandType::SWAP_STATE){
             return;
         }
 
-        game.state = makeStateSingleton(GameState::PLAY);
+        command->Execute();
     }
 };

@@ -8,17 +8,16 @@ public:
     PlayState()
     {
         identifier = GameState::PLAY;
+        factory = CommandFactory::GetInstance();
     }
 
-    void HandleInput(Game& game, const int& keyPressed) override
+    void ProcessCommand(Game& game, Command* command) override
     {
-        if(keyPressed == KEY_SPACE)
-        {
-            game.state = makeStateSingleton(GameState::PAUSE);
+        command->Execute();
+        if(command->type == CommandType::SWAP_STATE) {
             return;
         }
-
-        game.ProcessMove(keyPressed);
+        
         if(game.level->ShouldLevelUp()){
             game.level->AdjustLevel();
         }

@@ -18,6 +18,7 @@ file(GLOB tetris-c++_SRC
 "src/storage/*.cpp"
 "src/state/*.cpp"
 "src/storage/decorator/*.cpp"
+"src/commands/*.cpp"
 )
 
 add_executable(tetris-c++ 

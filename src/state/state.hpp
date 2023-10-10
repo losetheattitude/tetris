@@ -1,8 +1,10 @@
 #pragma once
 
+#include "../commands/factory.hpp"
 #include "../core/game.hpp"
 
 class Game;
+class CommandFactory;
 
 enum class GameState
 {
@@ -13,7 +15,9 @@ enum class GameState
 
 class State 
 {
+protected:
+    CommandFactory* factory;
 public:
     GameState identifier;
-    virtual void HandleInput(Game& game, const int& keyPressed) = 0;
+    virtual void ProcessCommand(Game& game, Command* command) = 0;
 };

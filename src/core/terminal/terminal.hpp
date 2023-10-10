@@ -1,7 +1,9 @@
 #pragma once
 
+#include "../../commands/command.hpp"
+
 class Terminal
 {
 public:
-    virtual int GetActiveKey() = 0;
+    virtual CommandType GetNext() = 0;
 };

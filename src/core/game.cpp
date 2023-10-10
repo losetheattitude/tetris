@@ -71,9 +71,9 @@ void Game::Draw()
     }
 }
 
-void Game::HandleInput(const int& keyPressed)
+void Game::ProcessCommand(Command* command)
 {
-    this->state->HandleInput(*this, keyPressed);
+    this->state->ProcessCommand(*this, command);
 }
 
 void Game::MoveBlockLeft()
@@ -198,29 +198,6 @@ void Game::DrawBlockShadow(Block& block)
 {   
     int distance = this->ClosestDistance(block);
     block.DrawShadow(distance);
-}
-
-void Game::ProcessMove(const int& keyPressed)
-{
-    switch(keyPressed){
-        case KEY_LEFT:
-        MoveBlockLeft();
-        break;
-
-        case KEY_RIGHT:
-        MoveBlockRight();
-        break;
-
-        case KEY_DOWN:
-        MoveBlockDown();
-
-        UpdateScore(0, 1);
-        break;
-
-        case KEY_UP:
-        RotateBlock();
-        break;
-    }
 }
 
 void Game::Save()

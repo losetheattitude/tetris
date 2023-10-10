@@ -8,16 +8,17 @@ public:
     OverState()
     {
         identifier = GameState::OVER;
+        factory = CommandFactory::GetInstance();
     }
 
-    void HandleInput(Game& game, const int& keyPressed) override
+    void ProcessCommand(Game& game, Command* command) override
     {
-        if(keyPressed != KEY_R)
-        {
+        if(command->type != CommandType::RESET){
             return;
         }
 
-        game.Reset();
-        game.state = makeStateSingleton(GameState::PLAY);
+        command->Execute();
+        this->factory->MakeCommandSingleton(CommandType::SWAP_STATE)
+            ->Execute();
     }
 };
