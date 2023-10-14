@@ -82,10 +82,5 @@ void GameScene::Draw()
 
 void GameScene::Play()
 {   
-    std::optional<Command*> command = this->joystick->ProduceCommand();
-    if(!command.has_value()){
-        return;
-    }
-
-    game->ProcessCommand(command.value());
+    game->ProcessCommand(this->joystick->ProduceCommand());
 }

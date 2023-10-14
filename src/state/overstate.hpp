@@ -18,7 +18,7 @@ public:
         }
 
         command->Execute();
-        this->factory->MakeCommandSingleton(CommandType::SWAP_STATE)
+        this->factory->MakeSingleton(CommandType::SWAP_STATE)
             ->Execute();
     }
 };

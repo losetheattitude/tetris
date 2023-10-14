@@ -51,5 +51,6 @@ int main()
         EndDrawing();
     }
 
+    delete CommandFactory::GetInstance();
     CloseWindow();
 }

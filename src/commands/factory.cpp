@@ -18,6 +18,7 @@ void CommandFactory::Init(Game& game)
     CommandFactory::instance_->commands[4] = new ResetCommand(game);
     CommandFactory::instance_->commands[5] = new SwapStateCommand(game);
     CommandFactory::instance_->commands[6] = new RotateCommand(game);
+    CommandFactory::instance_->commands[7] = new TickCommand(game);
 }
 
 CommandFactory* CommandFactory::GetInstance()
@@ -25,7 +26,12 @@ CommandFactory* CommandFactory::GetInstance()
     return CommandFactory::instance_;
 }
 
-Command* CommandFactory::MakeCommandSingleton(CommandType type)
+Command* CommandFactory::MakeSingleton(CommandType type)
 {
     return CommandFactory::instance_->commands[static_cast<int>(type)];
+}
+
+CommandFactory::~CommandFactory()
+{
+    delete commands[0];
 }

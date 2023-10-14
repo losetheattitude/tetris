@@ -4,6 +4,7 @@ JoyStick::JoyStick(Terminal* terminal_): terminal(terminal_)
 {
     this->factory = CommandFactory::GetInstance();
     //TODO: buffered storage for replay
+    //Multi command and observer pattern to relay command execution
 }
 
 JoyStick::~JoyStick()
@@ -13,8 +14,8 @@ JoyStick::~JoyStick()
 
 Command* JoyStick::ProduceCommand() const
 {
-    return this->factory->MakeCommandSingleton(
-        this->terminal->GetNext()
+    return this->factory->MakeSingleton(
+           this->terminal->GetNext()
     );
 }
 

@@ -11,7 +11,7 @@ Exchanger::~Exchanger()
 
 }
 
-ExchangeableIdentity Exchanger::ExchangeToStorage(Exchangeable* exchangeable)
+Exchangeable::Identity Exchanger::ExchangeToStorage(Exchangeable* exchangeable)
 {
 
 }

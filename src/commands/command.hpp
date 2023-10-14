@@ -1,6 +1,10 @@
 #pragma once
 
+#include <map>
+#include <string>
+
 #include "../core/game.hpp"
+#include "../exchanger/exchangeable.hpp"
 
 enum class CommandType 
 {
@@ -10,11 +14,14 @@ enum class CommandType
     LEFT = 3, 
     RESET = 4,
     SWAP_STATE = 5,
-    ROTATE = 6 
+    ROTATE = 6,
+    TICK = 7
 };
 
 class Game;
-class Command
+class Level;
+
+class Command : public Exchangeable
 {
 protected:
     Game& game;
@@ -25,13 +32,24 @@ public:
     CommandType type;
     virtual void Execute() = 0;
 
+    std::map<std::string, std::string>* Decompose()
+    {
+        return new std::map<std::string, std::string>();
+    }
+
+    void Compose(const std::map<std::string, std::string>& exchangables) 
+    {
+
+    }
+
     void Rotate();
-    void Down();
+    void Down(bool update = true);
     void Left();
     void Right();
     void Pause();
     void Play();
     void Reset();
+    Level* GetLevel();
 };
 
 class RotateCommand : public Command
@@ -83,3 +101,16 @@ public:
     void Execute() override;
 };
 
+class TickCommand : public Command
+{
+public:
+    TickCommand(Game& game);
+    void Execute() override;
+};
+
+class LevelUpCommand: public Command
+{
+public:
+    LevelUpCommand(Game& game);
+    void Execute() override;
+};

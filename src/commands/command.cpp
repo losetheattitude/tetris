@@ -5,15 +5,23 @@ Command::Command(Game& game): game(game)
 
 }
 
+Level* Command::GetLevel()
+{
+    return this->game.level;
+}
+
 void Command::Rotate()
 {
     this->game.RotateBlock();
 }
 
-void Command::Down()
+void Command::Down(bool update)
 {
     this->game.MoveBlockDown();
-    this->game.UpdateScore(0, 1);
+
+    if(update){
+        this->game.UpdateScore(0, 1);
+    }
 }
 
 void Command::Left()
@@ -122,4 +130,16 @@ NoOpCommand::NoOpCommand(Game& game): Command(game)
 void NoOpCommand::Execute()
 {
 
+}
+
+TickCommand::TickCommand(Game& game): Command(game)
+{
+    this->type = CommandType::TICK;
+}
+
+void TickCommand::Execute()
+{
+    // auto level = this->GetLevel();
+    
+    this->Down(false);
 }

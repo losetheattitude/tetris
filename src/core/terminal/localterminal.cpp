@@ -64,11 +64,5 @@ int LocalTerminal::Capture()
 
 CommandType LocalTerminal::GetNext() 
 {
-    int key = this->Capture();
-    if(key == 0){
-        return CommandType::NOOP;
-    }else{
-        return this->keyMap[key];
-    }
-    
+    return this->keyMap[this->Capture()];
 }

@@ -19,8 +19,9 @@ public:
     CommandFactory(CommandFactory &other) = delete;
     void operator=(const CommandFactory &) = delete;
 
-    Command* MakeCommandSingleton(CommandType type);
-
     static void Init(Game& game);
     static CommandFactory* GetInstance();
+
+    Command* MakeSingleton(CommandType type);
+    ~CommandFactory();
 };

@@ -17,13 +17,14 @@ public:
         if(command->type == CommandType::SWAP_STATE) {
             return;
         }
-        
+
         if(game.level->ShouldLevelUp()){
             game.level->AdjustLevel();
         }
 
         if(game.level->ShouldTick()){
-            game.MoveBlockDown();
+            this->factory->MakeSingleton(CommandType::TICK)
+                ->Execute();
         }
     }
 };
