@@ -18,6 +18,8 @@ public:
     void UndoRotation();
     void DrawShadow(int rowDrop);
 
+    static int GetCellSize();
+
 private:
     int cellSize;
     int rotationState;

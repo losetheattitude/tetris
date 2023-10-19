@@ -13,6 +13,7 @@ public:
     bool IsCellOutsize(int row, int column);
     bool IsCellEmpty(int row, int column);
     int ClearFullRows();
+    int GetRowNumber();
 
 private:
     int numRows;

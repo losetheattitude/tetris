@@ -5,9 +5,11 @@
 Game::Game(Grid* grid, Level* level, int saveFlags)
 {
     this->saveFlags = saveFlags;
+
     blocks = GetAllBlocks();
     currentBlock = GetRandomBlock();
     nextBlock = GetRandomBlock();
+
     score = 0;
 
     this->state = makeStateSingleton(GameState::PLAY);
@@ -133,7 +135,7 @@ void Game::LockBlock()
     {
         grid->grid[item.row][item.column] = currentBlock.id;
     }
-    
+
     currentBlock = nextBlock;
     if(BlockFits() == false)
     {
@@ -181,7 +183,8 @@ int Game::ClosestDistance(Block& block)
     int distance = 20;
     for(Position cellPosition : block.GetCellPositions()){
         int temp = 0;
-        while(this->grid->IsCellEmpty(cellPosition.row + temp + 1, cellPosition.column))
+        while(!this->grid->IsCellOutsize(cellPosition.row + temp + 1, cellPosition.column) && 
+               this->grid->IsCellEmpty(cellPosition.row + temp + 1, cellPosition.column))
         {
             temp++;
         }

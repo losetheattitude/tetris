@@ -1,10 +1,12 @@
 #include <random>
+#include <iostream>
+
 #include "colors.hpp"
 #include "block.hpp"
 
 Block::Block()
 {
-    cellSize = 30;
+    cellSize = Block::GetCellSize();
     rotationState = 0;
     rowOffset = 0;
     columnOffset = 0;
@@ -71,4 +73,9 @@ void Block::DrawShadow(int rowDrop)
             shadowColors[id]
         );
     }
+}
+
+int Block::GetCellSize()
+{
+    return 30;
 }

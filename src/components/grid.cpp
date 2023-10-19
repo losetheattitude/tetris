@@ -2,13 +2,14 @@
 
 #include "grid.hpp"
 #include "colors.hpp"
+#include "block.hpp"
 #include <random>
 
 Grid::Grid()
 {
-    numRows = 20;
-    numCols = 10;
-    cellSize = 30;
+    numRows = sizeof(this->grid) / sizeof(*this->grid);
+    numCols = sizeof(this->grid[0]) / sizeof(*this->grid[0]);
+    cellSize = Block::GetCellSize();
     Initialize();
 
     colors = GetCellColors();
@@ -109,4 +110,9 @@ void Grid::MoveRowDown(int row, int numRows)
         grid[row + numRows][column] = grid[row][column];
         grid[row][column] = 0;
     }
+}
+
+int Grid::GetRowNumber()
+{
+    return this->numRows;
 }

@@ -20,18 +20,18 @@
 #include "src/core/joystick.hpp"
 
 int main()
-{ 
+{
     InitWindow(500, 620, "Raylib Tetris");
     SetTargetFPS(60);
 
     // Grid* grid = new Grid();
     // Level* level = makeLevelSingleton(2);
-    // InputTerminal* terminal = new InputTerminal();
+    // InputTerminal* terminal = new InputTerminal();   
 
     Grid* grid = new Grid();
     Level* level = makeLevelSingleton(2);
 
-    // BaseStorage storage = BaseStorage();
+    // BaseStorage storage = BaseStorage(); 
     // BaseTransformer formatter = BaseTransformer();
     // Exchanger exchanger = Exchanger(&storage, &formatter);
 
