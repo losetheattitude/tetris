@@ -26,6 +26,8 @@ int main()
      * Event dispatching for Game class to further decouple and facilitate the transmission of internal properties otherwise
      * unamicable to perform so (Composition or inheritance(IExchanger like) ???)
      * Async environment for RemoteTerminal and RemoteStorages consider Disruptor for advancing purposes 
+     * Stateful joystick (indeterminate due to current command and future observer pattern implementation) to grant player 
+     * limited reversing ability (checkpoints to connotate). Requires mapping of opposite commands
      * 
     */
 
