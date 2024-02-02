@@ -16,8 +16,13 @@ enum class GameState
 class State 
 {
 protected:
+    GameState identifier;
     CommandFactory* factory;
 public:
-    GameState identifier;
+    GameState GetState()
+    {
+        return identifier;
+    }
+
     virtual void ProcessCommand(Game& game, Command* command) = 0;
 };

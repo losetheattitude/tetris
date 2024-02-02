@@ -14,6 +14,6 @@ public:
     Exchanger(Storage* storage, Formatter* formatter);
     ~Exchanger();
 
-    Exchangeable::Identity ExchangeToStorage(Exchangeable* exchangeable);
-    Exchangeable* ExchangeFroStorage(const struct Exchangeable::Identity& definition);
+    IExchangeable::Identity ExchangeToStorage(IExchangeable* exchangeable);
+    IExchangeable* ExchangeFroStorage(const struct IExchangeable::Identity& definition);
 };

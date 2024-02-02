@@ -6,4 +6,5 @@ class Terminal
 {
 public:
     virtual CommandType GetNext() = 0;
+    void Reset();
 };

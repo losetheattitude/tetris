@@ -66,3 +66,8 @@ CommandType LocalTerminal::GetNext()
 {
     return this->keyMap[this->Capture()];
 }
+
+void LocalTerminal::Reset()
+{
+    this->activeKey = 0;
+}

@@ -26,6 +26,10 @@ public:
     void ProcessCommand(Command* command);
     void Save();
 
+    bool isOverState();
+    bool isPauseState();
+    bool isPlayState();
+
 friend class PlayState;
 friend class OverState;
 friend class Command;

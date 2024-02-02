@@ -21,7 +21,7 @@ enum class CommandType
 class Game;
 class Level;
 
-class Command : public Exchangeable
+class Command : public IExchangeable
 {
 protected:
     Game& game;

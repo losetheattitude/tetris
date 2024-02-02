@@ -71,11 +71,11 @@ void GameScene::Draw()
     this->DrawLevelComponent();
     game->Draw();
 
-    if(game->state->identifier == GameState::OVER){
+    if(game->isOverState()){
         this->DrawGameOver();
     }
 
-    if(game->state->identifier == GameState::PAUSE){
+    if(game->isPauseState()){
         this->DrawPause();
     }
 }

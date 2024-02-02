@@ -79,3 +79,18 @@ int Block::GetCellSize()
 {
     return 30;
 }
+
+// Block::Block(const Block& block)
+// {
+//     std::cout << "Copy const" << std::endl;
+// }
+
+// Block::Block(Block&& block)
+// {
+//     std::cout << "move const" << std::endl;
+// }
+
+// Block& Block::operator=(const Block& block)
+// {
+//     std::cout << "move assign" << std::endl;
+// }

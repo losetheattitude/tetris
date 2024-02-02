@@ -97,18 +97,14 @@ SwapStateCommand::SwapStateCommand(Game& game): Command(game)
 
 void SwapStateCommand::Execute()
 {
-    switch(this->game.state->identifier)
+    if(this->game.isPlayState())
     {
-        case GameState::PAUSE:
-        case GameState::OVER:
-            this->Play();
-            break;
-
-        case GameState::PLAY:
-            this->Pause();
-            break;
+        this->Pause();
     }
-
+    else
+    {
+        this->Play();
+    }
 }
 
 ResetCommand::ResetCommand(Game& game): Command(game)

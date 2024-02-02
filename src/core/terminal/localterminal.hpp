@@ -23,4 +23,6 @@ public:
     LocalTerminal();
     int Capture();
     CommandType GetNext() override;
+    
+    void Reset();
 };

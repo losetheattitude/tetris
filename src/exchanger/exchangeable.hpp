@@ -4,7 +4,7 @@
 #include <string>
 
 
-class Exchangeable 
+class IExchangeable 
 {
 public:
     struct Identity

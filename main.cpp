@@ -21,6 +21,14 @@
 
 int main()
 {
+    /**
+     * 
+     * Event dispatching for Game class to further decouple and facilitate the transmission of internal properties otherwise
+     * unamicable to perform so (Composition or inheritance(IExchanger like) ???)
+     * Async environment for RemoteTerminal and RemoteStorages consider Disruptor for advancing purposes 
+     * 
+    */
+
     InitWindow(500, 620, "Raylib Tetris");
     SetTargetFPS(60);
 
@@ -38,7 +46,7 @@ int main()
     Game* game = new Game(grid, level, 0);
     CommandFactory::Init(*game);
 
-    LocalTerminal* terminal = new LocalTerminal();
+    Terminal* terminal = new LocalTerminal();
     JoyStick* joyStick = new JoyStick(terminal);
 
     GameScene gameScene = GameScene(game, joyStick);

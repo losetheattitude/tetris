@@ -111,7 +111,7 @@ void Game::RotateBlock()
     }
     else
     {
-        PlaySound(rotateSound);
+        // PlaySound(rotateSound);
     }
 }
 
@@ -146,7 +146,7 @@ void Game::LockBlock()
     nextBlock = GetRandomBlock();
     int rowsCleared = grid->ClearFullRows();
     if(rowsCleared > 0){
-        PlaySound(clearSound);
+        // PlaySound(clearSound);
         UpdateScore(rowsCleared, 0);
     }
 }
@@ -210,4 +210,19 @@ void Game::Save()
 
     // b->ExchangeToStorage(this);
     // delete b;
+}
+
+bool Game::isOverState()
+{
+    return this->state->GetState() == GameState::OVER;
+}
+
+bool Game::isPauseState()
+{
+    return this->state->GetState() == GameState::PAUSE;
+}
+
+bool Game::isPlayState()
+{
+    return this->state->GetState() == GameState::PLAY;   
 }

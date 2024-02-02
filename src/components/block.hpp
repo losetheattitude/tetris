@@ -20,6 +20,11 @@ public:
 
     static int GetCellSize();
 
+    // Block(const Block& block);
+    // Block(Block&& block);
+
+    // Block& operator=(const Block&);
+
 private:
     int cellSize;
     int rotationState;
