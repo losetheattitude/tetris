@@ -31,6 +31,8 @@ int main()
      * IsState queries in the game class dont comply with Open-Closed principle 
      *  
      * Thats great, well done :d
+     * 
+     * I am definitely a problem only for you not in my usual life and your "argument" is only too creative 
      **/  
 
 
