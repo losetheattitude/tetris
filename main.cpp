@@ -21,24 +21,32 @@
 
 int main()
 {
-    /**
+    /** 
      * 
      * Event dispatching for Game class to further decouple and facilitate the transmission of internal properties otherwise
      * unamicable to perform so (Composition or inheritance(IExchanger like) ???)
      * Async environment for RemoteTerminal and RemoteStorages consider Disruptor for advancing purposes 
-     * 
-    */
+     * Stateful joystick (indeterminate due to current command and future observer pattern implementation) to grant player 
+     * limited reversing ability (checkpoints to connotate). Requires mapping of opposite commands
+     * IsState queries in the game class dont comply with Open-Closed principle 
+     *  
+     * Thats great, well done :d
+     **/  
 
-    InitWindow(500, 620, "Raylib Tetris");
-    SetTargetFPS(60);
 
-    // Grid* grid = new Grid();
-    // Level* level = makeLevelSingleton(2);
+
+           
+  
+    InitWindow(500, 620, "Raylib Tetris");  
+    SetTargetFPS(144);            
+         
+    // Grid* grid = new Grid();  
+    // Level* level = makeLevelSingleton(2); <    
     // InputTerminal* terminal = new InputTerminal();   
 
     Grid* grid = new Grid();
     Level* level = makeLevelSingleton(2);
-
+  
     // BaseStorage storage = BaseStorage(); 
     // BaseTransformer formatter = BaseTransformer();
     // Exchanger exchanger = Exchanger(&storage, &formatter);
@@ -51,7 +59,7 @@ int main()
 
     GameScene gameScene = GameScene(game, joyStick);
     while(!WindowShouldClose())
-    {
+    { 
         BeginDrawing();
         gameScene.Draw();
 
