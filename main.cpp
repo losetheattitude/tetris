@@ -73,6 +73,10 @@ int main()
      * very people that have dealt with inequality with me. Not saying anything about your races or what religion you are following
      * 
      * Your capable perceptions would definitely see the difference there as you are the one without an explanation
+     * 
+     * Dont even hesitate to enjoy your selfish and miserable existences while what is happening can not be explained and does want to
+     * be even looked at avoiding the reflection on the mirror to see yourselves as what it is. Inferior, vile, selfish, undeveloped animals
+     * without a reasonable explanation as to their "decisions" and just after the feeling of someone
      **/  
 
 
