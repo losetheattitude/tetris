@@ -61,6 +61,11 @@ int main()
      * 
      * Avenger ? Mad ? Bloody ? Then he is doing nothing ? Then we were wrong ? It had to be done ? The delusion ?
      * WW2 ? WW1 ? massacres ? The individual that has nothing to do with it ? Its fine, ww2 yeah
+     * 
+     * Smile and say sorry, it'll all be fine. Just act like you are endeavouring and keep saying the past while smiling and
+     * expect what is not worst while it has been worst for others, awww I have forgotten the major thing. Its the lifeee eehehe
+     * The life is a game, or life is not fair, life is bla bla aeehehe
+     * 
      **/  
 
 
