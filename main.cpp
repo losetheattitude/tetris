@@ -33,6 +33,7 @@ int main()
      * Know your limits and what you could request from "others" and continue living 
      * content and unbothered with your insincere guises you have formed about me amidst obscure circumstances
      * 
+     * Ensure you have taken all the precautions to feel completely okay and move on with "your lifes" ehehe your lifes right heeheh
      * 
      **/  
 
