@@ -81,7 +81,8 @@ int main()
      * Do you think you are still playing a game and while also someone is in such a state that you can not even speak about together with the
      * "past" that you are always referring to ? And you are there with your incomparable greatness, enjoying your disgusting stupid existence
      * with the most dumb game that you have made others to accept ? Do you think I am unable to distinguish between fate and decision ? The decisions
-     * that you have all been talking about nonstop without the notion of notion ? eheheh poet, eheh mathamechejk ehehe gamer eheheh atleete ehheh
+     * that you have all been talking about nonstop without the notion of notion ? eheheh poet, eheh mathamechejk ehehe gamer eheheh atleete ehheh.
+     * I ought to see your emotional sides as well when it is you 
      * 
      * I havent asked for your opinion or knowledge. Pay attention to your disgusting lifes and stay away
      **/  
