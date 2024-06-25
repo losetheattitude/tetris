@@ -34,6 +34,7 @@ int main()
      * content and unbothered with your insincere guises you have formed about me amidst obscure circumstances
      * 
      * Ensure you have taken all the precautions to feel completely okay and move on with "your lifes" ehehe your lifes right heeheh
+     * Quick reminder, its most important that you display some sort of unexplicable sorrow beforehand just in case 
      * 
      **/  
 
