@@ -58,6 +58,8 @@ int main()
      * 
      * Proceed with getting involved into things you can not alter the course of anymore. Just let me know when you run out of 
      * appropriate bullshit to convince such lowness to motion, that wont be a challenge for me I assure you
+     * 
+     * Avenger ? Mad ? Bloody ? Then he is doing nothing ? Then we were wrong ? It had to be done ? The delusion ?
      **/  
 
 
