@@ -35,7 +35,10 @@ int main()
      * 
      * Ensure you have taken all the precautions to feel completely okay and move on with "your lifes" ehehe your lifes right heeheh
      * Quick reminder, its most important that you display some sort of unexplicable sorrow beforehand just in case 
+     *  
      * 
+     * Sick minds can continue sicken each other, dont mind me appreciating the both "greatness and vileness" of
+     * the universe that you all talk about so much as if you acknowledge what it entails 
      **/  
 
 
