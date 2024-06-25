@@ -50,6 +50,8 @@ int main()
      * It is not my concern whether you think you have a higher purpose or some sort of special bullshit. Each and every one of you
      * is liable
      * 
+     * Do you think what you can not even broadly getting closed to understanding could be as simple as feeling incomparably grateful
+     * to have a few women around ? Is that you ? again and again?  or Is that I ?
      **/  
 
 
