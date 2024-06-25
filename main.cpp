@@ -80,7 +80,8 @@ int main()
      * your attempts to turn me into the precise vile animals that you are. "The decision have consequences" eheheh whats the consequences again ?
      * Do you think you are still playing a game and while also someone is in such a state that you can not even speak about together with the
      * "past" that you are always referring to ? And you are there with your incomparable greatness, enjoying your disgusting stupid existence
-     * with the most dumb game that you have made others to accept ?
+     * with the most dumb game that you have made others to accept ? Do you think I am unable to distinguish between fate and decision ? The decisions
+     * that you have all been talking about nonstop without the notion of notion ?
      * 
      * I havent asked for your opinion or knowledge. Pay attention to your disgusting lifes and stay away
      **/  
