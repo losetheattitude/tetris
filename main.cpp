@@ -72,7 +72,7 @@ int main()
      * Think of what I am proposing and what have you been doing ? I am only stating facts and desiring to deal equally with the
      * very people that have dealt with inequality with me. Not saying anything about your races or what religion you are following
      * 
-     * Your capable perceptions would definitely see the difference there
+     * Your capable perceptions would definitely see the difference there as you are the one without an explanation
      **/  
 
 
