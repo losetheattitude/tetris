@@ -55,6 +55,8 @@ int main()
      * 
      * None of you can make anyone admit such a thing was necessary or was an obligation or some such bullshit. Luckily, your
      * acknowledgement of the fact grants me whatever I need for soothing 
+     * 
+     * Proceed with getting involved into things you can not alter the course of anymore
      **/  
 
 
