@@ -60,6 +60,7 @@ int main()
      * appropriate bullshit to convince such lowness to motion, that wont be a challenge for me I assure you
      * 
      * Avenger ? Mad ? Bloody ? Then he is doing nothing ? Then we were wrong ? It had to be done ? The delusion ?
+     * WW2 ? WW1 ? massacres ? The individual that has nothing to do with it ? Its fine, ww2 yeah
      **/  
 
 
