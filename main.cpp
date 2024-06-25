@@ -82,7 +82,8 @@ int main()
      * "past" that you are always referring to ? And you are there with your incomparable greatness, enjoying your disgusting stupid existence
      * with the most dumb game that you have made others to accept ? Do you think I am unable to distinguish between fate and decision ? The decisions
      * that you have all been talking about nonstop without the notion of notion ? eheheh poet, eheh mathamechejk ehehe gamer eheheh atleete ehheh.
-     * I ought to see your emotional sides as well when it is you 
+     * I ought to see your emotional sides as well when it is you. When it is the early 20 years of life versus your 50 to 70 years of life.
+     * Which is heavier than which ? You can not equate your miserable 50-70 with 18-28. Whats next then ?
      * 
      * I havent asked for your opinion or knowledge. Pay attention to your disgusting lifes and stay away
      **/  
