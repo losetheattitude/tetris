@@ -66,7 +66,8 @@ int main()
      * expect what is not worst while it has been worst for others, awww I have forgotten the major thing. Its the lifeee eehehe
      * The life is a game, or life is not fair, life is bla bla aeehehe
      * 
-     * 28 years of life is not fair :ddd Get ready to be introduced with the slightest of your inferiority and vileness
+     * 28 years of life is not fair :ddd Get ready to be introduced with the slightest of your inferiority and vileness or
+     * just get the fuck out of my face to delay your bullshit existence
      * 
      **/  
 
