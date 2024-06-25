@@ -41,7 +41,7 @@ int main()
      * the universe that you all talk about so much as if you acknowledge what it entails 
      * 
      * Which "property" do you think you are regarded as ? :d Tell your fucking stupid tales to others who are "naive" enough to
-     * take you for someone who is credible
+     * take you for someone who is credible. You are just the animal on the street with no understanding
      * 
      **/  
 
