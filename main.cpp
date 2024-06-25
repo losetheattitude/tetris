@@ -86,6 +86,9 @@ int main()
      * Which is heavier than which ? You can not equate your miserable 50-70 with 18-28. Whats next then ? Women ? My bad, its violence :d
      * Dont even waste any second acting on what you are
      * 
+     * Say something good, he will start feeling okay, he is this he is that, he does not know anything, that must be enough eehgehge
+     * we understand shittt
+     * 
      * I havent asked for your opinion or knowledge. Pay attention to your disgusting lifes and stay away
      **/  
 
