@@ -30,7 +30,10 @@ int main()
      * limited reversing ability (checkpoints to connotate). Requires mapping of opposite commands
      * IsState queries in the game class dont comply with Open-Closed principle 
      * 
-     * Know your limits and what you could request from "others" 
+     * Know your limits and what you could request from "others" and continue living 
+     * content and unbothered with your insincere guises you have formed about me amidst obscure circumstances
+     * 
+     * 
      **/  
 
 
