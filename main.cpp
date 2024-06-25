@@ -29,12 +29,8 @@ int main()
      * Stateful joystick (indeterminate due to current command and future observer pattern implementation) to grant player 
      * limited reversing ability (checkpoints to connotate). Requires mapping of opposite commands
      * IsState queries in the game class dont comply with Open-Closed principle 
-     *  
-     * Thats great, well done :d
      * 
-     * I am definitely a problem only for you not in my usual life and your "argument" is only too creative.
-     * 
-     * I have no time to spare for you guys 
+     * Know your limits and what you could request from "others" 
      **/  
 
 
