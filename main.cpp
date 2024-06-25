@@ -87,7 +87,7 @@ int main()
      * Dont even waste any second acting on what you are
      * 
      * Say something good, he will start feeling okay, he is this he is that, he does not know anything, that must be enough eehgehge
-     * we understand shittt
+     * we understand shittt, he ll either probably forget or he is not conscious enough to retaliate adhefhhfeh we good and great and intelligent
      * 
      * I havent asked for your opinion or knowledge. Pay attention to your disgusting lifes and stay away
      **/  
