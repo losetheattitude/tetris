@@ -52,6 +52,9 @@ int main()
      * 
      * Do you think what you can not even broadly getting closed to understanding could be as simple as feeling incomparably grateful
      * to have a few women around ? Is that you ? again and again?  or Is that I ?
+     * 
+     * None of you can make anyone admit such a thing was necessary or was an obligation or some such bullshit. Luckily, your
+     * acknowledgement of the fact grants me whatever I need for soothing 
      **/  
 
 
