@@ -47,6 +47,8 @@ int main()
      * Stupid monkeys
      * 
      * You have submitted your course of life implicitly, other scenario is to kill me which I highly advise again and again.
+     * It is not my concern whether you think you have a higher purpose or some sort of special bullshit. Each and every one of you
+     * is liable
      * 
      **/  
 
