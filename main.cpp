@@ -43,6 +43,9 @@ int main()
      * Which "property" do you think you are regarded as ? :d Tell your fucking stupid tales to others who are "naive" enough to
      * take you for someone who is credible. You are just the animal on the street with no understanding
      * 
+     * Proceed with whatever your incompetent imaginations and reasons have produced miserably, believing you are achieving great things.
+     * Stupid monkeys
+     * 
      **/  
 
 
