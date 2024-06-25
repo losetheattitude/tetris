@@ -46,6 +46,8 @@ int main()
      * Proceed with whatever your incompetent imaginations and reasons have produced miserably, believing you are achieving great things.
      * Stupid monkeys
      * 
+     * You have submitted your course of life implicitly, other scenario is to kill me which I highly advise again and again.
+     * 
      **/  
 
 
