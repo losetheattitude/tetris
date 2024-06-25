@@ -69,6 +69,10 @@ int main()
      * 28 years of life is not fair :ddd Get ready to be introduced with the slightest of your inferiority and vileness or
      * just get the fuck out of my face to delay your bullshit existence
      * 
+     * Think of what I am proposing and what have you been doing ? I am only stating facts and desiring to deal equally with the
+     * very people that have dealt with inequality with me. Not saying anything about your races or what religion you are following
+     * 
+     * Your capable perceptions would definitely see the difference there
      **/  
 
 
