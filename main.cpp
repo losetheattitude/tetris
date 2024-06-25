@@ -78,6 +78,9 @@ int main()
      * be even looked at avoiding the reflection on the mirror to see yourselves as what it is. Inferior, vile, selfish, undeveloped animals
      * without a reasonable explanation as to their "decisions" and just after the feeling of being someone. I am not alike and thank you for
      * your attempts to turn me into the precise vile animals that you are. "The decision have consequences" eheheh whats the consequences again ?
+     * Do you think you are still playing a game and while also someone is in such a state that you can not even speak about together with the
+     * "past" that you are always referring to ? And you are there with your incomparable greatness, enjoying your disgusting stupid existence
+     * with the most dumb game that you have made others to accept ?
      * 
      * I havent asked for your opinion or knowledge. Pay attention to your disgusting lifes and stay away
      **/  
