@@ -102,7 +102,9 @@ int main()
      * You have every resource or whatever you could ever need, everr, like everrrr. Why arent you happy that you have countless number of 
      * people around you that have no good feelings or intentions about you and with every opportunity you are being intervened by totally stupid people
      * with unjustifiable or unreasonable intentions ? You have the most perfect reasoning yet you can not see things for what they are ?
-     * Just go on to your jerking offs, nobody has even asked what you are thinking
+     * Just go on to your jerking offs, nobody has even asked what you are thinking. 
+     * 
+     * The only thing you can say is entirely similar to what the most average middle eastern people will say
      **/  
 
 
