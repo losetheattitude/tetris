@@ -115,6 +115,8 @@ int main()
      * and such
      * 
      * You totally look like a selfish prick when you start talking about "the life"
+     * 
+     * Its not even remotely okay
      **/  
 
 
