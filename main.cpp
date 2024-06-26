@@ -104,7 +104,8 @@ int main()
      * with unjustifiable or unreasonable intentions ? You have the most perfect reasoning yet you can not see things for what they are ?
      * Just go on to your jerking offs, nobody has even asked what you are thinking. 
      * 
-     * The only thing you can say is entirely similar to what the most average middle eastern people will say
+     * The only thing you can say is entirely similar to what the most average middle eastern people will say. You are inferior and I have never been in the
+     * mood of accepting what has been proposed with incompetent minds 
      **/  
 
 
