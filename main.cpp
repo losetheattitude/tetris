@@ -110,6 +110,9 @@ int main()
      * You dont even understand anything about life, How dare you ask questions about things you can not answer for ? Your misunderstading is
      * where you take me as others and hoping whatever you have to say will work regardless of its sincerity or accuracy. You can just do that with
      * people who is so underinformed as to blindly follow as they will do for every other
+     * 
+     * You can not really convince me to why you are right or you had to, or it is entirely usual and there could be nothing in exchange for such
+     * and such
      **/  
 
 
