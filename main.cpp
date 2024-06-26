@@ -106,6 +106,8 @@ int main()
      * 
      * The only thing you can say is entirely similar to what the most average middle eastern people will say. You are inferior and I have never been in the
      * mood of accepting what has been proposed with incompetent minds 
+     * 
+     * You dont even understand anything about life, How dare you ask questions about things you can not answer for ?
      **/  
 
 
