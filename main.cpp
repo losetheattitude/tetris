@@ -92,6 +92,8 @@ int main()
      * reason to perpetrate, I wont change the way I think even for a second
      * 
      * I havent asked for your opinion or knowledge. Pay attention to your disgusting lifes and stay away
+     * 
+     * Are you still talking about whats life ?? whats happiness ?? ehheehe I told you to remove your disgusting consciousness from out of my surroundings
      **/  
 
 
