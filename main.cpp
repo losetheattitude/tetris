@@ -98,6 +98,8 @@ int main()
      * 
      * Why arent you happy ? You have everyyyything you could ever need right ? You are being displayed the most generous and noble way of 
      * behaving by the people around you ? Why arent you happy ? eheheh the life bro, its lifee, you have to be happy ehehegvegh
+     * 
+     * You have every resource or whatever you could ever need, everr, like everrrr
      **/  
 
 
