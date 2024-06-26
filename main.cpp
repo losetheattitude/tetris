@@ -99,7 +99,9 @@ int main()
      * Why arent you happy ? You have everyyyything you could ever need right ? You are being displayed the most generous and noble way of 
      * behaving by the people around you ? Why arent you happy ? eheheh the life bro, its lifee, you have to be happy ehehegvegh
      * 
-     * You have every resource or whatever you could ever need, everr, like everrrr
+     * You have every resource or whatever you could ever need, everr, like everrrr. Why arent you happy that you have countless number of 
+     * people around you that have no good feelings or intentions about you and with every opportunity you are being intervened by totally stupid people
+     * with unjustifiable or unreasonable intentions ?
      **/  
 
 
