@@ -94,7 +94,8 @@ int main()
      * I havent asked for your opinion or knowledge. Pay attention to your disgusting lifes and stay away
      * 
      * Are you still talking about whats life ?? whats happiness ?? ehheehe I told you to remove your disgusting consciousness from out of my surroundings
-     * Your existence is the unhappiness for me
+     * Your existence is the unhappiness for me, your existences' decisions and just the things like this I have been talking about is the main reason
+     * 
      **/  
 
 
