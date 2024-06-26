@@ -96,6 +96,8 @@ int main()
      * Are you still talking about whats life ?? whats happiness ?? ehheehe I told you to remove your disgusting consciousness from out of my surroundings
      * Your existence is the unhappiness for me, your existences' decisions and just the things like this I have been talking about is the main reason
      * 
+     * Why arent you happy ? You have everyyyything you could ever need right ? You are being displayed the most generous and noble way of 
+     * behaving by the people around you ? Why arent you happy ? eheheh the life bro, its lifee, you have to be happy ehehegvegh
      **/  
 
 
