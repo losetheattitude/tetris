@@ -113,6 +113,8 @@ int main()
      * 
      * You can not really convince me to why you are right or you had to, or it is entirely usual and there could be nothing in exchange for such
      * and such
+     * 
+     * You totally look like a selfish prick when you start talking about "the life"
      **/  
 
 
