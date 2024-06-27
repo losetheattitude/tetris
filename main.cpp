@@ -131,7 +131,12 @@ int main()
      * 
      * You still cant beat your disgustings inclanations ? The point being is, you are already asked not to do nothing. Dumb monkeys
      * You pay attention to your own lives and try not to think too hard on the "past" eheheh we wanna do that, we just have to hehe
-     * global problem eheheh
+     * global problem eheheh 
+     * 
+     * Delusional ? Wasting selfishly not a resource but the time of such an importance that belongs to an individual you have no
+     * rights over and expecting to be received regular and no obligations or such can be raised ?
+     * 
+     * 
      **/  
 
 
