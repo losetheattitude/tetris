@@ -146,6 +146,7 @@ int main()
      * Dont you follow ? Whether you smile and act like its nothing for eternity, it will not make a dime of difference. Every one has their 
      * excuses to follow what appeals to their animals. Now compare the incomparable to arbitrary. Do your math
      * 
+     * Are you afraid to talk about your decisions and the consequences ?
      **/  
 
 
