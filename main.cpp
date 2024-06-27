@@ -125,6 +125,9 @@ int main()
      * 
      * Are you still reading and jerking off ? Go watch some sheeps being sacrified may be that way you can find peace, not from me
      * not ever
+     * 
+     * Do you believe I am in the mood of taking your bullshit behaviors ? what sort of logic tells you that I will have the desire to
+     * listen ?
      **/  
 
 
