@@ -116,7 +116,7 @@ int main()
      * 
      * You totally look like a selfish prick when you start talking about "the life"
      * 
-     * Its not even remotely okay
+     * Its not even remotely okay, make sure what you are hiding behind is as impermeable as ever
      **/  
 
 
