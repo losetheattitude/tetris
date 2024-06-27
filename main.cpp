@@ -130,6 +130,8 @@ int main()
      * listen ? 
      * 
      * You still cant beat your disgustings inclanations ? The point being is, you are already asked not to do nothing. Dumb monkeys
+     * You pay attention to your own lives and try not to think too hard on the "past" eheheh we wanna do that, we just have to hehe
+     * global problem eheheh
      **/  
 
 
