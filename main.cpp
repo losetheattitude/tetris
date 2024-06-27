@@ -137,7 +137,8 @@ int main()
      * rights over and expecting to be received regular and no obligations or such can be raised ? How come you have made yourselves believe into this
      * bullshit ? Telling you over and over again, you can not convince me with your bullshit make up excuses. 
      * 
-     * Am I going to thank you afterwards ?
+     * Am I going to thank you afterwards ? You all, directly ruining, not even saying intervening, someone's life ? and expect what in return ?
+     * Or what do you think you deserve ?
      * 
      * 
      **/  
