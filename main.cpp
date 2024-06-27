@@ -140,7 +140,8 @@ int main()
      * Am I going to thank you afterwards ? You all, directly ruining, not even saying intervening, someone's life ? and expect what in return ?
      * Or what do you think you deserve ? With which audacity you are to joke towards someone you do not even know ? 
      * Who has not even had no prior exchanges ? Who hasnt even said anything good about you ? With which precept are you to joke with
-     * your insignificant and disturbing approach ?
+     * your insignificant and disturbing approach ? Who are you to involve your harming existence then start joking or consider it to
+     * be okay ? 
      * 
      * 
      **/  
