@@ -127,7 +127,9 @@ int main()
      * not ever
      * 
      * Do you believe I am in the mood of taking your bullshit behaviors ? what sort of logic tells you that I will have the desire to
-     * listen ?
+     * listen ? 
+     * 
+     * You still cant beat your disgustings inclanations ? The point being is, you are already asked not to do nothing. Dumb monkeys
      **/  
 
 
