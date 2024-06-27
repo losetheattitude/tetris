@@ -143,7 +143,8 @@ int main()
      * your insignificant and disturbing approach ? Who are you to involve your harming existence then start joking or consider it to
      * be okay ? 
      * 
-     * Dont you follow ? Whether you smile and act like its nothing for eternity, it will not make a dime of difference 
+     * Dont you follow ? Whether you smile and act like its nothing for eternity, it will not make a dime of difference. Every one has their 
+     * excuses to follow what appeals to their animals
      * 
      * 
      **/  
