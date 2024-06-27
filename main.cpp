@@ -149,7 +149,9 @@ int main()
      * Are you afraid to talk about your decisions and the consequences ? You dont have anything else to do ? Still arguing over someone else's course ?
      * Referring to past exercises, are you willing to garner an environment which is similar to past ? 
      * 
-     * I must be the most grateful to be practicing the most basic physical interaction whatsoever and get along just fine
+     * I must be the most grateful to be practicing the most basic physical interaction whatsoever and get along just fine. 
+     * 
+     * Are you completely blind or just flat out inferior to not perceive that this approach is only and only towards you.
      **/  
 
 
