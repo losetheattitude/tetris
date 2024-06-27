@@ -120,6 +120,8 @@ int main()
      * 
      * For whom are you making decisions ? For whom are you violating every single rights of an individual with nothing to support your
      * disgusting behaviors ? Not even excuses can be seen as viable, that is the point where you brought your insignificant existences
+     * 
+     * Am I the one who is doing all these ?
      **/  
 
 
