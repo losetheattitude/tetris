@@ -144,7 +144,7 @@ int main()
      * be okay ? 
      * 
      * Dont you follow ? Whether you smile and act like its nothing for eternity, it will not make a dime of difference. Every one has their 
-     * excuses to follow what appeals to their animals
+     * excuses to follow what appeals to their animals. Now compare the incomparable to arbitrary 
      * 
      * 
      **/  
