@@ -159,6 +159,9 @@ int main()
      * Now is this the part where I take you for someone I can count on ?
      * Is this the part where you gather as many soothing words as possible to free yourselves once again from 
      * implicating yet intentional decisions ?
+     * 
+     * Are you asking questions about the past that I have been through ? Is your logic failing because of I or your
+     * incompetency on weighing the rationals of an individual ?
      **/  
 
 
