@@ -123,7 +123,8 @@ int main()
      * 
      * Am I the one who is doing all these ? I am talking about, years, not months not weeks, havent even started talking about the violence
      * 
-     * Are you still reading and jerking off ?
+     * Are you still reading and jerking off ? Go watch some sheeps being sacrified may be that way you can find peace, not from me
+     * not ever
      **/  
 
 
