@@ -153,7 +153,10 @@ int main()
      * 
      * Are you completely blind or just flat out inferior to not perceive that this approach is only and only towards you.
      * 
-     * I dont want to have anything related to any of you. 
+     * I dont want to have anything related to any of you
+     * 
+     * None of you has ever moved a finger for me, towards the so called "future" of someone you are voluntarily ruining ? 
+     * Now is this the part where I take you for someone I can count on ?
      **/  
 
 
