@@ -152,6 +152,8 @@ int main()
      * I must be the most grateful to be practicing the most basic physical interaction whatsoever and get along just fine. 
      * 
      * Are you completely blind or just flat out inferior to not perceive that this approach is only and only towards you.
+     * 
+     * I dont want to have anything related to any of you. 
      **/  
 
 
