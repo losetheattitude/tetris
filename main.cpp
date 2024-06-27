@@ -138,7 +138,8 @@ int main()
      * bullshit ? Telling you over and over again, you can not convince me with your bullshit make up excuses. 
      * 
      * Am I going to thank you afterwards ? You all, directly ruining, not even saying intervening, someone's life ? and expect what in return ?
-     * Or what do you think you deserve ? With which audacity you are to joke towards someone you do not even know ?
+     * Or what do you think you deserve ? With which audacity you are to joke towards someone you do not even know ? 
+     * Who has not even had no prior exchanges ? 
      * 
      * 
      **/  
