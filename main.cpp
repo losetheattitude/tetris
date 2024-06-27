@@ -157,6 +157,8 @@ int main()
      * 
      * None of you has ever moved a finger for me, towards the so called "future" of someone you are voluntarily ruining ? 
      * Now is this the part where I take you for someone I can count on ?
+     * Is this the part where you gather as many soothing words as possible to free yourselves once again from 
+     * implicating yet intentional decisions ?
      **/  
 
 
