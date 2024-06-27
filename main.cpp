@@ -162,6 +162,9 @@ int main()
      * 
      * Are you asking questions about the past that I have been through ? Is your logic failing because of I or your
      * incompetency on weighing the rationals of an individual ?
+     * 
+     * What could have possibly happened in the past that we have neither an idea nor an understanding of such a culture and its
+     * dynamics ?
      **/  
 
 
