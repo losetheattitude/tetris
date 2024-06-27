@@ -147,6 +147,7 @@ int main()
      * excuses to follow what appeals to their animals. Now compare the incomparable to arbitrary. Do your math
      * 
      * Are you afraid to talk about your decisions and the consequences ? You dont have anything else to do ? Still arguing over someone else's course ?
+     * Referring to past exercises, are you willing to garner an environment which is similar to past ? 
      **/  
 
 
