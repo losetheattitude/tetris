@@ -175,6 +175,7 @@ int main()
      * great amount of skill and hassle. 
      * 
      * EHehe, we see everyone as we see ourselves so, a holiday must be more than what is enough! Whats the meaning of life ? Isnt it ?
+     * We have no understanding of "life" so is our great reasoning! The incomparable holiday proposed by dumb monkeys
      *  
      * 
      **/  
