@@ -174,7 +174,7 @@ int main()
      * I will pass under whatever circumstance or any sort of bullshit excuses that you have so far generated as if it takes a 
      * great amount of skill and hassle. 
      * 
-     * EHehe, we see everyone as we see ourselves so, a holiday must be more than what is enough!
+     * EHehe, we see everyone as we see ourselves so, a holiday must be more than what is enough! Whats the meaning of life ? Isnt it ?
      *  
      * 
      **/  
