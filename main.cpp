@@ -170,7 +170,7 @@ int main()
      * I care about the experience and results just as you all crave as well ? What would be your reaction ? Yeahhh, special etc blabla disgusting animals I say
      * 
      * 
-     * You are nobody 
+     * You are nobody, are you still perverting into others' course of life ? With nothing you have could cover anything you have done ?
      **/  
 
 
