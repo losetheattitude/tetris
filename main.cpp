@@ -178,7 +178,7 @@ int main()
      * We have no understanding of "life" so is our great reasoning! The incomparable holiday proposed by dumb monkeys
      * 
      * 
-     * Look for more words
+     * Look for more words. Words that dont have no substance at all, just as useless gestures. 
      **/  
 
 
