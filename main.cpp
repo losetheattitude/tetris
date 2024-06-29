@@ -219,6 +219,9 @@ int main()
      * 
      * Are you still looking around for an answer or someone to tell you what to do ? Do you still desperately trying to make it
      * appear like it is all my choice ? Your sole solution ?
+     * 
+     * Do you want to explain the past ? Or would you like to ignore your disgusting inferiority ? Guise it with whatever you can reach at that
+     * moment of presenting ?
      **/  
 
 
