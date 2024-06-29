@@ -221,7 +221,7 @@ int main()
      * appear like it is all my choice ? Your sole solution ?
      * 
      * Do you want to explain the past ? Or would you like to ignore your disgusting inferiority ? Guise it with whatever you can reach at that
-     * moment of presenting ?
+     * moment of presenting ? Disgusting sick pieces of craps
      **/  
 
 
