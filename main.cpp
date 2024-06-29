@@ -186,6 +186,8 @@ int main()
      * just tells me that the whole "process" is only arbitrary, no reason has ever been included. 
      * 
      * Continue deluding I am far from where you are as an individual hence the calculated positioning
+     * 
+     * Believe you can time travel, what could go wrong
      **/  
 
 
