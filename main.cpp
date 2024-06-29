@@ -205,6 +205,8 @@ int main()
      * 
      * Do you compare what is usual to what can not even be named as acceptable ? The holiday ? Do you know what it means to be an adult ?
      * I am not referring to myself, your doings is the precise opposite of being an adult
+     * 
+     * How do we free ourselves from our disgusting decisions and promises in a way that wont turn us into something worse that we already are ? eheeheh
      **/  
 
 
