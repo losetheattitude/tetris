@@ -79,6 +79,9 @@ int main()
      * Just a good regular citizen of 19. century with a substantial taste of animality. Good for you all. I never have and will moved along such lines
      * Do great without me from out of my vicinity 
      * 
+     * In order to use the words at your will, you have to first recognize the notions behind them. What is useless ? Why people name somethings useful and others
+     * useless ? How can one become useful ? What is one ?
+     * 
      **/  
 
 
