@@ -222,6 +222,9 @@ int main()
      * 
      * Do you want to explain the past ? Or would you like to ignore your disgusting inferiority ? Guise it with whatever you can reach at that
      * moment of presenting ? Disgusting sick pieces of craps
+     * 
+     * Are you so incapable as to not include the very individual into the bullshit environment that you have happened to be situated at just 
+     * so you will have the slighest undeserved advantage of appearing righetous for an insignificant moment ? 
      **/  
 
 
