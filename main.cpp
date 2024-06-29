@@ -225,6 +225,7 @@ int main()
      * 
      * Are you so incapable as to not include the very individual into the bullshit environment that you have happened to be situated at just 
      * so you will have the slighest undeserved advantage of appearing righetous for an insignificant moment ? 
+     * It is impossible to justify your vile inclanations when around the "subject" ? Isnt that right ? So what are you still talking about ?
      **/  
 
 
