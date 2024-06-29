@@ -61,7 +61,8 @@ int main()
      * 
      * I do not want any of yours relations or link or connections or whatsoever. Just proceed deluding on things you can not harm and can not receive harm
      * 
-     * "We just dont know whether we right or wrong, we just hope we dont get hurt and indulge!!!", thats the vibe, greattt!!
+     * "We just dont know whether we right or wrong, we just hope we dont get hurt and indulge!!!", thats the vibe, greattt!! If you havent done nothing wrong
+     * you have nothing to get offended from. Thats my vibe
      * 
      **/  
 
