@@ -199,6 +199,8 @@ int main()
      * You have to suffer voluntarily in order to obtain what you are lacking while praising to contain. Yeahh poet etc
      * 
      * I will gladly assume the position that you are manifesting to come around. Thats your choice as you can infer
+     * 
+     * What you have been doing can be described as Thanos ? You can not compare as well as reason ? Not even lying properly ?
      **/  
 
 
