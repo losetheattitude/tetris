@@ -181,6 +181,8 @@ int main()
      * Look for more words. Words that dont have no substance at all, just as useless gestures.
      * Are you low enough to think that I am not aware of the fact that whatever you are proposing as infallible is a mere relativeness of the
      * present moment and a disgusting projection of your "properties"
+     * Just bunch of regular people that I am sick of interacting with in my daily life. There is not even the tiniest difference between you
+     * and some random individual on the street that just wants others to accept how they see things or happened them to be situated
      **/  
 
 
