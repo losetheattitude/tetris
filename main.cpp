@@ -209,6 +209,8 @@ int main()
      * How do we free ourselves from our disgusting decisions and promises in a way that wont turn us into something worse that we already are ? eheeheh
      * The pure intelligence together with unseen character development and so on. The greatness!! Enjoying what they can not openly talk about!! 
      * The claims though ? !!! ehehegh, Have no other preoccupation to stimulate their inferiority, so why not ?
+     * 
+     * Dont even assume I have forgotten any of yours' behavior
      **/  
 
 
