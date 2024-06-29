@@ -217,7 +217,8 @@ int main()
      * Are you still wasting others' time while you selfishly entertain your boring life with your stupid games that have no adverse effects
      * but to others ?
      * 
-     * Are you still looking around for an answer or someone to tell you what to do ? 
+     * Are you still looking around for an answer or someone to tell you what to do ? Do you still desperately trying to make it
+     * appear like it is all my choice ?
      **/  
 
 
