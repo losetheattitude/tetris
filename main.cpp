@@ -192,7 +192,8 @@ int main()
      * Its just entirely good,
      * 
      * Dont stop watching stupid movies that are fictional and look harder around not to feel inferior
-     * Your incompetent excuses will not cut it
+     * Your incompetent excuses will not cut it. You are effectively forcing someone change into something that you are miserably afraid of while
+     * you are making claims. How inferior and stupid a group can get ?
      **/  
 
 
