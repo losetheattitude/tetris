@@ -69,6 +69,7 @@ int main()
      * I, whatever that entails
      * 
      * Abundance of the manifestations of your minds is apparent and that tells your regularity as well. You are the incarnation of what is usual. 
+     * Dont pretend otherwise
      **/  
 
 
