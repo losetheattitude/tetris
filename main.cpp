@@ -195,7 +195,7 @@ int main()
      * Your incompetent excuses will not cut it. You are effectively forcing someone change into something that you are miserably afraid of while
      * you are making claims. How inferior and stupid a group can get ?
      * What sort of sick image have you generated as to believing that I will accept what is apparently unnatural over what I could have garner
-     * naturally ? Do you take your values to be so great ?
+     * naturally ? Do you take your values to be so great ? There is no course you can switch into
      **/  
 
 
