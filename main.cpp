@@ -191,7 +191,8 @@ int main()
      * He ll believe, we are just playing a game as far as we are concerned. Itll be fine. Our reasons are more than obvious so will theirs eheheh
      * Its just entirely good,
      * 
-     * Dont stop watching stupid movies that are fictional and look harder around not to feel inferior 
+     * Dont stop watching stupid movies that are fictional and look harder around not to feel inferior
+     * Your incompetent excuses will not cut it
      **/  
 
 
