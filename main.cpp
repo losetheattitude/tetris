@@ -183,7 +183,9 @@ int main()
      * present moment and a disgusting projection of your "properties"
      * Just bunch of regular people that I am sick of interacting with in my daily life. There is not even the tiniest difference between you
      * and some random individual on the street that just wants others to accept how they see things or happened them to be situated which
-     * just tells me that the whole "process" is only arbitrary, no reason has ever been included.
+     * just tells me that the whole "process" is only arbitrary, no reason has ever been included. 
+     * 
+     * Continue deluding I am far from where you are as an individual hence the calculated positioning
      **/  
 
 
