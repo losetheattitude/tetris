@@ -229,7 +229,8 @@ int main()
      * You just need to be around people like you and feel a little stimulation whether that be freeing from a guilt or something else through
      * totally bullshit means like cultivating a group that will say anything and feel great about your incomparable intelligence. Go on to your jerk offs
      * 
-     * Thats not how it is done. I have never been the one who wanted to be involved with such lowness on the scale as you 
+     * Thats not how it is done. I have never been the one who wanted to be involved with such lowness on the scale as you. As it is more than apparent
+     * every single time, you are there to demand you taken into consideration :d Fucking monkeys
      **/  
 
 
