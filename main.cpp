@@ -73,7 +73,8 @@ int main()
      * nothing special, just the type that people will refer as having adverse effects in the future. Like a virus 
      * Nobody will say anything about the communities because the communities, well, you know what and how they are. You are just that. No fancy words
      * or notions or concepts or understandings or reason etc etc. You are just a regular citizen with no admirable quality. Yeah I am the narsist or egoist or
-     * etc. You got it.
+     * etc. You got it. Start acting different and you will be perceived as such. Dont come at me expecting what you would like to be regarded as when 
+     * you have no nature of it at all
      * 
      * Just a good regular citizen of 19. century with a substantial taste of animality. Good for you all. I never have and will moved along such lines
      * Do great without me from out of my vicinity 
