@@ -178,7 +178,9 @@ int main()
      * We have no understanding of "life" so is our great reasoning! The incomparable holiday proposed by dumb monkeys
      * 
      * 
-     * Look for more words. Words that dont have no substance at all, just as useless gestures. 
+     * Look for more words. Words that dont have no substance at all, just as useless gestures.
+     * Are you low enough to think that I am not aware of the fact that whatever you are proposing as infallible is a mere relativeness of the
+     * present moment and a disgusting projection of your "properties"
      **/  
 
 
