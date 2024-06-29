@@ -68,11 +68,13 @@ int main()
      * Debate, reason, comprehension etc bla bla yeahhh bro, I got you all, you good you can delude without me please, I free you all from baring the burden of
      * I, whatever that entails
      * 
-     * Abundance of the manifestations of your minds is apparent and that tells your regularity as well. You are the incarnation of what is usual. 
-     * Dont pretend otherwise
+     * "Abundance of the manifestations of your minds is apparent and that tells your regularity as well". You are the incarnation of what is usual. 
+     * Dont pretend otherwise. Translation: What you are doing is not only praised but also practiced by the communities all around the world. You are
+     * nothing special, just the type that people will refer as having adverse effects in the future. Like a virus 
      * 
      * Just a good regular citizen of 19. century with a substantial taste of animality. Good for you all. I never have and will moved along such lines
      * Do great without me from out of my vicinity 
+     * 
      **/  
 
 
