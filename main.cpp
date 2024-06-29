@@ -202,6 +202,8 @@ int main()
      * 
      * What you have been doing can be described as Thanos ? You can not compare as well as reason ? Not even lying properly ?
      * Do I smile ?
+     * 
+     * Do you compare what is usual to what can not even be named as acceptable ? The holiday ?
      **/  
 
 
