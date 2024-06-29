@@ -228,6 +228,8 @@ int main()
      * It is impossible to justify your vile inclanations when around the "subject" ? Isnt that right ? So what are you still talking about ?
      * You just need to be around people like you and feel a little stimulation whether that be freeing from a guilt or something else through
      * totally bullshit means like cultivating a group that will say anything and feel great about your incomparable intelligence. Go on to your jerk offs
+     * 
+     * Thats not how it is done
      **/  
 
 
