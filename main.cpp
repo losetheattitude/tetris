@@ -210,7 +210,8 @@ int main()
      * The pure intelligence together with unseen character development and so on. The greatness!! Enjoying what they can not openly talk about!! 
      * The claims though ? !!! ehehegh, Have no other preoccupation to stimulate their inferiority, so why not ?
      * 
-     * Dont even assume I have forgotten any of yours' behavior
+     * Dont even assume I have forgotten any of yours' behavior. Thats what sort of people like you call a talent, infallibly through out the world
+     * I have seen so ample that I dont even have to think twice. You are just the precise inferior I have witnessed everywhere
      **/  
 
 
