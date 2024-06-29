@@ -197,6 +197,8 @@ int main()
      * What sort of sick image have you generated as to believing that I will accept what is apparently unnatural over what I could have garner
      * naturally ? Do you take your values to be so great ? There is no course you can switch into
      * You have to suffer voluntarily in order to obtain what you are lacking while praising to contain. Yeahh poet etc
+     * 
+     * I will gladly assume the position that you are manifesting to come around. Thats your choice as you can infer
      **/  
 
 
