@@ -67,6 +67,8 @@ int main()
      * Keep telling yourselves whatever you delude to become some day in 24. century or something. With your level of development it will take nothing less than
      * Debate, reason, comprehension etc bla bla yeahhh bro, I got you all, you good you can delude without me please, I free you all from baring the burden of
      * I, whatever that entails
+     * 
+     * Abundance of the manifestations of your minds is apparent and that tells your regularity as well. You are the incarnation of what is usual. 
      **/  
 
 
