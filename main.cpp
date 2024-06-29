@@ -71,7 +71,7 @@ int main()
      * Abundance of the manifestations of your minds is apparent and that tells your regularity as well. You are the incarnation of what is usual. 
      * Dont pretend otherwise
      * 
-     * Just a good regular citizen of 19. century with a substantial taste of animality. Good for you all
+     * Just a good regular citizen of 19. century with a substantial taste of animality. Good for you all. I never have and will moved along such lines
      **/  
 
 
