@@ -64,6 +64,8 @@ int main()
      * "We just dont know whether we right or wrong, we just hope we dont get hurt and indulge!!!", thats the vibe, greattt!! If you havent done nothing wrong
      * you have nothing to get offended from. Thats my vibe
      * 
+     * Keep telling yourselves whatever you delude to become some day in 24. century or something. With your level of development it will take nothing less than
+     * 
      **/  
 
 
