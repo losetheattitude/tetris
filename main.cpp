@@ -207,6 +207,8 @@ int main()
      * I am not referring to myself, your doings is the precise opposite of being an adult
      * 
      * How do we free ourselves from our disgusting decisions and promises in a way that wont turn us into something worse that we already are ? eheeheh
+     * The pure intelligence together with unseen character development and so on. The greatness!! Enjoying what they can not openly talk about!! 
+     * The claims though ? !!! ehehegh
      **/  
 
 
