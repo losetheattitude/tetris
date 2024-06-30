@@ -96,6 +96,7 @@ int main()
      * 
      * Playing games with human parts ? Not humans themselves ? Does that ring a bell ? Who has gone multiple occasions into the street level ?
      * Is there a "reasonable" sequence of what is playing out now or then ? The street level do you say ? and you abstain from so called insults ?
+     * You dont have memory ?
      **/  
 
 
