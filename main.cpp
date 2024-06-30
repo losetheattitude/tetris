@@ -134,7 +134,7 @@ int main()
      * whilst having the opposition as I ? How menly are you ? How tight are you ? 
      * 
      * I have no interest in hearing stories, especially the ones that have been produced by you for the past 28 years. Do you think your stories 
-     * have even the slightest of substance ? 
+     * have even the slightest of substance ? The stories that you have been telling so far while committing what you are embarrassed of assuming ?
      **/  
 
 
