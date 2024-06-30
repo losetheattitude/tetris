@@ -105,6 +105,8 @@ int main()
      * No no, its not sick at all. Clearly the most reasonable and righteous thing to do. Not that it matters ehehe
      * The world is not fair, its delusional ehehe :d such funny thing ehehe. We just want turbulence so we create this way. its not delusion
      * 
+     * 
+     * Did you achieve it yet ? No ? Whats that you are trying to achieve anyway ? You still do not achieve ? Hmm thats definitely interesting :d
      **/  
 
 
