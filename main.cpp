@@ -117,6 +117,7 @@ int main()
      * 
      * Difficult decision ? A decision that you have no interest at all ? A difficult decision ? That is not your place ?
      * And an amount of time you have no control over has passed ? You still claim such decision ? What the fuck are you talking about ?
+     * You dumb disgusting people ?
      **/  
 
 
