@@ -140,6 +140,8 @@ int main()
      * Like literally biologically bad food ?
      * 
      * Special decisions will have special consequences. It just goes together. Not reparations, not compromises, not conclusions.
+     * 
+     * Special decisions and suddenly advices ? Do they go together ? 
      **/  
 
 
