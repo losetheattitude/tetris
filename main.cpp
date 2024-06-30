@@ -133,7 +133,8 @@ int main()
      * avoid saying things like after life etc ? If you the type that you claim to be, you will have no trouble being in the position that I have been
      * whilst having the opposition as I ? How menly are you ? How tight are you ? 
      * 
-     * I have no interest in hearing stories, especially the ones that have been produced by you for the past 28 years
+     * I have no interest in hearing stories, especially the ones that have been produced by you for the past 28 years. Do you think your stories 
+     * have even the slightest of substance ? 
      **/  
 
 
