@@ -107,7 +107,8 @@ int main()
      * 
      * 
      * Did you achieve it yet ? No ? Whats that you are trying to achieve anyway ? You still do not achieve ? Hmm thats definitely interesting :d
-     * You are probably doing something wrong thats why you are not achieving anything :D
+     * You are probably doing something wrong thats why you are not achieving anything :D In my opinion you have to first achieve your undisgusting sides 
+     * may be then you will start achieve whatever your aim in doing such bullshit as this that you can not even avoid properly :D
      **/  
 
 
