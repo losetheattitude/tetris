@@ -123,7 +123,7 @@ int main()
      * Afterwards, there is no afterwards, no such a thing occurred with our disgusting existence somewhere else. Wooooahwww then it must be
      * something else we just dont know heheeh. The intelligence :d fucking dumb clown monkeys. You are the new species.
      * 
-     * I name you as the dumb clown monkeys of earth. 
+     * I name you as the dumb clown monkeys of earth. That always brings about whatever they want gone 
      **/  
 
 
