@@ -95,6 +95,7 @@ int main()
      * You can not divert through no stupid excuses or claims of groundless nature. Its even a gift for your disgusting consciousness
      * 
      * Playing games with human parts ? Not humans themselves ? Does that ring a bell ? Who has gone multiple occasions into the street level ?
+     * Is there a "reasonable" sequence of what is playing out now or then ?
      **/  
 
 
