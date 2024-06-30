@@ -92,6 +92,7 @@ int main()
      * 
      * What are you still talking about ? How disgusting you are or just trying to alleviate as much as possible ? Yeah intelligence totally forgot about that :d
      * I am telling you without you receive some sort of harm, there will be no other thing you can do. Thats just as simple as that
+     * You can not divert through no stupid excuses or claims of groundless nature. Its even a gift for your disgusting consciousness
      **/  
 
 
