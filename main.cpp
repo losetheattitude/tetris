@@ -84,7 +84,8 @@ int main()
      * 
      * Go have your delusions from out of my mental vicinity
      * 
-     * What are you waiting for monkeys ? :d Show em how to be a real monkey :d
+     * What are you waiting for monkeys ? :d Show em how to be a real monkey :d. Yeah you re right, it is the only way and probably 
+     * its beneficial and you are not really monkey etc. Superior bla bla :D
      **/  
 
 
