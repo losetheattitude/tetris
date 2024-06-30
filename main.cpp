@@ -119,7 +119,11 @@ int main()
      * And an amount of time you have no control over has passed ? You still claim such decision ? What the fuck are you talking about ?
      * You dumb disgusting people ? Aheeheh such a fun game, just too enjoyable. Ehehe code names etc we good aehehe random stories eheheh
      * just bring more people and eghegheh just tell them what to say ehehe so fun 
-     * A tough decision though eheheheh we good ppl. Lets bring some kids to accuse someone we dont even know eheheh
+     * A tough decision though eheheheh we good ppl. Lets bring some kids to accuse someone we dont even know eheheh.
+     * Afterwards, there is no afterwards, no such a thing occurred with our disgusting existence somewhere else. Wooooahwww then it must be
+     * something else we just dont know heheeh. The intelligence :d fucking dumb clown monkeys. You are the new species.
+     * 
+     * I name you as the dumb clown monkeys of earth. 
      **/  
 
 
