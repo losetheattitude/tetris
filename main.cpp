@@ -94,7 +94,7 @@ int main()
      * I am telling you without you receive some sort of harm, there will be no other thing you can do. Thats just as simple as that
      * You can not divert through no stupid excuses or claims of groundless nature. Its even a gift for your disgusting consciousness
      * 
-     * Playing games with human parts ? Not humans themselves ? Does that ring a bell ?
+     * Playing games with human parts ? Not humans themselves ? Does that ring a bell ? Who has gone multiple occasions into the street level ?
      **/  
 
 
