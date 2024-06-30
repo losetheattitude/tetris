@@ -97,6 +97,9 @@ int main()
      * Playing games with human parts ? Not humans themselves ? Does that ring a bell ? Who has gone multiple occasions into the street level ?
      * Is there a "reasonable" sequence of what is playing out now or then ? The street level do you say ? and you abstain from so called insults ?
      * You dont have memory ? Are you superior ? Waooww I am the best follower of you all :d superior illogical and disgust
+     * 
+     * Know your limits all, whether you think you are someone to someone else or not, I do not care whatever you have to say or propose. Including not limited to
+     * every and each of you. Remove your disgusting existence and excuses from my surrounding. Do you think I still smile ? 
      **/  
 
 
