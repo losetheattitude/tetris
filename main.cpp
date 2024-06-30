@@ -90,7 +90,7 @@ int main()
      * No logic can make it acceptable whether you give up whatever you have or you propose insignificant assets that you think
      * others care so much as to regard "the past" as past. 
      * 
-     * What are you still talking about ? How disgusting you are or just trying to alleviate as much as possible ?
+     * What are you still talking about ? How disgusting you are or just trying to alleviate as much as possible ? Yeah intelligence totally forgot about that :d
      **/  
 
 
