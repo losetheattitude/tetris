@@ -129,7 +129,9 @@ int main()
      * want to innately punished ? What do your elders say ? Do you believe now you have happened to become an elder
      * just because physics says so ? Or are you to lecture notions? Do you think its a choice or decision ? :d
      * 
-     * Is this how you employ your brain's capacity ?
+     * Is this how you employ your brain's capacity ? How about you start paying attention to what I deem to be true only for myself and
+     * avoid saying things like after life etc ? If you the type that you claim to be, you will have no trouble being in the position that I have been
+     * whilst having the opposition as I ? How menly are you ? How tight are you ?
      **/  
 
 
