@@ -141,7 +141,8 @@ int main()
      * 
      * Special decisions will have special consequences. It just goes together. Not reparations, not compromises, not conclusions.
      * 
-     * Special decisions and suddenly advices ? Do they go together ? 
+     * Special decisions and suddenly advices ? Do they go together ? Then who the fuck are you to offer your perspective with
+     * malign intentions as advices ?
      **/  
 
 
