@@ -86,6 +86,9 @@ int main()
      * 
      * What are you waiting for monkeys ? :d Show em how to be a real monkey :d. Yeah you re right, it is the only way and probably 
      * its beneficial and you are not really monkey etc. Superior bla bla :D
+     * 
+     * No logic can make it acceptable whether you give up whatever you have or you propose insignificant assets that you think
+     * others care so much as to regard "the past" as past. 
      **/  
 
 
