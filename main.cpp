@@ -110,7 +110,7 @@ int main()
      * You are probably doing something wrong thats why you are not achieving anything :D In my opinion you have to first achieve your undisgusting sides 
      * may be then you will start achieve whatever your aim in doing such bullshit as this that you can not even avoid properly :D 
      * What are you waiting for ? Are you contemplating unbeatable strategies against such a formidable situation ? Come on, you gotta achieve
-     * what can not be attainable go on. 
+     * what can not be attainable go on.  Disgusting people, for I have no attention spared at all
      **/  
 
 
