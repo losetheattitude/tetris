@@ -113,7 +113,7 @@ int main()
      * what can not be attainable go on.  Disgusting people, for I have no attention spared at all
      * 
      * You dont get it ? What am I doing wasting time on purily bullshit terms that somehow you have made into believing ? What am I doing
-     * wasting my time ? 
+     * wasting my time ? Is this what your aim is ? 
      **/  
 
 
