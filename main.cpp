@@ -114,6 +114,8 @@ int main()
      * 
      * You dont get it ? What am I doing wasting time on purily bullshit terms that somehow you have made into believing ? What am I doing
      * wasting my time ? Is this what your aim is ? Not even harboring a single intention of yours alike however thats just superiority I guess :d
+     * 
+     * Difficult decision ? A decision that you have no interest at all ? A difficult decision ? That is not your place ?
      **/  
 
 
