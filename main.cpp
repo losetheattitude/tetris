@@ -136,6 +136,8 @@ int main()
      * I have no interest in hearing stories, especially the ones that have been produced by you for the past 28 years. Do you think your stories 
      * have even the slightest of substance ? The stories that you have been telling so far while committing what you are embarrassed of assuming ?
      * What happened ? It was not me, I have been told to do so ? eheheh It was just a mistake ? Im such a believer!!! Just the insignificant average society animal
+     * 
+     * Special decisions will have special consequences. It just goes together
      **/  
 
 
