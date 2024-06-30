@@ -103,6 +103,7 @@ int main()
      * 
      * What are you achieving again ? The unattainable title of "delusional" ? Still claiming decisions ? Not even delusional at all
      * No no, its not sick at all. Clearly the most reasonable and righteous thing to do. Not that it matters ehehe
+     * The world is not fair, its delusional ehehe :d such funny thing ehehe
      * 
      **/  
 
