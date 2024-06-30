@@ -127,7 +127,7 @@ int main()
      * You still ignorant of what you can not comprehend ? The lifetime of an individual ? What it could potentially entail ?
      * You have zero perspective on that regard ? Is this where your disgusting comfort coming from ? Or do you just
      * want to innately punished ? What do your elders say ? Do you believe now you have happened to become an elder
-     * just because physics says so ?
+     * just because physics says so ? Or are you to lecture notions?
      **/  
 
 
