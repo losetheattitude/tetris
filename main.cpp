@@ -100,6 +100,9 @@ int main()
      * 
      * Know your limits all, whether you think you are someone to someone else or not, I do not care whatever you have to say or propose. Including not limited to
      * every and each of you. Remove your disgusting existence and excuses from my surrounding. Do you think I still smile ? 
+     * 
+     * What are you achieving again ? The unattainable title of "delusional" ?
+     * 
      **/  
 
 
