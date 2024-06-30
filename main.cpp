@@ -128,6 +128,8 @@ int main()
      * You have zero perspective on that regard ? Is this where your disgusting comfort coming from ? Or do you just
      * want to innately punished ? What do your elders say ? Do you believe now you have happened to become an elder
      * just because physics says so ? Or are you to lecture notions? Do you think its a choice or decision ? :d
+     * 
+     * Is this how you employ your brain's capacity ?
      **/  
 
 
