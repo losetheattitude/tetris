@@ -150,6 +150,9 @@ int main()
      * 
      * My apologies for not thanking for such a "past" like this that caused directly by the people that delude themselves
      * to be someone that they are not
+     * 
+     * Not thanking to those that can not even say anything but you will go to heaven etc while knowing damn well that
+     * they are the sole perpetrator of such a bullshit 
      **/  
 
 
