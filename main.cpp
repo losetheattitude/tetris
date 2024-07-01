@@ -158,7 +158,10 @@ int main()
      * the pure facts that I am perceiving. Do you need to hear more of the same notions being expressed in different ways ?
      * 
      * Disgusting animals are looking for excuses to guise behind :d Come on, what are you waiting for stupid monkeys
-     * Where is your disgusting behavior ? Hurry up, I have no time for you at all. 
+     * Where is your disgusting behavior ? Hurry up, I have no time for you at all. Your only solution is to accuse without 
+     * provable occasions thats why you are to not live peacefully as your selfish directionless decisions have caused
+     * nothing but harm to me. The simplest logic of even an inferior is that avoiding reasonless pain. So whats the reason ?
+     * There is no reason but being a selfish disgusting animal so is my reason
      **/  
 
 
