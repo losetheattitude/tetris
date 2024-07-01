@@ -162,6 +162,9 @@ int main()
      * provable occasions thats why you are to not live peacefully as your selfish directionless decisions have caused
      * nothing but harm to me. The simplest logic of even an inferior is that avoiding reasonless pain. So whats the reason ?
      * There is no reason but being a selfish disgusting animal so is my reason
+     * 
+     * Try harder to guise your incapable reasons and get the fuck out of my way with whatever valuable thing you think you have. I 
+     * do not care. 
      **/  
 
 
