@@ -164,7 +164,7 @@ int main()
      * There is no reason but being a selfish disgusting animal so is my reason
      * 
      * Try harder to guise your incapable reasons and get the fuck out of my way with whatever valuable thing you think you have. I 
-     * do not care. 
+     * do not care. The only thing that can describe you is the monkey comparison
      **/  
 
 
