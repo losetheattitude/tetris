@@ -157,7 +157,7 @@ int main()
      * Pay attention, I am specifically choosing the word perpetrator, not that I am looking for fancy notions as you do. Thats just 
      * the pure facts that I am perceiving. Do you need to hear more of the same notions being expressed in different ways ?
      * 
-     * Disgusting animals are looking for excuses to guise behind :d 
+     * Disgusting animals are looking for excuses to guise behind :d Come on, what are you waiting for stupid monkeys
      **/  
 
 
