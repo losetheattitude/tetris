@@ -143,6 +143,10 @@ int main()
      * 
      * Special decisions and suddenly advices ? Do they go together ? Then who the fuck are you to offer your perspective with
      * malign intentions as advices ?
+     * 
+     * None of you own anything, thats not how the life works, the life you "happened" to lecture everyone about yet have no
+     * understandings whatsoever. Just dont even try to look smart and provide reasons of your disgusting behaviors
+     * and so called "decision" of not your own
      **/  
 
 
