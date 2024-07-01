@@ -155,7 +155,7 @@ int main()
      * they are the sole perpetrator of such a bullshit 
      * 
      * Pay attention, I am specifically choosing the word perpetrator, not that I am looking for fancy notions as you do. Thats just 
-     * the pure facts that I am perceiving
+     * the pure facts that I am perceiving. Do you need to hear more of the same notions being expressed in different ways ?
      **/  
 
 
