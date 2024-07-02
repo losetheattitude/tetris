@@ -175,6 +175,9 @@ int main()
      * Are you still talking about the reality ? This is your reality. The reality where you can not produce a coherent response to
      * any of "the past". I am the one who knows how you behaved in such circumstances and you are still there with your disgusting 
      * stance as if you include a dime of value
+     * 
+     * Are you still upholding your inexplicable reasons over someone else's course of life ? Do you understand how stupid and
+     * meaningless that is ?
      **/  
 
 
