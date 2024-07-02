@@ -153,7 +153,7 @@ int main()
      * 
      * Not thanking to those that can not even say anything but you will go to heaven etc while knowing damn well that
      * they are the sole perpetrator of such a bullshit 
-     * 
+     *  
      * Pay attention, I am specifically choosing the word perpetrator, not that I am looking for fancy notions as you do. Thats just 
      * the pure facts that I am perceiving. Do you need to hear more of the same notions being expressed in different ways ?
      * 
@@ -183,7 +183,9 @@ int main()
      * I dont want nobody around me. Thats just how it is
      * 
      * Do you want to know how many times you have lied and turn back from whatever honorable thing you thought you have said ?
-     * The definition of "intelligence" only the type of inferiors would attempt 
+     * The definition of "intelligence" only the type of inferiors would attempt
+     * 
+     * You are not granted the right of assumption concering I, thats just simple as that. 
      **/  
 
 
