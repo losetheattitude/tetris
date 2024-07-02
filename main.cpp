@@ -183,6 +183,7 @@ int main()
      * I dont want nobody around me. Thats just how it is
      * 
      * Do you want to know how many times you have lied and turn back from whatever honorable thing you thought you have said ?
+     * The definition of "intelligence" only the type of inferiors would attempt 
      **/  
 
 
