@@ -179,7 +179,8 @@ int main()
      * Are you still upholding your inexplicable reasons over someone else's course of life ? Do you understand how stupid and
      * meaningless that is ? Are you going to reference the history again ? Your incompetent excuses over what ? 
      * 
-     * What value can that produce ? Nothing.. What rational ? Nothing good or benevolent. 
+     * What value can that produce ? Nothing.. What rational ? Nothing good or benevolent.
+     * I dont want nobody around me. Thats just how it is
      **/  
 
 
