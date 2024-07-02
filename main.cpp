@@ -166,7 +166,8 @@ int main()
      * Try harder to guise your incapable reasons and get the fuck out of my way with whatever valuable thing you think you have. I 
      * do not care. The only thing that can describe you is the monkey comparison
      * 
-     * tell your exertions leading up to your random accusations. My experience but your random decisions ? 
+     * tell your exertions leading up to your random accusations. My experience but your random decisions ? And still think
+     * you are in a position of even the least desired ?
      **/  
 
 
