@@ -181,6 +181,8 @@ int main()
      * 
      * What value can that produce ? Nothing.. What rational ? Nothing good or benevolent.
      * I dont want nobody around me. Thats just how it is
+     * 
+     * Do you want to know how many times you have lied and turn back from whatever honorable thing you thought you have said ?
      **/  
 
 
