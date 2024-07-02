@@ -172,6 +172,9 @@ int main()
      * Now it is where you grow more disgusting right ? Since you are confronted with what you really are and what are your decisions have 
      * caused. Go ahead I have zero interest and desire to play your stupid ideas that you guise as whatever is suitable at the moment.
      * 
+     * Are you still talking about the reality ? This is your reality. The reality where you can not produce a coherent response to
+     * any of "the past". I am the one who knows how you behaved in such circumstances and you are still there with your disgusting 
+     * stance as if you include a dime of value
      **/  
 
 
