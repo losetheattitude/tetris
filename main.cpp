@@ -168,6 +168,10 @@ int main()
      * 
      * tell your exertions leading up to your random accusations. My experience but your random decisions ? And still think
      * you are in a position of even the least desired ?
+     * 
+     * Now it is where you grow more disgusting right ? Since you are confronted with what you really are and what are your decisions have 
+     * caused. Go ahead I have zero interest and desire to play your stupid ideas that you guise as whatever is suitable at the moment.
+     * 
      **/  
 
 
