@@ -3,43 +3,40 @@
 LocalTerminal::LocalTerminal()
 {   
     //Down button
-    this->clocks[0].SetInterval(0.032);
+    this->clocks[0].SetInterval(/**0.032**/0.0019999);
 
     //Right-Left button
-    this->clocks[1].SetInterval(0.1);
+    this->clocks[1].SetInterval(0.09);
 
     //Up button
-    this->clocks[2].SetInterval(0.5);
+    this->clocks[2].SetInterval(0.4);
 }
 
 int LocalTerminal::Capture()
 {       
     int pressedKey = GetKeyPressed();
-    if(pressedKey != 0)
+    double pressedAt = GetTime();
+
+    if(pressedKey != KEY_NULL)
     {
         this->activeKey = pressedKey;
         if(this->activeKey == KEY_DOWN)
         {
-            this->clocks[0].lastUpdateTime = GetTime();
+            this->clocks[0].lastUpdateTime = pressedAt;
         }
         else if(this->activeKey == KEY_LEFT || this->activeKey == KEY_RIGHT)
         {
-            this->clocks[1].lastUpdateTime = GetTime();
+            this->clocks[1].lastUpdateTime = pressedAt;
         }
         else if(this->activeKey == KEY_UP)
         {
-            this->clocks[2].lastUpdateTime = GetTime();
+            this->clocks[2].lastUpdateTime = pressedAt;
         }
-    }
-
-    if(this->activeKey != 0 && IsKeyReleased(this->activeKey))
-    {
-        this->activeKey = 0;
-
+ 
         return this->activeKey;
     }
 
-    if(this->activeKey != 0 && !IsKeyReleased(this->activeKey))
+    if(this->activeKey != KEY_NULL && !IsKeyReleased(this->activeKey))
     {
         if(this->activeKey == KEY_DOWN && this->clocks[0].HasPassed())
         {
@@ -53,11 +50,15 @@ int LocalTerminal::Capture()
         {
             return this->activeKey;
         }
-        else
-        {
-            return pressedKey;
-        }
     }
+
+    if(this->activeKey != KEY_NULL && IsKeyReleased(this->activeKey))
+    {
+        this->activeKey = KEY_NULL;
+
+        return this->activeKey;
+    }
+
 
     return pressedKey;
 }
