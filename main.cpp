@@ -32,6 +32,7 @@ int main()
      * 
      * You know it will play out just as the way you fear it would because your fears leads your decisions not REASON 
      * You have already ruined beyond the recovery point someone you have no prior relations or experience or nothing
+     * You are just that, do not delude 
      **/     
  
 
