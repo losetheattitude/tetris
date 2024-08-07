@@ -35,7 +35,7 @@ int main()
      * You are just that, do not delude. You are entirely wrong not partially, thats the reason do not look too far
      * 
      * I am telling you again, you are not paying the due seriousness into this, which will force you into making mistakes as these
-     * You have zero credibility yet you are still making random noises ?
+     * You have zero credibility yet you are still making random noises ? I do not take you for an equal in consequence to your unaccountable disgusting behavior
      **/     
  
 
