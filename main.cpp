@@ -36,9 +36,9 @@ int main()
      * 
      * I am telling you again, you are not paying the due seriousness into this, which will force you into making mistakes as these
      * You have zero credibility yet you are still making random noises ? I do not take you for an equal in consequence to your unaccountable disgusting behavior
-     * The conditions ? 
+     * The conditions ? You do not remember ?
      **/     
- 
+  
 
     
     InitWindow(500, 620, "Raylib Tetris");     
