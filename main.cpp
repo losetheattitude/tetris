@@ -199,7 +199,7 @@ int main()
      * you prefer begging no surprise at all, woomeeeeennn!!! You are rich!! pls help us, we do goodd, we solve problems pls, 
      * Get a car!!! get some womeeennn!!! help us lie!! plss we are innocent good citizens !!!
      * we tryna educate, we tryna solve world problems, we good ppl, we intelligent, we do not cause any harm!!! heheheh its funn, lifes a simulation
-     * pls lie for us!!!
+     * pls lie for us!!! get cars!!! get womeeeenn!! we have provided 123912321 womeeenn!!! plss trust us!!! plsss
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
