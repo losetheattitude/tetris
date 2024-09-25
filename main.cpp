@@ -182,6 +182,9 @@ int main()
      * well enough to the point that you know you are acting like a stupid reasonless animal instead of just harming for the sake of harming eheheheh its funny
      * And you still dare calling people violent when you are the one causing harm eheheh, yes detrimental lifestyle can solve your every problem of existential nature
      * You are just after the right pursuit, be sure about that
+     * 
+     * Just tell me the effective achievement of what you are miserably afraid of telling people or assuming responsibility as an individual eheheh funny, its life
+     * its simulation eheheh we good
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
