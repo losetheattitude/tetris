@@ -197,6 +197,7 @@ int main()
      * eeheheh we tryna solve world problems ehehehheh pls help lie us eheheh
      * now try to solve the problem you have formed intentionally, I wonder how intelligent you really are when you are against a real problem eheheh
      * you prefer begging no surprise at all, woomeeeeennn!!! You are rich!! pls help us, we do goodd, we solve problems pls, 
+     * Get a car!!! get some womeeennn!!! help us lie!! plss we are innocent good citizens !!!
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
