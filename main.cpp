@@ -185,6 +185,8 @@ int main()
      * 
      * Just tell me the effective achievement of what you are miserably afraid of telling people or assuming responsibility as an individual eheheh funny, its life
      * its simulation eheheh we good
+     * 
+     * I have no intention to waste my time with stupid aimless people like you who can produce nothing but bullshit to guise their disgusting nature
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
