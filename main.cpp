@@ -187,7 +187,7 @@ int main()
      * its simulation eheheh we good
      * 
      * I have no intention to waste my time with stupid aimless people like you who can produce nothing but bullshit to guise their disgusting nature
-     * Awww, you must have forgotten eheheh, forgive us!!! please
+     * Awww, you must have forgotten eheheh, forgive us!!! please Not immature people indeed
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
