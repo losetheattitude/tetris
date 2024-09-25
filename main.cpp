@@ -202,6 +202,8 @@ int main()
      * pls lie for us!!! get cars!!! get womeeeenn!! we have provided 123912321 womeeenn!!! plss trust us!!! plsss
      * Dumb people indeed, no no we harm nobody!! we tryna help others!! plss, we cause no harm!!! eheheh lie for us!!! get cars!! wooomeeeeeeenn!!
      * we aint no dumb animal!! plsss
+     * 
+     * How come you think funny for what a disgusting thing ? Is it because you are doing it ? Some sort of special group of people ? ehehehe
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
