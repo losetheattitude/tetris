@@ -173,7 +173,7 @@ int main()
      * ehehehhe the amount of stupid patterns you display... Certainly a strong indication of utmost intelligence
      * Only a slight feeling of "immature spoiled stupid kid" who can not assess unbiased information properly
      * Hey look, we tryna help and fix something eheheheh, we competent ppl, talk about the violence, talk about the conditions that you honorably pledged
-     * Awww, wait what did you achieve again ?
+     * Awww, wait what did you achieve again ? Awww, you have breached the law for no apparent and beneficial purposes ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
