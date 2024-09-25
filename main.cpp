@@ -161,7 +161,7 @@ int main()
      * stop doing that  eheheheh, get some women eheheh we did so many things pls
      * 
      * You are just wasting time without a proper reason, and I have got nothing else other than bullshit to say to any of you. Its not that difficult
-     * Public threat!!! existential threat!!!! we do no harm!! he does!! plss
+     * Public threat!!! existential threat!!!! we do no harm!! he does!! plss. Its just so simple, forget about the "past"!!! we good!! worry about the future!!
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
