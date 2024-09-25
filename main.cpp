@@ -206,7 +206,8 @@ int main()
      * How come you think funny for what a disgusting thing ? Is it because you are doing it ? Some sort of special group of people ? ehehehe
      * 
      * Now talk about the violence and preceding beggings of promise nature, then we can talk about what to do
-     * Or just simply grow up and get the fuck out of my face
+     * Or just simply grow up and get the fuck out of my face, awww you would rather accuse 10yo kids with what you coercefully made them into ?
+     * No no, you are %100000000 right, now you can get the fuck out of my face to doing whatever you were
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
