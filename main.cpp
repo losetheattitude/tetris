@@ -188,7 +188,8 @@ int main()
      * 
      * I have no intention to waste my time with stupid aimless people like you who can produce nothing but bullshit to guise their disgusting nature
      * Awww, you must have forgotten eheheh, forgive us!!! please Not immature people indeed, you still dreaming ?
-     * Sat down watching without neither a purpose nor a reason ?
+     * Sat down watching without neither a purpose nor a reason ? I have no time for any of you, whether you think violence can change that or not,
+     * its up to you to find out, poem indeed!
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
