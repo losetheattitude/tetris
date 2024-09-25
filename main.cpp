@@ -180,6 +180,7 @@ int main()
      * If you were the type that you now think really intelligently posed to be, you would have already communicated
      * 
      * well enough to the point that you know you are acting like a stupid reasonless animal instead of just harming for the sake of harming eheheheh its funny
+     * And you still dare calling people violent when you are the one causing harm eheheh 
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
