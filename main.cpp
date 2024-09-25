@@ -190,6 +190,8 @@ int main()
      * Awww, you must have forgotten eheheh, forgive us!!! please Not immature people indeed, you still dreaming ?
      * Sat down watching without neither a purpose nor a reason ? I have no time for any of you, whether you think violence can change that or not,
      * its up to you to find out, poem indeed!
+     * 
+     * Just keep deluding, out of my vicinity
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
