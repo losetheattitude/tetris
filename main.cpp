@@ -162,7 +162,7 @@ int main()
      * 
      * You are just wasting time without a proper reason, and I have got nothing else other than bullshit to say to any of you. Its not that difficult
      * Public threat!!! existential threat!!!! we do no harm!! he does!! plss. Its just so simple, forget about the "past"!!! we good!! worry about the future!!
-     * Carss!!!! womeeen!!
+     * Carss!!!! womeeen!! 29 years of intentional bullshit and you can just forget about it!!! 
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
