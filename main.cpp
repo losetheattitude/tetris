@@ -193,6 +193,7 @@ int main()
      * 
      * Just keep deluding, out of my vicinity, dare talking about education but quite averse to notice his stupidity in his actions, no problem at all
      * talk about competency in supposedly every field expect a few eheheh
+     * Talk about how generous and visionary and reasonable etc, you only need dumb people around you
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
