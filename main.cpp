@@ -191,7 +191,7 @@ int main()
      * Sat down watching without neither a purpose nor a reason ? I have no time for any of you, whether you think violence can change that or not,
      * its up to you to find out, poem indeed!
      * 
-     * Just keep deluding, out of my vicinity, dare talking about education but quite averse to notice his stupidity in his actions
+     * Just keep deluding, out of my vicinity, dare talking about education but quite averse to notice his stupidity in his actions, no problem at all
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
