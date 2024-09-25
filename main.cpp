@@ -209,6 +209,8 @@ int main()
      * Or just simply grow up and get the fuck out of my face, awww you would rather accuse 10yo kids with what you coercefully made them into ?
      * No no, you are %100000000 right, now you can get the fuck out of my face to doing whatever you were, no you are not the problem
      * You are only wasting my time, you have always, and you are now as well, thats the reason
+     * 
+     * Whats the problem again ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
