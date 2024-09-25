@@ -171,7 +171,7 @@ int main()
      * Its past!! its in the past!! its history!! a few years ealier is also history!! pls!!! we do no harm to nobody!!! he is bad!! he illegal!! ehehehhe
      * 
      * ehehehhe the amount of stupid patterns you display... Certainly a strong indication of utmost intelligence
-     * Only a slight feeling of "immature spoiled stupid kid"
+     * Only a slight feeling of "immature spoiled stupid kid" who can not assess unbiased information properly
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
