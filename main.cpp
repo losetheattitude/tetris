@@ -195,6 +195,7 @@ int main()
      * talk about competency in supposedly every field expect a few eheheh
      * Talk about how generous and visionary and reasonable etc, you only need dumb people around you who is also a beggar
      * eeheheh we tryna solve world problems ehehehheh pls help lie us eheheh
+     * now try to solve the problem you have formed intentionally, I wonder how intelligent you really are when you are against a real problem eheheh
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
