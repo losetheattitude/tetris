@@ -192,6 +192,7 @@ int main()
      * its up to you to find out, poem indeed!
      * 
      * Just keep deluding, out of my vicinity, dare talking about education but quite averse to notice his stupidity in his actions, no problem at all
+     * talk about competency in supposedly every field expect a few eheheh
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
