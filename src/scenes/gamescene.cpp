@@ -32,7 +32,7 @@ void GameScene::DrawLevelComponent(){
     DrawTextEx(font, "Level", {360, 440}, 35, 2, WHITE);
 
     const char* levelId = this->game->level->GetLevelText().c_str();
-    Vector2 levelIdSize = MeasureTextEx(font, levelId, 15, 2);
+    Vector2 levelIdSize = MeasureTextEx(font, levelId, 15, 2); 
     DrawTextEx(font, levelId, {480 - levelIdSize.x, 605 - levelIdSize.y}, 15, 2, WHITE);
 }
 

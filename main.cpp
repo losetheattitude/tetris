@@ -18,32 +18,167 @@
 #include "src/formatter/formatter.hpp"
 
 #include "src/core/joystick.hpp"
-
+ 
 int main()
 {
-    /**
-     * 
+    /** 
      * Event dispatching for Game class to further decouple and facilitate the transmission of internal properties otherwise
      * unamicable to perform so (Composition or inheritance(IExchanger like) ???)
      * Async environment for RemoteTerminal and RemoteStorages consider Disruptor for advancing purposes 
+     * Stateful joystick (indeterminate due to current command and future observer pattern implementation) to grant player 
+     * limited reversing ability (checkpoints to connotate). Requires mapping of opposite commands
+     * IsState queries in the game class dont comply with Open-Closed principle 
      * 
-    */
+     * You already know the difference between excuses and the truth, so you can provide as many "random noises as you woud like" so long as you have 
+     * default people around you
+     * 
+     * What insults are you talking about when the reality is on the scene with its most obscene form ? I really do not have desire to waste my time
+     * more with you as you are not objective
+     * This last time, this the last time  eheheh
+     * 
+     * only delusional ones can think what is regular for a gift, or rather they would love to wish
+     * so is there your assistance for your future guesses
+     * 
+     * Nobody can make such a thing seem acceptable, try harder may be you wont get into trouble
+     * Awwww, 29 years eheheheh, we havent even felt anything, WHATS THE PROBLEM ?
+     * You wont get away from such a thing by doing what already got you to this point
+     * And you suddenly start offering things or thanking ? You can not make decisions on behalf of something you do not understand ?
+     * Whats the problem again ? And you do it with such a stupid approach that, you think saying "he is the only one who can survive this"
+     * or "thats fate" should suddenly make everyone including me believe that ? Or are you just deluding about the future ?
+     * Are you trying harder than you should or are you just "obsessed or stubborn" ?
+     * Do you understand the meaning behind accusing of such a terrible thing ?
+     * You already know what a disgusting scandal it actually is, so the proof of your refrain 
+     * Awww, you need to produce bullshit for wider audiences ? Not a single individual ? Waaaaowww, what could be the problem ehehhee ?
+     * Wooomeeeeeen!! Yet another bullshit of cheap approach. You will for sure do that, arent you ?
+     * Awwww, you do not realize 29 years eheheh, awww we can not face the reality of our "intentions" and their consequences, so why not lie more ?
+     * eheheh cars etc ehehehe women etc ehehehe, More womeen btw! wait wait, we havent even felt anything how come it has been 29 years eheheh
+     * So, what could be the next for what we even havent realized we did ? That is really foreseeing should feel like 
+     * You not selfish you saying ? I have no time for you can not tell you enough then, what was the problem again ?
+     * No no, noone is responsible for such a thing!!! nooo, we give wooomeeeen!! Wait you do not even do that ? 
+     * Then it definitely is something really really fun, eheheh just more harm to see what happens eheheh
+     * 
+     * ehehe, according to our calculations, this sort of thing should turn every single individual into a monster so that we could 
+     * have something to worry about eheheh, no stupid games indeed! Awww, is this the part where you beg so that you can harm others ?
+     * That is intelligence btw eheheh
+     * 
+     * That is abuse and what you think for fun does not make it otherwise unless you start acting the way you are supposed to, ehehe
+     * no accountability and so much harm ehehehe!! disregarding your "irrelevant noises" and harming, is the summary of your "justified" position
+     * Are you fucking stupid ? You already know the answer, just remind yourselves the random noises you once made, that will tell you why people choose 
+     * to call them random
+     * If you dont approach friendly, then there could be no other than just violence and everytime you reduce to begging and still act like the cheap animal you are
+     * That can not be coincidence, eheheh this time it the last time pls, hehehe women hehehe, no no eheheh pls ueheheh
+     * we no animal pls, good ppl btw, better wake up so you can actually understand what it means to do what you are avoiding
+     * Awww, its so much late we really do not know eheheh, although we had all the information and cautions coming from
+     * all parties of impartial nature, but we still love to act like we know what to do and enjoy the experience eheheheh its fun really
+     * pls lie for us, hopefully nothing bad happens, we really love begging though, thats facts eheheh lie some more and harm, see what happens heheh
+     * 
+     * Naaahh, time does not exist, life a simulation so we lie, why not ? ehehe some womeeeen!!! and you fine, what is violence anyway ? eheheh time is illusion
+     * Waste more time why not ? eheheh hopefully though there wont come a day eheheh
+     * If you dream to have others afraid of violence, you already know what it is
+     * And you wield women as weapon they become objects, so why not follow your most short term right ? That is definitely the intelligence part
+     * Who needs growing up again ? eheheh not us pls bro, time does not exist btw, life a simulation, we seek voluntary conflict I guess ?
+     * 
+     * You do not remember the conditions ? That because you have followed your most short term gratification, thats the point of inexplication
+     * And now, you have still no explanation, because ? you are a never learning simple animal whose movements are deterministic.
+     * Tell me the opposite, you selfulfill your own "future", still deluding ? That can not be the problem
+     * Your miserable fears can not be the problem, still begging for your own experiences ? Yes, that is not the problem, you can self fulfill your empty life
+     * Do you want to assess the sincerity of your "irrelevant approaches" ? Get womeeen!! get this, you will get that, lie pls
+     * why dont you grow up ? Instead talk about some violence ? Awwww, "forgive me" hehehe its so easy and fun, lifes good bro
+     * 
+     * All the indications are pointing the direct opposite of what you are "alleging" but you would still love to enjoy your life ehheeh
+     * Still looking for solutions or bullshit ? Thats not the problem, and you suddenly think saying "I am sorry!!!" would do what ?
+     * 
+     * ehehe, why dont you just go fly somewhere or just do something ? eheheh its really easy, ehehe life a simulation btw
+     * Tell me the worth of your values, you do not see the point where you are completely wrong ?
+     * still thinking "greatly" that offering things you would not would suddenly solve the issue because you are after the same thing and so should others as well ?
+     * You are really the most credible group of people I have ever seen!!! thank you, whatever you could say should definitely mean so much ehehe
+     * 
+     * Still producing bullshit to cover your inferior nature ? and you suddenly start thinking that offering material should solve the problem ?
+     * So where is the correlation of "pain matures and have some womeeeen ?" So you have somehow assumed the role of "educator" ? With that approach of such a uniqueness ?
+     * And you say you are miserably afraid so you just randomly harm then to beg as thats in your core nature ? Then you suddenly start saying have some womeen ?
+     * 
+     * What a shame that you can not see, you are the type that world is suffering from.
+     * You are the type that the world is suffering from ? You still say women or cars ? but you still brag about applying irrelevant pain ?
+     * In which stupid world are you living ? Imma pass the world in which you enjoy and advise others to lead pain inflicted externally
+     * Stupid people, to even say the least. You can delude all you want, do it after you pay for your actions of 29 years 
+     * You dreamt it would be solved so easily I am sure, who is the irresponsible, uncredible yet "delusional" animal ?
+     * You can not be just that, since you have not even made a single decision that is not your place right ?
+     * And you still disgustingly offer women ? Where were you all this time ? Awwww, now you are in tight situation, so you act really intelligently eheheheh
+     * Do you have the audacity to think about fixing ? And you say "you are trying to help ? or trying to teach ?"
+     * And you suddenly start begging ? Back!! we take it back!! plsss, you know thats the precise definition of "being a stupid kid"
+     * 
+     * Look at your own actions and infer the need of education on your part, you would be the very thing you brag about if you had the intelligence to see that
+     * Still begging that "HE ATE IT!!!! eheheheh oyster heheheh eheh its so funny bro, we good, great intelligent ppl ehehe"
+     * 
+     * Existential threat!! existential threat hehehehe!!, you do not get to decide, wait wait its have some womeeeeeennnn!!! plsss
+     * and you still beg for silence ? Awww, 29 years is nothing come on, please trust and help us!!! we give womeeeennnnn!!!
+     * You see our credibility right ? Thats unmatchable!!! You do not get to decide whether something continues or not
+     * 
+     * You still seek for appliable yet nonsense bullshit ? Trust us pls, we deliver we good, he ate it, he was like this, he did it! ehehhe
+     * Really good luck explaining your perfect reasonless brains, and all you can say, is meaningless noises ?
+     * And you beg silence ? But you still want to enjoy your experiences ? eheheh
+     * So you sure you are not biased eheh, btw get woomeeeenn!!! get carss!!! its funny somehow ehhehe
+     * 
+     * Please be calm, now that we can have some form of harm, be calm and use your brain!! eheh
+     * Pleasee, assess our great conduct calmly!! because it reallly really is apparent that its disgusting
+     * So you think it would be a blessing ehehehe, thats really a good guess, with all the information I have,
+     * I can confidently say that you are in a tough situation, Immature people do have that skill to themselves
+     * What makes you think one would consider going back into a group which have made so disgusting actions they can not account for ?
+     * Btw, tell me the worth of your existence hehehe, not incompetency really
+     * using your brain you can only tell "carsss!!! womeeeen!!!" thats no coincidence
+     * 
+     * You know what they say about people like you, eheheh, like the type that offers wooomeeeeen!!! for what they are afraid to tell about what they are
+     * committing intentionally, like the type that takes what is certainly not funny for funny so that they could hide like the animal they are
+     * Please, lie for us for a few days, then we can harm more heheheh
+     * 
+     * Pain as education!!! we clearly lack all of that which we praise
+     * Please forgive us!!! we are not the same individual that harmed for the sake of harming!!!! we want to have fun!! heeheheh have some womeeennn!!!!
+     * But do not tell them the previous attempts of ours that are such a scale on the intelligence eheheheh pls
+     * 
+     * Now, talk about your great noises ? Aww, you prefer calling it medicine!!!! fate!!!!
+     * You still dare calling it fate what you are intentionally committing ? going against the will of an individual with the most stupid things ?
+     * medicine!! You still would call it life ? ehehehhe its so fun, we just follow the stupid people, and believe and do whatever they say, we aint no animals ehehe
+     * Do you want to tell people how many times have you said the same things ?ehehehe it really is funny
+     * You just get harmed and detriment for no reason eheheh
+     * 
+     * How come you feel like you can make decisions that are not your concern ? I do not care what you think as you can guess
+     * perfectly, before all that, answer for the violence that you somehow perfectly think again that it is necessary
+     * 
+     * You used your perfect brain and arrived to the conclusion that one would need pointless violence and you did used it again
+     * to say that you can not just experience life ? And you used your perfect brain again to use medicine for what you are doing joyfully ?
+     * And you complain the situation you are in ? But you are doing it for your selfish purposes of experience ?
+     * And you still look around for solutions ? or you would rather ask "forgiveness" from those you havent practiced ?
+     * And you still hold stupid conversations for the very selfish experience that you would hate to ruin ? The very same urge 
+     * Under no circumstances can you make me do anything other than I want, so better luck next time
+     * And you still beg for random noises ? That you take for a skill ? Heyy, please lie and say this or otherwise we would be ruining our experiences ehehehe
+     * Okay okayyy, pls now help lying us eheheheh we really intelligent ppl, you will waste as you have done so, thats why I just do not have the intention for
+     * fooling around, now tell me the experience I have had, instead of offering the same stupid things like crazy over and over 
+     * That should be the intelligent eheheh, how come you talk normally ? talk more about 29 years and some violence hehehe its really fun 
+     * awww, before you forget your super intelligence approach and offer some woooomeeeeenn!!! Awwww, thats a blessing of begging
+     * You can get the fuck out of my face, wait waitt, you would rather call it education eheheh, wait wait, tell me the worth of your credibility
+     * or you just have to grow up or simply talk about the violence that you somehow think for a skill
+     * Ehehehe, this heaven, we good ppl, we tryna help, you get good things pls eheheh, you get women!!! you get womeeen!!! pls
+     * stop doing that  eheheheh, get some women eheheh we did so many things pls
+     * 
+     * You are just wasting time without a proper reason, and I have got nothing else other than bullshit to say to any of you. Its not that difficult
+     * Public threat!!! existential threat!!!! we do no harm!! he does!! plss
+     **/
 
-    InitWindow(500, 620, "Raylib Tetris");
-    SetTargetFPS(60);
-
-    // Grid* grid = new Grid();
-    // Level* level = makeLevelSingleton(2);
+    InitWindow (500, 620, "Raylib Tetris");
+    SetTargetFPS(144);               
+         
+    // Grid* grid = new Grid();  
+    // Level* level = makeLevelSingleton(2); <    
     // InputTerminal* terminal = new InputTerminal();   
 
     Grid* grid = new Grid();
-    Level* level = makeLevelSingleton(2);
-
+    Level* level = makeLevelSingleton(2);  
+  
     // BaseStorage storage = BaseStorage(); 
     // BaseTransformer formatter = BaseTransformer();
     // Exchanger exchanger = Exchanger(&storage, &formatter);
 
-    Game* game = new Game(grid, level, 0);
+    Game* game = new Game(grid, level, 0); 
     CommandFactory::Init(*game);
 
     Terminal* terminal = new LocalTerminal();
@@ -51,7 +186,7 @@ int main()
 
     GameScene gameScene = GameScene(game, joyStick);
     while(!WindowShouldClose())
-    {
+    { 
         BeginDrawing();
         gameScene.Draw();
 
@@ -61,4 +196,4 @@ int main()
 
     delete CommandFactory::GetInstance();
     CloseWindow();
-}
+} 
