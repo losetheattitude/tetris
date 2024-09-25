@@ -166,7 +166,8 @@ int main()
      * wait wait, gather more people eheheh more harm !!! eheheh its fun, btw we think we are sophistacted enough to talk about life!!!! fate!! its fate!!!
      * We are the one who is harming others!!! and suddenly start begging and thinking it for a skill
      * 
-     *  ehehehhe the amount of stupid patterns you display... Certainly a strong indication of utmost intelligence
+     *  ehehehhe the amount of stupid patterns you display... Certainly a strong indication of utmost intelligence, not even talking about your desperate excuses
+     * to cover what you already know about your incompetent selves
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
