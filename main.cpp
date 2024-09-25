@@ -175,8 +175,11 @@ int main()
      * Hey look, we tryna help and fix something eheheheh, we competent ppl, talk about the violence, talk about the conditions that you honorably pledged
      * Awww, wait what did you achieve again ? Awww, you have breached the law for no apparent and beneficial purposes ? and you think begging is a skill ?
      * And when it comes to explain, as you already know that its inexplicable, you say we lie!!! we intelligent ppl!!! we lie and harm citizenss!!! yess
-     * Aww, you would rather say woomeeeenn!! If you were the type that you now think really intelligently posed to be, you would have already communicated
-     * well enough to the point that you know you are acting like a stupid reasonless animal
+     * Aww, you would rather say woomeeeenn!! 
+     * 
+     * If you were the type that you now think really intelligently posed to be, you would have already communicated
+     * 
+     * well enough to the point that you know you are acting like a stupid reasonless animal instead of just harming for the sake of harming eheheheh its funny
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
