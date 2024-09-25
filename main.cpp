@@ -168,6 +168,9 @@ int main()
      * 
      *  ehehehhe the amount of stupid patterns you display... Certainly a strong indication of utmost intelligence, not even talking about your desperate excuses
      * to cover what you already know about your incompetent selves
+     * Its past!! its in the past!! its history!! a few years ealier is also history!! pls!!! we do no harm to nobody!!! he is bad!! he illegal!! ehehehhe
+     * 
+     * ehehehhe the amount of stupid patterns you display... Certainly a strong indication of utmost intelligence
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
