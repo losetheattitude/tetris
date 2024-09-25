@@ -204,6 +204,8 @@ int main()
      * we aint no dumb animal!! plsss
      * 
      * How come you think funny for what a disgusting thing ? Is it because you are doing it ? Some sort of special group of people ? ehehehe
+     * 
+     * Now talk about the violence and preceding beggings of promise nature, then we can talk about what to do
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
