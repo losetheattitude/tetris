@@ -435,6 +435,7 @@ int main()
      * we do it the old way btw, aint no harm in that, we tryna help people
      * wait, you would rather offer wooomeeeeennn!!! so that afterwards you can enjoy yourself with stupid approaches ?
      * Ehehehe, we catch him!! we give hime womeeen!! we catch him ehehehe intelligent people act like this bro
+     * Time does not exist btw
      * 
      **/
 
