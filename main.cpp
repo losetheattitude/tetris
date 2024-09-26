@@ -291,7 +291,7 @@ int main()
      * you do not get to decide when you are harming for the sake of harm, that is bullshit as the prior actions of yours 
      * You see the problem is whether someone does good, its that you DO NOT DO HARM, fucking stupid monkeys
      * 
-     * You ate it!!1 oyster eheheh thats why we harm!!
+     * You ate it!!1 oyster eheheh thats why we harm!! please help lie us, eheheheheh plsplspls we good, I swear
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
