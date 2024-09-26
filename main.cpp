@@ -387,7 +387,8 @@ int main()
      * those who think basic physical interactions to be a point of "intervention" and wield it failingly to achieve great harm!!!
      * Not dumb people indeed, I am just talking about irrelevant stuff, yesss, existential threat, yesss its bad etc
      * 
-     * You see where the cheap attribution is coming from ?
+     * You see where the cheap attribution is coming from ? You are the same animal who thinks they are doing something because they are forcing "their limits"
+     * whereas the reality is, you all look like the very animal that has been described everywhere!!! good ppl
      * 
      * 
      * 
