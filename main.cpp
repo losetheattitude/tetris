@@ -362,7 +362,7 @@ int main()
      * I do not want to see any of you around me, you remember your honorable and credible promises or actions that you think is fucking intelligent
      * like "give him a teen!!!" and lets chase him!!! eheheheh we honorable people, we always deliver, why dont you trust us ?
      * 
-     * fucking immature dumb monkeys
+     * fucking immature dumb monkeys that do not understand shit because of their stupid stubborness
      **/
 
 
