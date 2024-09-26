@@ -211,6 +211,7 @@ int main()
      * You are only wasting my time, you have always, and you are now as well, thats the reason
      * 
      * Whats the problem again ? How come you think you can make irrelevant noises ? How come you think you act only detrimental and expect others to understand ?
+     * Or would you say "womeeeennnn!!"
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
