@@ -303,7 +303,8 @@ int main()
      * 
      * You understand the against will actions does not have any substitution so whether you think offering what others are acquiring normally should make
      * a difference or not, that is only what you wish the reality to be
-     * That is the point of irrationality that you would regret stepping into tomorrow if not today
+     * That is the point of irrationality that you would regret stepping into tomorrow if not today, talk about regular life experiences for extreme detrimental ones,
+     * you will see the point
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
