@@ -401,6 +401,8 @@ int main()
      * What you would love to call history, is not only really close but also one in which you harm irrelevant people
      * You call it education, but guess what ? Have you ever been looked at the history ? You are just exactly the type in the history
      * Bro wake up to your reality, you are average people and you prove that with your stupid actions 
+     * Like taking begging for a skill, like taking violence for a skill, like taking detrimental like for a skill,
+     * You are average, and thats why you act the way you act, WAKE UP
      * 
      * 
      * 
