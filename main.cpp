@@ -296,7 +296,7 @@ int main()
      * Thats not being a kid, I assure you. 29 years ? ehehehe its just meant to be that we seek reasonless trouble because of our insecurity
      * You still think you are acting on your insecurities ? Its just meant to be ? Its life ? Its simulation ? We great ? 29 years ? eheh woooomeeeenn!!!
      * Now the situation is, you have built yourselves a huge pile of disgusting bullshit that you have no idea how to unveil. Waaowwwww, have some woomeeeeenn!!!
-     * Offtopic!!! offtopic!! dont tell people what a disgusting animal we are!!!
+     * Offtopic!!! offtopic!! dont tell people what a disgusting animal we are!!! It was just a small mistake!!! eheheheh we harm 29 years eheheh
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
