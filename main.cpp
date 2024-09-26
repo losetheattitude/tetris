@@ -236,6 +236,7 @@ int main()
      * fucking dumb crowds, just as the everyone has been describing
      * 
      * Coercion plays out just as this instance does, when the "perpetrators" are amiss, there is no problems. You see the problem ?
+     * 29 years is just okay because we have done something that we shouldnt have!!! so get womeeenn!!
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
