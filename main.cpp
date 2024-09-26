@@ -215,6 +215,8 @@ int main()
      * How come you feel relieved ? Bro get the fuck out of my face, waste your own time
      * Wait, you still try your best to achieve what ? and you have no explanation for the entire time of an individual that you have neither
      * interest nor relation with ? Just that you are a spoiled immature kid ? And you hate when people go against your ideas ?
+     * 
+     * And you still produce whatever you can come up with, not that they are true but you delude something to be the solution to a non existent problem ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
