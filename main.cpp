@@ -398,6 +398,7 @@ int main()
      * What a shame that you are a never learning animal, that has always done the same mistake over and over again throughout the history
      * 
      * Do the same mistake that others have done, do not be surprised at, or you would rather bend guising it with being "overly intelligent"
+     * What you would love to call history, is not only really close but also one in which you harm irrelevant people
      * 
      * 
      * 
