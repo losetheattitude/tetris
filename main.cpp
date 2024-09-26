@@ -323,7 +323,8 @@ int main()
      * Its definitely funny, make sure it be like that, wait which part was exactly the funniest ?
      * 
      * Keep guising your fear with the most possible stupid thing!! violencee!!! and we want to enjoy our experiences eheheheh
-     * Still "defending" the same story ?
+     * Still "defending" the same story ? You do not even follow ? The whole story if about life and it has been 29 years ? So there is no need for your stupid stories ?
+     * Thats why you are the type that everyone has been referring to ? Because you do not see, you just fear eheheh
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
