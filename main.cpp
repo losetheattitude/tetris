@@ -430,6 +430,8 @@ int main()
      * Instead of saying "do something", start talking about violence and no money!!! no going out!!! giving teens to then "intelligently catch"
      * You all bunch of dumb animals, you still talk about cars ? we do it the old way bro!! you get nothing but when people gather, we say "do something!!!"
      * "get woomeeeen!!"
+     * 
+     * Why do you still beg ? Please go with what we are saying so that we can continue harming!!! help uss
      **/
 
 
