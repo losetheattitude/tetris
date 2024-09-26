@@ -345,6 +345,8 @@ int main()
      * You would rather try to survive from completely nonsense approach ? Heyyy! we give womennn!! help us!
      * Ehehhe, if you needed money, all you have to do is ask!!! we good ppl, pls
      * Do you want cars ??? Just ask for them!!! Have some womeeeenn!!! we good ppl,
+     * 
+     * Look what a stupid situation you got yourselves in, that was indeed a necessity!!! 
      **/
 
 
