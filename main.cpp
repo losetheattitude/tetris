@@ -307,7 +307,7 @@ int main()
      * you will see the point, I have all that it takes to see the difference VOLUNTARILY
      * 
      * Think about medications etc ehehehe, we tryna help we tryna solve world problems, Get some womeeeeennnnn!!! thats how intelligent we are,
-     * we only see what we dream then get surprised at the possible outcomes eheheheh
+     * we only see what we dream then get surprised at the possible outcomes eheheheh we just do not understand, we want enjoy our lifes!!
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
