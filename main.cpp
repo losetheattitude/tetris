@@ -245,7 +245,7 @@ int main()
      * Eheheheh, just a joke, 29 years its nothing, hopefully we get no harm!! just the average animal of 20. century
      * Just the average animal who deals with the reality that they can not be okay with through his vile reflection
      * Just some violence!!! some lies!! some inept approaches because why not ? But we can not really accept it eheheheheh
-     * funny and intelligent people and also all the good qualities !!!
+     * funny and intelligent people and also all the good qualities !!! now tell me that you are not the most deludeful dumb animals
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
