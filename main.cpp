@@ -267,6 +267,7 @@ int main()
      * or understanding of his life with ? And you dare talking about cars ? You know it means you are being overly irresponsible,
      * and what do you think is the outcome of such an irresponsibility would be ? Awww, you would rather avoid with stupid excuses until the point that
      * something awefulll!!! happens, tell me your are not a child, why do you think one would be content to commit ?
+     * see the problem ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
