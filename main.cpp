@@ -313,6 +313,7 @@ int main()
      * 
      * Just the last time, we give one woooomeeeennn!! we tryna play games we tryna help ppl!!! plss
      * you know I can tell the difference between who I am with so better stop playing stupid games
+     * or I should say, you just do not know what you are doing
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
