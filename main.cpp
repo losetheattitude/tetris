@@ -284,6 +284,7 @@ int main()
      * You see how you failingly dealing with reality ? Why do you think things get complicated and gets broken ?
      * Now you have 30 years of wasted time with some stupid random violence of your own reflection
      * Now you can only coerce as you have done before in order to guise and where did it lead you to so far ?
+     * Its just fate btw, including random violence as well and afterwards begging as well ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
