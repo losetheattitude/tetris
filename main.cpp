@@ -275,7 +275,7 @@ int main()
      * Womeeenn!!!! just one right before things get complicated, eheheheh its really fun, life a simulation btw
      * so it must be totally okay to beg and harm later on eheheh awww that was the part that was intelligent eheheheh
      * 
-     * eheheh, stop that!!! you can not post those !!!! we good ppl
+     * eheheh, stop that!!! you can not post those !!!! we good ppl, we cause no disasters
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
