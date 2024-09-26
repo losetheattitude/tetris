@@ -213,6 +213,7 @@ int main()
      * Whats the problem again ? How come you think you can make irrelevant noises ? How come you think you act only detrimental and expect others to understand ?
      * Or would you say "womeeeennnn!!" or you just avoid the responsibility of the most possibly worst thing on earth ?
      * How come you feel relieved ? Bro get the fuck out of my face, waste your own time
+     * Wait, you still try your best to achieve what ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
