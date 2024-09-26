@@ -220,7 +220,8 @@ int main()
      * What do you think a biological creature could be looking for other than what you are looking for ? But somehow
      * you lack the courage to simply provide what any other does need ? And you just say, he could just die!!! I DO NOT CARE ?
      * That can not be the problem along side your great acts of violence ? You only need to look at the "result"
-     * but as you can tell, if you can not already see the problem that means you are not meant to
+     * but as you can tell, if you can not already see the problem that means you are not meant to, thats why I keep saying, PAY ATTENTION TO YOUR OWN LIVES!!
+     * You are only harming to harm!!!
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
