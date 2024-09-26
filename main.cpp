@@ -334,7 +334,7 @@ int main()
      * 
      * So, the story is, I have all the information I need to determine the guilty ? But you still would like to enjoy ?
      * Are you to one who plans for the long term ? Are you the one who seek no problems yet you can not use your brain to the point that it will cause you
-     * longer term troubles ?
+     * longer term troubles ? You know its not only inexplicable but also intentionally made so ?
      **/
 
 
