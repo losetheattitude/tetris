@@ -404,6 +404,9 @@ int main()
      * Like taking begging for a skill, like taking violence for a skill, like taking detrimental like for a skill,
      * You are average, and thats why you act the way you act, WAKE UP
      * 
+     * You pay for your own actions again, thats as far as it could go, not some wooomeeeeeennnn!!! that you think you fool people because
+     * they fucking crave your stupid ass
+     * 
      * 
      * 
      **/
