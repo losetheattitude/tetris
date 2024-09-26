@@ -414,7 +414,7 @@ int main()
      * 
      * Congrats to all of you!! make decisions and hide like the animal you are, I do not want to see any of you around me, continue deluding
      * Forget about the past!!! wait wait, allow us to harm a little more ehehe it was meant to be btw, its fate or life a simulation, life good
-     * we good ppl
+     * we good ppl, you still delude you should do what you want without responsibility ? Yess, thats who I have always been looking for
      **/
 
 
