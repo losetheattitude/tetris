@@ -353,7 +353,7 @@ int main()
      * Hey why dont you stay in my place!!! we good ppl, we tryna help you, why dont you just ask for it???
      * So you say, we tryna help!!! Awww, it is past!! its the history!! It has only been a few years!!!
      * Awwww, why didnt you ask for money from people who harms you ? wait wait, there could be a problem in your understandings eheheh
-     * So you think you act intelligently ehehehe
+     * So you think you act intelligently ehehehe 
      * eheheh we prefer harming eheheh feels good, life good, life simulation time does not exist
      * Why didnt you ask for help ? We good, we tryna help everybody!!
      * It looks disgustingly obvious that you are causing pointless harm and acting like you are making you intelligent ? Are you sure about that ?
@@ -374,6 +374,7 @@ int main()
      * And you would rather not receive any sort of "corrections" of your stupid behavior ?
      * Eehheehe, you are like, why not coercefully give him medicines while we display our greatness through violence, he can not have anything
      * because he has no resources because we constantly harm him, and we call it intelligence ?
+     * And all the while you harm, 29 years has passed, but you have the courage to say that it is all a joke!!! help us!!
      * 
      * 
      **/
