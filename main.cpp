@@ -223,7 +223,8 @@ int main()
      * but as you can tell, if you can not already see the problem that means you are not meant to, thats why I keep saying, PAY ATTENTION TO YOUR OWN LIVES!!
      * You are only harming to harm!!!
      * 
-     * Obviously, anybody would want so instead of prompting question just act on what you "insincerely offering"
+     * Obviously, anybody would want so instead of prompting question just act on what you "insincerely offering", or you would like to
+     * just do it at the last moment so that you can "defend" your doubtful position
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
