@@ -426,6 +426,9 @@ int main()
      * 
      * Stupid animals, compare your old way of doing "things" and the people who actually practices his brain. Thats the indication you should be looking for
      * to tell that you are actually a random individual
+     * 
+     * Instead of saying "do something", start talking about violence and no money!!! no going out!!! giving teens to then "intelligently catch"
+     * You all bunch of dumb animals
      **/
 
 
