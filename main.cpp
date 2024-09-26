@@ -453,6 +453,8 @@ int main()
      * anything other than, heyyy its life!! its fate!!! life a simulation!!! pls we tryna help!!!
      * Ehehehe, its just fate really
      * 
+     * You do not understand the difference between what we are thinking ? You say holiday!!!! womeeeennn!! cars!!!!! I am saying what again ?
+     * 
      * 
      **/
 
