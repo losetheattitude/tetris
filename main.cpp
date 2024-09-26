@@ -395,6 +395,7 @@ int main()
      * Wait wait, wait if we harmed 10yo kids and coerced him into doing things so that later on we can provide as proof for our vile behavior ?
      * And I am the one, saying it again, all the information I could need to re-form the true reality ? and all you can say is wooomeeeen!!!?
      * Have some relation!!! we give you what has never been given to nobody!!!
+     * What a shame that you are a never learning animal, that has always done the same mistake over and over again throughout the history
      * 
      * 
      * 
