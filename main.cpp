@@ -217,6 +217,8 @@ int main()
      * interest nor relation with ? Just that you are a spoiled immature kid ? And you hate when people go against your ideas ?
      * 
      * And you still produce whatever you can come up with, not that they are true but you delude something to be the solution to a non existent problem ?
+     * What do you think a biological creature could be looking for other than what you are looking for ? But somehow
+     * you lack the courage to simply provide what any other does need ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
