@@ -321,6 +321,8 @@ int main()
      * 
      * Awwww, you havent still realized what you are doing wrong, or you just would love the reality allow you eheheheh
      * Its definitely funny, make sure it be like that, wait which part was exactly the funniest ?
+     * 
+     * Keep guising your fear with the most possible stupid thing!! violencee!!! and we want to enjoy our experiences eheheheh
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
