@@ -268,6 +268,8 @@ int main()
      * and what do you think is the outcome of such an irresponsibility would be ? Awww, you would rather avoid with stupid excuses until the point that
      * something awefulll!!! happens, tell me your are not a child, why do you think one would be content to commit ?
      * see the problem ? you still want people talk things out ? Can you talk people out the really clever actions ? 
+     * 
+     * You know there could be no going back, as you have alreay agreed eheheheh
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
