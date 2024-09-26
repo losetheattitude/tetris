@@ -222,6 +222,8 @@ int main()
      * That can not be the problem along side your great acts of violence ? You only need to look at the "result"
      * but as you can tell, if you can not already see the problem that means you are not meant to, thats why I keep saying, PAY ATTENTION TO YOUR OWN LIVES!!
      * You are only harming to harm!!!
+     * 
+     * Obviously, anybody would want so instead of prompting question just act on what you "insincerely offering"
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
