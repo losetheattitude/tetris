@@ -409,7 +409,8 @@ int main()
      * instead of begging, you could be doing a lot more other things, and you will get yourself into trouble
      * 
      * Are you fucking dreaming still ? Heyy we found some pieces, that should indicate so many things as to what we were doing!!
-     * And you still delude ? and you still waste time ?
+     * And you still delude ? and you still waste time ? Thinking that you have somehow rights to do it ? You delude it to be your fucking job?
+     * Harming irrelevant people ?
      * 
      * 
      * 
