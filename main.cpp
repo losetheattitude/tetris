@@ -327,7 +327,10 @@ int main()
      * Thats why you are the type that everyone has been referring to ? Because you do not see, you just fear eheheh
      * Its just life btw, the inaccuracy of such an approach is unmatchable and when you add the fact that there could be no responsibility you get yourself 
      * a group of animals who think they should do whatever they want
+     * 
+     * Do you think life works that way ?
      **/
+
 
     InitWindow (500, 620, "Raylib Tetris");
     SetTargetFPS(144);               
