@@ -273,6 +273,7 @@ int main()
      * What could be the solution ? Womeeeeennnn!! we understand, we good, we tryna help, we solve problem
      * Just try to explain your actions, and we can get to the talking afterwards
      * Womeeenn!!!! just one right before things get complicated, eheheheh its really fun, life a simulation btw
+     * so it must be totally okay to beg and harm later on eheheh
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
