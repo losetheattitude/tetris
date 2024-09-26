@@ -342,7 +342,7 @@ int main()
      * Is it because you really do not know what it is or you would hate to see it for what it is ?
      * It is definitely most curious, you see the very same problem occurs when you offer woomeeeeen!! for what you can not explain
      * 
-     * You would rather try to survive from completely nonsense approach ?
+     * You would rather try to survive from completely nonsense approach ? Heyyy! we give womennn!! help us!
      **/
 
 
