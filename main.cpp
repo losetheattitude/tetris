@@ -413,7 +413,8 @@ int main()
      * Harming irrelevant people ?
      * 
      * Congrats to all of you!! make decisions and hide like the animal you are, I do not want to see any of you around me, continue deluding
-     * Forget about the past!!! wait wait, allow us to harm a little more ehehe
+     * Forget about the past!!! wait wait, allow us to harm a little more ehehe it was meant to be btw, its fate or life a simulation, life good
+     * we good ppl
      **/
 
 
