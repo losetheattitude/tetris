@@ -467,6 +467,8 @@ int main()
      * Always be the same person right ? Who do you think is having problems with that ? 
      * Now its the time you grow up and wake up and whatever you delude not to be
      * Do you want to talk about how you greatly coerced kids into ? And afterwards you can not even properly explain ?
+     * We do it the old way btw, isnt it ?
+     * 
      **/
 
 
