@@ -256,6 +256,7 @@ int main()
      * that watching illegally should be okay alongside with violence and all the things you would love to run away ? ehehe its funny
      * 
      * Noo, you should also live detrimental lifestyle because... because welll, because its like yesss, we no problem
+     * Hey, when the time comes say a few good things and we move on to our precious experiences, we do not care what happens ehehehe intelligent btw
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
