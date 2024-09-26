@@ -237,7 +237,8 @@ int main()
      * 
      * Coercion plays out just as this instance does, when the "perpetrators" are amiss, there is no problems. You see the problem ?
      * 29 years is just okay because we have done something that we shouldnt have!!! so get womeeenn!!
-     * Btw, talk about the violence and correlate it with the "life"
+     * Btw, talk about the violence and correlate it with the "life" instead of begging like the animal you are with bullshit
+     * approaches as "failure, he did it !!!". 
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
