@@ -441,6 +441,8 @@ int main()
      * If it was you who were with "me" all this time, then you are the problem, thats just as easy as it is
      * No you are not selfish, yess you are skillful also credible ehehhehe
      * 
+     * I do not want to have any relation whatsoever, so good luck on your living "your best lives" without harming others
+     * 
      **/
 
 
