@@ -367,6 +367,7 @@ int main()
      * having fun from random violence, wasting time looking around ?
      * 
      * You still think it should be fine ? What makes you think I want to play your stupid games ? I am the one who is experiencing your stupid irrelevant conduct
+     * I am good regardless of anything you could possibly offer or beg for me to help you
      * 
      * 
      **/
