@@ -406,6 +406,7 @@ int main()
      * 
      * You pay for your own actions again, thats as far as it could go, not some wooomeeeeeennnn!!! that you think you fool people because
      * they fucking crave your stupid ass, WAKE UP! good ppl
+     * instead of begging, you could be doing a lot more other things, and you will get yourself into trouble
      * 
      * 
      * 
