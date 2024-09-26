@@ -424,7 +424,8 @@ int main()
      * Do not let such a disgusting sequence be written into anywhere!!! plsss get cars!!
      * we do it the old way! we good ppl! ehehehhe its really fun
      * 
-     * Stupid animals
+     * Stupid animals, compare your old way of doing "things" and the people who actually practices his brain. Thats the indication you should be looking for
+     * to tell that you are actually a random individual
      **/
 
 
