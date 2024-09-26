@@ -241,6 +241,8 @@ int main()
      * approaches as "failure, he did it !!!". Instead talk about your productive and informative approach so far, and correlate with what it has solved 
      * You will quickly find out the answer to be the nothing! but guess what, you lack all the "substance" for an animal to become a human 
      * so you will avoid acknowleding your mistake, delude about how great you are
+     * 
+     * Eheheheh, just a joke, 29 years its nothing, hopefully we get no harm!! just the average animal of 20. century
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
