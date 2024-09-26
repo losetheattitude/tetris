@@ -282,6 +282,7 @@ int main()
      * and you still offer for your disgusting actions, cars ??? or woomeeeeennn ?
      * You understand the coercion right ? You understand the irresponsibility right ? Awww, you love to allege with whatever eheheh
      * You see how you failingly dealing with reality ? Why do you think things get complicated and gets broken ?
+     * Now you have 30 years of wasted time with some stupid random violence of your own reflection
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
