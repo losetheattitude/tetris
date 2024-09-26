@@ -352,6 +352,7 @@ int main()
      * We do not know what is next eheheheh, we make promises as we do right now ? Why dont you believe us ? Awww, thats not a pattern indeed
      * Hey why dont you stay in my place!!! we good ppl, we tryna help you, why dont you just ask for it???
      * So you say, we tryna help!!! Awww, it is past!! its the history!! It has only been a few years!!!
+     * Awwww, why didnt you ask for money from people who harms you ? wait wait, there could be a problem in your understandings eheheh
      **/
 
 
