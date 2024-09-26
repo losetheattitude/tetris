@@ -438,7 +438,7 @@ int main()
      * Time does not exist btw
      * 
      * We give womennn ehehehe then we catch him eheheheh its really intelligent btw eheheh
-     * If it was you who were with "me" all this time, then you are the problem
+     * If it was you who were with "me" all this time, then you are the problem, thats just as easy as it is
      * 
      **/
 
