@@ -305,6 +305,8 @@ int main()
      * a difference or not, that is only what you wish the reality to be
      * That is the point of irrationality that you would regret stepping into tomorrow if not today, talk about regular life experiences for extreme detrimental ones,
      * you will see the point, I have all that it takes to see the difference VOLUNTARILY
+     * 
+     * Think about medications etc ehehehe, we tryna help we tryna solve world problems
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
