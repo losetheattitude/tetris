@@ -466,6 +466,7 @@ int main()
      * Thats not deserved problem at all, you have and are still displaying weakness by doing the most basic thing and feel okay about it
      * Always be the same person right ? Who do you think is having problems with that ? 
      * Now its the time you grow up and wake up and whatever you delude not to be
+     * Do you want to talk about how you greatly coerced kids into ? And afterwards you can not even properly explain ?
      **/
 
 
