@@ -432,6 +432,8 @@ int main()
      * "get woomeeeen!!"
      * 
      * Why do you still beg ? Please go with what we are saying so that we can continue harming!!! help uss
+     * we do it the old way btw, aint no harm in that, we tryna help people
+     * 
      **/
 
 
