@@ -370,6 +370,7 @@ int main()
      * I am good regardless of anything you could possibly offer or beg for me to help you
      * 
      * Which part is exactly the most appropriate again ? still medication you think ?
+     * You still thinking for others as well ? But with the most stupidly erroneous way ?
      * 
      * 
      **/
