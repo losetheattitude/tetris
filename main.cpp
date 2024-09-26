@@ -392,6 +392,9 @@ int main()
      * 
      * If you had the proper intention, your actions would have already been rendered differently, you are causing all this to happen and
      * even worse will follow because you do not get your vile side
+     * Wait wait, wait if we harmed 10yo kids and coerced him into doing things so that later on we can provide as proof for our vile behavior ?
+     * And I am the one, saying it again, all the information I could need to re-form the true reality ? and all you can say is wooomeeeen!!!?
+     * Have some relation!!! we give you what has never been given to nobody!!!
      * 
      * 
      * 
