@@ -214,7 +214,7 @@ int main()
      * Or would you say "womeeeennnn!!" or you just avoid the responsibility of the most possibly worst thing on earth ?
      * How come you feel relieved ? Bro get the fuck out of my face, waste your own time
      * Wait, you still try your best to achieve what ? and you have no explanation for the entire time of an individual that you have neither
-     * interest nor relation with ?
+     * interest nor relation with ? Just that you are a spoiled immature kid ? And you hate when people go against your ideas ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
