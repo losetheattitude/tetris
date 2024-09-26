@@ -359,7 +359,8 @@ int main()
      * It looks disgustingly obvious that you are causing pointless harm and acting like you are making you intelligent ? Are you sure about that ?
      * And you start saying carsss!! womeeennn!!! ? and can you tell me the experience I have had ?
      * 
-     * I do not want to see any of you around me
+     * I do not want to see any of you around me, you remember your honorable and credible promises or actions that you think is fucking intelligent
+     * like "give him a teen!!!" and lets chase him!!! eheheheh we honorable people, we always deliver, why dont you trust us ?
      **/
 
 
