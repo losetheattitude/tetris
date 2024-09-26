@@ -468,6 +468,7 @@ int main()
      * Now its the time you grow up and wake up and whatever you delude not to be
      * Do you want to talk about how you greatly coerced kids into ? And afterwards you can not even properly explain ?
      * We do it the old way btw, isnt it ? What could even go wrong ?
+     * No no, you can not compare others with him!!! we never made no promises ehehehehe intelligent ppl btw
      * 
      **/
 
