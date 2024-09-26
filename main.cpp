@@ -463,7 +463,7 @@ int main()
      * That is to proud certainly
      * 
      * Delude it be okay, it should be okay
-     * Thats not deserved problem at all
+     * Thats not deserved problem at all, you have and are still displaying weakness by doing the most basic thing and feel okay about it
      **/
 
 
