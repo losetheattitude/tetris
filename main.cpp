@@ -471,6 +471,7 @@ int main()
      * No no, you can not compare others with him!!! we never made no promises ehehehehe intelligent ppl btw
      * get cars!! eheheh this the 10. time we offer eheheh intelligent ppl btw
      * 
+     * Selfish disgusting monkeys
      **/
 
 
