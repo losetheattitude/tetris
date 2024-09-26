@@ -405,7 +405,7 @@ int main()
      * You are average, and thats why you act the way you act, WAKE UP
      * 
      * You pay for your own actions again, thats as far as it could go, not some wooomeeeeeennnn!!! that you think you fool people because
-     * they fucking crave your stupid ass
+     * they fucking crave your stupid ass, WAKE UP! good ppl
      * 
      * 
      * 
