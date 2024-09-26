@@ -301,7 +301,8 @@ int main()
      * You get unconditional violence as thats the exact reflection of your reason, the delusion of "making the most stupid decisions on behalf of others"
      * is a must, that is the type I do not want around me.
      * 
-     * You understand the against will actions does not have any substitution 
+     * You understand the against will actions does not have any substitution so whether you think offering what others are acquiring normally should make
+     * a difference or not, that is only what you wish the reality to be
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
