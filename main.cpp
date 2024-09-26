@@ -263,6 +263,8 @@ int main()
      * eheheheh, have some womeeeenn!! thats really good
      * 
      * Ehehehe its a little bit late but we believe we did something wrong ? That sounds like a really really dumb animal to me ? 
+     * Wait wait, we thought everyone was doing something while we were as well ? So now it makes sense to waste our times with people we have no relation
+     * or understanding of his life with ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
