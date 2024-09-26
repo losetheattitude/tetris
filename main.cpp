@@ -412,8 +412,7 @@ int main()
      * And you still delude ? and you still waste time ? Thinking that you have somehow rights to do it ? You delude it to be your fucking job?
      * Harming irrelevant people ?
      * 
-     * 
-     * 
+     * Congrats to all of you!! make decisions and hide like the animal you are
      **/
 
 
