@@ -376,6 +376,8 @@ int main()
      * because he has no resources because we constantly harm him, and we call it intelligence ?
      * And all the while you harm, 29 years has passed, but you have the courage to say that it is all a joke!!! help us!!
      * 
+     * Its just that we overpopulated with good intentions that we just want to see others doing good as well!!
+     * 
      * 
      **/
 
