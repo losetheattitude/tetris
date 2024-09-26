@@ -298,7 +298,8 @@ int main()
      * Now the situation is, you have built yourselves a huge pile of disgusting bullshit that you have no idea how to unveil. Waaowwwww, have some woomeeeeenn!!!
      * Offtopic!!! offtopic!! dont tell people what a disgusting animal we are!!! It was just a small mistake!!! eheheheh we harm 29 years eheheh
      * 
-     * You get unconditional violence as thats the exact reflection of your reason
+     * You get unconditional violence as thats the exact reflection of your reason, the delusion of "making the most stupid decisions on behalf of others"
+     * is a must
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
