@@ -230,7 +230,7 @@ int main()
      * be the way to go!!! clearly intelligent although I am not buying it. I can see what I am and have been dealing with
      * So better leave your stupid attitude and do what you are supposed and promised to properly instead of taking being cheap for skillful
      * 
-     * How come you still talk ?
+     * How come you still talk ? You are the most uncredible and immature people that I would not even consider for a second to waste my time with
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
