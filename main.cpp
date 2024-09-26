@@ -239,6 +239,8 @@ int main()
      * 29 years is just okay because we have done something that we shouldnt have!!! so get womeeenn!!
      * Btw, talk about the violence and correlate it with the "life" instead of begging like the animal you are with bullshit
      * approaches as "failure, he did it !!!". Instead talk about your productive and informative approach so far, and correlate with what it has solved 
+     * You will quickly find out the answer to be the nothing! but guess what, you lack all the "substance" for an animal to become a human 
+     * so you will avoid acknowleding your mistake
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
