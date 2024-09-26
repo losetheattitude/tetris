@@ -354,6 +354,7 @@ int main()
      * So you say, we tryna help!!! Awww, it is past!! its the history!! It has only been a few years!!!
      * Awwww, why didnt you ask for money from people who harms you ? wait wait, there could be a problem in your understandings eheheh
      * So you think you act intelligently ehehehe
+     * eheheh we prefer harming eheheh feels good, life good, life simulation time does not exist
      **/
 
 
