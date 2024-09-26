@@ -278,7 +278,7 @@ int main()
      * eheheh, stop that!!! you can not post those !!!! we good ppl, we cause no disasters
      * Tell me your credibility again ? pls lie for us, wait wait, we were about to say, lets show them how violent we are!!!
      * 
-     * Now are you going to start asking for help from who you are harming without a reason ?
+     * Now are you going to start asking for help from who you are harming without a reason ? You see where the cheap is coming from ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
