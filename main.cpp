@@ -276,7 +276,7 @@ int main()
      * so it must be totally okay to beg and harm later on eheheh awww that was the part that was intelligent eheheheh
      * 
      * eheheh, stop that!!! you can not post those !!!! we good ppl, we cause no disasters
-     * Tell me your credibility again ?
+     * Tell me your credibility again ? pls lie for us
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
