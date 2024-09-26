@@ -363,6 +363,8 @@ int main()
      * like "give him a teen!!!" and lets chase him!!! eheheheh we honorable people, we always deliver, why dont you trust us ?
      * 
      * fucking immature dumb monkeys that do not understand shit because of their stupid stubborness
+     * Look at you, deluding that you are actually doing something while the reality is you are just stubborn lost people
+     * having fun from random violence
      **/
 
 
