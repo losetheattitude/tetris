@@ -390,6 +390,9 @@ int main()
      * You see where the cheap attribution is coming from ? You are the same animal who thinks they are doing something because they are forcing "their limits"
      * whereas the reality is, you all look like the very animal that has been described everywhere!!! good ppl
      * 
+     * If you had the proper intention, your actions would have already been rendered differently, you are causing all this to happen and
+     * even worse will follow because you do not get your vile side
+     * 
      * 
      * 
      **/
