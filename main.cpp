@@ -380,6 +380,8 @@ int main()
      * We had 29 years of opportunity to do just the thing that now we beg that we do ?
      * And you still think you achieve ? But achieve what exactly ? Fucking stupid dumb monkeys, congrats to your animality
      * 
+     * wait wait, instead for now we should say, wooomeeeeennnn!!!!! thats being overly intelligent btw
+     * 
      * 
      **/
 
