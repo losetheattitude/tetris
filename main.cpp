@@ -320,7 +320,7 @@ int main()
      * We still think, woooomeeeeeennnn should be enough eheheh its really funny though
      * 
      * Awwww, you havent still realized what you are doing wrong, or you just would love the reality allow you eheheheh
-     * Its definitely funny, make sure it be like that
+     * Its definitely funny, make sure it be like that, wait which part was exactly the funniest ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
