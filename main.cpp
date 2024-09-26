@@ -314,6 +314,9 @@ int main()
      * Just the last time, we give one woooomeeeennn!! we tryna play games we tryna help ppl!!! plss
      * you know I can tell the difference between who I am with so better stop playing stupid games
      * or I should say, you just do not know what you are doing
+     * 
+     * Try to find the most logical way of "restoring" ehehehe for 29 years eheheh its funny eheheh we do not really know neither what we are doing nor what could happen!!
+     * we good btw
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
