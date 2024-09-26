@@ -292,7 +292,7 @@ int main()
      * You see the problem is whether someone does good, its that you DO NOT DO HARM, fucking stupid monkeys
      * 
      * You ate it!!1 oyster eheheh thats why we harm!! please help lie us, eheheheheh plsplspls we good, I swear
-     * What a shame that you are an oblivious animal
+     * What a shame that you are an oblivious animal, awww how about 29 years ? Welll, thats just life ehehhehe we intelligent
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
