@@ -428,7 +428,7 @@ int main()
      * to tell that you are actually a random individual
      * 
      * Instead of saying "do something", start talking about violence and no money!!! no going out!!! giving teens to then "intelligently catch"
-     * You all bunch of dumb animals
+     * You all bunch of dumb animals, you still talk about cars ?
      **/
 
 
