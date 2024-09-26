@@ -323,6 +323,7 @@ int main()
      * Its definitely funny, make sure it be like that, wait which part was exactly the funniest ?
      * 
      * Keep guising your fear with the most possible stupid thing!! violencee!!! and we want to enjoy our experiences eheheheh
+     * Still "defending" the same story ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
