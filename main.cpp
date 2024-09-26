@@ -361,7 +361,7 @@ int main()
      * 
      * I do not want to see any of you around me, you remember your honorable and credible promises or actions that you think is fucking intelligent
      * like "give him a teen!!!" and lets chase him!!! eheheheh we honorable people, we always deliver, why dont you trust us ?
-     * 
+     *  
      * fucking immature dumb monkeys that do not understand shit because of their stupid stubborness
      * Look at you, deluding that you are actually doing something while the reality is you are just stubborn lost people
      * having fun from random violence, wasting time looking around ?
@@ -369,7 +369,7 @@ int main()
      * You still think it should be fine ? What makes you think I want to play your stupid games ? I am the one who is experiencing your stupid irrelevant conduct
      * I am good regardless of anything you could possibly offer or beg for me to help you
      * 
-     * Which part is exactly the most appropriate again ?
+     * Which part is exactly the most appropriate again ? still medication you think ?
      * 
      * 
      **/
