@@ -299,7 +299,9 @@ int main()
      * Offtopic!!! offtopic!! dont tell people what a disgusting animal we are!!! It was just a small mistake!!! eheheheh we harm 29 years eheheh
      * 
      * You get unconditional violence as thats the exact reflection of your reason, the delusion of "making the most stupid decisions on behalf of others"
-     * is a must, that is the type I do not want around me
+     * is a must, that is the type I do not want around me.
+     * 
+     * You understand the against will actions does not have any substitution 
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
