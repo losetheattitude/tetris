@@ -231,7 +231,8 @@ int main()
      * So better leave your stupid attitude and do what you are supposed and promised to properly instead of taking being cheap for skillful
      * 
      * How come you still talk ? You are the most uncredible and immature people that I would not even consider for a second to waste my time with
-     * Oyster!! he ate it !!! Like the spoiled dumb little kids that ignore the truth and keeps alleging the same stupid thing
+     * Oyster!! he ate it !!! Like the spoiled dumb little kids that ignore the truth and keeps alleging the same stupid thing,
+     * and look at the "last time" justification of your "disgusting honor"
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
