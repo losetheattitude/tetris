@@ -451,6 +451,7 @@ int main()
      * 
      * Dumb immature monkeys, you do not see your entirely relative "but somehow super intelligent decisions" ? You can not even say
      * anything other than, heyyy its life!! its fate!!! life a simulation!!! pls we tryna help!!!
+     * Ehehehe, its just fate really
      * 
      * 
      **/
