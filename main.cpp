@@ -218,7 +218,8 @@ int main()
      * 
      * And you still produce whatever you can come up with, not that they are true but you delude something to be the solution to a non existent problem ?
      * What do you think a biological creature could be looking for other than what you are looking for ? But somehow
-     * you lack the courage to simply provide what any other does need ?
+     * you lack the courage to simply provide what any other does need ? And you just say, he could just die!!! I DO NOT CARE ?
+     * That can not be the problem along side your great acts of violence ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
