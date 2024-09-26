@@ -306,7 +306,8 @@ int main()
      * That is the point of irrationality that you would regret stepping into tomorrow if not today, talk about regular life experiences for extreme detrimental ones,
      * you will see the point, I have all that it takes to see the difference VOLUNTARILY
      * 
-     * Think about medications etc ehehehe, we tryna help we tryna solve world problems
+     * Think about medications etc ehehehe, we tryna help we tryna solve world problems, Get some womeeeeennnnn!!! thats how intelligent we are,
+     * we only see what we dream then get surprised at the possible outcomes eheheheh
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
