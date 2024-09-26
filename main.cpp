@@ -329,7 +329,8 @@ int main()
      * a group of animals who think they should do whatever they want
      * 
      * Do you think life works that way ? You know when there is no responsibility, this is what happens, you all start begging for random noises for your
-     * intentional actions
+     * intentional actions, so your incompetency goes as far as not foreseeing that such an accusation is naturally destined to fail ?
+     * He ate it!!! he did this!! we display our greatness through violence to single individuals!!! 
      **/
 
 
