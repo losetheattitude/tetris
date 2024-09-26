@@ -261,6 +261,8 @@ int main()
      * Its illegal!!! 29 years is just a joke, we tryna help and have fun!! we hate to assume such a responsibility!!! so we just tryna have fun eheheh
      * Its just illegal but we also would love to watch illegally, apply some random violence and force people into detrimental lifestyle!!! thats the great people
      * eheheheh, have some womeeeenn!! thats really good
+     * 
+     * Ehehehe its a little bit late but we believe we did something wrong ? That sounds like a really really dumb animal to me ? 
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
