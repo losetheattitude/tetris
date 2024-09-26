@@ -246,6 +246,8 @@ int main()
      * Just the average animal who deals with the reality that they can not be okay with through his vile reflection
      * Just some violence!!! some lies!! some inept approaches because why not ? But we can not really accept it eheheheheh
      * funny and intelligent people and also all the good qualities !!! now tell me that you are not the most deludeful dumb animals
+     * 
+     * But you really do not and can not account for your actions ? eheheheh we take it back!!! we really intelligent and good ppl!!!
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
