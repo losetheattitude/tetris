@@ -408,7 +408,7 @@ int main()
      * they fucking crave your stupid ass, WAKE UP! good ppl
      * instead of begging, you could be doing a lot more other things, and you will get yourself into trouble
      * 
-     * Are you fucking dreaming still ?
+     * Are you fucking dreaming still ? Heyy we found some pieces, that should indicate so many things as to what we were doing!!
      * 
      * 
      * 
