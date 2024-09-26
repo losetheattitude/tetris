@@ -252,7 +252,8 @@ int main()
      * them to be solved, whats the problem do you think ? You are not, thats for sure
      * Have some wooomeeeenn!! whats the problem ? And you still dare talking about others' supposedly self inflicted failures. Interesting indeed
      * 
-     * How come you are the one who is trying to go against the reality but also applying great violence ?
+     * How come you are the one who is trying to go against the reality but also applying great violence ? and you are the ome who is still thinking
+     * that watching illegally should be okay alongside with violence and all the things you would love to run away ? ehehe its funny
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
