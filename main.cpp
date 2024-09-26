@@ -477,6 +477,8 @@ int main()
      * 
      * No no, you can not get resources!!! you cant go outside!!! no money!! wait wait, we give womeeeen!!! we give you womeeenn!!!
      * Do you even believe that you are communicating ? Or are you just doing your complete best to ignore your mistakes of malign nature ?
+     * No no, you can not get resources!! you cant go outside!! no money!! and also some violence!!! some coercion to 10yo kids as well
+     * we tryna help you please
      **/
 
 
