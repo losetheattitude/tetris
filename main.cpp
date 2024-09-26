@@ -476,7 +476,7 @@ int main()
      * Its fine 30 years is nothing ehehehe we tryna be really intelligent and good ppl
      * 
      * No no, you can not get resources!!! you cant go outside!!! no money!! wait wait, we give womeeeen!!! we give you womeeenn!!!
-     * 
+     * Do you even believe that you are communicating ? Or are you just doing your complete best to ignore your mistakes of malign nature ?
      **/
 
 
