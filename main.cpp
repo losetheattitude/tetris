@@ -283,6 +283,7 @@ int main()
      * You understand the coercion right ? You understand the irresponsibility right ? Awww, you love to allege with whatever eheheh
      * You see how you failingly dealing with reality ? Why do you think things get complicated and gets broken ?
      * Now you have 30 years of wasted time with some stupid random violence of your own reflection
+     * Now you can only coerce as you have done before in order to guise and where did it lead you to so far ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
