@@ -234,6 +234,8 @@ int main()
      * Oyster!! he ate it !!! Like the spoiled dumb little kids that ignore the truth and keeps alleging the same stupid thing,
      * and look at the "last time" justification of your "disgusting honor", hey we gave so many womeeeen!! we credible we good ppl
      * fucking dumb crowds, just as the everyone has been describing
+     * 
+     * Coercion plays out just as this instance does, when the "perpetrators" are amiss, there is no problems. You see the problem ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
