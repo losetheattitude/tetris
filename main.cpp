@@ -348,6 +348,8 @@ int main()
      * 
      * Look what a stupid situation you got yourselves in, that was indeed a necessity!!! 
      * We tryna help you!! we tryna solve problems!! plss
+     * 
+     * We do not know what is next eheheheh, we make promises as we do right now ? Why dont you believe us ? Awww, thats not a pattern indeed
      **/
 
 
