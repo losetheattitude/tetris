@@ -288,6 +288,7 @@ int main()
      * eheheh we take it back! back!! no its just a small mistake, still talk about life ?
      * I just do not really like you, because you are immature kids, I am sorry to show you the reality
      * look for bullshit to be proud of eheheh what was it again ? yesss, you no selfish
+     * you do not get to decide when you are harming for the sake of harm, that is bullshit as the prior actions of yours 
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
