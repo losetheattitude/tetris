@@ -318,6 +318,8 @@ int main()
      * Try to find the most logical way of "restoring" ehehehe for 29 years eheheh its funny eheheh we do not really know neither what we are doing nor what could happen!!
      * we good btw
      * We still think, woooomeeeeeennnn should be enough eheheh its really funny though
+     * 
+     * Awwww, you havent still realized what you are doing wrong, or you just would love the reality allow you eheheheh
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
