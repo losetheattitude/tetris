@@ -257,6 +257,8 @@ int main()
      * 
      * Noo, you should also live detrimental lifestyle because... because welll, because its like yesss, we no problem
      * Hey, when the time comes say a few good things and we move on to our precious experiences, we do not care what happens ehehehe intelligent btw
+     * 
+     * Its illegal!!!
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
