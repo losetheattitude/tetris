@@ -280,7 +280,7 @@ int main()
      * 
      * Now are you going to start asking for help from who you are harming without a reason ? You see where the cheap is coming from ?
      * and you still offer for your disgusting actions, cars ??? or woomeeeeennn ?
-     * You understand the coercion right ? You understand the irresponsibility right ?
+     * You understand the coercion right ? You understand the irresponsibility right ? Awww, you love to allege with whatever eheheh
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
