@@ -287,7 +287,7 @@ int main()
      * Its just fate btw, including random violence as well and afterwards begging as well ?
      * eheheh we take it back! back!! no its just a small mistake, still talk about life ?
      * I just do not really like you, because you are immature kids, I am sorry to show you the reality
-     * look for bullshit to be proud of eheheh what was it again ?
+     * look for bullshit to be proud of eheheh what was it again ? yesss, you no selfish
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
