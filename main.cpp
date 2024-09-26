@@ -225,6 +225,9 @@ int main()
      * 
      * Obviously, anybody would want so instead of prompting question just act on what you "insincerely offering", or you would like to
      * just do it at the last moment so that you can "defend" your doubtful position
+     * 
+     * Your thinking of "fooling" someone through making him believe not to his own senses but to your uncredible words should
+     * be the way to go!!! clearly intelligent although I am not buying it
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
