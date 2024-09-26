@@ -472,6 +472,7 @@ int main()
      * get cars!! eheheh this the 10. time we offer eheheh intelligent ppl btw
      * 
      * Selfish disgusting monkeys, still talk about fate ? Still dare bringing up fate ?
+     * or you would rather offer womeeennnn!!! so that you can survive at the moment ehehehe intelligent people btw
      **/
 
 
