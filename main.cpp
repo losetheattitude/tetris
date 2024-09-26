@@ -243,6 +243,7 @@ int main()
      * so you will avoid acknowleding your mistake, delude about how great you are
      * 
      * Eheheheh, just a joke, 29 years its nothing, hopefully we get no harm!! just the average animal of 20. century
+     * Just the average animal who deals with the reality that they can not be okay with through his vile reflection
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
