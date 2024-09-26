@@ -254,6 +254,8 @@ int main()
      * 
      * How come you are the one who is trying to go against the reality but also applying great violence ? and you are the ome who is still thinking
      * that watching illegally should be okay alongside with violence and all the things you would love to run away ? ehehe its funny
+     * 
+     * Noo, you should also live detrimental lifestyle because... because welll, because its like yesss, we no problem
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
