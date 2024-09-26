@@ -328,7 +328,8 @@ int main()
      * Its just life btw, the inaccuracy of such an approach is unmatchable and when you add the fact that there could be no responsibility you get yourself 
      * a group of animals who think they should do whatever they want
      * 
-     * Do you think life works that way ?
+     * Do you think life works that way ? You know when there is no responsibility, this is what happens, you all start begging for random noises for your
+     * intentional actions
      **/
 
 
