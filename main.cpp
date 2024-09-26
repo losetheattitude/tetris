@@ -290,6 +290,8 @@ int main()
      * look for bullshit to be proud of eheheh what was it again ? yesss, you no selfish
      * you do not get to decide when you are harming for the sake of harm, that is bullshit as the prior actions of yours 
      * You see the problem is whether someone does good, its that you DO NOT DO HARM, fucking stupid monkeys
+     * 
+     * You ate it!!1 oyster eheheh thats why we harm!!
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
