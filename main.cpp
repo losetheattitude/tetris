@@ -312,6 +312,7 @@ int main()
      * Heyy, people tell us what to do!! we are not bad ppl !! plss lie for us!! you got 123123021 womeeeeen!!!
      * 
      * Just the last time, we give one woooomeeeennn!! we tryna play games we tryna help ppl!!! plss
+     * you know I can tell the difference between who I am with so better stop playing stupid games
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
