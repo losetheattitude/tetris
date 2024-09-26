@@ -381,6 +381,7 @@ int main()
      * And you still think you achieve ? But achieve what exactly ? Fucking stupid dumb monkeys, congrats to your animality
      * 
      * wait wait, instead for now we should say, wooomeeeeennnn!!!!! thats being overly intelligent btw
+     * Not that, you had years and years of opportunity to, but its just a simulation indeed, 29 years eheheheh its not important eheheh
      * 
      * 
      **/
