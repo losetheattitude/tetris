@@ -229,6 +229,8 @@ int main()
      * Your thinking of "fooling" someone through making him believe not to his own senses but to your uncredible words should
      * be the way to go!!! clearly intelligent although I am not buying it. I can see what I am and have been dealing with
      * So better leave your stupid attitude and do what you are supposed and promised to properly instead of taking being cheap for skillful
+     * 
+     * How come you still talk ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
