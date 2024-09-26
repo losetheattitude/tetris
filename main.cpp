@@ -258,7 +258,7 @@ int main()
      * Noo, you should also live detrimental lifestyle because... because welll, because its like yesss, we no problem
      * Hey, when the time comes say a few good things and we move on to our precious experiences, we do not care what happens ehehehe intelligent btw
      * 
-     * Its illegal!!! 29 years is just a joke, we tryna help and have fun!!
+     * Its illegal!!! 29 years is just a joke, we tryna help and have fun!! we hate to assume such a responsibility!!! so we just tryna have fun eheheh
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
