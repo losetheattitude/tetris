@@ -295,6 +295,7 @@ int main()
      * What a shame that you are an oblivious animal, awww how about 29 years ? Welll, thats just life ehehhehe we intelligent
      * Thats not being a kid, I assure you. 29 years ? ehehehe its just meant to be that we seek reasonless trouble because of our insecurity
      * You still think you are acting on your insecurities ? Its just meant to be ? Its life ? Its simulation ? We great ? 29 years ? eheh woooomeeeenn!!!
+     * Now the situation is, you have built yourselves a huge pile of disgusting bullshit that you have no idea how to unveil. Waaowwwww, have some woomeeeeenn!!!
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
