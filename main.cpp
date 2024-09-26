@@ -355,6 +355,7 @@ int main()
      * Awwww, why didnt you ask for money from people who harms you ? wait wait, there could be a problem in your understandings eheheh
      * So you think you act intelligently ehehehe
      * eheheh we prefer harming eheheh feels good, life good, life simulation time does not exist
+     * Why didnt you ask for help ? We good, we tryna help everybody!!
      **/
 
 
