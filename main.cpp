@@ -269,7 +269,8 @@ int main()
      * something awefulll!!! happens, tell me your are not a child, why do you think one would be content to commit ?
      * see the problem ? you still want people talk things out ? Can you talk people out the really clever actions ? 
      * 
-     * You know there could be no going back, as you have alreay agreed eheheheh
+     * You know there could be no going back, as you have alreay agreed eheheheh 
+     * What could be the solution ? Womeeeeennnn!! we understand, we good, we tryna help, we solve problem
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
