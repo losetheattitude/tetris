@@ -251,6 +251,8 @@ int main()
      * And expect no same natured people! Thats the great reasoning, and expect everything to be solved just the way you delude and dream
      * them to be solved, whats the problem do you think ? You are not, thats for sure
      * Have some wooomeeeenn!! whats the problem ? And you still dare talking about others' supposedly self inflicted failures. Interesting indeed
+     * 
+     * How come you are the one who is trying to go against the reality but also applying great violence ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
