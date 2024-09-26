@@ -417,6 +417,9 @@ int main()
      * we good ppl, you still delude you should do what you want without responsibility ? Yess, thats who I have always been looking for
      * Please, we are %100000 sure that what we are doing is right but just keep it silence, there is really no reason!! just keep it silence for us!!
      * we want you to keep it silence!!! plss
+     * 
+     * just talk about your great conduct to an individual amongst the media or unbiased people, let that be written into history and you will suddenly
+     * see what a stupid animal you are
      **/
 
 
