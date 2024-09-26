@@ -325,6 +325,7 @@ int main()
      * Keep guising your fear with the most possible stupid thing!! violencee!!! and we want to enjoy our experiences eheheheh
      * Still "defending" the same story ? You do not even follow ? The whole story if about life and it has been 29 years ? So there is no need for your stupid stories ?
      * Thats why you are the type that everyone has been referring to ? Because you do not see, you just fear eheheh
+     * Its just life btw
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
