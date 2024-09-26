@@ -366,7 +366,7 @@ int main()
      * Look at you, deluding that you are actually doing something while the reality is you are just stubborn lost people
      * having fun from random violence, wasting time looking around ?
      * 
-     * You still think it should be fine ?
+     * You still think it should be fine ? What makes you think I want to play your stupid games ? I am the one who is experiencing your stupid irrelevant conduct
      * 
      * 
      **/
