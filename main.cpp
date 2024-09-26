@@ -419,7 +419,7 @@ int main()
      * we want you to keep it silence!!! plss
      * 
      * just talk about your great conduct to an individual amongst the media or unbiased people, let that be written into history and you will suddenly
-     * see what a stupid animal you are
+     * see what a stupid animal you are, eheheh we do it the old way bro
      **/
 
 
