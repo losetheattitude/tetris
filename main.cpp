@@ -196,7 +196,7 @@ int main()
      * Talk about how generous and visionary and reasonable etc, you only need dumb people around you who is also a beggar
      * eeheheh we tryna solve world problems ehehehheh pls help lie us eheheh
      * now try to solve the problem you have formed intentionally, I wonder how intelligent you really are when you are against a real problem eheheh
-     * you prefer begging no surprise at all, woomeeeeennn!!! You are rich!! pls help us, we do goodd, we solve problems pls, 
+     * you prefer begging no surprise at all, woomee eeennn!!! You are rich!! pls help us, we do goodd, we solve problems pls, 
      * Get a car!!! get some womeeennn!!! help us lie!! plss we are innocent good citizens !!!
      * we tryna educate, we tryna solve world problems, we good ppl, we intelligent, we do not cause any harm!!! heheheh its funn, lifes a simulation
      * pls lie for us!!! get cars!!! get womeeeenn!! we have provided 123912321 womeeenn!!! plss trust us!!! plsss
@@ -213,7 +213,8 @@ int main()
      * Whats the problem again ? How come you think you can make irrelevant noises ? How come you think you act only detrimental and expect others to understand ?
      * Or would you say "womeeeennnn!!" or you just avoid the responsibility of the most possibly worst thing on earth ?
      * How come you feel relieved ? Bro get the fuck out of my face, waste your own time
-     * Wait, you still try your best to achieve what ?
+     * Wait, you still try your best to achieve what ? and you have no explanation for the entire time of an individual that you have neither
+     * interest nor relation with ?
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
