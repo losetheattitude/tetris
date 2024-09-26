@@ -248,7 +248,8 @@ int main()
      * funny and intelligent people and also all the good qualities !!! now tell me that you are not the most deludeful dumb animals
      * 
      * But you really do not and can not account for your actions ? eheheheh we take it back!!! we really intelligent and good ppl!!!
-     * And expect no same natured people! Thats the great reasoning
+     * And expect no same natured people! Thats the great reasoning, and expect everything to be solved just the way you delude and dream
+     * them to be solved, whats the problem do you think ? You are not, thats for sure
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
