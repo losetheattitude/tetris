@@ -331,6 +331,8 @@ int main()
      * Do you think life works that way ? You know when there is no responsibility, this is what happens, you all start begging for random noises for your
      * intentional actions, so your incompetency goes as far as not foreseeing that such an accusation is naturally destined to fail ?
      * He ate it!!! he did this!! we display our greatness through violence to single individuals!!! 
+     * 
+     * So, the story is, I have all the information I need to determine the guilty ? But you still would like to enjoy ?
      **/
 
 
