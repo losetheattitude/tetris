@@ -271,6 +271,7 @@ int main()
      * 
      * You know there could be no going back, as you have alreay agreed eheheheh 
      * What could be the solution ? Womeeeeennnn!! we understand, we good, we tryna help, we solve problem
+     * Just try to explain your actions, and we can get to the talking afterwards
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
