@@ -233,6 +233,7 @@ int main()
      * How come you still talk ? You are the most uncredible and immature people that I would not even consider for a second to waste my time with
      * Oyster!! he ate it !!! Like the spoiled dumb little kids that ignore the truth and keeps alleging the same stupid thing,
      * and look at the "last time" justification of your "disgusting honor", hey we gave so many womeeeen!! we credible we good ppl
+     * fucking dumb crowds, just as the everyone has been describing
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
