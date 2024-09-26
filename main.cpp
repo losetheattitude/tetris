@@ -264,7 +264,7 @@ int main()
      * 
      * Ehehehe its a little bit late but we believe we did something wrong ? That sounds like a really really dumb animal to me ? 
      * Wait wait, we thought everyone was doing something while we were as well ? So now it makes sense to waste our times with people we have no relation
-     * or understanding of his life with ?
+     * or understanding of his life with ? And you dare talking about cars ? You know it means you are being overly irresponsible
      **/
 
     InitWindow (500, 620, "Raylib Tetris");
