@@ -1042,7 +1042,7 @@ int main()
      * Now try to explain your great attitudes, or you would rather call it life ?
      * Why do you still offer the same things that you are apparently after for biological harm ?
      * So now you coerce kids into actions that you wield as weapon later on ? wait wait, how about the violence ?
-     * Awwww, thats just how great you are I suppose
+     * Awwww, thats just how great you are I suppose, you are not immature ?
      * 
      **/ 
 
