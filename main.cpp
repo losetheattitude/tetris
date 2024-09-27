@@ -816,7 +816,9 @@ int main()
      * Now talk about the complete necessity of violence to people you have no relation and no problems with
      * 
      * You had all the time but you just greatly chose to harm people ? and you claim your innocency ?
-     * Only way !!! harm more!!! 
+     * Only way !!! harm more!!! Look at history, you will see what stupid people are capable of committing, IT IS CALLED COMMITTING because you do it intentionally
+     * to preserve your interests, so that you can continue enjoying while you harm others
+     * Is that clear ?
      **/
 
 
