@@ -877,6 +877,7 @@ int main()
      * Thats the intelligent part you say ? And you still firmly believe harming and not receiving anything of sort would be realistic
      * 
      * Okay okay, now tell me the experience and correlate it with a reasonable appproach, or just get in line for education right ?
+     * You take that for a gain ? ahahha fair game btw, no no life a simulation
      **/
 
 
