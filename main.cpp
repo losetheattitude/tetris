@@ -552,6 +552,8 @@ int main()
      * 
      * And you think saying "we do it the old way" should solve all the problem that you have intentionally formed so that you can make a decision
      * that you would love to make in order to see others in difficult positions ?
+     * 
+     * You can remove your disgusting interests in my surroundings and you would have no problems
      **/
 
 
