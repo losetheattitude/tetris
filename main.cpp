@@ -737,6 +737,8 @@ int main()
      * 
      * If you had all the opportunities of "not pretending" but actually supporting, you would have already done it. So you can get the fuck out of my face
      * indefinitely whoever you think you are
+     * 
+     * Next time, better use your brain, eheheh its fun right ?
      **/
 
 
