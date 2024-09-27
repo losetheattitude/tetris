@@ -839,6 +839,7 @@ int main()
      * And you suddenly want to play stupid games when it comes to your own actions, but you would like to display violence when you think
      * you are doing good against one defenceless individual ?
      * You do not understand coercion ? you do not understand what you have been told at ?
+     * Awww, you just dream it so bad to the extent that you harm people you have no understanding thus its repercussions of same nature ?
      **/
 
 
