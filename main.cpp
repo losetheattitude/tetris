@@ -575,6 +575,7 @@ int main()
      * All you can achieve is "using medicine and violence" ? Thats how simple you are, and you still say "you do it the old way" ?
      * Ignorant selfish old people, anything other than would not have made sense for such a disgusting group of monkeys
      * Further eheheh
+     * You would call cheap intelligent because of why ?
      * 
      **/
 
