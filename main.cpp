@@ -514,7 +514,8 @@ int main()
      * So I do not care whether you think you are good people or not, so far you were there and I can clearly tell my experience
      * So you can use your immaculate powers over someone else's life
      * 
-     * Keep telling yourself what you need to
+     * Keep telling yourself what you need to, btw you were here all along and still think that offering what you have always offered 
+     * would prove your innocence ?
      **/
 
 
