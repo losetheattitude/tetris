@@ -689,7 +689,7 @@ int main()
      * Fix that before you interact with others, or you would rather act like its fine, although its the most disgusting thing you could ever commit. Right ?
      * 
      * Awwww, competent people tryna solve problems eheheheh the problems waooww, impressive 
-     * Who is the problem again bro ?
+     * Who is the problem again bro ? We tryna harm and we do it for the greater good eheheheheh intelligent ppl btw
      **/
 
 
