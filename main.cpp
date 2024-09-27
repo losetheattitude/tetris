@@ -805,6 +805,10 @@ int main()
      * 
      * You had all the opportunity but you have chosen what your nature led you towards ? and you still look around wasting incomparable time ?
      * You get the same violence that somehow you take for education after you account for your actions
+     * You get the same violence that somehow you take for education after you account for your actions
+     * You get the same violence that somehow you take for education after you account for your actions
+     * 
+     * And you still offer women ?
      **/
 
 
