@@ -499,6 +499,7 @@ int main()
      * why dont you trust us ?
      * Look how you had a wonderful life because we were always there for you!! That means you can not definitely be the problem right ?
      * 
+     * You still want that truth of your actions stay hidden ? Because then you would have to actually for once in your life upholded to your actions ?
      **/
 
 
