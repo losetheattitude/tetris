@@ -1076,7 +1076,7 @@ int main()
      * hide it like animal ? Pleaseee lie for us!!!
      * So you know you have lied before to just do harm and you have done it again!!!
      * Who is intelligent ? Awww, if you lie that we actually are good ppl, we intelligent, then you can have what is regular!!!!
-     * Eheheheh its so fun right ?
+     * Eheheheh its so fun right ? Hide your disgusting nature better 
      **/ 
 
 
