@@ -537,6 +537,8 @@ int main()
      * Awwww, your only way is to bring up what "you intelligently made decision about" and perpetuated your stupid reason for 29 years
      * and although you have lost all the "back then coercefully acquired actions from a 10yo kid" so now you already know you are a stupid animal
      * and all you can do is to beg so that you should rise innocent ?
+     * 
+     * Please do not talk about what we have told you all these time ehehehhehe stupid people right ?
      **/
 
 
