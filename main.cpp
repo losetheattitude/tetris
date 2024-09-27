@@ -1029,6 +1029,7 @@ int main()
      * Awww, you would rather call it education ? no no, it is intelligence you say eheheheh it really is funny though
      * You want to talk about reality ? You beg for no apparent reason other than your stupid stubbornness
      * You get yourselves unconditional trouble regardless of time
+     * Do you think its because of nature or there is nothing to do ?
      **/ 
 
 
