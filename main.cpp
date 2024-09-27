@@ -1008,6 +1008,8 @@ int main()
      * while you hold it to survive and enjoy your precious experiences
      * That is not the problem I assure you eheheh its funny
      * you think there is reason in stupidity ? Like random violence ?
+     * 
+     * Wait there is such a thing as death ? awww, no no you must be fragile right ?
      **/ 
 
 
