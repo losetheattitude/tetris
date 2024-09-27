@@ -998,6 +998,8 @@ int main()
      * Ehehehe you can not do that!! no no, we developed good ppl!! no eheheh
      * 
      * I want no people as inferior as you around me
+     * you already know its inexplicable and you already know that I know its bullshit, but you just can not cope with the reality rignt ?
+     * So why not harm more while there are others around ?
      **/ 
 
 
