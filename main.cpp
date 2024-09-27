@@ -657,6 +657,7 @@ int main()
      * Keep wasting your own precious time
      * 
      * Suffer ??? nooo we want no suffer ehehe thats why we stupid and still want to make decisions
+     * How dare asking for irrelevant noises ?
      **/
 
 
