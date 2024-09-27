@@ -814,6 +814,8 @@ int main()
      * that there is a crowd around we can not practise our great intelligence !!!!
      * We pretend to give woomeenn!!! thats really clever right ? Eheheeheh, help lie us pls
      * Now talk about the complete necessity of violence to people you have no relation and no problems with
+     * 
+     * You had all the time but you just greatly chose to harm people ?
      **/
 
 
