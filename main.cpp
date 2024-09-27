@@ -831,6 +831,8 @@ int main()
      * So you say, you played fair game while you can not account for your actions only "forgive us for our actions" ?
      * If you do that, you get women!! and then you do not deliver but only more harm ? ehehehehe its really funny right ?
      * 
+     * Please, its a little bit late, he should be doing the same things in order to improve on but we do not allow him, so
+     * its fate ? but have a few cars!! have some women!! you are 30 !!
      **/
 
 
