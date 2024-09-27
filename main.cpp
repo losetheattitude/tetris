@@ -929,6 +929,7 @@ int main()
      * Look at your actions and infer the most difficult thing right ?
      * Who is taking life lightly again ? Tell me, the only opinions I need are surely of yours
      * Get the fuck out of my face
+     * You know you are already wrong and that is going to be the reality playing out, tomorrow if not today, thats assurance of the most credible one
      **/ 
 
 
