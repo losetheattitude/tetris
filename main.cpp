@@ -916,6 +916,8 @@ int main()
      * 
      * Eeheheh years has passed, it must be his fate!!! we seek no trouble.
      * Recognize the person you are interacting with and you suddenly realize or I should say "foresee" your actions consequences
+     * If you do not recognize, that means either you try not to for obvious reasons, or you have never interacted with such
+     * in either case, there is work to be done on your part right ?
      **/ 
 
 
