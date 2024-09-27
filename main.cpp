@@ -1021,6 +1021,8 @@ int main()
      * What you would love to think for the truth, is the same mistake you have done right ?
      * Luckily I feel no guilt because I am the one who is more credible ? I know I am not lying ?
      * Then why are you still looking around ? Hoping that you would receive no harm while you are the guilty one ?
+     * 
+     * You say, 10yo coerced kids should say "I ate it!!!" eheheh thats not the problem right ?
      **/ 
 
 
