@@ -910,7 +910,7 @@ int main()
      * What a group of irresponsible people, now what ? So what did you aim at again ? You say fair target again ?
      * Does that make you fair target as well ?
      * You get the same education you offer to people who has no interest in it. Thats the point where your immaculate logic will always fail bro
-     * Btw, you get the same violence as an education, regardless right ?
+     * Btw, you get the same violence as an education, regardless right ? Its funny ehehe because we consider it winning, whats the problem bro ?
      **/ 
 
 
