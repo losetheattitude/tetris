@@ -965,6 +965,7 @@ int main()
      * hate that people find out about
      * 
      * You get the same education because I know you acted malign INTENTIONALLY
+     * Still talking about regular physical interactions ? And hoping that it would solve ?
      * 
      * 
      **/ 
