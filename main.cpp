@@ -821,6 +821,9 @@ int main()
      * Is that clear ? Ehehehe you just lied, not that you promised. Intelligence btw
      * 
      * Call committing crimes is a job for the greater good, then it should be fine, why not ?
+     * We accuse with what we coerce kids into, so that later on we can claim that we are trying to help by showing how great we are through
+     * violence to single individuals who is not causing any problems to anyone, only the ones that we failingly make them to be problems 
+     * 
      **/
 
 
