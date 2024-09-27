@@ -969,7 +969,7 @@ int main()
      * You are imploring me to act that reckless way but when it comes to explaining you say he does it on his own ?
      * You think you are not seeking for trouble ? and do you think that I am as simple as you are to
      * accept a few physical interactions for what you are failingly avoid to explain ?
-     * Whats the price now ?
+     * Whats the price now ? Just tell me the experience I had ?
      * 
      * 
      **/ 
