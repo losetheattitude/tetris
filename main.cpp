@@ -754,7 +754,8 @@ int main()
      * Eheheheh, existential threat btw, no no, we good ppl and we just apply some violence thats all
      * Thats education btw, I said I do not care about your stupid games ? You say, I want to harmmm !!! whats the problem ?
      * 
-     * You still look around for bullshit ?
+     * You still look around for bullshit ? Yess, look for untruthful approaches more, thats not the problem. Hybrid!!! thats bad!!! we good!!
+     * thats intelligent!!! violence is good!! we helpful!! lie for us pls!!
      **/
 
 
