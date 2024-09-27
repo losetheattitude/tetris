@@ -637,6 +637,8 @@ int main()
      * 
      * You see, you do not know what you are saying or you are doing it intentionally which are both a detrimental approach and only intended to harm
      * without a reason right ?
+     * Its okay btw, if years and years has passed and there is no indication of what we claim to ruin others lives with "INTENTIONALLY"
+     * that can not possibly mean that we were there to detriment and acted with malign intentions and that is the problem
      **/
 
 
