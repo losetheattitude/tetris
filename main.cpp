@@ -673,7 +673,7 @@ int main()
      * 30 years is nothing btw, life a simulation, thats our values!!! and that is not the group that lacks the "supposedly education"
      * greater harm!!!! because why not!! ? Life a simulation btw, do you want to talk about life more ? your unmatchable information ?
      * Noo, thats not bad intention, thats for sure, "because if someone has good time, that would cause greaterr harmm for everyone in the world!!!"
-     * Thats education bro!!
+     * Thats education bro!! Look its real simple, if you enjoy your life, that can only mean one thing!!! you harm for the greater!!! yesssss educated and intelligent and good ppl indeed
      **/
 
 
