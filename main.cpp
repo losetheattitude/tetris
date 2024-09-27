@@ -492,6 +492,7 @@ int main()
      * And you beg that what is truth may never be revealed ?
      * And you still enjoy harming individuals just because you can ?
      * And you still claim you are not guilty but somehow see yourself completely right to ask who is most informed stay out
+     * You just want people to believe so that you can get yourself out ?
      **/
 
 
