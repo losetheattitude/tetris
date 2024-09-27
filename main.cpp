@@ -780,6 +780,8 @@ int main()
      * So you still think that you learn from your experiences ? You think you are educated ? You think you know what you are doing ?
      * Wait wait, you think you have achieved what ?
      * Get in line for some education ? why not ? More education can not hurt anybody right ? Awww, you suddenly abstain because of ?
+     *  
+     * You abstain from what you "grant" people ?
      **/
 
 
