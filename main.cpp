@@ -484,7 +484,8 @@ int main()
      * Get 6 months babies into situations and call yourselves intelligent
      * Call it fate for what you are committing, thats not the problem
      * Hey look!! we pause kids coercefully and then move on to harm them for years!!! we tryna help you! we solve your problems!!
-     * We good ppl!!! 
+     * We good ppl!!! wait has it been 29 years ? And you dare call it fate ? Although everything is as clear as I can remember ?
+     * Coercing kids ? calling it fate ?
      **/
 
 
