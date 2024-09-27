@@ -759,6 +759,8 @@ int main()
      * 
      * You say you good ? eeheheh 30 years is nothing bro, we tryna help you, helping you from the furthest point eheheheh lifes good btw
      * We give woomeeeeennn!! eheheh for now, we have to act like intelligent, we give women btw!!
+     * no no, we give carsss!!! plsss!! we understand the life to its extreme point!!! thats why we offer carsssss!!! we seek the very same thing
+     * but we would also love to apply some violence, because WHY NOT ? ehehehe its funny
      **/
 
 
