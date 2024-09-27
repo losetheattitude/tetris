@@ -586,6 +586,10 @@ int main()
      * and now ehehehe life a simulation!!! we intelligent people!!! Fucking dumb monkeys
      * Lets just offer womeeennnnn and see what he is going to do ? ehehehe that is actually the intelligence ehehhe we brag all the time eheheh
      * 
+     * And now everyone again ? eheheheh
+     * No no, you have not coerced 10yo kids so that afterwards you can do what you "already wanted for others" and present it as excuse ?
+     * But there is really no sign of any sort of disgusting bullshit of your mind's content for years ?
+     * 
      **/
 
 
