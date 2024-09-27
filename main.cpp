@@ -812,7 +812,7 @@ int main()
      * While there is no problems, you harm and beg to be announced innocent ?
      * And you offer women to solve that but when the time comes, you say its enough!! we good ppl, we intelligent ppl of earth but now
      * that there is a crowd around we can not practise our great intelligence !!!!
-     * We pretend to give woomeenn!!! thats really clever right ?
+     * We pretend to give woomeenn!!! thats really clever right ? Eheheeheh, help lie us pls
      **/
 
 
