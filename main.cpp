@@ -700,7 +700,7 @@ int main()
      * wait wait, you allege you educate people ? Towards what ? and by doing what ? with which instrument do you think ?
      * eheheh
      * 
-     * You can get the fuck out of my face
+     * You can get the fuck out of my face, you havent grown up still ?
      **/
 
 
