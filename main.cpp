@@ -490,6 +490,7 @@ int main()
      * Wait, you constantly harm and surprise at the outcome ? calling it fate ?
      * And you offer cars ? still produce bullshit excuses ? 
      * And you beg that what is truth may never be revealed ?
+     * And you still enjoy harming individuals just because you can ?
      **/
 
 
