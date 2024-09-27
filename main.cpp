@@ -781,7 +781,7 @@ int main()
      * Wait wait, you think you have achieved what ?
      * Get in line for some education ? why not ? More education can not hurt anybody right ? Awww, you suddenly abstain because of ?
      *  
-     * You abstain from what you "grant" people ?
+     * You abstain from what you "grant" people ? And are you still talking about women ?
      **/
 
 
