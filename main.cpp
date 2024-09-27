@@ -724,6 +724,7 @@ int main()
      * 
      * Wait wait, so you are trying to tell me that, you have been on someone's side while also he is being harmed ? The same country that you have authority over ?
      * And somehow you are the intelligent, you are the great, you are the benevolent ? ehehehh
+     * You pay for your own actions
      **/
 
 
