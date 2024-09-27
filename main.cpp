@@ -530,6 +530,7 @@ int main()
      * harm people you have no relation with ? awww, it was fair play right ?
      * 
      * We good ppl btw, we tryna help, pls lie for us so that we can harm you!!! thats called intelligent btw
+     * Talk about prior "experiences" that you have promised eheheheh then we can go on to talk more about who is what
      **/
 
 
