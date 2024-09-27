@@ -703,7 +703,7 @@ int main()
      * You can get the fuck out of my face, you havent grown up still ? ehehe we just want to believe what we wish others to be,
      * so that we can harm!!!! greater good!!!! you do not understand ?
      * You can not see others having good time ? you are not the problem btw bro
-     * Ehehehe its really funny
+     * Ehehehe its really funny, have some womeeeenn!!! as we have always promised!!! we good nation good ppl etc thats funny 
      **/
 
 
