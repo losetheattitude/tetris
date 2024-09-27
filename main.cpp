@@ -610,7 +610,8 @@ int main()
      * And you still call it fair game ? Wait wait, you offer woomeeeennnn!! which you have already promised but somehow while being in the same country
      * you have failed to "cheaply btw" realize ?
      * You have no proper responses because you are doing what you shouldnt eheheheh
-     * Beg more see if that helps changing the reality
+     * Beg more see if that helps changing the reality, not everyone is as naive as you would dream them to be only credible people would credit
+     * others the same confidence that they credit themselves with
      **/
 
 
