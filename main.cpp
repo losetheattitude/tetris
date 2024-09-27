@@ -952,6 +952,8 @@ int main()
      * If you do not want to see it, its the same reason, good luck
      * Awww!!! what if he is not stable!!! wait waitt, do some violence!!! whats the problem again ?
      * Ehehehe, you tryna help right ? You still calling it fate ? 
+     * Eheheheh say that you ate it!! we give you womeenn!! as we have always promised!!! we only need to bare the guilty attention
+     * for a few days, and thats what we are counting for
      * 
      * 
      **/ 
