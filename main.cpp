@@ -734,6 +734,9 @@ int main()
      * You dare offering cars ? with your narrow point of view ? you dare offering what is available ?
      * But you would also love practicing your great narrow point of view to apply some violence ? and you say you are not an animal ?
      * You can not use your brain ? Talk about the violence
+     * 
+     * If you had all the opportunities of "not pretending" but actually supporting, you would have already done it. So you can get the fuck out of my face
+     * indefinitely whoever you think you are
      **/
 
 
