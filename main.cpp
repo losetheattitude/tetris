@@ -885,7 +885,7 @@ int main()
      * Like there is no tomorrow!!! There could be nothing going wrong!!! there is no tomorrow plss lie for us now!!
      * Awwww, we did good havent we ? eheheh
      * 
-     * Heyy loook!!! its good!! we do good!!! 
+     * Heyy loook!!! its good!! we do good!!! Awww, wait you educate, thats my bad
      **/
 
 
