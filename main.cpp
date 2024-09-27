@@ -524,6 +524,7 @@ int main()
      * What have you been doing ? Yesss, get cars!!!! get womeeennn!!! you get anything you want!!
      * 
      * I have no time to waste with stupid people like you who can not deal with reality and start accusing with proven false things 
+     * but you still would like to harm though right ? ehehehe
      **/
 
 
