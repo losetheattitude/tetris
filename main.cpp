@@ -931,6 +931,9 @@ int main()
      * Get the fuck out of my face
      * You know you are already wrong and that is going to be the reality playing out, tomorrow if not today, thats assurance of the most credible one
      * ehehehhe, I guess alcohol is the only bullshit that is left ehehehehh we looking for we can not find eheheh
+     * 
+     * Offer stupid physical interactions that you do not deliver for biological harm and say that you understand the world
+     * and that you do not after materials, yet offer, thats intelligent btw
      **/ 
 
 
