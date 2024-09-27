@@ -671,7 +671,7 @@ int main()
      * Keep dreaming what you wish others to be, and when the time comes, you beg a little for your own experiences why not ? WHY NOT ? eheheheh
      * It is intelligently funny right ? Cause greater harm ehehehe wouldnt be a problem for sure
      * 30 years is nothing btw, life a simulation, thats our values!!! and that is not the group that lacks the "supposedly education"
-     * greater harm!!!! because why not!! ?
+     * greater harm!!!! because why not!! ? Life a simulation btw 
      **/
 
 
