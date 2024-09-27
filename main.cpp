@@ -516,6 +516,8 @@ int main()
      * 
      * Keep telling yourself what you need to, btw you were here all along and still think that offering what you have always offered 
      * would prove your innocence ?
+     * 
+     * You are claiming that you are trying to help but also harm ? wait wait, what is the problem again ?
      **/
 
 
