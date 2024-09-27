@@ -639,6 +639,8 @@ int main()
      * without a reason right ?
      * Its okay btw, if years and years has passed and there is no indication of what we claim to ruin others lives with "INTENTIONALLY"
      * that can not possibly mean that we were there to detriment and acted with malign intentions and that is the problem
+     * 
+     * And all you can do, is try to come up with "miserable" theories to support your malign decision that were not your place
      **/
 
 
