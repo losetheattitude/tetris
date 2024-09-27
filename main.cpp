@@ -914,7 +914,8 @@ int main()
      * Being easy violent is never a skill, that tells me you have had no prior experience with
      * That means you do not understand but also you wield violence as punishment, thats the problem which will turn into another one for you
      * 
-     * Eeheheh years has passed, it must be his fate!!! we seek no trouble
+     * Eeheheh years has passed, it must be his fate!!! we seek no trouble.
+     * Recognize the person you are interacting with and you suddenly realize or I should say "foresee" your actions consequences
      **/ 
 
 
