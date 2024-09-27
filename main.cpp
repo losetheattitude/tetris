@@ -770,6 +770,8 @@ int main()
      * Eheheeh have some womeen!!!, have some womeen plss!
      * 
      * I do not want to see no stupid people around me, as always been around
+     * You do nothing!! you just sit ehehehe, there is no problem but you just dont do anything so we can more and more enjoy our experiences!!! plsss heheheh
+     * its really funny right ?
      **/
 
 
