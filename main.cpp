@@ -660,6 +660,7 @@ int main()
      * How dare asking for irrelevant noises ? after seeing and reacting it as if its what should not be after the countless times of actions that you can not account for ?
      * 
      * Why are you still offering things ? I do not have time for your bullshit, and you still offer medicine ? eheheheh
+     * How come you assume the position of being right at the same time offering things ?
      **/
 
 
