@@ -627,7 +627,7 @@ int main()
      * 
      * And you have had so many opportunities to help the people you said you would ? 
      * What a waste of resources, no no thats not the problem that you are selfish to the extent that you intentionally dis see it right ?
-     * How come its fair game ?
+     * How come its fair game ? No resources ? coerced medicines ? public "really difficult and intelligent operations" ? Violence ? And its fair game ?
      **/
 
 
