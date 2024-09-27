@@ -756,6 +756,8 @@ int main()
      * 
      * You still look around for bullshit ? Yess, look for untruthful approaches more, thats not the problem. Hybrid!!! thats bad!!! we good!!
      * thats intelligent!!! violence is good!! we helpful!! lie for us pls!!
+     * 
+     * You say you good ? eeheheh
      **/
 
 
