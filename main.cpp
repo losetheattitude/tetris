@@ -667,6 +667,7 @@ int main()
      * Its time you wake up from your ill intentioned dreams as completely good natured people and understand the life eheheh
      * 
      * Do you see the inexistent competency of yours ? or you would rather ignore and start telling the same inaccurate story. That can not be the problem
+     * Or you would rather offer womeenn as all you can see about life is just that and you judge through your narrow point of view, thats not the problem I ASSURE YOU
      **/
 
 
