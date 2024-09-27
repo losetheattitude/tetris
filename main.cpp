@@ -581,7 +581,9 @@ int main()
      * That has to be cheap right ? Who have I been with so far ? and what did you end up doing ?
      * Awww, you have chosen to say "No resources!!!! you cannot go out!!! you can not do that!!!! you get some violence!!!"
      * and you still say you are not the cheapest animal on earth ? And you still look for bullshit to guise your really cheap approach ?
-     * Now tell me my experience again and allege that you are actually great ?
+     * Now tell me my experience again and allege that you are actually great ? Wait, also talk about "life" as if you are not cheap to understand it
+     * eheheh some violence eheheh we good ppl no!!! you cannot go outside!!! you can not get money!! because we have coerced you when you were 10
+     * and now ehehehe life a simulation!!! we intelligent people!!! Fucking dumb monkeys
      * 
      **/
 
