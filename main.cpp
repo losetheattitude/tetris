@@ -987,6 +987,8 @@ int main()
      * Be the same mature individual that I am now being with you, when you lose things, I assure you as the most credible of any of you, that you will
      * eheheh
      * 
+     * You can get the fuck out of my face, if you still have the face to come up and ask things, that means you are actually not the problem!!!
+     * 
      * 
      **/ 
 
