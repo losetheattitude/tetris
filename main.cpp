@@ -933,7 +933,8 @@ int main()
      * ehehehhe, I guess alcohol is the only bullshit that is left ehehehehh we looking for we can not find eheheh
      * 
      * Offer stupid physical interactions that you do not deliver for biological harm and say that you understand the world
-     * and that you do not after materials, yet offer, thats intelligent btw
+     * and that you do not after materials, yet offer, thats intelligent btw, awwww you do not understand coercion ?
+     * You just would like to offer materials things and talk about "life" ? 
      **/ 
 
 
