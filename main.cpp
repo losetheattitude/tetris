@@ -554,6 +554,7 @@ int main()
      * that you would love to make in order to see others in difficult positions ?
      * 
      * You can remove your disgusting interests in my surroundings and you would have no problems
+     * Fucking dumb monkeys, still thinking you fool people ?
      **/
 
 
