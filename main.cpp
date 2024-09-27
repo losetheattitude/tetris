@@ -522,7 +522,7 @@ int main()
      * You think playing games over someone else's life should be okay but also should be incentived to harm ?
      * Yesss, you are the greatest nation I have seen, probably the only one eheheh its funny right ?
      * What have you been doing ? Yesss, get cars!!!! get womeeennn!!! you get anything you want!!
-     * 
+     *  
      * I have no time to waste with stupid people like you who can not deal with reality and start accusing with proven false things 
      * but you still would like to harm though right ? ehehehe
      * What was it ? its fair play you said and you also said you are not an animal ?
@@ -534,7 +534,11 @@ int main()
      * or you would rather beg people stay silent so that they could get harmed more eheheh
      * 
      * Get cars!!!! get woooomeeennn!! and you still say, you forgive ? who is forgiving who ?
+     * Awwww, your only way is to bring up what "you intelligently made decision about" and perpetuated your stupid reason for 29 years
+     * and although you have lost all the "back then coercefully acquired actions from a 10yo kid" so now you already know you are a stupid animal
+     * and all you can do is to beg so that you should rise innocent ?
      **/
+
 
 
     InitWindow (500, 620, "Raylib Tetris");
