@@ -634,6 +634,9 @@ int main()
      * A car would fix 29 years of wasted time and some irretrievable damage through violence right ? We understand life btw
      * life a simulation, whatever you say, whether that "life a simulation" that does not change the fact that you can not retrieve time right ?
      * So that already tells me that you do not know what you are saying, you only delude to be intelligent 
+     * 
+     * You see, you do not know what you are saying or you are doing it intentionally which are both a detrimental approach and only intended to harm
+     * without a reason right ?
      **/
 
 
