@@ -486,6 +486,8 @@ int main()
      * Hey look!! we pause kids coercefully and then move on to harm them for years!!! we tryna help you! we solve your problems!!
      * We good ppl!!! wait has it been 29 years ? And you dare call it fate ? Although everything is as clear as I can remember ?
      * Coercing kids ? calling it fate ?
+     * 
+     * Wait, you constantly harm and surprise at the outcome ? calling it fate ?
      **/
 
 
