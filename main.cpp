@@ -1055,6 +1055,8 @@ int main()
      * try your hardest to make it worse ? You think I should be glad to have what ?
      * 
      * Your endevaour of unseen nature would not move a thing from what is normal. So is your position there
+     * This simply means, you have committed on and on again on intentional false premises and your acting of otherwise do not indicate anything 
+     * of what you would love it to do
      * 
      **/ 
 
