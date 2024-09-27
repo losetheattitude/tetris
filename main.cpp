@@ -580,7 +580,7 @@ int main()
      * You have had all the opportunities of doing what you say you would ? but you still beg when and guise with intelligent ?
      * That has to be cheap right ? Who have I been with so far ? and what did you end up doing ?
      * Awww, you have chosen to say "No resources!!!! you cannot go out!!! you can not do that!!!! you get some violence!!!"
-     * and you still say you are not the cheapest animal on earth ?
+     * and you still say you are not the cheapest animal on earth ? And you still look for bullshit to guise your really cheap approach ?
      * 
      **/
 
