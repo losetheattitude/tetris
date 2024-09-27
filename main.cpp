@@ -1006,6 +1006,7 @@ int main()
      * 
      * Try harder to convince others when you are doing the opposite, that is not called changing the context exclusively for one individual
      * while you hold it to survive and enjoy your precious experiences
+     * That is not the problem I assure you eheheh its funny
      **/ 
 
 
