@@ -1011,6 +1011,7 @@ int main()
      * 
      * Wait there is such a thing as death ? awww, no no you must be fragile right ?
      * So whats the problem in having a few tries of the same education that you praise to be "just" ?
+     * Awwww, then it should mean something else other than you are actually not the person that you abuse other with ?
      **/ 
 
 
