@@ -691,6 +691,8 @@ int main()
      * Awwww, competent people tryna solve problems eheheheh the problems waooww, impressive 
      * Who is the problem again bro ? We tryna harm and we do it for the greater good eheheheheh intelligent ppl btw
      * Heyyy, we tryna protect you !!! I do not want any of you around me
+     * 
+     * Why are you still begging ? You beg to harm ? 
      **/
 
 
