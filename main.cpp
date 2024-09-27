@@ -1018,7 +1018,7 @@ int main()
      * Wait wait!! thats just a little mistake!! you understand, if you would rather think something for what is the truth, 
      * that means you are committing and there should be a price right ?
      * So whats the price again ? Or you would rather call it education ? Which is which for your inferior approach ?
-     * What you would love to think for the truth, is the same mistake you have done right ?
+     * What you would love to think for the truth, is the sam e mistake you have done right ?
      * Luckily I feel no guilt because I am the one who is more credible ? I know I am not lying ?
      * Then why are you still looking around ? Hoping that you would receive no harm while you are the guilty one ?
      * 
@@ -1033,6 +1033,7 @@ int main()
      * 
      * Awww, you must have forgotten that you will die as well ? Its probably because of your understanding of the world around you that you happened to
      * forget it or you are just immature and would love to enjoy your experiences in the most disgusting way possible ? Like harming people etc ?
+     * You think I will start suddenly taking the "life" lightly when you are not taking yours for light ?
      **/ 
 
 
