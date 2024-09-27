@@ -526,7 +526,8 @@ int main()
      * I have no time to waste with stupid people like you who can not deal with reality and start accusing with proven false things 
      * but you still would like to harm though right ? ehehehe
      * What was it ? its fair play you said and you also said you are not an animal ?
-     * Why you still offering women ?
+     * Why you still offering women ? Awww is that your only hope ? now that you are out of bullshit things to
+     * harm people you have no relation with ? awww, it was fair play right ?
      **/
 
 
