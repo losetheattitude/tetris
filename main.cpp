@@ -999,7 +999,7 @@ int main()
      * 
      * I want no people as inferior as you around me
      * you already know its inexplicable and you already know that I know its bullshit, but you just can not cope with the reality rignt ?
-     * So why not harm more while there are others around ?
+     * So why not harm more while there are others around ? Or you would rather start beg, womeeen!!!
      **/ 
 
 
