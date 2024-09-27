@@ -532,6 +532,8 @@ int main()
      * We good ppl btw, we tryna help, pls lie for us so that we can harm you!!! thats called intelligent btw
      * Talk about prior "experiences" that you have promised eheheheh then we can go on to talk more about who is what
      * or you would rather beg people stay silent so that they could get harmed more eheheh
+     * 
+     * Get cars!!!! get woooomeeennn!! and you still say, you forgive ? who is forgiving who ?
      **/
 
 
