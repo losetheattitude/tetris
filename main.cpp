@@ -866,7 +866,10 @@ int main()
      * So you would rather ignore what you could happen ? Awwww, at the last momentt we givee womeeeenn!!! so that we can praise about our credibility
      * along side our great intelligence, do that with your surroundings, you will see the problem immediately
      * 
-     * Stop begging like the animal you are
+     * Stop begging like the animal you are, you think that educates ? You better think more than twice to find out, you make things worse for everyone
+     * as the proof of your disgusting nature. That is there to be known for, you look at your actions and you see that you are a disgusting animal
+     * 
+     * Violence to educate!!! get in line 
      **/
 
 
