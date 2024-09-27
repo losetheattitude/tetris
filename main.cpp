@@ -995,6 +995,7 @@ int main()
      * Wait, are you okay? ??? what happened ?? awwww, we thought we live forever bro ? we thought there is no biological harm ?
      * So you can not deal with the reality of someone doing better than you, so you start harming for years and years then get surprised at the outcome
      * and realllly intelligently present it as proof to your disgusting nature ?
+     * Ehehehe you can not do that!! no no, we developed good ppl!! no eheheh
      * 
      * 
      **/ 
