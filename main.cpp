@@ -507,6 +507,7 @@ int main()
      * If you remain silent, you get carsss!!!! woomeeennnn!!! yess!!!! we are the most credible animal kind on earth!!!
      * 
      * Just think about your credibility again, fucking stupid monkeys
+     * Stay silent!!!
      **/
 
 
