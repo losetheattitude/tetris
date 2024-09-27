@@ -816,6 +816,7 @@ int main()
      * Now talk about the complete necessity of violence to people you have no relation and no problems with
      * 
      * You had all the time but you just greatly chose to harm people ? and you claim your innocency ?
+     * Only way !!! harm more!!! 
      **/
 
 
