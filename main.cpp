@@ -669,7 +669,7 @@ int main()
      * Do you see the inexistent competency of yours ? or you would rather ignore and start telling the same inaccurate story. That can not be the problem
      * Or you would rather offer womeenn as all you can see about life is just that and you judge through your narrow point of view, thats not the problem I ASSURE YOU
      * Keep dreaming what you wish others to be, and when the time comes, you beg a little for your own experiences why not ? WHY NOT ? eheheheh
-     * It is intelligently funny right ?
+     * It is intelligently funny right ? Cause greater harm ehehehe wouldnt be a problem for sure
      **/
 
 
