@@ -480,6 +480,8 @@ int main()
      * No no, you can not get resources!! you cant go outside!! no money!! and also some violence!!! some coercion to 10yo kids as well
      * we tryna help you please, 29 years is just nothing! I swear please trust us
      * Again, try to prompt your credibility or otherwise you would be ignoring
+     * 
+     * Get 6 months babies into situations and call yourselves intelligent
      **/
 
 
