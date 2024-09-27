@@ -562,6 +562,8 @@ int main()
      * 
      * Wait, it was, nobody is suffering but you should suffer!!!!! because there is really no reason, we coerce you for things then we start making 10yo kids suffer
      * eheheheh, thats the definition of "really genius people" right ?
+     * I am telling you, Its the most scary thing right ? I am really afraid of violence eheheheheh better judge next time
+     * before you coerce kids 
      **/
 
 
