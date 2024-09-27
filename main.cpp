@@ -607,6 +607,7 @@ int main()
      * You already know it means everything for an individual to be coerced into actions with "promises" or you would rather cheaply call "lies"!!!!!
      * like noises such as you get this, you get that, we do it the old way!!!
      * And tell me the experience I had so far 
+     * And you still call it fair game ? 
      **/
 
 
