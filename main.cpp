@@ -964,6 +964,8 @@ int main()
      * then you are the wrong place, and it took years of someone else's life and supposedly education that you would
      * hate that people find out about
      * 
+     * You get the same education because I know you acted malign INTENTIONALLY
+     * 
      * 
      **/ 
 
