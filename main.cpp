@@ -982,6 +982,8 @@ int main()
      * Wait wait, you take life lightly but you still love to ask people for random noises ?
      * I wonder what happens when you lose something of your own ? Will you start behaving the same as you coerce others to behave ?
      * Or are you going to be the immature kid that you are now and start assaulting others ?
+     * I do not want to hear or to be near any of you, display the same maturity as I do with you when you lose something 
+     * instead of throwing around lies and coercion, better luck next time you say ?
      * 
      * 
      **/ 
