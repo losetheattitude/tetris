@@ -838,6 +838,7 @@ int main()
      * Who is to forgive your actions btw ? still offering women to people who you intentionally harm and almost killed ?
      * And you suddenly want to play stupid games when it comes to your own actions, but you would like to display violence when you think
      * you are doing good against one defenceless individual ?
+     * You do not understand coercion ? you do not understand what you have been told at ?
      **/
 
 
