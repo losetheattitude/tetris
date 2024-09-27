@@ -621,6 +621,9 @@ int main()
      * Awwww, I have forgotten that you were the types of people who coerce kids, use irrelevant medicines and apply some undue violence 
      * and lie and call all of them "intelligent". You stupid under developed monkeys, right ?
      * ahahhhaha, its funny really, we do not want to even waste a year of our precious lives but it should be fine all the while eheheheh
+     * 
+     * And we can not see the outcome because it would mean our losing things we would hate, thats why we are stubborn dumb monkeys
+     * Doing the same things and expecting different results as to "hopefully scare individuals we DO NOT UNDERSTAND"
      **/
 
 
