@@ -758,6 +758,7 @@ int main()
      * thats intelligent!!! violence is good!! we helpful!! lie for us pls!!
      * 
      * You say you good ? eeheheh 30 years is nothing bro, we tryna help you, helping you from the furthest point eheheheh lifes good btw
+     * We give woomeeeeennn!! eheheh for now, we have to act like intelligent, we give women btw!!
      **/
 
 
