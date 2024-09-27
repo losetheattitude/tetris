@@ -909,6 +909,7 @@ int main()
      * 
      * What a group of irresponsible people, now what ? So what did you aim at again ? You say fair target again ?
      * Does that make you fair target as well ?
+     * You get the same education you offer to people who has no interest in it. Thats the point where your immaculate logic will always fail bro
      **/ 
 
 
