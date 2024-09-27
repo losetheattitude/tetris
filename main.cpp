@@ -592,6 +592,8 @@ int main()
      * So you still dare accusing ? And thats actually not cheap you say ? Or arent you a disgusting animal ?
      * And you still offer basic things as if they matter ? To cover violence ? You offer "really benevolently" what ?
      * 
+     * You offer what to substitute violence ?
+     * 
      **/
 
 
