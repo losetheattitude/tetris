@@ -898,6 +898,7 @@ int main()
      * Stupid people, we enemies btw, we fooes btw, we torture irrelevant defenceless people btw
      * 
      * We figure the life out!!! life simulation, we ask no same treatment we pose as education for ourselves!! we the great 
+     * Wait wait, you had all the opportunities but you just preferred to just say "wooomeeeennn!!!!" and "carsss!!!!"
      **/
 
 
