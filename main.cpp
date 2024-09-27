@@ -744,6 +744,8 @@ int main()
      * So you intentionally misguess and use that same inability to guess the outcome of 30 years, what could that be ? ehehehe fun life indeed
      * Get cars!!!!! get womeeennnn!!! why not!!! life a simulation bro!! now you can get cars!!!!!! noooooo pls no, lie for us we need help of those we harm!!!!
      * thats the intelligent part, stupid monkeys
+     * 
+     * You can get the fuck out of my face
      **/
 
 
