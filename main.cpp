@@ -1003,6 +1003,8 @@ int main()
      * 
      * You can get the fuck out of my face, you get unquestionable education or was that the other way around ?
      * You are welcome to receive the same education if you are eager to praise it
+     * 
+     * Try harder to convince others when you are doing the opposite
      **/ 
 
 
