@@ -559,6 +559,9 @@ int main()
      * ehehehe what if "he is not stable" although we are the ones who are acting like the true animal we are ?
      * What a group of illeterat fucking monkeys, keep telling yourselves the same stupid narrative, I have no intention to waste my time
      * with the very same people who think they are doing good 
+     * 
+     * Wait, it was, nobody is suffering but you should suffer!!!!! because there is really no reason, we coerce you for things then we start making 10yo kids suffer
+     * eheheheh, thats the definition of "really genius people" right ?
      **/
 
 
