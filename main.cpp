@@ -819,6 +819,8 @@ int main()
      * Only way !!! harm more!!! Look at history, you will see what stupid people are capable of committing, IT IS CALLED COMMITTING because you do it intentionally
      * to preserve your interests, so that you can continue enjoying while you harm others
      * Is that clear ? Ehehehe you just lied, not that you promised. Intelligence btw
+     * 
+     * Call committing crimes is a job for the greater good, then it should be fine, why not ?
      **/
 
 
