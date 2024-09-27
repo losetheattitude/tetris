@@ -590,7 +590,7 @@ int main()
      * No no, you have not coerced 10yo kids so that afterwards you can do what you "already wanted for others" and present it as excuse ?
      * But there is really no sign of any sort of disgusting bullshit of your mind's content for years ?
      * So you still dare accusing ? And thats actually not cheap you say ? Or arent you a disgusting animal ?
-     * And you still offer basic things as if they matter ?
+     * And you still offer basic things as if they matter ? To cover violence ? You offer "really benevolently" what ?
      * 
      **/
 
