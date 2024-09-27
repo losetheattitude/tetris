@@ -1035,6 +1035,7 @@ int main()
      * forget it or you are just immature and would love to enjoy your experiences in the most disgusting way possible ? Like harming people etc ?
      * You think I will start suddenly taking the "life" lightly when you are not taking yours for light ?
      * Continue begging like the animal you are, wait wait, you suddenly take life lightly and offer womeeeennn!!! ?
+     * Say that you ate it! please!!! we tryna protect you!! we seek no disasters plsss!!
      **/ 
 
 
