@@ -870,6 +870,7 @@ int main()
      * as the proof of your disgusting nature. That is there to be known for, you look at your actions and you see that you are a disgusting animal
      * 
      * Violence to educate!!! get in line, you say its fate ? you say not doing what you want is fate ?
+     * Waaowwwwww, what is the problem dumb animals ?
      **/
 
 
