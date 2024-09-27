@@ -1019,6 +1019,7 @@ int main()
      * that means you are committing and there should be a price right ?
      * So whats the price again ? Or you would rather call it education ? Which is which for your inferior approach ?
      * What you would love to think for the truth, is the same mistake you have done right ?
+     * Luckily I feel no guilt because I am the one who is more credible ? I know I am not lying ?
      **/ 
 
 
