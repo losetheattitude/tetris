@@ -567,6 +567,8 @@ int main()
      * 
      * You have no logical accusations but you still, well we just intelligently harm people and start begging eheheh
      * get womeennn hey gett some womeeen!! we tryna help you!!! wait you also dare calling it game ?
+     * and you still think I am going to start suddenly believing in people who has every opportunity to do just what they are now begging to do
+     * because I must be afraid of violence ? Do you think I operate the very same disgusting way as you do ?
      **/
 
 
