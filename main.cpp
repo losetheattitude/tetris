@@ -945,6 +945,7 @@ int main()
      * 
      * How about you explain your conduct and let the people assess what is right or wrong ? Instead of saying "life!!!!!" 
      * life a simulation!! its fate!!
+     * How come you still delude to make decisions that are not your fucking place ?
      **/ 
 
 
