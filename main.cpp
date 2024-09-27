@@ -661,6 +661,7 @@ int main()
      * 
      * Why are you still offering things ? I do not have time for your bullshit, and you still offer medicine ? eheheheh
      * How come you assume the position of being right at the same time offering things ?
+     * and tell me the experience I have now ?
      **/
 
 
