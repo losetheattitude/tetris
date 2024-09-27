@@ -801,7 +801,7 @@ int main()
      * Can you tell me the experience I had ?
      * So whats your next unseenly genius idea that you think you would receive no sorts of equal natured responses ? 
      * Apply some violencee!!! that is education btw, look who has learnt what, and who is the same stupid animal
-     * 29 years is nothing ehehe
+     * 29 years is nothing ehehe, harming is nothing as well right ? Noooo, you say its fair game eheheh what you can not even explain right ?
      **/
 
 
