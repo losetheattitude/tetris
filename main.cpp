@@ -1002,6 +1002,7 @@ int main()
      * So why not harm more while there are others around ? Or you would rather start beg, womeeen!!!
      * 
      * You can get the fuck out of my face, you get unquestionable education or was that the other way around ?
+     * You are welcome to receive the same education if you are eager to praise it
      **/ 
 
 
