@@ -1060,6 +1060,7 @@ int main()
      * 
      * Are you fucking even following ? Or would you like to simply harm ?
      * 29 years and you still accept no responsibility ?
+     * And you still delude that I accept your "regular offers" although you do not act on them ? Wait wait, who is missing what exactly at this ?
      **/ 
 
 
