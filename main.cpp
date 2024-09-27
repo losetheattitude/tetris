@@ -768,6 +768,8 @@ int main()
      * Who is on the same page ? Who wants some violence ? ehehehe thats education bro, when there is no problem, we choose to apply some violence because WHY NOT ?
      * Have you forgotten ? Why you always begging for your actions ?
      * Eheheeh have some womeen!!!, have some womeen plss!
+     * 
+     * I do not want to see no stupid people around me, as always been around
      **/
 
 
