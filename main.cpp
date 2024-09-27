@@ -988,6 +988,7 @@ int main()
      * eheheh
      * 
      * You can get the fuck out of my face, if you still have the face to come up and ask things, that means you are actually not the problem!!!
+     * You still let your suspicions to be the truth ? That is not the problem right ?
      * 
      * 
      **/ 
