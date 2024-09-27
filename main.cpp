@@ -1075,6 +1075,7 @@ int main()
      * Whats the pattern in your courageous attitude that you would suddenly want to play stupid "life" games but you go harm people randomly and
      * hide it like animal ? Pleaseee lie for us!!!
      * So you know you have lied before to just do harm and you have done it again!!!
+     * Who is intelligent ?
      **/ 
 
 
