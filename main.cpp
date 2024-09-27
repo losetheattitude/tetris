@@ -956,6 +956,7 @@ int main()
      * for a few days, and thats what we are counting for
      * 
      * That means, your way of assessing is malign and I know that
+     * good luck making people believe, before then that, try harder 
      * 
      * 
      **/ 
