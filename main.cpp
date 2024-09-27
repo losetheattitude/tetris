@@ -664,6 +664,7 @@ int main()
      * and tell me the experience I have now ? You understand intentional and malign appproaches ?
      * You are aimed at detrimental while the reality is different ? you see that right ?
      * If you intentionally do not see that, THAT IS THE PROBLEM AND WILL ALWAYS BE ONE, rightfully so knowing what I know about myself and others like you
+     * Its time you wake up from your ill intentioned dreams as completely good natured people and understand the life eheheh
      **/
 
 
