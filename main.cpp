@@ -1061,6 +1061,8 @@ int main()
      * Are you fucking even following ? Or would you like to simply harm ?
      * 29 years and you still accept no responsibility ?
      * And you still delude that I accept your "regular offers" although you do not act on them ? Wait wait, who is missing what exactly at this ?
+     * I demand rightfully the same violence and what it should already be, had your stupid minds been absent ? You see the reasonings right ?
+     * That is called being fair, not the games you think you are playing fairly
      **/ 
 
 
