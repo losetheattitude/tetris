@@ -930,6 +930,7 @@ int main()
      * Who is taking life lightly again ? Tell me, the only opinions I need are surely of yours
      * Get the fuck out of my face
      * You know you are already wrong and that is going to be the reality playing out, tomorrow if not today, thats assurance of the most credible one
+     * ehehehhe, I guess alcohol is the only bullshit that is left ehehehehh we looking for we can not find eheheh
      **/ 
 
 
