@@ -1052,7 +1052,7 @@ int main()
      * Now, repeat it again ? with all the "history" you would like to call such, what did you exactly achieve ? You achieve what you aimed at ?
      * Because you think that for a gain ?
      * Wait wait, you offer womeennn blindly ? Instead of not coping the reality with the proper way ? But to prove your "undue innocence" you
-     * try your hardest to make it worse ?
+     * try your hardest to make it worse ? You think I should be glad to have what ?
      * 
      **/ 
 
