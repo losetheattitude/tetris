@@ -603,6 +603,9 @@ int main()
      * other than harming ? and you still call it fair game ? including coercion of kids so that later on you can harm for the sake of harming ?
      * and you expect 29 years of bullshit to not come to surface some shape of form ?
      * Wait wait, you also call it fair game ? To make little kids into disgusting actions and coerce them into decisions that they are not well informed of ?
+     * But it should be still fair game when you harm to harm and do not deliver on what you have promised for such a big thing ?
+     * You already know it means everything for an individual to be coerced into actions with "promises" or you would rather cheaply call "lies"!!!!!
+     * like noises such as you get this, you get that, we do it the old way!!!
      **/
 
 
