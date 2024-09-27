@@ -810,6 +810,8 @@ int main()
      * 
      * And you still offer women ? Now talk about the great actions and try to convince people that it is necessary under the light of "no problems"
      * While there is no problems, you harm and beg to be announced innocent ?
+     * And you offer women to solve that but when the time comes, you say its enough!! we good ppl, we intelligent ppl of earth but now
+     * that there is a crowd around we can not practise our great intelligence !!!!
      **/
 
 
