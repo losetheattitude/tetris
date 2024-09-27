@@ -654,6 +654,7 @@ int main()
      * What happened!!! ?? Question your credibility before start talking, call it fair game eheheh 
      * Wait, what do you think is others are trying to do ? No no, thats not being immature, I follow you, now you can do whatever you were doing before eheheh
      * Awww, how come ? You think it should be okay not that its okay ? thats not the problem really
+     * Keep wasting your own precious time
      **/
 
 
