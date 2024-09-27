@@ -614,6 +614,9 @@ int main()
      * others the same confidence that they credit themselves with
      * But what did you choose to do instead ? You have chosen to act just like the cheap animal you are and misuse the credibility which is obviously undue
      * for the likes of animals like you
+     * 
+     * Do you still think, making random noises would solve the world problems ? or do you just want to enjoy your experiences while you ruin others
+     * without a proper reason ?
      **/
 
 
