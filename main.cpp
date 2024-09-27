@@ -606,6 +606,7 @@ int main()
      * But it should be still fair game when you harm to harm and do not deliver on what you have promised for such a big thing ?
      * You already know it means everything for an individual to be coerced into actions with "promises" or you would rather cheaply call "lies"!!!!!
      * like noises such as you get this, you get that, we do it the old way!!!
+     * And tell me the experience I had so far 
      **/
 
 
