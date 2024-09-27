@@ -1001,7 +1001,7 @@ int main()
      * you already know its inexplicable and you already know that I know its bullshit, but you just can not cope with the reality rignt ?
      * So why not harm more while there are others around ? Or you would rather start beg, womeeen!!!
      * 
-     * You can get the fuck out of my face
+     * You can get the fuck out of my face, you get unquestionable education or was that the other way around ?
      **/ 
 
 
