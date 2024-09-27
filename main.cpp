@@ -713,7 +713,7 @@ int main()
      * And still delude that you are trying to change something into something else, 30 years is nothing!!!! life is already over, and thats what we call intelligence!!!
      * Harm more and lets see what happens ehehehe, thats the intelligence part btw
      * 
-     * Why are you still asking for random noises so that you could be considered what you are not ?
+     * Why are you still asking for random noises so that you could be considered what you are not ? Intelligent but you can not really explain ?
      **/
 
 
