@@ -682,7 +682,7 @@ int main()
      * Brag, if you really insist to, with your own makings, do not interrupt contexts that you have no rights over whether you think you are saving the world
      * If you do not follow, that is also intentional and all that bullshit okay, you are just right, talk about the past, a few years back only eheheh
      * 
-     * How come you treat the most important thing in life so simply and ignorantly ?
+     * How come you treat the most important thing in life so simply and ignorantly ? and expect no repercussions ?
      **/
 
 
