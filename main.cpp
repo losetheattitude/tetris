@@ -899,6 +899,8 @@ int main()
      * 
      * We figure the life out!!! life simulation, we ask no same treatment we pose as education for ourselves!! we the great 
      * Wait wait, you had all the opportunities but you just preferred to just say "wooomeeeennn!!!!" and "carsss!!!!"
+     * 
+     * You still allege that its education ? Are you the wise people of the earth that need to be taken into consideration ? With your most stupid approach ?
      **/
 
 
