@@ -766,6 +766,7 @@ int main()
      * So that we can be on the same page 
      * 
      * Who is on the same page ? Who wants some violence ? ehehehe thats education bro, when there is no problem, we choose to apply some violence because WHY NOT ?
+     * Have you forgotten ? Why you always begging for your actions ?
      **/
 
 
