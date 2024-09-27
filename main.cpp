@@ -624,6 +624,8 @@ int main()
      * 
      * And we can not see the outcome because it would mean our losing things we would hate, thats why we are stubborn dumb monkeys
      * Doing the same things and expecting different results as to "hopefully scare individuals we DO NOT UNDERSTAND"
+     * 
+     * And you have had so many opportunities to help the people you said you would ? 
      **/
 
 
