@@ -1037,6 +1037,9 @@ int main()
      * Continue begging like the animal you are, wait wait, you suddenly take life lightly and offer womeeeennn!!! ?
      * Say that you ate it! please!!! we tryna protect you!! we seek no disasters plsss!!
      * Or you would just grow up and realize that you are making the biggest mistake may be? Or you have already done it!!!! plssss have some womeeennn!!!
+     * 
+     * We still look around waste time ehehehe, wasting more time, we do not take life lightly for our precious experiences!!
+     * 
      **/ 
 
 
