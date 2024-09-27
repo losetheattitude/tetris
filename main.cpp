@@ -1032,7 +1032,7 @@ int main()
      * Do you think its because of nature or there is nothing to do ? What are we doing looking around ? Wasting time that does not belong to you ?
      * 
      * Awww, you must have forgotten that you will die as well ? Its probably because of your understanding of the world around you that you happened to
-     * forget it 
+     * forget it or you are just immature and would love to enjoy your experiences in the most disgusting way possible ? Like harming people etc ?
      **/ 
 
 
