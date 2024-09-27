@@ -808,7 +808,8 @@ int main()
      * You get the same violence that somehow you take for education after you account for your actions
      * You get the same violence that somehow you take for education after you account for your actions
      * 
-     * And you still offer women ?
+     * And you still offer women ? Now talk about the great actions and try to convince people that it is necessary under the light of "no problems"
+     * While there is no problems, you harm and beg to be announced innocent ?
      **/
 
 
