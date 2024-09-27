@@ -840,7 +840,8 @@ int main()
      * you are doing good against one defenceless individual ?
      * You do not understand coercion ? you do not understand what you have been told at ?
      * Awww, you just dream it so bad to the extent that you harm people you have no understanding thus its repercussions of same nature ?
-     * But you still coerce ? as you have always done ?
+     * But you still coerce ? as you have always done ? Heyy!! he did it!! he ate it! ehehehe we want bare no responsibility but at the same time
+     * we want harm people!!!! plss help!! its waste its good ppl plss, we give women!! as we have always promised!! we give women!!
      **/
 
 
