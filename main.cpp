@@ -488,6 +488,7 @@ int main()
      * Coercing kids ? calling it fate ?
      * 
      * Wait, you constantly harm and surprise at the outcome ? calling it fate ?
+     * And you offer cars ?
      **/
 
 
