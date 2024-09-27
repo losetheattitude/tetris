@@ -549,6 +549,9 @@ int main()
      * Awwwwww, its too late!!! 29 years has passed and we do not know what to do other than begging for our erroneous actions ?
      * And you offer what again ? Offer what to change 29 years of irrelevant and intentional false judgment ?
      * And you think it should be fine to say "we do it the old way" ?
+     * 
+     * And you think saying "we do it the old way" should solve all the problem that you have intentionally formed so that you can make a decision
+     * that you would love to make in order to see others in difficult positions ?
      **/
 
 
