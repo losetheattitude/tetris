@@ -895,6 +895,7 @@ int main()
      * and later on you present it as a gift ? Is that the education btw ?
      * Wait wait, you are after no resources but you promise materials for "biological harm" and lost opportunity ?
      * You tell me you wont be amazed at such a scene for yourself, I would gladly accept it and harm you. See where it takes you all
+     * Stupid people
      **/
 
 
