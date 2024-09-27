@@ -971,6 +971,8 @@ int main()
      * accept a few physical interactions for what you are failingly avoid to explain ?
      * Whats the price now ? Just tell me the experience I had ? And correlate it with your past actions
      * instead of calling it past, that is not past 
+     * and that means, you are simply incompetent scared miserable animal that will wield anything of disgusting nature
+     * against a kid in the hopes of harming him
      * 
      * 
      **/ 
