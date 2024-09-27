@@ -710,6 +710,7 @@ int main()
      * 
      * Dont be emotional pls!!! dont be emotional!!!! so that we can harm more to achieve the "nobody can see" because it does not exist ?
      * So is your irrelevancy, beg more take it for intelligence
+     * And still delude that you are trying to change something into something else, 30 years is nothing!!!! life is already over, and thats what we call intelligence!!!
      **/
 
 
