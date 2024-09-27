@@ -751,7 +751,7 @@ int main()
      * The same stupid selfishness is again at the play for their miserable lifes, so that they can enjoy !!! plss lieee!! we tryna help !
      * Not the stupid animals, just have a look at the what the other people have said about people like you, before you can get to the point of judgment!!
      * Thats indeed intelligent right ? 
-     * Eheheheh, existential threat btw
+     * Eheheheh, existential threat btw, no no, we good ppl and we just apply some violence thats all
      **/
 
 
