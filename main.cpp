@@ -630,6 +630,9 @@ int main()
      * How come its fair game ? No resources ? coerced medicines ? public "really difficult and intelligent operations" ? Violence ? And its fair game ?
      * Wait wait, forget about the past!!!! time does not exist!! we understand the life btw ?
      * But you look around still ? a little some more violence would not hurt anybody 
+     * 
+     * A car would fix 29 years of wasted time and some irretrievable damage through violence right ? We understand life btw
+     * life a simulation 
      **/
 
 
