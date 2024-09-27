@@ -887,7 +887,8 @@ int main()
      * 
      * Heyy loook!!! its good!! we do good!!! Awww, wait you educate, thats my bad
      * wait wait, you pretend to be sad for a few days, make some credible promises then you should definitely be okay
-     * why not bro ? its fate btw
+     * why not bro ? its fate btw, no no we do no bad to kids, we no coerce nobody so that later on we wield it!!!
+     * What do you think I am going to do later on ? Wield it as good intention of yours ?
      **/
 
 
