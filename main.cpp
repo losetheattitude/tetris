@@ -641,6 +641,8 @@ int main()
      * that can not possibly mean that we were there to detriment and acted with malign intentions and that is the problem
      * 
      * And all you can do, is try to come up with "miserable" theories to support your malign decision that were not your place
+     * So the deal is, there is no indication of such and such, and that should already indicate that you are "acting what others are calling you as"
+     * So whats the problem again here ? If you can use your brain, you should be able to tell it already ?
      **/
 
 
