@@ -726,7 +726,7 @@ int main()
      * And somehow you are the intelligent, you are the great, you are the benevolent ? ehehehh
      * You pay for your own actions, and you still call it fair game ? you coerce kids into disgusting actions which is the product of your mind so that 
      * later on you can wield it as weapon ?
-     * Talk about the violence
+     * Talk about the violence, wait wait, you had all the opportunity to provide some resources but you chose not to ? and you still beg for help ?
      **/
 
 
