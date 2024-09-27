@@ -749,6 +749,8 @@ int main()
      * You had plenty of chances to prove that you are not the animal that you are, what did you do ?
      * 
      * The same stupid selfishness is again at the play for their miserable lifes, so that they can enjoy !!! plss lieee!! we tryna help !
+     * Not the stupid animals, just have a look at the what the other people have said about people like you, before you can get to the point of judgment!!
+     * Thats indeed intelligent right ? 
      **/
 
 
