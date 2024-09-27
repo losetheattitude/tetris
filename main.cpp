@@ -569,6 +569,9 @@ int main()
      * get womeennn hey gett some womeeen!! we tryna help you!!! wait you also dare calling it game ?
      * and you still think I am going to start suddenly believing in people who has every opportunity to do just what they are now begging to do
      * because I must be afraid of violence ? Do you think I operate the very same disgusting way as you do ?
+     * You all are just dumb people, you can get the fuck out of my face, doing what you were, "not coercing medicine for example"
+     * That is the most easy crime that you have committed then we can continue discussing the further actions of genius tissue that you have committed
+     * 
      **/
 
 
