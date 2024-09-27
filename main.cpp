@@ -901,6 +901,7 @@ int main()
      * Wait wait, you had all the opportunities but you just preferred to just say "wooomeeeennn!!!!" and "carsss!!!!"
      * 
      * You still allege that its education ? Are you the wise people of the earth that need to be taken into consideration ? With your most stupid approach ?
+     * The very same wise people ? that offers materials that they are already after ? The actions that have been driven from the very fact ?
      **/
 
 
