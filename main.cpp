@@ -698,6 +698,9 @@ int main()
      * eheheh we do it the old way!!! help us!! lie for us!! we good nation we good intelligent ppl, we like to harm single individuals ehehehehe
      * thats the only way we can feel good about ourselves bro,
      * wait wait, you allege you educate people ? Towards what ? and by doing what ? with which instrument do you think ?
+     * eheheh
+     * 
+     * You can get the fuck out of my face
      **/
 
 
