@@ -647,6 +647,7 @@ int main()
      * Talk about the past you avoid with insubstantial but "somehow made to be BACK THEN" things ?
      * You still like associating irrelevant things with most important life functions ?
      * And justifying violence and all sorts of bullshit that will have its repercussions tomorrow if not today ? right ?
+     * Its for your own good btw, we choose to use medicine, thats called competency somehow!!
      **/
 
 
