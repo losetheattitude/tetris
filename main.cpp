@@ -482,6 +482,7 @@ int main()
      * Again, try to prompt your credibility or otherwise you would be ignoring
      * 
      * Get 6 months babies into situations and call yourselves intelligent
+     * Call it fate for what you are committing, thats not the problem
      **/
 
 
