@@ -921,6 +921,8 @@ int main()
      * So what could that be good people ? Though you better hide or recognize or assess, failing at one means a lot 
      * Offer cars for biological harm and some time lost, Whos the problem ?
      * Btw, harming one is more than enough for the likes of you right ? should be the case
+     * 
+     * Wait wait, why are there no indications of what you accuse with ? eheheheh its just simulation, we ask no bad!! plss we offer what we crave for!!
      **/ 
 
 
