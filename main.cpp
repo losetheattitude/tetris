@@ -686,7 +686,7 @@ int main()
      * which every single individual on earth has access to FOR 30 years and some irrelevant violence ? Who do you think lack the education here ?
      * Wait, you still think it should be fine to coerce kids and expect to use it later on ? You call that life ? where is the reference for that immaculate information ?
      * and you say you are not the problem, are you still dreaming so that you can harm ? And you think that achieves, you have a problem with your own disgusting brain
-     * Fix that before you interact with others
+     * Fix that before you interact with others, or you would rather act like its fine, although its the most disgusting thing you could ever commit. Right ?
      **/
 
 
