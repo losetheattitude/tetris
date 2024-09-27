@@ -871,6 +871,9 @@ int main()
      * 
      * Violence to educate!!! get in line, you say its fate ? you say not doing what you want is fate ?
      * Waaowwwwww, what is the problem dumb animals ? Wait, tell me the experience and correlate it with something logical ?
+     * 
+     * Ehehehehe get money!!! just as we promised before you save our disgusting asses again!! get money!! for real !!!
+     * get carss!!!! get womeeeen!!! awwww, wait but the last time you were the same disgusting animal ? now you say you good?
      **/
 
 
