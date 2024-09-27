@@ -597,6 +597,7 @@ int main()
      * Wait, now you also tell that you try your hardest and call it "fair game" but you also say "he ate it!!! he did it!!!"
      * Is that the explanation for your actions ? Two things that contradict eachother ?
      * And you already know you have wasted 29 years with the very same attitude that you have displayed and will display ?
+     * And you still call it fair game ? What a shame isnt it ?
      **/
 
 
