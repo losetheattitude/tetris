@@ -941,6 +941,7 @@ int main()
      * Life a game!! we winning btw!!
      * 
      * Wait wait, you do not follow your part but you coerce others as well ? Eheeheh woomeeennn!!! cars!!! money!!!!!
+     * Awww, you gather to collectively harm ? Ehehehe thats clever
      **/ 
 
 
