@@ -507,7 +507,10 @@ int main()
      * If you remain silent, you get carsss!!!! woomeeennnn!!! yess!!!! we are the most credible animal kind on earth!!!
      * 
      * Just think about your credibility again, fucking stupid monkeys
-     * Stay silent!!! We tryna help you, look at how well you are doing!!! we the great nation eeheheh
+     * Stay silent!!! We tryna help you, look at how well you are doing!!! we the great nation eeheheh 
+     * 
+     * I do not care, you operate with malign intention you are treated with the same, as you can tell
+     * so far you have done the opposite of what you have honorably promised and that wouldnt change because of who you are
      **/
 
 
