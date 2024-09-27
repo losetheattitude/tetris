@@ -935,6 +935,8 @@ int main()
      * Offer stupid physical interactions that you do not deliver for biological harm and say that you understand the world
      * and that you do not after materials, yet offer, thats intelligent btw, awwww you do not understand coercion ?
      * You just would like to offer materials things and talk about "life" ? 
+     * You already know the conditions of the "highly intelligent bet", I remember and no coincidence that you have to change the truth in order to
+     * survive your stupidity which will come after you, may be others of your type ehehehe
      **/ 
 
 
