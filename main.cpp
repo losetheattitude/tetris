@@ -733,7 +733,7 @@ int main()
      * 
      * You dare offering cars ? with your narrow point of view ? you dare offering what is available ?
      * But you would also love practicing your great narrow point of view to apply some violence ? and you say you are not an animal ?
-     * You can not use your brain ?
+     * You can not use your brain ? Talk about the violence
      **/
 
 
