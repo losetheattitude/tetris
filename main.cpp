@@ -926,6 +926,7 @@ int main()
      * Ehehehe its funny really, you call what education again ? and ask to be taken serious ? or impartial ? Or dare that "the past is past" ?
      * 
      * And you say you look after whose interest ? I do not want to see any of you around me
+     * Look at your actions and infer the most difficult thing right ?
      **/ 
 
 
