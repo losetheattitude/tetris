@@ -1004,7 +1004,8 @@ int main()
      * You can get the fuck out of my face, you get unquestionable education or was that the other way around ?
      * You are welcome to receive the same education if you are eager to praise it
      * 
-     * Try harder to convince others when you are doing the opposite
+     * Try harder to convince others when you are doing the opposite, that is not called changing the context exclusively for one individual
+     * while you hold it to survive and enjoy your precious experiences
      **/ 
 
 
