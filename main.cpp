@@ -617,6 +617,9 @@ int main()
      * 
      * Do you still think, making random noises would solve the world problems ? or do you just want to enjoy your experiences while you ruin others
      * without a proper reason ?
+     * 
+     * Awwww, I have forgotten that you were the types of people who coerce kids, use irrelevant medicines and apply some undue violence 
+     * and lie and call all of them "intelligent". You stupid under developed monkeys, right ?
      **/
 
 
