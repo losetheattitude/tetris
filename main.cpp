@@ -906,6 +906,8 @@ int main()
      * Are you still after the same unjustifiable actions ? Wait wait, the same wise people offer material all of a sudden ? Calling it fair game or life ?
      * or just fate ? what are you talking about ? You still insisting on your stupid claims ?
      * Where is the proof other than your coercions btw ? He did it!! he did it!! medicine bring more medicine btw
+     * 
+     * What a group of irresponsible people, now what ? So what did you aim at again ? You say fair target again ?
      **/ 
 
 
