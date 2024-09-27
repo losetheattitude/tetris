@@ -848,6 +848,8 @@ int main()
      * btw you get no resources!!!! ehehehe what are you going to do ?
      * What have you been doing ? Yes you have been doing good!! although you can not answer for your own actions right ?
      * You do not grow up ? You just want to harm people with falsehoods ?
+     * And you call it fate ? you beg that you give womeeenn!! you give cars!!! you give money!!! but wait a second ? Where are they btw ?
+     * ehehehe now you have to lie ehehehe its funny right ?
      **/
 
 
