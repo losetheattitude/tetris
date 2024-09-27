@@ -1068,7 +1068,7 @@ int main()
      * Because I can not follow your logic ? Or are you just not making any sense other than HARM!! HARMM!!
      * And somehow you think you are not false ? Expect others to be harmed and be content with that, also talk about life
      * but do not understand the individual you are facing. That can not be the problem
-     * and you call that being "competent" ?
+     * and you call that being "competent" ? What do you think everyone is trying to do ?
      **/ 
 
 
