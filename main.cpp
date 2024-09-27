@@ -1034,7 +1034,7 @@ int main()
      * Awww, you must have forgotten that you will die as well ? Its probably because of your understanding of the world around you that you happened to
      * forget it or you are just immature and would love to enjoy your experiences in the most disgusting way possible ? Like harming people etc ?
      * You think I will start suddenly taking the "life" lightly when you are not taking yours for light ?
-     * Continue begging like the animal you are
+     * Continue begging like the animal you are, wait wait, you suddenly take life lightly and offer womeeeennn!!! ?
      **/ 
 
 
