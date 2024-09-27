@@ -753,6 +753,8 @@ int main()
      * Thats indeed intelligent right ? 
      * Eheheheh, existential threat btw, no no, we good ppl and we just apply some violence thats all
      * Thats education btw, I said I do not care about your stupid games ? You say, I want to harmmm !!! whats the problem ?
+     * 
+     * You still look around for bullshit ?
      **/
 
 
