@@ -923,6 +923,7 @@ int main()
      * Btw, harming one is more than enough for the likes of you right ? should be the case
      * 
      * Wait wait, why are there no indications of what you accuse with ? eheheheh its just simulation, we ask no bad!! plss we offer what we crave for!!
+     * Ehehehe its funny really
      **/ 
 
 
