@@ -721,6 +721,8 @@ int main()
      * Why do you think there is no problem when you are not there ? Ehehehe in the dark!! in the dark btw
      * No no, it was existential threat that does so many things as we have lost the count ?
      * Where are the proofs of your highly super intelligent ? Awww, you would rather beg right ?
+     * 
+     * Wait wait, so you are trying to tell me that, you have been on someone's side while also he is being harmed ? The same country that you have authority over ?
      **/
 
 
