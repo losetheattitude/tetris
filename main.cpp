@@ -904,7 +904,7 @@ int main()
      * The very same wise people ? that offers materials that they are already after ? The actions that have been driven from the very fact ?
      * 
      * Are you still after the same unjustifiable actions ? Wait wait, the same wise people offer material all of a sudden ? Calling it fair game or life ?
-     * or just fate ? what are you talking about ?
+     * or just fate ? what are you talking about ? You still insisting on your stupid claims ?
      **/ 
 
 
