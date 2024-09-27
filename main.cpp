@@ -918,7 +918,7 @@ int main()
      * Recognize the person you are interacting with and you suddenly realize or I should say "foresee" your actions consequences
      * If you do not recognize, that means either you try not to for obvious reasons, or you have never interacted with such
      * in either case, there is work to be done on your part right ?
-     * So what could that be good people ?
+     * So what could that be good people ? Though you better hide or recognize or assess, failing at one means a lot 
      **/ 
 
 
