@@ -762,6 +762,8 @@ int main()
      * no no, we give carsss!!! plsss!! we understand the life to its extreme point!!! thats why we offer carsssss!!! we seek the very same thing
      * but we would also love to apply some violence, because WHY NOT ? ehehehe its funny
      * eheheh, no no!! you can not do what you want!!! noooo!! we good ppl!! 
+     * We want to educate everyone!! plss!! violence is the only way! so we accept violence for ourselves as well right ? So who is in the line for some violence ?
+     * So that we can be on the same page 
      **/
 
 
