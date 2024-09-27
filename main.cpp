@@ -925,6 +925,7 @@ int main()
      * Wait wait, why are there no indications of what you accuse with ? eheheheh its just simulation, we ask no bad!! plss we offer what we crave for!!
      * Ehehehe its funny really, you call what education again ? and ask to be taken serious ? or impartial ? Or dare that "the past is past" ?
      * 
+     * And you say you look after whose interest ?
      **/ 
 
 
