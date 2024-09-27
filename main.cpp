@@ -663,6 +663,7 @@ int main()
      * How come you assume the position of being right at the same time offering things ?
      * and tell me the experience I have now ? You understand intentional and malign appproaches ?
      * You are aimed at detrimental while the reality is different ? you see that right ?
+     * If you intentionally do not see that, THAT IS THE PROBLEM AND WILL ALWAYS BE ONE, rightfully so knowing what I know about myself and others like you
      **/
 
 
