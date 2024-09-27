@@ -973,6 +973,7 @@ int main()
      * instead of calling it past, that is not past 
      * and that means, you are simply incompetent scared miserable animal that will wield anything of disgusting nature
      * against a kid in the hopes of harming him
+     * You know you are taking death lightly which will have effects of unpredictable nature. Thats the point you are at
      * 
      * 
      **/ 
