@@ -792,6 +792,9 @@ int main()
      * 
      * You already know I know, it should be fine anyway because nobody would do anything about it ?
      * Awwww, you were trying to solve problems, not causing ones ehehe, I have seen enough of types like you
+     * 
+     * Why are you still asking for forgiveness when you have done your worst to make things come to this point that you can not explain anymore
+     * other than begging like "you did this!!!", "you ate it!!!"
      **/
 
 
