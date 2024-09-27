@@ -594,6 +594,8 @@ int main()
      * 
      * You offer what to substitute violence ? And you try to substitute countless attempts of things that "you cannot just explain other than saying fair game" ?
      * All you can tell is ? "kill everybody!!!!" as if you had understanding and now also understanding the life ?
+     * Wait, now you also tell that you try your hardest and call it "fair game" but you also say "he ate it!!! he did it!!!"
+     * Is that the explanation for your actions ? Two things that contradict eachother ?
      **/
 
 
