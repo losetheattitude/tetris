@@ -572,6 +572,8 @@ int main()
      * You all are just dumb people, you can get the fuck out of my face, doing what you were, "not coercing medicine for example"
      * That is the most easy crime that you have committed then we can continue discussing the further actions of genius tissue that you have committed
      * 
+     * All you can achieve is "using medicine and violence" ? Thats how simple you are
+     * 
      **/
 
 
