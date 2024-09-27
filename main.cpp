@@ -989,6 +989,8 @@ int main()
      * 
      * You can get the fuck out of my face, if you still have the face to come up and ask things, that means you are actually not the problem!!!
      * You still let your suspicions to be the truth ? That is not the problem right ?
+     * Not that you "desperately" need your suspicions to be the reality, you delude and do your best to coerce kids so that you can think you achieving ?
+     * Thats not the problem, the problem is not you are in a group of stupid animals that do not understand life but keep talking about it lightly ?
      * 
      * 
      **/ 
