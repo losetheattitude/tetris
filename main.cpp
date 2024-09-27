@@ -887,7 +887,7 @@ int main()
      * 
      * Heyy loook!!! its good!! we do good!!! Awww, wait you educate, thats my bad
      * wait wait, you pretend to be sad for a few days, make some credible promises then you should definitely be okay
-     * why not bro ?
+     * why not bro ? its fate btw
      **/
 
 
