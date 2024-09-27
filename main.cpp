@@ -502,6 +502,8 @@ int main()
      * You still want that truth of your actions stay hidden ? Because then you would have to actually for once in your life upholded to your actions ?
      * Ehehehe oyster!! he ate it!!! we are innocent!!! You can not have anything!! you can not go outside!!! you can not have money!! you can nott!!
      * wait wait, please lie for us!!! we need your help to convince others and you to harm YOU!!! please lie for us
+     * 
+     * We good intentioned and natured ppl, its fate!!! but still we would love you to remain silent!!
      **/
 
 
