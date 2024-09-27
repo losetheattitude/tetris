@@ -1045,7 +1045,8 @@ int main()
      * Awwww, thats just how great you are I suppose, you are not immature ?
      * 
      * Wait wait, it is a mistake you say ? You playing funny games right ?
-     * Now can you tell me the experience I had ?
+     * Now can you tell me the experience I had ? So wait wait,
+     * just listen very closely, you coercefully get someone and you made him into somebody that would hate you
      * 
      **/ 
 
