@@ -1040,6 +1040,7 @@ int main()
      * 
      * We still look around waste time ehehehe, wasting more time, we do not take life lightly for our precious experiences!!
      * Now try to explain your great attitudes, or you would rather call it life ?
+     * Why do you still offer the same things that you are apparently after for biological harm ?
      * 
      **/ 
 
