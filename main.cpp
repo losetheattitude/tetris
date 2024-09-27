@@ -577,6 +577,8 @@ int main()
      * Further eheheh
      * You would call cheap intelligent because of why ?
      * You would dare calling what is the most cheapest form of actions intelligent, because you are a cheap stupid animal ? Isnt that correct ?
+     * You have had all the opportunities of doing what you say you would ? but you still beg when and guise with intelligent ?
+     * That has to be cheap right ?
      * 
      **/
 
