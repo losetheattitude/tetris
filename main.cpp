@@ -1047,7 +1047,8 @@ int main()
      * Wait wait, it is a mistake you say ? You playing funny games right ?
      * Now can you tell me the experience I had ? So wait wait,
      * just listen very closely, you coercefully get someone and you made him into somebody that would hate you
-     * and you did it with no apparent reason at all ?
+     * and you did it with no apparent reason at all ? Completely irrelevant individual somehow made to your "ENEMY" !!!
+     * Although neither can you provide what you once did through your noble approach nor can you fix anything assuming that you are some sort of fucking god ?
      * 
      **/ 
 
