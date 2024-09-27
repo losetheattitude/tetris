@@ -967,7 +967,8 @@ int main()
      * You get the same education because I know you acted malign INTENTIONALLY
      * Still talking about regular physical interactions ? And hoping that it would solve ?
      * You are imploring me to act that reckless way but when it comes to explaining you say he does it on his own ?
-     * You think you are not seeking for trouble ?
+     * You think you are not seeking for trouble ? and do you think that I am as simple as you are to
+     * accept a few physical interactions for what you are failingly avoid to explain ?
      * 
      * 
      **/ 
