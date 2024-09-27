@@ -782,6 +782,8 @@ int main()
      * Get in line for some education ? why not ? More education can not hurt anybody right ? Awww, you suddenly abstain because of ?
      *  
      * You abstain from what you "grant" people ? And are you still talking about women ?
+     * Awww, its the time you say a few good things, and 30 years just disappears!!!! we good ppl broo
+     * we no abuse nobody, especially not 10yo kids ehehehe 
      **/
 
 
