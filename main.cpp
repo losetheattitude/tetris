@@ -855,6 +855,8 @@ int main()
      * 
      * Or wait wait, give more medicine, eheheh we tryna help you, as we have always done!!! Why dont you get something for yourself ? Life is short btw!!
      * No no, lifes good, or wait, lifes a simulation!!!!!! we know everything there is to be known!!! we like applying violence!!!!
+     * 
+     * Explain your conduct, account for your actions and like a normal group of people, we think about whats next
      **/
 
 
