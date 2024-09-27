@@ -778,6 +778,7 @@ int main()
      * So who is down for some violence ? That educates people bro!! You do not think that coercing 10yo kids is ignorant ? Who needs education ?
      * Wait wait, you do not think assaulting single individuals is wise ?
      * So you still think that you learn from your experiences ? You think you are educated ? You think you know what you are doing ?
+     * Wait wait, you think you have achieved what ?
      **/
 
 
