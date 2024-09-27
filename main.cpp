@@ -959,6 +959,8 @@ int main()
      * good luck making people believe, before then that, try harder 
      * Talk more about coercing kids, and we see where that will takes us
      * 
+     * Tell the same stupid story you do not even believe, you are not the problem
+     * 
      * 
      **/ 
 
