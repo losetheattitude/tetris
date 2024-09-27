@@ -1073,7 +1073,7 @@ int main()
      * that you should do whatever you want, that does not affect the time
      * 
      * Whats the pattern in your courageous attitude that you would suddenly want to play stupid "life" games but you go harm people randomly and
-     * hide it like animal ?
+     * hide it like animal ? Pleaseee lie for us!!!
      **/ 
 
 
