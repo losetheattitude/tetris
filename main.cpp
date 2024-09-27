@@ -772,7 +772,8 @@ int main()
      * I do not want to see no stupid people around me, as always been around
      * You do nothing!! you just sit ehehehe, there is no problem but you just dont do anything so we can more and more enjoy our experiences!!! plsss heheheh
      * its really funny right ? Wait wait, there is no sign for almost a decade, and it has been told to you countless time that it is going to play out like that ?
-     * And now you are still in your stupid position ?
+     * And now you are still in your stupid position ? Which part of YOU DO NOT GET TO DECIDE is too difficult for your disgusting experiences ?
+     * You are going to loose it regardless 
      **/
 
 
