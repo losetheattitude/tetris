@@ -1030,6 +1030,9 @@ int main()
      * You want to talk about reality ? You beg for no apparent reason other than your stupid stubbornness
      * You get yourselves unconditional trouble regardless of time
      * Do you think its because of nature or there is nothing to do ? What are we doing looking around ? Wasting time that does not belong to you ?
+     * 
+     * Awww, you must have forgotten that you will die as well ? Its probably because of your understanding of the world around you that you happened to
+     * forget it 
      **/ 
 
 
