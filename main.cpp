@@ -747,6 +747,8 @@ int main()
      * 
      * You can get the fuck out of my face, what do you think is the problem in coercing people into stupid games that DO NOT MAKE SENSE ?
      * You had plenty of chances to prove that you are not the animal that you are, what did you do ?
+     * 
+     * The same stupid selfishness is again at the play for their miserable lifes, so that they can enjoy !!! plss lieee!! we tryna help !
      **/
 
 
