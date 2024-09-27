@@ -939,6 +939,8 @@ int main()
      * survive your stupidity which will come after you, may be others of your type ehehehe
      * First this then that, we intelligent btw, good luck explaining your immaculate reasonings to others
      * Life a game!! we winning btw!!
+     * 
+     * Wait wait, you do not follow your part but you coerce others as well ? Eheeheh woomeeennn!!! cars!!! money!!!!!
      **/ 
 
 
