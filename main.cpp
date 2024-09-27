@@ -677,6 +677,8 @@ int main()
      * Play stupid games, who cares ? why not ? we do it anyway!! whats the problem ?
      * Awwww, because you coerced people into doing things and now you claim to harm them because of it ? and you think it wouldnt a problem for the entity
      * that you mis judge ?
+     * 
+     * You misguess, misguess, misguess to the point that you have to accept but "THE PAST IS PAST!!!!!", need you some education bro ?
      **/
 
 
