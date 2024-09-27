@@ -695,6 +695,8 @@ int main()
      * Why are you still begging ? You beg to harm ? 
      * Awww, what happened ? what happened bro ? we do not know shit ?
      * We just harm defenseless people and brag about it eheheh disgustingly stupid irrelevant people, trying to have fun!!! ehehhe intelligent btw
+     * eheheh we do it the old way!!! help us!! lie for us!! we good nation we good intelligent ppl, we like to harm single individuals ehehehehe
+     * thats the only way we can feel good about ourselves bro
      **/
 
 
