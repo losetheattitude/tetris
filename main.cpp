@@ -555,6 +555,7 @@ int main()
      * 
      * You can remove your disgusting interests in my surroundings and you would have no problems
      * Fucking dumb monkeys, still thinking you fool people ?
+     * Waaaaowwww, you say its fair game eheheh because there really is no reason, we just want to harm eheheh
      **/
 
 
