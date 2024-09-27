@@ -675,6 +675,7 @@ int main()
      * Noo, thats not bad intention, thats for sure, "because if someone has good time, that would cause greaterr harmm for everyone in the world!!!"
      * Thats education bro!! Look its real simple, if you enjoy your life, that can only mean one thing!!! you harm for the greater!!! yesssss educated and intelligent and good ppl indeed
      * Play stupid games, who cares ? why not ? we do it anyway!! whats the problem ?
+     * Awwww, because you coerced people into doing things and now you claim to harm them because of it ?
      **/
 
 
