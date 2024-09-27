@@ -679,6 +679,7 @@ int main()
      * that you mis judge ?
      * 
      * You misguess, misguess, misguess to the point that you have to accept but "THE PAST IS PAST!!!!!", need you some education bro ?
+     * Brag, if you really insist to, with your own makings
      **/
 
 
