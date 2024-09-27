@@ -1010,6 +1010,7 @@ int main()
      * you think there is reason in stupidity ? Like random violence ?
      * 
      * Wait there is such a thing as death ? awww, no no you must be fragile right ?
+     * So whats the problem in having a few tries of the same education that you praise to be "just" ?
      **/ 
 
 
