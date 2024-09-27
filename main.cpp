@@ -728,7 +728,8 @@ int main()
      * later on you can wield it as weapon ?
      * Talk about the violence, wait wait, you had all the opportunity to provide some resources but you chose not to ? and you still beg for help ?
      * 
-     * You beg for help from whom you harm with despicable intention ?
+     * You beg for help from whom you harm with despicable intention ? and why are you surprised at the outcome ? Awww, wait you would rather
+     * see it as the reality playing out as in its most natural state ? You call it game, and also a fair game ?
      **/
 
 
