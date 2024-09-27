@@ -826,7 +826,7 @@ int main()
      * 
      * So the story is, you coerce kids for your interests so that later on you can harm them more with the guise of "cleaning"
      * and you say that it is a little bit late and that its his fate! and that its a waste but you are the sole perpetrator of such a disgusting
-     * approach ?
+     * approach ? And you asked to do what ? While time and time you have "intelligently played a fair game" ?
      **/
 
 
