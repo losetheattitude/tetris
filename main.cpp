@@ -850,6 +850,9 @@ int main()
      * You do not grow up ? You just want to harm people with falsehoods ?
      * And you call it fate ? you beg that you give womeeenn!! you give cars!!! you give money!!! but wait a second ? Where are they btw ?
      * ehehehe now you have to lie ehehehe its funny right ? Well, why not apply more violence, it should be fine
+     * Or get a car!!!!! we are the most simple animal on the surface of earth!!! we solve our problems through begging like the animal we are!!
+     * get a car!!! get womeeenn!!!! we have granted you countless times!!! heeheheheh we good ppl, pls help lie us!!
+     * 
      **/
 
 
