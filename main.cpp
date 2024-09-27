@@ -799,6 +799,8 @@ int main()
      * We tryna make him better!!! we tryna cure what we intentionally caused!!! we good nation btw
      * We just want to enjoy our experiences
      * Can you tell me the experience I had ?
+     * So whats your next unseenly genius idea that you think you would receive no sorts of equal natured responses ? 
+     * Apply some violencee!!! that is education btw, look who has learnt what, and who is the same stupid animal
      **/
 
 
