@@ -993,6 +993,8 @@ int main()
      * Thats not the problem, the problem is not you are in a group of stupid animals that do not understand life but keep talking about it lightly ?
      * 
      * Wait, are you okay? ??? what happened ?? awwww, we thought we live forever bro ? we thought there is no biological harm ?
+     * So you can not deal with the reality of someone doing better than you, so you start harming for years and years then get surprised at the outcome
+     * and realllly intelligently present it as proof to your disgusting nature ?
      * 
      * 
      **/ 
