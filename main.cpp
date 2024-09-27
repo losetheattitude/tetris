@@ -896,6 +896,8 @@ int main()
      * Wait wait, you are after no resources but you promise materials for "biological harm" and lost opportunity ?
      * You tell me you wont be amazed at such a scene for yourself, I would gladly accept it and harm you. See where it takes you all
      * Stupid people, we enemies btw, we fooes btw, we torture irrelevant defenceless people btw
+     * 
+     * We figure the life out!!! life simulation, we ask no same treatment we pose as education for ourselves!! we the great 
      **/
 
 
