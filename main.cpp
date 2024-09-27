@@ -1071,6 +1071,9 @@ int main()
      * and you call that being "competent" ? What do you think everyone is trying to do ?
      * That is called being delusional, you understand the frustration ? because there is no going back whether you would love to believe
      * that you should do whatever you want, that does not affect the time
+     * 
+     * Whats the pattern in your courageous attitude that you would suddenly want to play stupid "life" games but you go harm people randomly and
+     * hide it like animal ?
      **/ 
 
 
