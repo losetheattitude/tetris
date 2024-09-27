@@ -949,6 +949,7 @@ int main()
      * Yes you are not violent and thats my bad as well!!!! plss we want no violence !!! we want give violence!!!
      * You do not understand shit, and you can get the fuck out of my face or you would rather make promises ?
      * No no!! we take it back!! please move the time backwards!!! thats a mistake!!
+     * If you do not want to see it, its the same reason, good luck
      **/ 
 
 
