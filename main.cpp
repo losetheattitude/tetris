@@ -946,6 +946,7 @@ int main()
      * How about you explain your conduct and let the people assess what is right or wrong ? Instead of saying "life!!!!!" 
      * life a simulation!! its fate!!
      * How come you still delude to make decisions that are not your fucking place ? Like you use your perfect reason to violence ?
+     * Yes you are not violent and thats my bad as well!!!! plss we want no violence !!! we want give violence!!!
      **/ 
 
 
