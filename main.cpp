@@ -997,7 +997,7 @@ int main()
      * and realllly intelligently present it as proof to your disgusting nature ?
      * Ehehehe you can not do that!! no no, we developed good ppl!! no eheheh
      * 
-     * 
+     * I want no people as inferior as you around me
      **/ 
 
 
