@@ -874,6 +874,7 @@ int main()
      * 
      * Ehehehehe get money!!! just as we promised before you save our disgusting asses again!! get money!! for real !!!
      * get carss!!!! get womeeeen!!! awwww, wait but the last time you were the same disgusting animal ? now you say you good?
+     * Thats the intelligent part you say ?
      **/
 
 
