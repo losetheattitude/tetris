@@ -564,6 +564,8 @@ int main()
      * eheheheh, thats the definition of "really genius people" right ?
      * I am telling you, Its the most scary thing right ? I am really afraid of violence eheheheheh better judge next time
      * before you coerce kids 
+     * 
+     * You have no logical accusations but you still, well we just intelligently harm people and start begging eheheh
      **/
 
 
