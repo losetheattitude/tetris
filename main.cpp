@@ -1059,6 +1059,7 @@ int main()
      * of what you would love it to do
      * 
      * Are you fucking even following ? Or would you like to simply harm ?
+     * 29 years and you still accept no responsibility ?
      **/ 
 
 
