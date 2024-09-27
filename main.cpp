@@ -834,6 +834,8 @@ int main()
      * Please, its a little bit late, he should be doing the same things in order to improve on but we do not allow him, so
      * its fate ? but have a few cars!! have some women!! you are 30 !!
      * Now talk about the violence and say that its fate and its meant to be, 
+     * 
+     * Who is to forgive your actions btw ?
      **/
 
 
