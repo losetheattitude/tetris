@@ -652,7 +652,7 @@ int main()
      * Bullshit indications as you can guess, can not represent the reality
      * What do you think is the explanation for years of bullshit violence ? Awww, heyy look something may be wrong!!!
      * What happened!!! ?? Question your credibility before start talking, call it fair game eheheh 
-     * Wait, what do you think is others are trying to do ?
+     * Wait, what do you think is others are trying to do ? No no, thats not being immature, I follow you, now you can do whatever you were doing before eheheh
      **/
 
 
