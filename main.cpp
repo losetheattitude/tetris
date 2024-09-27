@@ -984,6 +984,8 @@ int main()
      * Or are you going to be the immature kid that you are now and start assaulting others ?
      * I do not want to hear or to be near any of you, display the same maturity as I do with you when you lose something 
      * instead of throwing around lies and coercion, better luck next time you say ?
+     * Be the same mature individual that I am now being with you, when you lose things, I assure you as the most credible of any of you, that you will
+     * eheheh
      * 
      * 
      **/ 
