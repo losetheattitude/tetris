@@ -745,7 +745,7 @@ int main()
      * Get cars!!!!! get womeeennnn!!! why not!!! life a simulation bro!! now you can get cars!!!!!! noooooo pls no, lie for us we need help of those we harm!!!!
      * thats the intelligent part, stupid monkeys
      * 
-     * You can get the fuck out of my face
+     * You can get the fuck out of my face, what do you think is the problem in coercing people into stupid games that DO NOT MAKE SENSE ?
      **/
 
 
