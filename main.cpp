@@ -992,7 +992,7 @@ int main()
      * Not that you "desperately" need your suspicions to be the reality, you delude and do your best to coerce kids so that you can think you achieving ?
      * Thats not the problem, the problem is not you are in a group of stupid animals that do not understand life but keep talking about it lightly ?
      * 
-     * Wait, are you okay? ??? what happened ?? awwww, we thought we live forever bro ?
+     * Wait, are you okay? ??? what happened ?? awwww, we thought we live forever bro ? we thought there is no biological harm ?
      * 
      * 
      **/ 
