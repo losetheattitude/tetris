@@ -1044,7 +1044,7 @@ int main()
      * So now you coerce kids into actions that you wield as weapon later on ? wait wait, how about the violence ?
      * Awwww, thats just how great you are I suppose, you are not immature ?
      * 
-     * Wait wait, it is a mistake you say ?
+     * Wait wait, it is a mistake you say ? You playing funny games right ?
      * 
      **/ 
 
