@@ -1028,6 +1028,7 @@ int main()
      * You act like you know because you have to, take life lightly because you have to!!!
      * Awww, you would rather call it education ? no no, it is intelligence you say eheheheh it really is funny though
      * You want to talk about reality ? You beg for no apparent reason other than your stupid stubbornness
+     * You get yourselves unconditional trouble regardless of time
      **/ 
 
 
