@@ -1069,7 +1069,8 @@ int main()
      * And somehow you think you are not false ? Expect others to be harmed and be content with that, also talk about life
      * but do not understand the individual you are facing. That can not be the problem
      * and you call that being "competent" ? What do you think everyone is trying to do ?
-     * That is called being delusional
+     * That is called being delusional, you understand the frustration ? because there is no going back whether you would love to believe
+     * that you should do whatever you want, that does not affect the time
      **/ 
 
 
