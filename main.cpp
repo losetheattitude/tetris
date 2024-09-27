@@ -700,7 +700,8 @@ int main()
      * wait wait, you allege you educate people ? Towards what ? and by doing what ? with which instrument do you think ?
      * eheheh
      * 
-     * You can get the fuck out of my face, you havent grown up still ?
+     * You can get the fuck out of my face, you havent grown up still ? ehehe we just want to believe what we wish others to be,
+     * so that we can harm!!!! greater good!!!!
      **/
 
 
