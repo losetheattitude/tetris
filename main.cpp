@@ -857,6 +857,7 @@ int main()
      * No no, lifes good, or wait, lifes a simulation!!!!!! we know everything there is to be known!!! we like applying violence!!!!
      * 
      * Explain your conduct, account for your actions and like a normal group of people, we think about whats next
+     * Instead of harming to prove a point that has been never proved before, just look at the history and infer your disgusting nature
      **/
 
 
