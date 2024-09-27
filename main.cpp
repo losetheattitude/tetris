@@ -979,6 +979,8 @@ int main()
      * Have only a few times, that should be enough. Is that the reason you employ to decide on important things ?
      * You do not understand coercion ? and also coercion of "Say you ate it!!!" fucking cheap animals ?
      * 
+     * Wait wait, you take life lightly but you still love to ask people for random noises ?
+     * 
      * 
      **/ 
 
