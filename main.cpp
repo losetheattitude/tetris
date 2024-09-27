@@ -961,7 +961,8 @@ int main()
      * 
      * Tell the same stupid story you do not even believe, you are not the problem
      * if you think your really successful wielding of "rules" that are meant for specific purposes is intelligent
-     * then you are the wrong place
+     * then you are the wrong place, and it took years of someone else's life and supposedly education that you would
+     * hate that people find out about
      * 
      * 
      **/ 
