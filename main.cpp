@@ -1024,6 +1024,8 @@ int main()
      * 
      * You say, 10yo coerced kids should say "I ate it!!!" eheheh thats not the problem right ?
      * Okay then the problem is ? no resources! no women!!! no going out!! some violence!! and whats the problem again ?
+     * 
+     * You act like you know because you have to, take life lightly because you have to!!!
      **/ 
 
 
