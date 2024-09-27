@@ -924,6 +924,8 @@ int main()
      * 
      * Wait wait, why are there no indications of what you accuse with ? eheheheh its just simulation, we ask no bad!! plss we offer what we crave for!!
      * Ehehehe its funny really
+     * 
+     * Good life btw
      **/ 
 
 
