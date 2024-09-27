@@ -980,6 +980,8 @@ int main()
      * You do not understand coercion ? and also coercion of "Say you ate it!!!" fucking cheap animals ?
      * 
      * Wait wait, you take life lightly but you still love to ask people for random noises ?
+     * I wonder what happens when you lose something of your own ? Will you start behaving the same as you coerce others to behave ?
+     * Or are you going to be the immature kid that you are now and start assaulting others ?
      * 
      * 
      **/ 
