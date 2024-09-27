@@ -976,6 +976,8 @@ int main()
      * You know you are taking death lightly which will have effects of unpredictable nature. Thats the point you are at
      * Its regardless you say, but you also say you are not taking death lightly, thats not the problem
      * 
+     * Have only a few times, that should be enough. Is that the reason you employ to decide on important things ?
+     * 
      * 
      **/ 
 
