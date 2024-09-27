@@ -1051,6 +1051,7 @@ int main()
      * Although neither can you provide what you once did through your noble approach nor can you fix anything assuming that you are some sort of fucking god ?
      * Now, repeat it again ? with all the "history" you would like to call such, what did you exactly achieve ? You achieve what you aimed at ?
      * Because you think that for a gain ?
+     * Wait wait, you offer womeennn blindly ?
      * 
      **/ 
 
