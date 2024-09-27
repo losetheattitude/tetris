@@ -893,6 +893,7 @@ int main()
      * 
      * So you still wish that it be okay to coerce "AS YOU HAVE ALWAYS DONE" people to abstain from physical interactions
      * and later on you present it as a gift ? Is that the education btw ?
+     * Wait wait, you are after no resources but you promise materials for "biological harm" and lost opportunity ?
      **/
 
 
