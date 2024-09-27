@@ -602,6 +602,7 @@ int main()
      * So what you are claiming is, you were with the person who you have been supporting all along in the same "country" but you didnt do anything
      * other than harming ? and you still call it fair game ? including coercion of kids so that later on you can harm for the sake of harming ?
      * and you expect 29 years of bullshit to not come to surface some shape of form ?
+     * Wait wait, you also call it fair game ? To make little kids into disgusting actions and coerce them into decisions that they are not well informed of ?
      **/
 
 
