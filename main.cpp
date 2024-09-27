@@ -891,6 +891,8 @@ int main()
      * What do you think I am going to do later on ? Wield it as good intention of yours ?
      * So the inferior mind still equates biological harm with trivial physical interactions that everyone has access to ?
      * 
+     * So you still wish that it be okay to coerce "AS YOU HAVE ALWAYS DONE" people to abstain from physical interactions
+     * and later on you present it as a gift ? Is that the education btw ?
      **/
 
 
