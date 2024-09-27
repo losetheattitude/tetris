@@ -840,6 +840,7 @@ int main()
      * you are doing good against one defenceless individual ?
      * You do not understand coercion ? you do not understand what you have been told at ?
      * Awww, you just dream it so bad to the extent that you harm people you have no understanding thus its repercussions of same nature ?
+     * But you still coerce ? as you have always done ?
      **/
 
 
