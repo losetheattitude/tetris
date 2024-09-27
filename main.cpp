@@ -1023,6 +1023,7 @@ int main()
      * Then why are you still looking around ? Hoping that you would receive no harm while you are the guilty one ?
      * 
      * You say, 10yo coerced kids should say "I ate it!!!" eheheh thats not the problem right ?
+     * Okay then the problem is ? no resources! no women!!! no going out!! some violence!! and whats the problem again ?
      **/ 
 
 
