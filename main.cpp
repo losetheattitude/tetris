@@ -829,6 +829,8 @@ int main()
      * approach ? And you asked to do what ? While time and time you have "intelligently played a fair game" ?
      * 
      * So you say, you played fair game while you can not account for your actions only "forgive us for our actions" ?
+     * If you do that, you get women!! and then you do not deliver but only more harm ? ehehehehe its really funny right ?
+     * 
      **/
 
 
