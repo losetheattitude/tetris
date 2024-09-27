@@ -650,6 +650,7 @@ int main()
      * Its for your own good btw, we choose to use medicine, thats called competency somehow!!
      * 
      * Bullshit indications as you can guess, can not represent the reality
+     * What do you think is the explanation for years of bullshit violence ? Awww, heyy look something may be wrong!!!
      **/
 
 
