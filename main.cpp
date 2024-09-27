@@ -701,7 +701,7 @@ int main()
      * eheheh
      * 
      * You can get the fuck out of my face, you havent grown up still ? ehehe we just want to believe what we wish others to be,
-     * so that we can harm!!!! greater good!!!!
+     * so that we can harm!!!! greater good!!!! you do not understand ?
      **/
 
 
