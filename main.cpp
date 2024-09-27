@@ -666,7 +666,7 @@ int main()
      * If you intentionally do not see that, THAT IS THE PROBLEM AND WILL ALWAYS BE ONE, rightfully so knowing what I know about myself and others like you
      * Its time you wake up from your ill intentioned dreams as completely good natured people and understand the life eheheh
      * 
-     * Do you see the inexistent competency of yours ? 
+     * Do you see the inexistent competency of yours ? or you would rather ignore and start telling the same inaccurate story. That can not be the problem
      **/
 
 
