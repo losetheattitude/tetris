@@ -1039,6 +1039,7 @@ int main()
      * Or you would just grow up and realize that you are making the biggest mistake may be? Or you have already done it!!!! plssss have some womeeennn!!!
      * 
      * We still look around waste time ehehehe, wasting more time, we do not take life lightly for our precious experiences!!
+     * Now try to explain your great attitudes, or you would rather call it life ?
      * 
      **/ 
 
