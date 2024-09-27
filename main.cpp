@@ -795,6 +795,8 @@ int main()
      * 
      * Why are you still asking for forgiveness when you have done your worst to make things come to this point that you can not explain anymore
      * other than begging like "you did this!!!", "you ate it!!!"
+     * 
+     * We tryna make him better!!! we tryna cure what we intentionally caused!!! we good nation btw
      **/
 
 
