@@ -658,6 +658,8 @@ int main()
      * 
      * Suffer ??? nooo we want no suffer ehehe thats why we stupid and still want to make decisions
      * How dare asking for irrelevant noises ? after seeing and reacting it as if its what should not be after the countless times of actions that you can not account for ?
+     * 
+     * Why are you still offering things ?
      **/
 
 
