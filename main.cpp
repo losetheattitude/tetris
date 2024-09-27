@@ -598,6 +598,10 @@ int main()
      * Is that the explanation for your actions ? Two things that contradict eachother ?
      * And you already know you have wasted 29 years with the very same attitude that you have displayed and will display ?
      * And you still call it fair game ? What a shame isnt it ?
+     * 
+     * So what you are claiming is, you were with the person who you have been supporting all along in the same "country" but you didnt do anything
+     * other than harming ? and you still call it fair game ? including coercion of kids so that later on you can harm for the sake of harming ?
+     * and you expect 29 years of bullshit to not come to surface some shape of form ?
      **/
 
 
