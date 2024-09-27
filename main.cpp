@@ -576,6 +576,7 @@ int main()
      * Ignorant selfish old people, anything other than would not have made sense for such a disgusting group of monkeys
      * Further eheheh
      * You would call cheap intelligent because of why ?
+     * You would dare calling what is the most cheapest form of actions intelligent, because you are a cheap stupid animal ? Isnt that correct ?
      * 
      **/
 
