@@ -1026,6 +1026,7 @@ int main()
      * Okay then the problem is ? no resources! no women!!! no going out!! some violence!! and whats the problem again ?
      * 
      * You act like you know because you have to, take life lightly because you have to!!!
+     * Awww, you would rather call it education ? no no, it is intelligence you say eheheheh it really is funny though
      **/ 
 
 
