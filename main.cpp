@@ -740,6 +740,8 @@ int main()
      * 
      * Next time, better use your brain, eheheh its fun right ? What a good thing the life is!!! we love enjoying our experiences ehehehehe
      * we tryna teach people ehehehe good ppl btw
+     * 
+     * So you intentionally misguess and use that same inability to guess the outcome of 30 years, what could that be ? ehehehe fun life indeed
      **/
 
 
