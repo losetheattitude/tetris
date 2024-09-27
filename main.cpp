@@ -804,7 +804,7 @@ int main()
      * 29 years is nothing ehehe, harming is nothing as well right ? Noooo, you say its fair game eheheh what you can not even explain right ?
      * 
      * You had all the opportunity but you have chosen what your nature led you towards ? and you still look around wasting incomparable time ?
-     * You get the same violence that somehow you take for education
+     * You get the same violence that somehow you take for education after you account for your actions
      **/
 
 
