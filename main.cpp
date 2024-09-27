@@ -835,7 +835,7 @@ int main()
      * its fate ? but have a few cars!! have some women!! you are 30 !!
      * Now talk about the violence and say that its fate and its meant to be, 
      * 
-     * Who is to forgive your actions btw ?
+     * Who is to forgive your actions btw ? still offering women to people who you intentionally harm and almost killed ?
      **/
 
 
