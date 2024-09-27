@@ -511,6 +511,8 @@ int main()
      * 
      * I do not care, you operate with malign intention you are treated with the same, as you can tell
      * so far you have done the opposite of what you have honorably promised and that wouldnt change because of who you are
+     * So I do not care whether you think you are good people or not, so far you were there and I can clearly tell my experience
+     * So you can use your immaculate powers over someone else's life
      **/
 
 
