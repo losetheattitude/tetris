@@ -942,6 +942,9 @@ int main()
      * 
      * Wait wait, you do not follow your part but you coerce others as well ? Eheeheh woomeeennn!!! cars!!! money!!!!!
      * Awww, you gather to collectively harm ? Ehehehe thats clever
+     * 
+     * How about you explain your conduct and let the people assess what is right or wrong ? Instead of saying "life!!!!!" 
+     * life a simulation!! its fate!!
      **/ 
 
 
