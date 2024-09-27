@@ -1017,7 +1017,7 @@ int main()
      * 
      * Wait wait!! thats just a little mistake!! you understand, if you would rather think something for what is the truth, 
      * that means you are committing and there should be a price right ?
-     * So whats the price again ?
+     * So whats the price again ? Or you would rather call it education ? Which is which for your inferior approach ?
      **/ 
 
 
