@@ -1065,6 +1065,7 @@ int main()
      * That is called being fair, not the games you think you are playing fairly
      * 
      * So whether you think offering women and presenting it as gift would solve the issue ? Whats the issue again ?
+     * Because I can not follow your logic ? Or are you just not making any sense other than HARM!! HARMM!!
      **/ 
 
 
