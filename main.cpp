@@ -785,6 +785,8 @@ int main()
      * Awww, its the time you say a few good things, and 30 years just disappears!!!! we good ppl broo
      * we no abuse nobody, especially not 10yo kids ehehehe 
      * Get some womeenn!!! wait wait, do you want to talk about the "teen" experience ? eheheh we caught him! we caught him!!
+     * 
+     * You see you deserve what comes for you, today not if tomorrow eheheh
      **/
 
 
