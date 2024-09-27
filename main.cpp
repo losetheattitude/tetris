@@ -775,7 +775,7 @@ int main()
      * And now you are still in your stupid position ? Which part of YOU DO NOT GET TO DECIDE is too difficult for your disgusting experiences ?
      * You are going to loose it regardless 
      * 
-     * So who is down for some violence ?
+     * So who is down for some violence ? That educates people bro!!
      **/
 
 
