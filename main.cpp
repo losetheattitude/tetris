@@ -1015,7 +1015,8 @@ int main()
      * Awww, or you have just forgotten the rules of the world ?
      * Or you would rather think what ? Yes thats not the problem 
      * 
-     * Wait wait!! thats just a little mistake!!
+     * Wait wait!! thats just a little mistake!! you understand, if you would rather think something for what is the truth, 
+     * that means you are committing and there should be a price right ?
      **/ 
 
 
