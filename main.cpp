@@ -789,6 +789,8 @@ int main()
      * You see you deserve what comes for you, today not if tomorrow eheheh
      * Looking around ? Look harder, btw is education when you receive the prize for your own good actions
      * or what is education called anyway ? Are you the one still offering material ? While comparing it with biological harm ?
+     * 
+     * You already know I know, it should be fine anyway because
      **/
 
 
