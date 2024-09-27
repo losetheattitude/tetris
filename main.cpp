@@ -1058,6 +1058,7 @@ int main()
      * This simply means, you have committed on and on again on intentional false premises and your acting of otherwise do not indicate anything 
      * of what you would love it to do
      * 
+     * Are you fucking even following ? Or would you like to simply harm ?
      **/ 
 
 
