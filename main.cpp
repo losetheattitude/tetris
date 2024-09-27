@@ -521,7 +521,7 @@ int main()
      * And you still allege things when you have countless opportunities ?
      * You think playing games over someone else's life should be okay but also should be incentived to harm ?
      * Yesss, you are the greatest nation I have seen, probably the only one eheheh its funny right ?
-     * What have you been doing ?
+     * What have you been doing ? Yesss, get cars!!!! get womeeennn!!! you get anything you want!!
      **/
 
 
