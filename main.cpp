@@ -880,6 +880,8 @@ int main()
      * You take that for a gain ? ahahha fair game btw, no no life a simulation
      * Get carss!!!! get womeeennn!!!! until the point that we free ourselves from our crimes!!! get womeeennn!!!! get carss!!
      * You get %10000000000 the same natured approach for your "realllyy educated" approaches
+     * 
+     * You take that for education, you fall into the trap of your own makings
      **/
 
 
