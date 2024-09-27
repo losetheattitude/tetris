@@ -497,6 +497,7 @@ int main()
      * Who cares if you do not enjoy, so long as we continue harming you without a reason, ehehehe we do it the old way!!
      * Harming because why not ? No you can not have basic interactions!!! we promise we deliver we credible we good we advanced ehehehe
      * why dont you trust us ?
+     * Look how you had a wonderful life because we were always there for you!!
      * 
      **/
 
