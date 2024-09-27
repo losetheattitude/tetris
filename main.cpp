@@ -557,7 +557,8 @@ int main()
      * Fucking dumb monkeys, still thinking you fool people ?
      * Waaaaowwww, you say its fair game eheheh because there really is no reason, we just want to harm eheheh
      * ehehehe what if "he is not stable" although we are the ones who are acting like the true animal we are ?
-     * What a group of illeterat fucking monkeys
+     * What a group of illeterat fucking monkeys, keep telling yourselves the same stupid narrative, I have no intention to waste my time
+     * with the very same people who think they are doing good 
      **/
 
 
