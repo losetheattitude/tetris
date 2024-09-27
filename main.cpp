@@ -704,6 +704,9 @@ int main()
      * so that we can harm!!!! greater good!!!! you do not understand ?
      * You can not see others having good time ? you are not the problem btw bro
      * Ehehehe its really funny, have some womeeeenn!!! as we have always promised!!! we good nation good ppl etc thats funny 
+     * 
+     * You can not say anything other than life ? 30 years of inexplicable actions but it still has to be considered life ?
+     * you expect no responsibility for your irrelevant and unjustified actions ? You seek harder and you get yourself an unseen problem
      **/
 
 
