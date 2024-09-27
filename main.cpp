@@ -937,6 +937,7 @@ int main()
      * You just would like to offer materials things and talk about "life" ? 
      * You already know the conditions of the "highly intelligent bet", I remember and no coincidence that you have to change the truth in order to
      * survive your stupidity which will come after you, may be others of your type ehehehe
+     * First this then that, we intelligent btw
      **/ 
 
 
