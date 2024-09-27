@@ -1014,7 +1014,10 @@ int main()
      * Awwww, then it should mean something else other than you are actually not the person that you abuse other with ?
      * Awww, or you have just forgotten the rules of the world ?
      * Or you would rather think what ? Yes thats not the problem 
+     * 
+     * Wait wait!! thats just a little mistake!!
      **/ 
+
 
 
 
