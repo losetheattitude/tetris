@@ -911,6 +911,7 @@ int main()
      * Does that make you fair target as well ?
      * You get the same education you offer to people who has no interest in it. Thats the point where your immaculate logic will always fail bro
      * Btw, you get the same violence as an education, regardless right ? Its funny ehehe because we consider it winning, whats the problem bro ?
+     * Being easy violent is never a skill, that tells me you have had no prior experience with
      **/ 
 
 
