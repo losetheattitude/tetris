@@ -869,7 +869,7 @@ int main()
      * Stop begging like the animal you are, you think that educates ? You better think more than twice to find out, you make things worse for everyone
      * as the proof of your disgusting nature. That is there to be known for, you look at your actions and you see that you are a disgusting animal
      * 
-     * Violence to educate!!! get in line 
+     * Violence to educate!!! get in line, you say its fate ? you say not doing what you want is fate ?
      **/
 
 
