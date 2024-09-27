@@ -957,6 +957,7 @@ int main()
      * 
      * That means, your way of assessing is malign and I know that
      * good luck making people believe, before then that, try harder 
+     * Talk more about coercing kids, and we see where that will takes us
      * 
      * 
      **/ 
