@@ -491,6 +491,7 @@ int main()
      * And you offer cars ? still produce bullshit excuses ? 
      * And you beg that what is truth may never be revealed ?
      * And you still enjoy harming individuals just because you can ?
+     * And you still claim you are not guilty but somehow see yourself completely right to ask who is most informed stay out
      **/
 
 
