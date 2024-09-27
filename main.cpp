@@ -505,6 +505,8 @@ int main()
      * 
      * We good intentioned and natured ppl, its fate!!! but still we would love you to remain silent!!
      * If you remain silent, you get carsss!!!! woomeeennnn!!! yess!!!! we are the most credible animal kind on earth!!!
+     * 
+     * Just think about your credibility again, fucking stupid monkeys
      **/
 
 
