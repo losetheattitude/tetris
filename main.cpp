@@ -539,6 +539,7 @@ int main()
      * and all you can do is to beg so that you should rise innocent ?
      * 
      * Please do not talk about what we have told you all these time ehehehhehe stupid people right ?
+     * You ask forgiveness or do you delude as you have always done that you are in a position of granting "forgiveness" which is clearly undue on your part
      **/
 
 
