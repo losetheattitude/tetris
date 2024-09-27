@@ -774,6 +774,8 @@ int main()
      * its really funny right ? Wait wait, there is no sign for almost a decade, and it has been told to you countless time that it is going to play out like that ?
      * And now you are still in your stupid position ? Which part of YOU DO NOT GET TO DECIDE is too difficult for your disgusting experiences ?
      * You are going to loose it regardless 
+     * 
+     * So who is down for some violence ?
      **/
 
 
