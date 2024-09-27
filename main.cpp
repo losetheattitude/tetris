@@ -730,6 +730,8 @@ int main()
      * 
      * You beg for help from whom you harm with despicable intention ? and why are you surprised at the outcome ? Awww, wait you would rather
      * see it as the reality playing out as in its most natural state ? You call it game, and also a fair game ?
+     * 
+     * You dare offering cars ? with your narrow point of view ? you dare offering what is available ?
      **/
 
 
