@@ -483,6 +483,7 @@ int main()
      * 
      * Get 6 months babies into situations and call yourselves intelligent
      * Call it fate for what you are committing, thats not the problem
+     * Hey look!! we pause kids coercefully and then move on to harm them for years!!! we tryna help you! we solve your problems!!
      **/
 
 
