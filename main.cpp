@@ -791,6 +791,7 @@ int main()
      * or what is education called anyway ? Are you the one still offering material ? While comparing it with biological harm ?
      * 
      * You already know I know, it should be fine anyway because nobody would do anything about it ?
+     * Awwww, you were trying to solve problems, not causing ones ehehe, I have seen enough of types like you
      **/
 
 
