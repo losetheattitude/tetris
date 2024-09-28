@@ -1571,6 +1571,7 @@ int main()
      * The very same individuals who offer women, thats the worst type of people, take a look at the history, you get it right away
      * You would rather beg ? Talk about violence then and your great acts of inferior nature in college 
      * Are you still begging ? Are you still talking about irrelevant things ?
+     * You do not understand that you are setting an incorrect and false and injust context ?
       **/ 
      
 
