@@ -1451,6 +1451,9 @@ int main()
      * Why do you insist that you are not an immature child ? and offering others what you would love to commit ?
      * Or just tell me my experience and we talk about your credibility again
      * 
+     * Now you tell me that, it was just an irrelevant mistake that you have malignly wasted 30 years, off of things that you have coerced him into when he was a kid
+     * and I know that you know and remember as well, so where do we go from here ? What do you think the problem is ?
+     * 
       **/ 
 
 
