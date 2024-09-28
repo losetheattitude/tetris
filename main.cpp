@@ -1321,6 +1321,7 @@ int main()
      * Whatever brooo, get some women!! wait we already made that promise countless times right ? Then what could be the next genius promise we can make ?
      * 
      * Just think about your next genius promise bro, eheheh its funny because everyone does it!!! we aint no stupid dumb masses !!!
+     * Wait, are you still the same animal ?
       **/ 
 
 
