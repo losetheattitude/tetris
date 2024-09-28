@@ -1408,6 +1408,9 @@ int main()
      * Because you lack reason ?
      * 
      * I have no intention to waste my time with the same stupid people, you do what you want, GET THE FUCK OUT OF MY FACE
+     * 
+     * Are you following what I am saying ? You make your own decision, you account for them on your own, you pay the written price of your disgusting actions
+     * as has been done for so many others
       **/ 
 
 
