@@ -1353,6 +1353,9 @@ int main()
      * 
      * You only uncover sadly, once you come across its outcomes, thats why the history is history, not because you wish it to be
      * Try to suppress what can not be suppressed through offers that you have always made but somehow nobody can prove
+     * 
+     * And you still use your incompetent brain to offer material which is only linked with a chemical in human brain, that means
+     * it would only help for a few month for someone to "FOOL THEMSELVES"
       **/ 
 
 
