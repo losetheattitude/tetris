@@ -1486,6 +1486,7 @@ int main()
      * that you brag to understand 
      * 
      * Your actions are the most strong proof of that, as if you are not ignorant or emotionally driven animal
+     * You delude it be the same, you see when you come across right ? Its poem indeed
      * 
       **/ 
 
