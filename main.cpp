@@ -1335,6 +1335,8 @@ int main()
      * Do you want to then understand why people do not attempt stupid actions as you have done for 30 years ?
      * And are you still begging like the simple animal you are ?
      * Its the only way!! its the only way!!! we tryna help you!!! NOOOO!!! YOU CAN NOT DO THAT!!!
+     * 
+     * Can you tell me the correlation between violence and people not having good time
       **/ 
 
 
