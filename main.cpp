@@ -1624,6 +1624,7 @@ int main()
      * Now why do you think you have to hide like the animal you are ? NEXT TIME USE YOUR BRAIN BETTER 
      * NEXT TIME, INSTEAD OF OFFERING WOMEN, TRY TO USE YOUR BRAIN SO THAT YOU DO NOT GET HURT ?
      * SO NOW YOU UNDERSTAND WHY THERE IS DIFFERENCE BETWEEN YOU AND I ? I DO NOT LIE TO HARM ?
+     * I DO NOT GET MYSELF INTO TROUBLE FOR HARM ? If you want to be taken serious, then go have interactions with people who you like and like you back
       **/ 
 
      
