@@ -1197,7 +1197,8 @@ int main()
      * "wooomeeennn!!!" and again question your credibility when you ask people to have confidence in you
      * And think better next time about why people should take your promises or words for what they are not
      * And next time use your brain so that you can understand, violence is only employed TO HARM, and try not to hide your stupid feelings
-     * or understand how to detach them from reality
+     * or understand how to detach them from reality.
+     * And now tell me my experience again
      * 
      * 
      **/ 
