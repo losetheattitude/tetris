@@ -1171,7 +1171,7 @@ int main()
      * and thus the justification of your stupidity ?
      * 
      * You understand that if you do something false, you can not back it thats why you are not able to find strong proofs because THERE IS NONE
-     * You see the point ?
+     * You see the point ? Whats so difficult in doing it straight ? Why do you think I would like to play games, games that you can not talk openly ?
      * 
      **/ 
 
