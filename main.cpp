@@ -1500,6 +1500,7 @@ int main()
      * What do you think the problem could be, when you take violence for education which tells you that you are afraid of it ?
      * 
      * Tell me my experience, and do not start begging like the animal you truly are, and tell me you do not deserve the same 
+     * You know you would be considered intelligent, had you not started begging for your intentional actions
       **/ 
 
 
