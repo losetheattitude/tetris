@@ -1309,6 +1309,7 @@ int main()
      * Make more promises, nobody is going to come to uphold you for them right ? Is that the intelligence that you have been bragging so far ?
      * 
      * Or would you like to say that you are trying to help by presenting violence so that what had no problems could have problems ?
+     * Can you tell me the experience I had under the light of your "great noises" ?
       **/ 
 
 
