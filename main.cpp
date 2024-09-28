@@ -1378,6 +1378,8 @@ int main()
      * And where are your justifications ? Its just some begging ?
      * 
      * 30 years and what are you saying again ? You do not walk into your own disasters in the making ?
+     * You get the same natured attitute and the violence with which you think you are making yourself scary,
+     * Look at me again ? Try harder stupid monkeys
       **/ 
 
 
