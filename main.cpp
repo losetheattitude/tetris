@@ -1506,7 +1506,7 @@ int main()
      * Now its time you explain your conduct, and promises etc, begging etc 
      * You will realize you are not a hunter, an intelligent one is not, a good one is not, a credible one is not
      * Because you can not tell WHAT YOU HAVE ACHIEVED BY YOUR ACTIONS THAT YOU ARE embarrassed TO TALK ABOUT
-     * And you still beg little kids so that they say, "I ATE IT!!!!"
+     * And you still beg little kids so that they say, "I ATE IT!!!!" You know you understand once you come across, that is where it is coming from, You are a stupid dumb animal
       **/ 
 
 
