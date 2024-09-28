@@ -1589,7 +1589,8 @@ int main()
      * Thats why, you are the history's abomination, had you had the capability of traveling to future and seeing what people would say about you. Right ?
      * 
      * You harm and detriment to make a point ? The point that you are a stupid animal that deserve the worst place on the history ? But you are also afraid that as well
-     * you exhibit so many vile signs ? Whats the problem ?
+     * you exhibit so many vile signs ? Whats the problem ? You exhibit so many patterns of inferiority, but somehow you get to think that it should be fine ?
+     * Whilst I, doing nothing but somehow deserving violence ? Whats the problem great people of earth ?
       **/ 
      
 
