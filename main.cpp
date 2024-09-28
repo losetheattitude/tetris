@@ -1311,7 +1311,7 @@ int main()
      * Or would you like to say that you are trying to help by presenting violence so that what had no problems could have problems ?
      * Can you tell me the experience I had under the light of your "great noises" ? Just try to use your brain on reason, you will see you are false with every single
      * attempts of malign intention, thats why you need education eheheh
-     * so you like hurting people who can not defend ?
+     * so you like hurting people who can not defend ? How come you think it should be FATE ? when the group of stupid animals are doing their best to harm ?
       **/ 
 
 
