@@ -1157,7 +1157,8 @@ int main()
      * 
      * Your incomprehension of other contexts thus its emotions is the major indication of your misjudgments
      * What exactly must be a real blessing ? Just say that, "because of this, it is a really good life or a good occurence ?"
-     * You dare talk about violence ?
+     * You dare talk about violence ? Obviously you can not dare talk about violence because you are the type who thinks violence for an education
+     * in relation to your fear of it, as you do with every other things, there is your explanation for your stupidity
      * 
      **/ 
 
