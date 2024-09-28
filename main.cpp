@@ -1430,6 +1430,7 @@ int main()
      * Only then we can get to the bottom of your nature right ?
      * 
      * And one of the miserable excuses you can present is what ? Awww, you say you have forgotten or you do not understand how uncredible you are ?
+     * Awww, you say you do it the old way, perfect. Thats the type I will never have interactions with, whoever you think you are
      * 
       **/ 
 
