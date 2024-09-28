@@ -1393,6 +1393,8 @@ int main()
      * 
      * IMMATURE DISGUSTING PEOPLE WILL ALWAYS GET INTO PROBLEMS, and thats what you will get
      * As never learning monkeys of "the past", take a look at the history and find your spot in it, where do you think it will be ?
+     * 
+     * You have no signs for almost 30 years, so you suddenly start making artifical problems for someone else ?
       **/ 
 
 
