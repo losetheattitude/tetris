@@ -1406,6 +1406,8 @@ int main()
      * Why is it that you are still begging ? Okayyyy nowww its time that you can actually do what YOU ARE SUPPOSED TO DO ?
      * Have some interactions of regular nature! WHAT A GIFT! WHAT A SHAME that you lack the ability to see you are an animal of worst kind ?
      * Because you lack reason ?
+     * 
+     * I have no intention to waste my time with the same stupid people, you do what you want, GET THE FUCK OUT OF MY FACE
       **/ 
 
 
