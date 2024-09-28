@@ -1458,7 +1458,9 @@ int main()
      * show everyone how greatly violent you are through harming single individuals ? You are bad!! you are bad!! he ate it!! noooo!!! pls help us!!!
      * lie for us!!!
      * we good ppl, I swear!!! we tryna help!!! 30 years is nothing!!!!  we wasted 30 years with false coerced actions to 10yo kids!! we good ppl!! pls
-     * We seek no trouble!!
+     * We seek no trouble!! 
+     * 
+     * Are you still coercing medicines ? Are you still coercing violence ? Wait, who and what is the problem here ?
      * 
       **/ 
 
