@@ -1102,7 +1102,7 @@ int main()
      * Awww, you would call it fate ? Which is most accurate as well
      * 
      * 
-     * You still say the same narrative which you coerced people into ?
+     * You still say the same narrative which you coerced people into ? Do you hear or you just want to see what you want to see ?
      **/ 
 
 
