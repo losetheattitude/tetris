@@ -1352,6 +1352,7 @@ int main()
      * thats why you can not uncover what is already there, and that is not the intelligence, be sure about that
      * 
      * You only uncover sadly, once you come across its outcomes, thats why the history is history, not because you wish it to be
+     * Try to suppress what can not be suppressed through offers that you have always made but somehow nobody can prove
       **/ 
 
 
