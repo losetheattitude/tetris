@@ -1099,6 +1099,7 @@ int main()
      * Try to justify harming irrelevant citizens with your most sincere qualities right ?
      * Still talking about what ? Yes you are not selfish, thats most accurate ehehe it is funny isnt it ?
      * good ppl btw, you harm irrelevant citizens ? and can not explain others ? And you still think it should be okay ?
+     * Awww, you would call it fate ? Which is most accurate as well
      **/ 
 
 
