@@ -1563,6 +1563,7 @@ int main()
      * intelligence and all those above qualities that you exhibit like a skill.
      * 
      * Are you still wasting time looking around ? Wanting me to play the same stupid game over and over again ? That got me nowhere ?
+     * So you still coerce people into playing stupid games ?
       **/ 
      
 
