@@ -1331,6 +1331,8 @@ int main()
      * and it would be fine!!!!
      * Ehhhheeh we are not animals please trust us
      * Are you still begging ? You get sentenced and we have no problems
+     * 
+     * Do you want to then understand why people do not attempt stupid actions as you have done for 30 years ?
       **/ 
 
 
