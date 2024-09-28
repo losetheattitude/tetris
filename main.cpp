@@ -1084,7 +1084,9 @@ int main()
      * to talk the same story ?
      * Do you understand why you are a cheap animal ?
      * You say lifes short ? eheheh 
-     * You say things start happening by itself ? after years and years of bullshit ? ehehe ? funny ?
+     * You say things and it starts happening by itself ? after years and years of bullshit ? ehehe ? funny ?
+     * All the resources etc eheheh
+     * 
      **/ 
 
 
