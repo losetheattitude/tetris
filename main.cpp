@@ -1160,6 +1160,8 @@ int main()
      * You dare talk about violence ? Obviously you can not dare talk about violence because you are the type who thinks violence for an education
      * in relation to your fear of it, as you do with every other things, there is your explanation for your stupidity
      * 
+     * Do you understand why masses are masses ?
+     * 
      **/ 
 
 
