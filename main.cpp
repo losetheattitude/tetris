@@ -1125,6 +1125,8 @@ int main()
      * So you think just because you are afraid of violence, others should be afraid of as well, and you think its education because you are afraid of violence
      * and you still think it should be okay what afterwards dictate naturally ? 
      * And now, think about what did you actually achieve ? Other than looking like a complete animal ?
+     * You already knew that it was not your choice, yet you are standing there like you are not the animal that did all that stupid bullshit
+     * they can not explain to others. Just some irrelevant information and some false justifications
      * 
      **/ 
 
