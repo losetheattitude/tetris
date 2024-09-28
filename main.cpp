@@ -1347,6 +1347,9 @@ int main()
      * I am telling you that I will not let go 30 years, and you get what you actually deserve for ? and what are you saying ?
      * Please lie for us!!! we tryna be helpful, we tryna help people solve problems
      * And you say what ? "There is this instance in the past!!!!" Well, what we did is also past!!!! but we do it still!!! please
+     * 
+     * You understand when you come across, Do not be surprised at your alike nature when you come across the outcomes. You have never dealt
+     * thats why you can not uncover what is already there, and that is not the intelligence, be sure about that
       **/ 
 
 
