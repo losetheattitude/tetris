@@ -1240,6 +1240,9 @@ int main()
      * Stupid monkeys, go on, let everyone know what an animal you are, what do you think people in the future say about you ? You can not see it
      * because you are emotional
      * 
+     * And you act on your emotions thats why you have to be in these situations, and start offering people things that you do not "really honorably and intelligently"
+     * do not deliver
+     * 
      **/ 
 
 
