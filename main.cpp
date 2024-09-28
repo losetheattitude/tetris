@@ -1150,7 +1150,9 @@ int main()
      * The crime is not even close to anything comparable but all you can say is what ?
      * Get some womennn!!!!!!  get some woooomeeeennnn!!!! pls
      * 
-     * Who has asked for any of yours opinion ? 
+     * Who has asked for any of yours opinion ? What a shame that you take yourself for some who is credible and wise
+     * who knows what he is doing, who thinks he is right because he does not understand human nature,
+     * all these attributes belong to people like you
      * 
      **/ 
 
