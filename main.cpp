@@ -1572,6 +1572,7 @@ int main()
      * You would rather beg ? Talk about violence then and your great acts of inferior nature in college 
      * Are you still begging ? Are you still talking about irrelevant things ?
      * You do not understand that you are setting an incorrect and false and injust context ?
+     * Thats not how you deal with reality and make use of for the greater good ?
       **/ 
      
 
