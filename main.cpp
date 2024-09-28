@@ -1491,7 +1491,9 @@ int main()
      * Offer as you have done so far, basic interactions for biological harm. Delude that I am the stupid one who will buy it
      * 30 years and the history that is full of such and such, take a look at the situation again, you ll suddenly see, or you would when you have to
      * So now again, tell me what exactly did you achieve ? Do you understand the notion "COERCION" ?
+     * 
      * So basically you say, we had all the chances of "realizing" what we have promised but we have chosen not to, but now YOU CAN!!! we no beg, we like no begging
+     * So you had all the chances but you for a reason have not acted on them, but now you say, you are credible and you would realize it ?
      * 
       **/ 
 
