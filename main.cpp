@@ -1271,6 +1271,9 @@ int main()
      * You would call ruining people on purpose, "nostalgia" ?
      * Why dont you start explaining your actions first, then we talk about the "prices", then we get to the "what should people do with their lives ?"
      * Do you follow what I am saying ?
+     * 
+     * You explain your actions, we talk about what should be done to animals like you, then we get to the what should make people's lives easier to live
+     * instead of you constantly begging like the animal you are, for what you are committing intentionally
      **/ 
 
 
