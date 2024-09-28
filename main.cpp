@@ -1141,6 +1141,8 @@ int main()
      * You still see the unseen outcomes and you are also informed on the history of stupid people and their stupid actions ?
      * But you still think it should be fine ? You are not reasonable but you just need to convince yourself to what ?
      * 
+     * And you are still demanding that people take you seriously which is far from the truth ?
+     * 
      **/ 
 
 
