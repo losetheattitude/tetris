@@ -1497,6 +1497,7 @@ int main()
      * Wait wait, now you demand credibility for your inexplicable actions ? Say something logical, or honorable, or good or provable or NOT COERCED ?
      * 
      * How come you think you make decisions ? and start begging like the animal you are once you are confronted with your INTENTIONAL harms ?
+     * What do you think the problem could be, when you take violence for education which tells you that you are afraid of it ?
      * 
       **/ 
 
