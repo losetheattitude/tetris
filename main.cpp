@@ -1270,6 +1270,7 @@ int main()
      * 
      * You would call ruining people on purpose, "nostalgia" ?
      * Why dont you start explaining your actions first, then we talk about the "prices", then we get to the "what should people do with their lives ?"
+     * Do you follow what I am saying ?
      **/ 
 
 
