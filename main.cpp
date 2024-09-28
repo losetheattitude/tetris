@@ -1156,7 +1156,8 @@ int main()
      * If you take a look at the history, you will find your place in the worst of worst
      * 
      * Your incomprehension of other contexts thus its emotions is the major indication of your misjudgments
-     * What exactly must be a real blessing ?
+     * What exactly must be a real blessing ? Just say that, "because of this, it is a really good life or a good occurence ?"
+     * You dare talk about violence ?
      * 
      **/ 
 
