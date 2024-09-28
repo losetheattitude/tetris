@@ -1426,6 +1426,8 @@ int main()
      * Why dont you start talking instead of "threatining or begging" ?
      * 
      * TALK ABOUT ACTIONS INSTEAD OF DELUSIONS, TALK ABOUT MY EXPERIENCE AGAIN
+     * You understand life is about experiences, instead of saying, "WE DID NOT DO IT!!!", talk about the experiences and actions that followed them
+     * Only then we can get to the bottom of your nature right ?
      * 
       **/ 
 
