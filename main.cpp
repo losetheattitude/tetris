@@ -1485,7 +1485,7 @@ int main()
      * Definitely not the dumb people of earth, the history is full of, you understand why you are animal, because you do not understand the life
      * that you brag to understand 
      * 
-     * Your actions are the most strong proof of that
+     * Your actions are the most strong proof of that, as if you are not ignorant or emotionally driven animal
      * 
       **/ 
 
