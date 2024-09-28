@@ -1411,6 +1411,8 @@ int main()
      * 
      * Are you following what I am saying ? You make your own decision, you account for them on your own, you pay the written price of your disgusting actions
      * as has been done for so many others
+     * 
+     * Have you heard me right ? You do not beg with every possible malign actions, YOU JUST DO NOT DO THEM, YOU STOP DOING THINGS THAT YOU REGRET ?
       **/ 
 
 
