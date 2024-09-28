@@ -1504,6 +1504,7 @@ int main()
      * And you call that being a good animal ? A good intelligent hunter ? try harder, and use your brain better next time
      * Use your brain better next time, so that you contribute to the greater good
      * Now its time you explain your conduct, and promises etc, begging etc 
+     * You will realize you are not a hunter, an intelligent one is not, a good one is not, a credible one is not
       **/ 
 
 
