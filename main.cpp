@@ -1601,6 +1601,7 @@ int main()
      * we discuss about the future of someone WHO IS NOT YOUR JOB
      * 
      * How do you think that sounds like ? You continue exhibiting your great attributes ? Do that with your vicinity, and see that you are a disgusting animal
+     * Still offering things ?
       **/ 
      
 
