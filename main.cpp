@@ -1138,6 +1138,8 @@ int main()
      * Are you demanding credibility with your disgusting actions so far ?
      * But you still allege that I do not know what I have lived ? You still allege that you give womeeennn or cars! ?
      * You demand credibility ?
+     * You still see the unseen outcomes and you are also informed on the history of stupid people and their stupid actions ?
+     * But you still think it should be fine ?
      * 
      **/ 
 
