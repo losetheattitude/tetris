@@ -1225,6 +1225,8 @@ int main()
      * Awww, wait so you think people are craving for "fame" and yet you somehow believe that harming them would help to achieve what ?
      * Or, not having enough resources would help for someone to not get recognized ? What are you exactly saying ? Directionless dumb animals ? Is that what you are ?
      * 
+     * Your approach is altogether the most false thing ever but you still would love to avoid acknowledging your mistakes ?
+     * 
      **/ 
 
 
