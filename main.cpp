@@ -1097,6 +1097,7 @@ int main()
      * Wait wait, you also wish that the individual who you are harming would not remember ? Whats the problem great people ?
      * Are you the trusted authority ? ehehehe its most funny
      * Try to justify harming irrelevant citizens with your most sincere qualities right ?
+     * Still talking about what ?
      **/ 
 
 
