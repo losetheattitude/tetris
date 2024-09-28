@@ -1375,6 +1375,7 @@ int main()
      * 
      * You can not foresee the supposed consequences of your actions, or you just can not afford to ?
      * Then that means you are walking into your own disasters BY YOUR OWN WILL
+     * And where are your justifications ? Its just some begging ?
       **/ 
 
 
