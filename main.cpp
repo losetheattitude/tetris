@@ -1276,6 +1276,7 @@ int main()
      * instead of you constantly begging like the animal you are, for what you are committing intentionally
      * Then we get to the, watching illegally, using medicines illegally, using violence pointlessly
      * So do you think you are as intelligent as to provide "reasonable" responses to your OWN MIND'S CONTENT ?
+     * Wait wait, you do it the old way, you say ? And you think you are not a simple animal ?
      **/ 
 
 
