@@ -1526,6 +1526,7 @@ int main()
      * You abuse being funny for your own interests ? You dare talk about education but you do not feel like explaining it to sane and impartial people ?
      * 
      * Awwww, you still delude that not having resources should solve all the problems ehehehe
+     * wait wait, eheheh you think harming would help fix all the problems!! I believe you are not the problem here, you are just intelligent ehehehe
       **/ 
      
 
