@@ -1163,6 +1163,8 @@ int main()
      * Do you understand why masses are masses ? Awwww, it is such a luck that I get to do what ?
      * You fail to fool yourselves how come you think you should fool what you are not following ?
      * 
+     * You are full of unjustifiable actions and you still think you should be able to talk and people take you for someone who you are not ?
+     * 
      **/ 
 
 
