@@ -1489,6 +1489,7 @@ int main()
      * You delude it be the same, you see when you come across right ? Its poem indeed
      * 
      * Offer as you have done so far, basic interactions for biological harm. Delude that I am the stupid one who will buy it
+     * 30 years and the history that is full of such and such, take a look at the situation again, you ll suddenly see, or you would when you have to
      * 
       **/ 
 
