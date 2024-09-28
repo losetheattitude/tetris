@@ -1266,6 +1266,7 @@ int main()
      * 
      * Are you talking about forgiving people who you have coerced into things ? Who do you think is the problem ?
      * Even though there is no such signs of "GREAT PEOPLE OF EARTH" ?
+     * Where are all the things you accuse and wield it as weapon so that you can harm without a direction ?
      **/ 
 
 
