@@ -1286,6 +1286,9 @@ int main()
      * Thats where the "disgusting people of history" comes from, do you see it ? 
      * You can not under any circumstances be justified, try it with impartial people, you will see why you are disgusting
      * instead of insisting on "false accusations" that you have coerced kids into, then talk about what you have done later on
+     * 
+     * And you still think, you have the rights to watch someone illegally because you have coerced them when they were kids ?
+     * And you count on them not being remembering it afterwards ?
       **/ 
 
 
