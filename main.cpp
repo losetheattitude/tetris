@@ -1529,6 +1529,8 @@ int main()
      * wait wait, eheheh you think harming would help fix all the problems!! I believe you are not the problem here, you are just intelligent ehehehe
      * Ehehe so you think you can hide your intentions and violent actions by using medicine coercefully and the kinds of actions that your nature has allowed you so far?
      * So you think you will make me convinced to your, whatever you want to delude yourself to be ? But somehow can not specify your actions ?
+     * 
+     * Can you start talking about how great you are ?
       **/ 
      
 
