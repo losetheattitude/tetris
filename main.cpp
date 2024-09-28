@@ -1127,6 +1127,7 @@ int main()
      * And now, think about what did you actually achieve ? Other than looking like a complete animal ?
      * You already knew that it was not your choice, yet you are standing there like you are not the animal that did all that stupid bullshit
      * they can not explain to others. Just some irrelevant information and some false justifications
+     * And you beg that your intentional actions are not to come to surface ?
      * 
      **/ 
 
