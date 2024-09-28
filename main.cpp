@@ -1630,7 +1630,7 @@ int main()
      * 
      * You can not cope others having fun ? Go have a match at your own social,physical,economic and political level, I would come to watch
      * But you still would love to educate people of your own taste, That is not the problem bro
-     * Offer material, its fun!!!!!!!
+     * Offer material, its fun!!!!!!! Hopeless, never learning people of great earth, good natured, good intentioned, etc etc etc etc. And where are you now ?
       **/ 
 
      
