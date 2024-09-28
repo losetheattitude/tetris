@@ -1439,7 +1439,7 @@ int main()
      * You still playing games for your miserable experiences get better ? Thats not the problem bro
      * Do something else, see you have no problems
      * 
-     * You again started begging for your experiences, but you have also committed ?
+     * You again started begging for your experiences, but you have also committed ? and you have committed more and more but somehow you think it should be fine ?
      * 
       **/ 
 
