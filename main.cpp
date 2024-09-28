@@ -1396,6 +1396,9 @@ int main()
      * 
      * You have no signs for almost 30 years, so you suddenly start making artifical problems for someone else ?
      * So that you can present it as "GIFT!!!!!" Get women!!! get cars!! we quality ppl!!
+     * 
+     * What are you saying now ? You would love to make decisions that are not your place, but also do not assume responsibility ?
+     * Other than saying, get wooooomeeeeennnn!!! but there is no such a thing ? Because you are a great individual ? ehehehe funny right ?
       **/ 
 
 
