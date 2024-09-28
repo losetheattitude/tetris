@@ -1156,6 +1156,7 @@ int main()
      * If you take a look at the history, you will find your place in the worst of worst
      * 
      * Your incomprehension of other contexts thus its emotions is the major indication of your misjudgments
+     * What exactly must be a real blessing ?
      * 
      **/ 
 
