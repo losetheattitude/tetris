@@ -1298,6 +1298,7 @@ int main()
      * Wait wait, why do you think you should be released with such a disgusting history of crimes against an individual you have neither relation
      * nor justification to ?
      * And you offer what again ? How much money do you want ???? eheheheh
+     * Do you see where cheap natured monkeys come from ?
       **/ 
 
 
