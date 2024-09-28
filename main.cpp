@@ -1539,6 +1539,8 @@ int main()
      * Have you ever tried to use your own brain on your own actions ?
      * You won ehehehehe after 30 years eheheheh intelligent and funny people should exactly be like you right ?
      * Try to make disgusting things into funny conversations so that everyone can look the other way and enjoy their experiences ?
+     * 
+     * And you offering cars still ? 
       **/ 
      
 
