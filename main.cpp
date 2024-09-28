@@ -1111,6 +1111,8 @@ int main()
      * Awww, you do not see that you are a stupid group who catches witches and coercing ones to do things that 
      * "supposedly" should make them one ? and the same simple approach would suddenly say "get womeeennn!!!", "get carsss!!!"
      * After 29 years ? you think you get smiles and good intentions ?
+     * 
+     * You can not deal with your insecurities and you say "you get harmed and you do nothing!!!!"
      **/ 
 
 
