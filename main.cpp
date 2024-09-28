@@ -1509,6 +1509,7 @@ int main()
      * And you still beg little kids so that they say, "I ATE IT!!!!" You know you understand once you come across, that is where it is coming from, You are a stupid dumb animal
      * 
      * You are a disgusting stupid dumb animal, that begs for his inexplicable actions so that they can only harm while also enjoying their experiences 
+     * And you say you know and understand life ?
       **/ 
      
 
