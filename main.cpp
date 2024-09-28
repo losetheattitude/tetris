@@ -1262,7 +1262,7 @@ int main()
      * we good ppl, pls
      * 
      * Why are you still begging for your disgusting experiences ? Do you think thats how individuals are educated ?
-     * And you still talk cars ?
+     * And you still talk cars ? Can you start talking about my experience ?
      * 
      **/ 
 
