@@ -1233,6 +1233,7 @@ int main()
      * biological entities should do with their life so that they can survive and lead good life they enjoy, awww you can not just deal with
      * the fact that someone else could have a good time ? But only you have to enjoy yours ? And you still claim justification of most vile action "violence"
      * with false and coerced proofs ?
+     * And you still delude about your qualities ? Religious, good, intelligent, honorable, good nation what else ?
      * 
      **/ 
 
