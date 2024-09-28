@@ -1434,6 +1434,7 @@ int main()
      * 
      * You do what you have to do, stop wasting more and more time that you can not bring back, there is no restoring 
      * I am not being rude at all, I just do not have no intention and no desire and no business with people like you
+     * who still presents coerced actions for justifications. Good luck with your stupid minds
      * 
       **/ 
 
