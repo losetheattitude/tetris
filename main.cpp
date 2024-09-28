@@ -1496,6 +1496,8 @@ int main()
      * So you had all the chances but you for a reason have not acted on them, but now you say, you are credible and you would realize it ?
      * Wait wait, now you demand credibility for your inexplicable actions ? Say something logical, or honorable, or good or provable or NOT COERCED ?
      * 
+     * How come you think you make decisions ?
+     * 
       **/ 
 
 
