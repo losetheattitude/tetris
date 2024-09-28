@@ -1436,6 +1436,8 @@ int main()
      * I am not being rude at all, I just do not have no intention and no desire and no business with people like you
      * who still presents coerced actions for justifications. Good luck with your stupid minds
      * 
+     * You still playing games for your miserable experiences get better ? Thats not the problem bro
+     * 
       **/ 
 
 
