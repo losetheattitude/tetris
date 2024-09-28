@@ -1479,6 +1479,8 @@ int main()
      * And you still claim you are not looking for your own disaster. Talk about coercion of kids, harming single individuals
      * and talk more about what should be done to those who harm because they are ignorant
      * 
+     * Are you still begging like the animal you are ? Please lie for us
+     * 
       **/ 
 
 
