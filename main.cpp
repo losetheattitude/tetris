@@ -1512,6 +1512,7 @@ int main()
      * And you say you know and understand life ?
      * 
      * I have not done anything else other than WHAT YOU HAVE COERCED 10yo kids into ? Ehehehe its funny isnt it ?
+     * Just talk about your actions and promises of great nature, eheheheh if you say I ATE IT!!! YOU GET WOMEEEENNN YOU GET CARSSSS YOU GETT HOUSESSSS!!! Pleaseee
       **/ 
      
 
