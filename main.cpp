@@ -1510,6 +1510,8 @@ int main()
      * 
      * You are a disgusting stupid dumb animal, that begs for his inexplicable actions so that they can only harm while also enjoying their experiences 
      * And you say you know and understand life ?
+     * 
+     * I have not done anything else other than WHAT YOU HAVE COERCED 10yo kids into ? Ehehehe its funny isnt it ?
       **/ 
      
 
