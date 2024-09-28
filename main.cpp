@@ -1213,6 +1213,7 @@ int main()
      * Get in line so that you can become wiser,
      * wait, you do not risk anything but also ask from others to do so ? and you offer womenn ? although you do not deliver ?
      * Although you do not deliver ? And you act like you are doing a really serious job ?
+     * What a shame though
      * 
      **/ 
 
