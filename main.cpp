@@ -1120,6 +1120,7 @@ int main()
      * 
      * Your saying of "fate" while contributing incomparable harm is a major indication
      * I do not "naturally" have time for falsely harmful people, you know you are wrong ehehe
+     * You are calling it fate but also harming ?
      * 
      * 
      **/ 
