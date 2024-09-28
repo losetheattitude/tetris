@@ -1226,6 +1226,7 @@ int main()
      * Or, not having enough resources would help for someone to not get recognized ? What are you exactly saying ? Directionless dumb animals ? Is that what you are ?
      * 
      * Your approach is altogether the most false thing ever but you still would love to avoid acknowledging your mistakes ?
+     * And would love not to pay for your own actions with what their actually worth is ?
      * 
      **/ 
 
