@@ -1264,6 +1264,7 @@ int main()
      * Why are you still begging for your disgusting experiences ? Do you think thats how individuals are educated ?
      * And you still talk cars ? Can you start talking about my experience ?
      * 
+     * Are you talking about forgiving people who you have coerced into things ? Who do you think is the problem ?
      **/ 
 
 
