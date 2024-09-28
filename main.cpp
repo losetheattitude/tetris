@@ -1129,6 +1129,7 @@ int main()
      * they can not explain to others. Just some irrelevant information and some false justifications
      * And you beg that your intentional actions are not to come to surface ? That means you already know what you did,
      * you just try to find bullshit like, "fair game", "fate" as your prior irrelevant actions, your excuses are also animal like, which they do not make sense
+     * That is being senseless, which means "animal"
      * 
      **/ 
 
