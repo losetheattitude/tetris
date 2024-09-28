@@ -1243,6 +1243,8 @@ int main()
      * And you act on your emotions thats why you have to be in these situations, and start offering people things that you do not "really honorably and intelligently"
      * do not deliver
      * 
+     * You call it education ? Start explaining again and you will see why you are directionless HUMAN
+     * 
      **/ 
 
 
