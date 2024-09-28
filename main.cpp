@@ -1454,6 +1454,11 @@ int main()
      * Now you tell me that, it was just an irrelevant mistake that you have malignly wasted 30 years, off of things that you have coerced him into when he was a kid
      * and I know that you know and remember as well, so where do we go from here ? What do you think the problem is ?
      * 
+     * Awwwww, now you think you should play disgusting "intelligent" games because ? Because your experience is under threat ? But you still love to
+     * show everyone how greatly violent you are through harming single individuals ? You are bad!! you are bad!! he ate it!! noooo!!! pls help us!!!
+     * lie for us!!!
+     * we good ppl, I swear!!! we tryna help!!! 30 years is nothing!!!!  we wasted 30 years with false coerced actions to 10yo kids!! we good ppl!! pls
+     * 
       **/ 
 
 
