@@ -1437,6 +1437,7 @@ int main()
      * who still presents coerced actions for justifications. Good luck with your stupid minds
      * 
      * You still playing games for your miserable experiences get better ? Thats not the problem bro
+     * Do something else, see you have no problems
      * 
       **/ 
 
