@@ -1597,7 +1597,8 @@ int main()
      * 
      * Awwww, he is back, he is back, 30 years and we think the violence is education for him!!!! eheheheh
      * we the great people of earth, coercing and promising kids that can not differentiate between notions, think that we get to walk around while
-     * the individual that has no relation SHOULD NOT ?
+     * the individual that has no relation SHOULD NOT ? Now it is the time you account for your violent actions, pay for your decisions, and
+     * we discuss about the future of someone WHO IS NOT YOUR JOB
       **/ 
      
 
