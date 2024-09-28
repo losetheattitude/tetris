@@ -1246,6 +1246,7 @@ int main()
      * You call it education ? Start explaining again and you will see why you are directionless HUMAN
      * And you still talk about "not showing in TV" because you know you have messed up big time ?
      * And also you can not explain why someone should not have good time ?
+     * You know that I already know, thats why you are afraid like a cockroach
      * 
      **/ 
 
