@@ -1079,7 +1079,7 @@ int main()
      * Eheheheh its so fun right ? Hide your disgusting nature better 
      * 
      * Now you would apparently prefer playing stupid cop games ? Whats the correlation ? Whats the pattern in your disgusting attitude ? I can not tell 
-     * anything other than simple animal ?
+     * anything other than simple animal ? Please!! if you lie for us, we would give you everyyything!!
      **/ 
 
 
