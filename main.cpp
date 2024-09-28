@@ -1636,6 +1636,9 @@ int main()
      * How come you think I should explain what I do to you ? From which audacity do you think you get to request such a dumb approach ?
      * You understand why I do not get myself into situations ? I do not seek irrelevant trouble, I do not lie for insubstantial stuff ?
      * So lets assess who is right and righteous and on point and just ?
+     * 
+     * Now, you explain and account and talk about your intentions when you have committed so much, and we can talk about what should someone you have no relation do ?
+     * Why is it so difficult to accept do you think ?
       **/ 
 
      
