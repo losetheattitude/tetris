@@ -1161,6 +1161,7 @@ int main()
      * in relation to your fear of it, as you do with every other things, there is your explanation for your stupidity
      * 
      * Do you understand why masses are masses ? Awwww, it is such a luck that I get to do what ?
+     * You fail to fool yourselves how come you think you should fool what you are not following ?
      * 
      **/ 
 
