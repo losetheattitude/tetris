@@ -1596,6 +1596,8 @@ int main()
      * or you would rather beg like the animal you are ? saying that "he did it!!!", "he ate it!!!", make some promises we will be fine !!!
      * 
      * Awwww, he is back, he is back, 30 years and we think the violence is education for him!!!! eheheheh
+     * we the great people of earth, coercing and promising kids that can not differentiate between notions, think that we get to walk around while
+     * the individual that has no relation SHOULD NOT ?
       **/ 
      
 
