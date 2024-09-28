@@ -1610,7 +1610,8 @@ int main()
      * And you beg "let it go!! let it go!!!"
      * 
      * Now try to explain my experience and tell people about your beggings beforehand. Now try to assess the degree of your vile animality
-     * And you think you get to make decisions ?
+     * And you think you get to make decisions ? I do not even move a finger for the likes of animal like you, that can not cope with the reality
+     * and start accusing with the content of their disgusting minds
       **/ 
      
 
