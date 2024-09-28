@@ -1170,6 +1170,9 @@ int main()
      * You say its fate ? but you also would like to apply violence then you offer money ? because thats what you are after ?
      * and thus the justification of your stupidity ?
      * 
+     * You understand that if you do something false, you can not back it thats why you are not able to find strong proofs because THERE IS NONE
+     * You see the point ?
+     * 
      **/ 
 
 
