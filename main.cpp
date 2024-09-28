@@ -1634,6 +1634,7 @@ int main()
      * Btw, start talking about coercing children, you can not have any problems because you obviously act with good intention right ?
      * 
      * How come you think I should explain what I do to you ? From which audacity do you think you get to request such a dumb approach ?
+     * You understand why I do not get myself into situations ? I do not seek irrelevant trouble, I do not lie for insubstantial stuff ?
       **/ 
 
      
