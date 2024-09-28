@@ -1517,6 +1517,8 @@ int main()
      * 
      * You are doing great, delude about that as well, since your delusions are intentionally targeted towards those who can not uphold you to some reason ?
      * So thats where the animal is coming from, thats the reason
+     * 
+     * How come you have convinced yourselves to acting this unaccountable way ? awwww, you better beg then right ? THERE IS NO LAW!!!
       **/ 
      
 
