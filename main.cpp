@@ -1253,7 +1253,8 @@ int main()
      * I do not have time for your bullshit, call that intelligent
      * 
      * Do you still think, harming intentionally is a matter of joke ?
-     * Or are you just a regular monkey who have no intentions ?
+     * Or are you just a regular monkey who have no intentions ? Awww you would rather call it fate right ?
+     * and offer some womeeeennn!!! please give us womeeennnn!!! ebheheheheh intelligent ppl, plss beg more!!
      * 
      **/ 
 
