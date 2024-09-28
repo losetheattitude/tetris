@@ -1466,6 +1466,7 @@ int main()
      * we think we good animal!! good ppl btw
      * 
      * Hey, why dont you experience the most basic things for your 30 years of illogical life ? That should be fine ?
+     * Eheheh get womeeennnnn!!!! get carss!!!!!! thats what we seek for while not trying to ruin ourselves!!! so go for it!!
      * 
       **/ 
 
