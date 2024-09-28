@@ -1290,6 +1290,8 @@ int main()
      * And you still think, you have the rights to watch someone illegally because you have coerced them when they were kids ?
      * And you count on them not being remembering it afterwards ? So you use medicine to make sure everything is good, but you do not care about
      * its biological consequences ? Why do you think I keep saying you get into unconditional troubles ?
+     * 
+     * Do you want to tell the previous time ?
       **/ 
 
 
