@@ -1295,6 +1295,8 @@ int main()
      * be the same this time because ? You get sentenced and we have no problems
      * 
      * Do you think I do not remember your great skillful beggings and later on thinking it "intelligent" to reject ? Womeeennnn!!! Woooomeeennn!!
+     * Wait wait, why do you think you should be released with such a disgusting history of crimes against an individual you have neither relation
+     * nor justification to ?
       **/ 
 
 
