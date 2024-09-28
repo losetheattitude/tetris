@@ -1113,6 +1113,8 @@ int main()
      * After 29 years ? you think you get smiles and good intentions ?
      * 
      * You can not deal with your insecurities and you say "you get harmed and you do nothing!!!!"
+     * Do you still delude that you should make decisions on behalf of someone after time and time your malign intention has been proven 
+     * towards him ?
      **/ 
 
 
