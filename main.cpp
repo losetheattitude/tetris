@@ -1316,6 +1316,7 @@ int main()
      * Can you now tell me my experience ? while also reminding yourselves the "DEAL" that you also delude on to be something else than what it was
      * 
      * And you think I would want to have anything to do with you ? Ehehehe get some womenn ?
+     * And you also claim that you are trying to help while you have so many chances of doing that ?
       **/ 
 
 
