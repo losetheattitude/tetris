@@ -1153,6 +1153,7 @@ int main()
      * Who has asked for any of yours opinion ? What a shame that you take yourself for some who is credible and wise
      * who knows what he is doing, who thinks he is right because he does not understand human nature,
      * all these attributes belong to people like you
+     * If you take a look at the history, you will find your place in the worst of worst
      * 
      **/ 
 
