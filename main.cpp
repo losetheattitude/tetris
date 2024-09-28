@@ -1578,6 +1578,7 @@ int main()
      * And where are all the proofs that you have coercefully, which now becomes more and more apparent, obtained ?
      * Thats why it is set to fail eventually, it is going to have its own effects but who cares because WHY NOT ?
      * And you try to make it into a game ? ehehehe and you are saying you use your reason ?
+     * And its becoming more and more and more apparent that you are false and have been acting on your inferior side ? What does that all mean ?
       **/ 
      
 
