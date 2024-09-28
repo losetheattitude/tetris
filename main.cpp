@@ -1117,6 +1117,10 @@ int main()
      * towards him ? wait it was "you are doing it the old way" ehehe
      * So who is indecisive btw ? If you feel you already are trying too hard, and calling it fate or "life difficult" or life simulation
      * that is a major indication
+     * 
+     * Your saying of "fate" while contributing incomparable harm is a major indication
+     * 
+     * 
      **/ 
 
 
