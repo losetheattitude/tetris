@@ -1208,6 +1208,9 @@ int main()
      * The way you say things are not related to what they mean or what direction they take others into, so better figure out what life means
      * before you lecture others and start acting the opposite by greatly "harming" others
      * 
+     * You take 30 years for lightly, you take a chance at your own life then suddenly you will face your inferiority and stop talking
+     * like you know bullshit
+     * 
      * 
      **/ 
 
