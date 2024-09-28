@@ -1563,7 +1563,8 @@ int main()
      * intelligence and all those above qualities that you exhibit like a skill.
      * 
      * Are you still wasting time looking around ? Wanting me to play the same stupid game over and over again ? That got me nowhere ?
-     * So you still coerce people into playing stupid games ?
+     * So you still coerce people into playing stupid games ? Because why not ? because he can not do anything else than that ? Thats the reason
+     * why you will get violence, be sure about that as well
       **/ 
      
 
