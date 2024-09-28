@@ -1584,6 +1584,7 @@ int main()
      * 
      * If you use such an opportunity for the greater harm because you lack courage and intention and vision, that means you already understand neither
      * life nor time nor you are the entity that you claim to be. Because you abuse through coercion and false premise, together with genius VIOLENCE eheheh
+     * Because you are afraid
       **/ 
      
 
