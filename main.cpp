@@ -1416,7 +1416,7 @@ int main()
      * And now, do you think I will bend like you do ? 30 years is nothing you say ? You say you are not animal ?
      * You say people should be stupid as to believe solely for the sake of your own interests that "I SHOULD BE GLAD TO HAVE NORMAL INTERACTIONS ?"
      * 
-     * And why are you still begging ?
+     * And why are you still begging ? Do you want to be reminded to your actions, THAT I STILL REMEMBER ?
       **/ 
 
 
