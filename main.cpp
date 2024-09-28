@@ -1370,7 +1370,7 @@ int main()
      * And tell me that you do not deserve because of your intentional ignorings, why are you still offering things ?
      * Do you want to remember your random noises ?
      * 
-     * WHY ARE YOU STILL BEGGING ?
+     * WHY ARE YOU STILL BEGGING ? ehehehe HAVE YOU FORGOTTEN ?? Whats the problem then ? Awww you have forgotten ?
       **/ 
 
 
