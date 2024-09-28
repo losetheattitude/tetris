@@ -1524,6 +1524,8 @@ int main()
      * 
      * Have a look at the history, you will see, have a look at the total good outcomes that have been produced by your actions, you will see
      * You abuse being funny for your own interests ? You dare talk about education but you do not feel like explaining it to sane and impartial people ?
+     * 
+     * Awwww, you still delude that not having resources should solve all the problems ehehehe
       **/ 
      
 
