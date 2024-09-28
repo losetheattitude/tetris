@@ -1324,6 +1324,7 @@ int main()
      * Wait, are you still the same animal ? still looking to make promises ?
      * 
      * You are bad!! you are bad!!! You are bad!!!! please you are bad!!!
+     * We tryna help you!! we tryna help you!! we do it the old way! we good ppl!!
       **/ 
 
 
