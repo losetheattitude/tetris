@@ -1146,6 +1146,7 @@ int main()
      * Yess!! he did this!!! please do this for us!! if you do this, you will have a great life eheheh 
      * thats not called stupid games!! You also think its skillful ehehehehe what a stupid group
      * You say, you do it the old way ?
+     * You say, you should be taken into consideration ?
      * 
      **/ 
 
