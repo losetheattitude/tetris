@@ -1601,7 +1601,8 @@ int main()
      * we discuss about the future of someone WHO IS NOT YOUR JOB
      * 
      * How do you think that sounds like ? You continue exhibiting your great attributes ? Do that with your vicinity, and see that you are a disgusting animal
-     * Still offering things ?
+     * Still offering things ? Now would please beg like the inferior animal you are instead of talking about the truth, but sadly you lack all the
+     * qualities of superiority that your vile experience would know that it is such a mess and trouble, it would cause you so much headache ?
       **/ 
      
 
