@@ -1115,6 +1115,7 @@ int main()
      * You can not deal with your insecurities and you say "you get harmed and you do nothing!!!!"
      * Do you still delude that you should make decisions on behalf of someone after time and time your malign intention has been proven 
      * towards him ? wait it was "you are doing it the old way" ehehe
+     * So who is indecisive btw ?
      **/ 
 
 
