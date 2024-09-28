@@ -1122,6 +1122,8 @@ int main()
      * I do not "naturally" have time for falsely harmful people, you know you are wrong ehehe
      * You are calling it fate but also harming ?
      * 
+     * So you think just because you are afraid of violence, others should be afraid of as well, and you think its education because you are afraid of violence
+     * and you still think it should be okay what afterwards dictate naturally ? 
      * 
      **/ 
 
