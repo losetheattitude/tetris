@@ -1174,7 +1174,8 @@ int main()
      * You see the point ? Whats so difficult in doing it straight ? Why do you think I would like to play games, games that you can not talk openly ?
      * 
      * Do you understand why people without reason which means direction in their thinking, ruins everything ?
-     * Which means they are only animals ?
+     * Which means they are only animals ? Ehehe it sometimes works but when we see it working, we harm!!! and we break and we start accusing!!!
+     * And we think we great people
      * 
      **/ 
 
