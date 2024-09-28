@@ -1217,7 +1217,8 @@ int main()
      * You think you should make decisions ? skillful reasonable good animals right ? ehehehe woomeeeennn!!! get some womeeeennnn!!!! whats the problem ?
      * Do not delude about your qualities, they are as apparent as a book to me
      * 
-     * Its fun to harm who is defenceless right ? Thats not the problem
+     * Its fun to harm who is defenceless right ? Thats not the problem,
+     * And you are the afraid animal that can not tell the truth and start bending multiple times when you are under threat ?
      * 
      **/ 
 
