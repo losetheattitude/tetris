@@ -1127,7 +1127,8 @@ int main()
      * And now, think about what did you actually achieve ? Other than looking like a complete animal ?
      * You already knew that it was not your choice, yet you are standing there like you are not the animal that did all that stupid bullshit
      * they can not explain to others. Just some irrelevant information and some false justifications
-     * And you beg that your intentional actions are not to come to surface ?
+     * And you beg that your intentional actions are not to come to surface ? That means you already know what you did,
+     * you just try to find bullshit like, "fair game", "fate" as your prior irrelevant actions, your excuses are also animal like, which they do not make sense
      * 
      **/ 
 
