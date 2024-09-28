@@ -1180,6 +1180,9 @@ int main()
      * 
      * You are the only group I have seen that is as stupid as animals on the street, and you still say "you do it the old way" ?
      * While its none of your business but also you act with malign intention ?
+     * And you suddenly want to play literally stupid games when it comes to accounting for your behavior ?
+     * But you would still like to harm and calling it intelligent while it literally means you are a directionless animal who acts on his emotions
+     * for detrimental purposes FOR THE GREATER HARM. Stupid monkeys
      * 
      **/ 
 
