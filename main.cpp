@@ -1237,6 +1237,9 @@ int main()
      * If you have the intelligence to compare your allegations with the truth, you will start seeing, you do not even have to try
      * That is the definition of delusional, ON PURPOSE, TO DETRIMENT, DIRECTIONLESS human
      * 
+     * Stupid monkeys, go on, let everyone know what an animal you are, what do you think people in the future say about you ? You can not see it
+     * because you are emotional
+     * 
      **/ 
 
 
