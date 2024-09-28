@@ -1167,6 +1167,8 @@ int main()
      * And you still think you are doing good ?
      * Ehehehe isnt it too fun to play games over people ? People who can not do anything about it especially right ?
      * Waaaowww, impressive animals indeed!! Just the skillful group that exist everywhere eheheh
+     * You say its fate ? but you also would like to apply violence then you offer money ? because thats what you are after ?
+     * and thus the justification of your stupidity ?
      * 
      **/ 
 
