@@ -1124,6 +1124,7 @@ int main()
      * 
      * So you think just because you are afraid of violence, others should be afraid of as well, and you think its education because you are afraid of violence
      * and you still think it should be okay what afterwards dictate naturally ? 
+     * And now, think about what did you actually achieve ?
      * 
      **/ 
 
