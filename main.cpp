@@ -1291,7 +1291,8 @@ int main()
      * And you count on them not being remembering it afterwards ? So you use medicine to make sure everything is good, but you do not care about
      * its biological consequences ? Why do you think I keep saying you get into unconditional troubles ?
      * 
-     * Do you want to tell the previous time ?
+     * Do you want to tell the previous time ? In which you begged your way out ? with women ? But you have not provided any ? And you think it should
+     * be the same this time because ?
       **/ 
 
 
