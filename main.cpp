@@ -1432,6 +1432,8 @@ int main()
      * And one of the miserable excuses you can present is what ? Awww, you say you have forgotten or you do not understand how uncredible you are ?
      * Awww, you say you do it the old way, perfect. Thats the type I will never have interactions with, whoever you think you are
      * 
+     * You do what you have to do, stop wasting more and more time that you can not bring back, there is no restoring 
+     * 
       **/ 
 
 
