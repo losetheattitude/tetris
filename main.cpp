@@ -1593,6 +1593,7 @@ int main()
      * Whilst I, doing nothing but somehow deserving violence ? Whats the problem great people of earth ?
      * 
      * You already know making people say things is coercion ? Thats one your qualities that is as rare as anything can get right ?
+     * or you would rather beg like the animal you are ? saying that "he did it!!!", "he ate it!!!", make some promises we will be fine !!!
       **/ 
      
 
