@@ -1304,6 +1304,8 @@ int main()
      * YOU GET SENTENCED FOR YOUR ACTIONS, you have given countless chances of proving that you are not inferior, you have proved the opposite
      * at least 10 times, now there is really no going back right ? No going back of time ?
      * Whats the problem now tell me ? While also knowing that I know what you are ?
+     * 
+     * Are you still trying to gather attention so that you can enjoy your life while you are playing stupid games over someone else's life ?
       **/ 
 
 
