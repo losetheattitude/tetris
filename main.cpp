@@ -1343,6 +1343,8 @@ int main()
      * Are you offering to allow someone to have basic experiences ? And think that it would cause no problems as you have ?
      * Are you still saying that its the only way ? or you are not a simple animal ?
      * Or you immediately start begging ? let it go!!! have women!! if you let go!!! get womeen!!! get cars!!!!!!
+     * 
+     * I am telling you that I will not let go 30 years, and you get what you actually deserve for ? and what are you saying ?
       **/ 
 
 
