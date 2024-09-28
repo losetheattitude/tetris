@@ -1443,7 +1443,7 @@ int main()
      * I do not have no intention, whether you think begging through offering would solve it or not, You can get the fuck out of my face with your disgusting
      * nature
      * 
-     * Or you would rather offer what you would like to commit ?
+     * Or you would rather offer what you would like to commit ? Talk about time, may be you can appear to be credible ?
      * 
       **/ 
 
