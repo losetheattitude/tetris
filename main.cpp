@@ -1581,6 +1581,9 @@ int main()
      * And its becoming more and more and more apparent that you are false and have been acting on your inferior side ? What does that all mean ?
      * It is time you grow up may be ? You take growing up as harming or being violent ?
      * Is this how you make use of your brain ? Start using it for your vicinity, you will see that you are wrong
+     * 
+     * If you use such an opportunity for the greater harm because you lack courage and intention and vision, that means you already understand neither
+     * life nor time nor you are the entity that you claim to be
       **/ 
      
 
