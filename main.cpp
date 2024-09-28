@@ -1178,7 +1178,8 @@ int main()
      * And we think we great people
      * And you still beg others to say some untruthful things, as has been proven countless times, so that you can harm more without a direction ?
      * 
-     * You are the only group I have seen that is as stupid as animals on the street
+     * You are the only group I have seen that is as stupid as animals on the street, and you still say "you do it the old way" ?
+     * While its none of your business but also you act with malign intention ?
      * 
      **/ 
 
