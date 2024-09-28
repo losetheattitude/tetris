@@ -1576,6 +1576,7 @@ int main()
      * And you call complete injustice game ? and you make it so that it is regarded as game while the intention is as clear as it could ?
      * You do not have anything to do with your lives so you seek problems through reasonless actions ?
      * And where are all the proofs that you have coercefully, which now becomes more and more apparent, obtained ?
+     * Thats why it is set to fail eventually, it is going to have its own effects but who cares because WHY NOT ?
       **/ 
      
 
