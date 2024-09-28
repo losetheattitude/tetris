@@ -1383,6 +1383,9 @@ int main()
      * 
      * Are you still talking about money ? awww you were saying women!!! aww it was cars ? Awww, you say you are not simple disgusting animal ?
      * Listen closely, you are not even fucking aware of what you are let alone being aware of your emotional actions
+     * 
+     * Thats why you can not see, or your great confidence can not see that you are actually begging like the animal you are
+     * while you are offering things, then you do not deliver which makes you more and more the disgusting animal you already are
       **/ 
 
 
