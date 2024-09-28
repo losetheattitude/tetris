@@ -1223,6 +1223,7 @@ int main()
      * But you still like to harm and hide ? Ignorant people ? Are you sure about it should be okay or do you just wish it miserably 
      * to be okay ? Thats why you harm and hope people comply ? And you think an individual will be grateful to ?
      * Awww, wait so you think people are craving for "fame" and yet you somehow believe that harming them would help to achieve what ?
+     * Or, not having enough resources would help for someone to not get recognized ? What are you exactly saying ? Directionless dumb animals ? Is that what you are ?
      * 
      **/ 
 
