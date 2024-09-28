@@ -1395,6 +1395,7 @@ int main()
      * As never learning monkeys of "the past", take a look at the history and find your spot in it, where do you think it will be ?
      * 
      * You have no signs for almost 30 years, so you suddenly start making artifical problems for someone else ?
+     * So that you can present it as "GIFT!!!!!" Get women!!! get cars!! we quality ppl!!
       **/ 
 
 
