@@ -1577,6 +1577,7 @@ int main()
      * You do not have anything to do with your lives so you seek problems through reasonless actions ?
      * And where are all the proofs that you have coercefully, which now becomes more and more apparent, obtained ?
      * Thats why it is set to fail eventually, it is going to have its own effects but who cares because WHY NOT ?
+     * And you try to make it into a game ? ehehehe
       **/ 
      
 
