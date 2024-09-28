@@ -1465,6 +1465,8 @@ int main()
      * Try harder, hey what happened!!! what is wrong!! ehehe Who did that ? Thats the only way!! we do it the old way!! we miss old days!!
      * we think we good animal!! good ppl btw
      * 
+     * Hey, why dont you experience the most basic things for your 30 years of illogical life ? That should be fine ?
+     * 
       **/ 
 
 
