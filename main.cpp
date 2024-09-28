@@ -1613,7 +1613,7 @@ int main()
      * And you think you get to make decisions ? I do not even move a finger for the likes of animal like you, that can not cope with the reality
      * and start accusing with the content of their disgusting minds
      * 
-     * Now, start explaining
+     * Now, start explaining, and get a proper upholding of your actions, like years of sentencing ? does that sound really good ?
       **/ 
 
      
