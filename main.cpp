@@ -1433,6 +1433,7 @@ int main()
      * Awww, you say you do it the old way, perfect. Thats the type I will never have interactions with, whoever you think you are
      * 
      * You do what you have to do, stop wasting more and more time that you can not bring back, there is no restoring 
+     * I am not being rude at all, I just do not have no intention and no desire and no business with people like you
      * 
       **/ 
 
