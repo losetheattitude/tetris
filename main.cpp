@@ -1089,6 +1089,7 @@ int main()
      * 
      * 
      * You answer for your own actions, and stop acting as if its intelligent to "make random noises"
+     * You account for your own actions
      * 
      **/ 
 
