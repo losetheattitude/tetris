@@ -1422,7 +1422,7 @@ int main()
      * You get sentenced for your own actions ? As opposed to actions that you coerced, for 30 years
      * Take violence for an education, thats why you are animal
      * 
-     * You think its funny or normal ? for someone to waste 30 years on false terms ?
+     * You think its funny or normal ? for someone to waste 30 years on false terms ? and you look around for what ?
      * 
       **/ 
 
