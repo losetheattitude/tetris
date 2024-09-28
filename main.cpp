@@ -1096,6 +1096,7 @@ int main()
      * Who is the problem bro ? So you just dream that I do not remember but whats the reality again ?
      * Wait wait, you also wish that the individual who you are harming would not remember ? Whats the problem great people ?
      * Are you the trusted authority ? ehehehe its most funny
+     * Try to justify harming irrelevant citizens with your most sincere qualities right ?
      **/ 
 
 
