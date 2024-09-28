@@ -1380,6 +1380,8 @@ int main()
      * 30 years and what are you saying again ? You do not walk into your own disasters in the making ?
      * You get the same natured attitute and the violence with which you think you are making yourself scary,
      * Look at me again ? Try harder stupid monkeys
+     * 
+     * Are you still talking about money ? awww you were saying women!!! aww it was cars ? Awww, you say you are not simple disgusting animal ?
       **/ 
 
 
