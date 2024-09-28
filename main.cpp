@@ -1269,6 +1269,7 @@ int main()
      * Where are all the things you accuse and wield it as weapon so that you can harm without a direction ?
      * 
      * You would call ruining people on purpose, "nostalgia" ?
+     * Why dont you start explaining your actions first, then we talk about the "prices", then we get to the "what should people do with their lives ?"
      **/ 
 
 
