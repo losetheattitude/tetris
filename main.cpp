@@ -1561,6 +1561,8 @@ int main()
      * Now talk about your great actions ehehehe, you want to enjoy your experiences ?
      * Do you follow, you get violence ? There is no correlation between violence and basic instincts as there is no correlation between
      * intelligence and all those above qualities that you exhibit like a skill.
+     * 
+     * Are you still wasting time looking around ? Wanting me to play the same stupid game over and over again ? That got me nowhere ?
       **/ 
      
 
