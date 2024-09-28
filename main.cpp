@@ -1628,7 +1628,8 @@ int main()
      * Whats the bottleneck in your understanding ?
      * You offer material still ? YOU HAVE TO BE KIDDING RIGHT ?
      * 
-     * You can not cope others having fun ?
+     * You can not cope others having fun ? Go have a match at your own social,physical,economic and political level, I would come to watch
+     * 
       **/ 
 
      
