@@ -1318,6 +1318,7 @@ int main()
      * And you think I would want to have anything to do with you ? Ehehehe get some womenn ?
      * And you also claim that you are trying to help while you have so many chances of doing that ?
      * We coerce kids into things so that we can call them certain names, so that later on we can present it as proof to not allow them talk ?
+     * Whatever brooo, get some women!! wait we already made that promise countless times right ?
       **/ 
 
 
