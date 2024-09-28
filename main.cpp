@@ -1228,6 +1228,8 @@ int main()
      * Your approach is altogether the most false thing ever but you still would love to avoid acknowledging your mistakes ?
      * And would love not to pay for your own actions with what their actually worth is ?
      * 
+     * Who said I want to waste my time with stupid animals like you ? Are you still offering cars and women ? and you still seek no problems ?
+     * 
      **/ 
 
 
