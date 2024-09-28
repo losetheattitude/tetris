@@ -1505,6 +1505,7 @@ int main()
      * Use your brain better next time, so that you contribute to the greater good
      * Now its time you explain your conduct, and promises etc, begging etc 
      * You will realize you are not a hunter, an intelligent one is not, a good one is not, a credible one is not
+     * Because you can not tell WHAT YOU HAVE ACHIEVED BY YOUR ACTIONS THAT YOU ARE embarrassed TO TALK ABOUT
       **/ 
 
 
