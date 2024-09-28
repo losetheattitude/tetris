@@ -1281,7 +1281,10 @@ int main()
      * 
      * Then talk about, when you had all the opportunity to do just what you are now begging with to do, while I have the blessing of being introduced to
      * disgusting directionless animals like yourselves, What did you choose to do instead ? and now think about why you are in this position of "LET IT GO!!!"
-     **/ 
+     * 
+     * Do not remind yourselves the "lies" or should I say, "promises" orr "should I say random noises" ?
+     * Thats where the "disgusting people of history" comes from, do you see it ? 
+      **/ 
 
 
 
