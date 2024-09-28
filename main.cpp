@@ -1098,7 +1098,7 @@ int main()
      * Are you the trusted authority ? ehehehe its most funny
      * Try to justify harming irrelevant citizens with your most sincere qualities right ?
      * Still talking about what ? Yes you are not selfish, thats most accurate ehehe it is funny isnt it ?
-     * good ppl btw
+     * good ppl btw, you harm irrelevant citizens ?
      **/ 
 
 
