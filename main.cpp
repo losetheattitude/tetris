@@ -1619,6 +1619,8 @@ int main()
      * 
      * Eheheheeh, we use him for our own interests and we good ppl btw, we educated and educate others with violence because WHY NOT ?
      * You say "let it go" and you have a wonderful life!!!! Have you taken a look at the history ? Good ppl
+     * 
+     * Money!!!!!! cars!!!! wommeeennn!!!! pls let it go, help us!!!!
       **/ 
 
      
