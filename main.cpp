@@ -1534,6 +1534,7 @@ int main()
      * Are you willing to sacrifice some violence for your honorable selves ? Awwww, you would rather say some meaningless stuff to appear like clever ?
      * What exactly is the problem here ? Or just tell me my experience, you see, being realllyy intentionally delusions is such an easy thing that
      * you do not even have to use your brain ? You see what I am saying ?
+     * You are doing your best for simple interests of your to be delusional ? See the problem ?
       **/ 
      
 
