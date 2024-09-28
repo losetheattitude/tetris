@@ -1425,6 +1425,8 @@ int main()
      * You think its funny or normal ? for someone to waste 30 years on false terms ? and you look around for what ?
      * Why dont you start talking instead of "threatining or begging" ?
      * 
+     * TALK ABOUT ACTIONS INSTEAD OF DELUSIONS
+     * 
       **/ 
 
 
