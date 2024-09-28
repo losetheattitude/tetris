@@ -1306,6 +1306,7 @@ int main()
      * Whats the problem now tell me ? While also knowing that I know what you are ?
      * 
      * Are you still trying to gather attention so that you can enjoy your life while you are playing stupid games over someone else's life ?
+     * Make more promises, nobody is going to come to uphold you for them right ? Is that the intelligence that you have been bragging so far ?
       **/ 
 
 
