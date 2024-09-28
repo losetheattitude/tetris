@@ -1196,6 +1196,8 @@ int main()
      * Talk about the time that you have wasted without direction and violence along with it, then think more than twice to call "peace!!!"
      * "wooomeeennn!!!" and again question your credibility when you ask people to have confidence in you
      * And think better next time about why people should take your promises or words for what they are not
+     * And next time use your brain so that you can understand, violence is only employed TO HARM, and try not to hide your stupid feelings
+     * or understand how to detach them from reality
      * 
      * 
      **/ 
