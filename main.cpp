@@ -1363,6 +1363,8 @@ int main()
      * Act ill intentioned, you get ill intention regardless of how you delude your reasons to be credible
      * You do not understand the part where you do not act on your emotions that cause negativity and detrimention because that
      * always has its counterpart ?
+     * 
+     * So who do I have to blame, so far you were there all along with your most dear promises and honorable minds etc ?
       **/ 
 
 
