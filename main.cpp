@@ -1371,6 +1371,10 @@ int main()
      * Do you want to remember your random noises ?
      * 
      * WHY ARE YOU STILL BEGGING ? ehehehe HAVE YOU FORGOTTEN ?? Whats the problem then ? Awww you have forgotten ?
+     * 
+     * 
+     * You can not foresee the supposed consequences of your actions, or you just can not afford to ?
+     * Then that means you are walking into your own disasters BY YOUR OWN WILL
       **/ 
 
 
