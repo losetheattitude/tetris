@@ -1244,6 +1244,7 @@ int main()
      * do not deliver
      * 
      * You call it education ? Start explaining again and you will see why you are directionless HUMAN
+     * And you still talk about "not showing in TV" because you know you have messed up big time ?
      * 
      **/ 
 
