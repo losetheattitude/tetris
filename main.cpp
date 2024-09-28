@@ -1616,6 +1616,8 @@ int main()
      * Now, start explaining, and get a proper upholding of your actions, like years of sentencing ? does that sound really good ?
      * Pleasee forgive me!!! forgive us!!! we meant no bad!! we no bad! you bad!! pls help us, help us save our precious experiences while
      * we harm you!! We like to beg to people in quite contrast to you!! 
+     * 
+     * Eheheheeh, we use him for our own interests and we good ppl btw, we educated and educate others with violence because WHY NOT ?
       **/ 
 
      
