@@ -1337,6 +1337,7 @@ int main()
      * Its the only way!! its the only way!!! we tryna help you!!! NOOOO!!! YOU CAN NOT DO THAT!!!
      * 
      * Can you tell me the correlation between violence and people not having good time
+     * and you say you understand the life ?
       **/ 
 
 
