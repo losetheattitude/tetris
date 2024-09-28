@@ -1559,7 +1559,8 @@ int main()
      * And you still insists, people play the most stupid games ever ehehehe indeed funny enough, you prove to have all those qualities
      * 
      * Now talk about your great actions ehehehe, you want to enjoy your experiences ?
-     * Do you follow, you get violence ?
+     * Do you follow, you get violence ? There is no correlation between violence and basic instincts as there is no correlation between
+     * intelligence and all those above qualities that you exhibit like a skill.
       **/ 
      
 
