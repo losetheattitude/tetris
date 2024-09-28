@@ -1278,6 +1278,9 @@ int main()
      * So do you think you are as intelligent as to provide "reasonable" responses to your OWN MIND'S CONTENT ?
      * Wait wait, you do it the old way, you say ? And you think you are not a simple animal ?
      * Then talk about my experiences in the light of your "random noises"
+     * 
+     * Then talk about, when you had all the opportunity to do just what you are now begging with to do, while I have the blessing of being introduced to
+     * disgusting directionless animals like yourselves, What did you choose to do instead ? and now think about why you are in this position of "LET IT GO!!!"
      **/ 
 
 
