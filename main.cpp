@@ -1350,6 +1350,8 @@ int main()
      * 
      * You understand when you come across, Do not be surprised at your alike nature when you come across the outcomes. You have never dealt
      * thats why you can not uncover what is already there, and that is not the intelligence, be sure about that
+     * 
+     * You only uncover sadly, once you come across its outcomes, thats why the history is history, not because you wish it to be
       **/ 
 
 
