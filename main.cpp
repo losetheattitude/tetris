@@ -1608,6 +1608,8 @@ int main()
      * and take a look at your experience ? Arent you happy ? Is that what you are saying ? and not accepting that you are a vile animal ?
      * Because YOU LACK EVERY SUPERIOR QUALITY ? Because you take being cheap and violent for a skill ?
      * And you beg "let it go!! let it go!!!"
+     * 
+     * Now try to explain my experience and tell people about your beggings beforehand. Now try to assess the degree of your vile animality
       **/ 
      
 
