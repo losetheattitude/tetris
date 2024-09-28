@@ -1077,6 +1077,9 @@ int main()
      * So you know you have lied before to just do harm and you have done it again!!!
      * Who is intelligent ? Awww, if you lie that we actually are good ppl, we intelligent, then you can have what is regular!!!!
      * Eheheheh its so fun right ? Hide your disgusting nature better 
+     * 
+     * Now you would apparently prefer playing stupid cop games ? Whats the correlation ? Whats the pattern in your disgusting attitude ? I can not tell 
+     * anything other than simple animal ?
      **/ 
 
 
