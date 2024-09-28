@@ -1514,6 +1514,9 @@ int main()
      * I have not done anything else other than WHAT YOU HAVE COERCED 10yo kids into ? Ehehehe its funny isnt it ?
      * Just talk about your actions and promises of great nature, eheheheh if you say I ATE IT!!! YOU GET WOMEEEENNN YOU GET CARSSSS YOU GETT HOUSESSSS!!! Pleaseee
      * You are wrong and you get to sacrifice, eheheh aint that funny now ?
+     * 
+     * You are doing great, delude about that as well, since your delusions are intentionally targeted towards those who can not uphold you to some reason ?
+     * So thats where the animal is coming from, thats the reason
       **/ 
      
 
