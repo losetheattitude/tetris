@@ -1221,7 +1221,7 @@ int main()
      * And you are the afraid animal that can not tell the truth and start bending multiple times when you are under threat ?
      * And your only way to cope with that truth is to attribute it "intelligence" while its the proof of your stupidity which is FEAR
      * But you still like to harm and hide ? Ignorant people ? Are you sure about it should be okay or do you just wish it miserably 
-     * to be okay ? Thats why you harm and hope people comply ?
+     * to be okay ? Thats why you harm and hope people comply ? And you think an individual will be grateful to ?
      * 
      **/ 
 
