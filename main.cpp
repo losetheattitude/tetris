@@ -1550,7 +1550,10 @@ int main()
      * You see, the attributes "inferior, injust, liar, selfish, incompetent" they all go together into where ?
      * You see, the attributes "inferior, injust, liar, selfish, incompetent" they all go together into where ?
      * 
-     * Now tell me what you are, other than the animals in the history ? Chasing basic instincts ?
+     * Now tell me what you are, other than the animals in the history ? Chasing basic instincts ? 
+     * Because you would love to enjoy your experiences while you cause others WHO YOU CAN NOT SUPPRESS NO MATTER WHAT, have detrimental life,
+     * AND EXPECT NOTHING BAD, that is definitely the definition of "inferior, injust, liar, selfish, incompetent"
+     * 
       **/ 
      
 
