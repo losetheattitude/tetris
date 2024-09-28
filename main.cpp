@@ -1482,7 +1482,8 @@ int main()
      * Are you still begging like the animal you are ? Please lie for us, and you say you do it the old way ?
      * You understand when you come across, thats the only wise thing you need
      * 
-     * Definitely not the dumb people of earth, the history is full of, 
+     * Definitely not the dumb people of earth, the history is full of, you understand why you are animal, because you do not understand the life
+     * that you brag to understand 
      * 
       **/ 
 
