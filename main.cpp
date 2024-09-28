@@ -1108,6 +1108,8 @@ int main()
      * or you would beg your best in order not to let people find out about it ?
      * 
      * I ? I have had no problems other than stupid animals like you ? So who is guilty do you think ?
+     * Awww, you do not see that you are a stupid group who catches witches and coercing ones to do things that 
+     * "supposedly" should make them one ?
      **/ 
 
 
