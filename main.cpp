@@ -1284,6 +1284,8 @@ int main()
      * 
      * Do not remind yourselves the "lies" or should I say, "promises" orr "should I say random noises" ?
      * Thats where the "disgusting people of history" comes from, do you see it ? 
+     * You can not under any circumstances be justified, try it with impartial people, you will see why you are disgusting
+     * instead of insisting on "false accusations" that you have coerced kids into, then talk about what you have done later on
       **/ 
 
 
