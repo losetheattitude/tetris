@@ -1469,6 +1469,7 @@ int main()
      * Eheheh get womeeennnnn!!!! get carss!!!!!! thats what we seek for while not trying to ruin ourselves!!! so go for it!!
      * 
      * We still think we are right in our coerced actions, thats how reason works ?
+     * You get violence or get the proper sentence for your actions and you see, when everyone is happy, no problems occur
      * 
       **/ 
 
