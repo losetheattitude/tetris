@@ -1494,6 +1494,7 @@ int main()
      * 
      * So basically you say, we had all the chances of "realizing" what we have promised but we have chosen not to, but now YOU CAN!!! we no beg, we like no begging
      * So you had all the chances but you for a reason have not acted on them, but now you say, you are credible and you would realize it ?
+     * Wait wait, now you demand credibility for your inexplicable actions ? Say something logical, or honorable, or good or provable or NOT COERCED ?
      * 
       **/ 
 
