@@ -1300,6 +1300,8 @@ int main()
      * And you offer what again ? How much money do you want ???? eheheheh
      * Do you see where cheap natured monkeys come from ?
      * Start begging like the animal you are, for detrimental animal like behavior that you enjoy
+     * 
+     * YOU GET SENTENCED FOR YOUR ACTIONS 
       **/ 
 
 
