@@ -1201,6 +1201,9 @@ int main()
      * And now tell me my experience again, and pay attention to your surroundings so that you can disassociate your fears from what is the truth or
      * what should be the right thing to do, instead of offering WOOMEEENNNNNN!!!! and harming people
      * 
+     * That tells me you are a directionless monkeys that only understands from violence thus presents the violence as a tools to others
+     * who has no relation with your inferior nature
+     * 
      * 
      **/ 
 
