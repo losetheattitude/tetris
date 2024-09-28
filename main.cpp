@@ -1580,6 +1580,7 @@ int main()
      * And you try to make it into a game ? ehehehe and you are saying you use your reason ?
      * And its becoming more and more and more apparent that you are false and have been acting on your inferior side ? What does that all mean ?
      * It is time you grow up may be ? You take growing up as harming or being violent ?
+     * Is this how you make use of your brain ? Start using it for your vicinity, you will see that you are wrong
       **/ 
      
 
