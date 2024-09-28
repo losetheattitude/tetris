@@ -1461,6 +1461,9 @@ int main()
      * We seek no trouble!! 
      * 
      * Are you still coercing medicines ? Are you still coercing violence ? Wait, who and what is the problem here ?
+     * Awwww, you are trying to be a good human ? But you do not understand how not to be an animal ? Thats where you lack the reason
+     * Try harder, hey what happened!!! what is wrong!! ehehe Who did that ? Thats the only way!! we do it the old way!! we miss old days!!
+     * we think we good animal!! good ppl btw
      * 
       **/ 
 
