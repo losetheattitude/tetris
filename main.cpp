@@ -1392,6 +1392,7 @@ int main()
      * Eeheheheh wooomeeenn!!!! get wooommeeennnn!!!! get cars!!!!! eheheheheh life a simulation!!! awww, we have forgotteeenn!!! plss eheheh
      * 
      * IMMATURE DISGUSTING PEOPLE WILL ALWAYS GET INTO PROBLEMS, and thats what you will get
+     * As never learning monkeys of "the past", take a look at the history and find your spot in it, where do you think it will be ?
       **/ 
 
 
