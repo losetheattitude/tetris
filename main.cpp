@@ -1176,6 +1176,7 @@ int main()
      * Do you understand why people without reason which means direction in their thinking, ruins everything ?
      * Which means they are only animals ? Ehehe it sometimes works but when we see it working, we harm!!! and we break and we start accusing!!!
      * And we think we great people
+     * And you still beg others to say some untruthful things, as has been proven countless times, so that you can harm more without a direction ?
      * 
      **/ 
 
