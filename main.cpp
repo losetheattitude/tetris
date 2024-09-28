@@ -1194,7 +1194,8 @@ int main()
      * over someone, far from what anyone would call education ? Do you even follow ?
      * 
      * Talk about the time that you have wasted without direction and violence along with it, then think more than twice to call "peace!!!"
-     * "wooomeeennn!!!"
+     * "wooomeeennn!!!" and again question your credibility when you ask people to have confidence in you
+     * 
      * 
      **/ 
 
