@@ -1622,6 +1622,7 @@ int main()
      * 
      * Money!!!!!! cars!!!! wommeeennn!!!! pls let it go, help us!!!! 
      * Now why do you think you have to hide like the animal you are ? NEXT TIME USE YOUR BRAIN BETTER 
+     * NEXT TIME, INSTEAD OF OFFERING WOMEN, TRY TO USE YOUR BRAIN SO THAT YOU DO NOT GET HURT ?
       **/ 
 
      
