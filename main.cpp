@@ -1413,7 +1413,7 @@ int main()
      * as has been done for so many others
      * 
      * Have you heard me right ? You do not beg with every possible malign actions, YOU JUST DO NOT DO THEM, YOU STOP DOING THINGS THAT YOU REGRET ?
-     * And now, do you think I will bend like you do ?
+     * And now, do you think I will bend like you do ? 30 years is nothing you say ?
       **/ 
 
 
