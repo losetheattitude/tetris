@@ -1626,7 +1626,7 @@ int main()
      * SO NOW YOU UNDERSTAND WHY THERE IS DIFFERENCE BETWEEN YOU AND I ? I DO NOT LIE TO HARM ?
      * I DO NOT GET MYSELF INTO TROUBLE FOR HARM ? If you want to be taken serious, then go have interactions with people who you like and like you back
      * Whats the bottleneck in your understanding ?
-     * You offer material still ?
+     * You offer material still ? YOU HAVE TO BE KIDDING RIGHT ?
       **/ 
 
      
