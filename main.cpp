@@ -1503,6 +1503,7 @@ int main()
      * You know you would be considered intelligent, had you not started begging for your intentional actions
      * And you call that being a good animal ? A good intelligent hunter ? try harder, and use your brain better next time
      * Use your brain better next time, so that you contribute to the greater good
+     * Now its time you explain your conduct, and promises etc, begging etc 
       **/ 
 
 
