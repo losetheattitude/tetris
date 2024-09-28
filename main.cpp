@@ -1204,6 +1204,7 @@ int main()
      * That tells me you are a directionless monkeys that only understands from violence thus presents the violence as a tools to others
      * who has no relation with your inferior nature
      * And you are asking me to lie so that you can feel intelligent while its not even close to being one ?
+     * And you want me to trust you while you use medicines on your own incompetent discretion ?
      * 
      * 
      **/ 
