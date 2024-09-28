@@ -1235,6 +1235,7 @@ int main()
      * with false and coerced proofs ?
      * And you still delude about your qualities ? Religious, good, intelligent, honorable, good nation what else ?
      * If you have the intelligence to compare your allegations with the truth, you will start seeing, you do not even have to try
+     * That is the definition of delusional, ON PURPOSE, TO DETRIMENT, DIRECTIONLESS human
      * 
      **/ 
 
