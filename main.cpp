@@ -1187,6 +1187,7 @@ int main()
      * Now all you can say is "we do it the old way", "past does not change", "we good", "we intelligent", "we tryna help" ? Which of those do you think
      * are true ?
      * Just have a look at your disgusting irresponsible actions and tell me that you do not deserve the same
+     * You talk about having fun ? But also call it "fate" ?
      * 
      **/ 
 
