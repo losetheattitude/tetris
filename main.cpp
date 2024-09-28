@@ -1519,6 +1519,7 @@ int main()
      * So thats where the animal is coming from, thats the reason
      * 
      * How come you have convinced yourselves to acting this unaccountable way ? awwww, you better beg then right ? THERE IS NO LAW!!!
+     * So you still claim that someone is harmful while you are harming ? Is that the great reasoning ?
       **/ 
      
 
