@@ -1382,6 +1382,7 @@ int main()
      * Look at me again ? Try harder stupid monkeys
      * 
      * Are you still talking about money ? awww you were saying women!!! aww it was cars ? Awww, you say you are not simple disgusting animal ?
+     * Listen closely, you are not even fucking aware of what you are let alone being aware of your emotional actions
       **/ 
 
 
