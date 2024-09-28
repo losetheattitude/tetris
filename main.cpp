@@ -1368,6 +1368,7 @@ int main()
      * And all you can say is, carss!!!! womeeen!!! commit crimes!!!! because we are who we are, and thats the problem you are not seeing
      * 
      * And tell me that you do not deserve because of your intentional ignorings, why are you still offering things ?
+     * Do you want to remember your random noises ?
       **/ 
 
 
