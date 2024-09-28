@@ -1359,6 +1359,8 @@ int main()
      * 
      * Do you understand that your misformations of ideas through intentional harm would cause anyone the same natured harm ?
      * That is your problem, but guess who is not capable of seeing it ?
+     * 
+     * Act ill intentioned, you get ill intention regardless of how you delude your reasons to be credible
       **/ 
 
 
