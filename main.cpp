@@ -1326,6 +1326,9 @@ int main()
      * You are bad!! you are bad!!! You are bad!!!! please you are bad!!!
      * We tryna help you!! we tryna help you!! we do it the old way! we good ppl!!
      * We like playing games! we tryna help you ! pls
+     * 
+     * I do not have any intentions to waste my time with any of you, you still talk about woommeeeennnn!!! please have a few times the most basic physical interaction
+     * and it would be fine!!!!
       **/ 
 
 
