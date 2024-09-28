@@ -1131,6 +1131,8 @@ int main()
      * you just try to find bullshit like, "fair game", "fate" as your prior irrelevant actions, your excuses are also animal like, which they do not make sense
      * That is being senseless, which means "animal"
      * 
+     * Now try to explain again, you did what without begging for your experiences
+     * 
      **/ 
 
 
