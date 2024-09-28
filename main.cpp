@@ -1569,6 +1569,7 @@ int main()
      * You do it the old way you say ? I am neither playing nor wanting to be around any of animals who attributes so much value to materials
      * while they think they are educating people with violence, thats the qualities of the best people of earth right ?
      * The very same individuals who offer women, thats the worst type of people, take a look at the history, you get it right away
+     * You would rather beg ?
       **/ 
      
 
