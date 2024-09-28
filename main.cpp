@@ -1322,6 +1322,8 @@ int main()
      * 
      * Just think about your next genius promise bro, eheheh its funny because everyone does it!!! we aint no stupid dumb masses !!!
      * Wait, are you still the same animal ? still looking to make promises ?
+     * 
+     * You are bad!! you are bad!!!
       **/ 
 
 
