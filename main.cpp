@@ -1474,6 +1474,8 @@ int main()
      * WHY ARE YOU STILL BEGGING ? Where is the bottleneck in your understanding again bro ?
      * You get unconditional actions for your coercing actions ? Especially towards kids ? especially afterwards of your begging attitude ?
      * 
+     * Think more than twice about you get unconditional violencee
+     * 
       **/ 
 
 
