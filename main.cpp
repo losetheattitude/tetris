@@ -1220,6 +1220,7 @@ int main()
      * Its fun to harm who is defenceless right ? Thats not the problem,
      * And you are the afraid animal that can not tell the truth and start bending multiple times when you are under threat ?
      * And your only way to cope with that truth is to attribute it "intelligence" while its the proof of your stupidity which is FEAR
+     * But you still like to harm and hide ?
      * 
      **/ 
 
