@@ -1339,6 +1339,8 @@ int main()
      * Can you tell me the correlation between violence and people not having good time
      * and you say you understand the life ? You claim you understand life ? Then start explaining your thinking patterns
      * to people who do not beg for you instead of you begging like the animal you are
+     * 
+     * Are you offering to allow someone to have basic experiences ? And think that it would cause no problems as you have ?
       **/ 
 
 
