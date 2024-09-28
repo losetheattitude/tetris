@@ -1250,6 +1250,7 @@ int main()
      * You are the disgusting guilty group
      * 
      * Now, talk about your actions, tell people how you achieved what
+     * I do not have time for your bullshit, call that intelligent
      * 
      **/ 
 
