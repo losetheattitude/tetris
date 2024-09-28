@@ -1472,6 +1472,7 @@ int main()
      * You get violence or get the proper sentence for your actions and you see, when everyone is happy, no problems occur
      * 
      * WHY ARE YOU STILL BEGGING ? Where is the bottleneck in your understanding again bro ?
+     * You get unconditional actions for your coercing actions ? Especially towards kids ? especially afterwards of your begging attitude ?
      * 
       **/ 
 
