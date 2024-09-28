@@ -1092,6 +1092,7 @@ int main()
      * You account for your own actions
      * 
      * Ehehehe, doing this, or doing that!! eheheh, we tryna help you, say that you ate it!!! pls
+     * Wait wait, years after, there is not even the single sign of such disgusting accusations of inferior nature ?
      **/ 
 
 
