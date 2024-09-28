@@ -1614,6 +1614,8 @@ int main()
      * and start accusing with the content of their disgusting minds
      * 
      * Now, start explaining, and get a proper upholding of your actions, like years of sentencing ? does that sound really good ?
+     * Pleasee forgive me!!! forgive us!!! we meant no bad!! we no bad! you bad!! pls help us, help us save our precious experiences while
+     * we harm you!! We like to beg to people in quite contrast to you!! 
       **/ 
 
      
