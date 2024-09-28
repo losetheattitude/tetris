@@ -1499,6 +1499,7 @@ int main()
      * How come you think you make decisions ? and start begging like the animal you are once you are confronted with your INTENTIONAL harms ?
      * What do you think the problem could be, when you take violence for education which tells you that you are afraid of it ?
      * 
+     * Tell me my experience, and do not start begging like the animal you truly are,
       **/ 
 
 
