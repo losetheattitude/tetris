@@ -1587,6 +1587,9 @@ int main()
      * Because you are afraid, so now think about what you have achieved other than proving what you are ? and also wasting opportunities that you could never deserve
      * And proving that more and more, you have coerced things to claim righteousness which is self controversial ? Dont you think ?
      * Thats why, you are the history's abomination, had you had the capability of traveling to future and seeing what people would say about you. Right ?
+     * 
+     * You harm and detriment to make a point ? The point that you are a stupid animal that deserve the worst place on the history ? But you are also afraid that as well
+     * you exhibit so many vile signs ? Whats the problem ?
       **/ 
      
 
