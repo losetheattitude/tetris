@@ -1388,6 +1388,8 @@ int main()
      * while you are offering things, then you do not deliver which makes you more and more the disgusting animal you already are
      * 
      * So tell me again instead of avoiding it like the disgusting immature animal you are, WHO IS THE PROBLEM HERE ?
+     * 
+     * Eeheheheh wooomeeenn!!!! get wooommeeennnn!!!! get cars!!!!! eheheheheh life a simulation!!! awww, we have forgotteeenn!!! plss eheheh
       **/ 
 
 
