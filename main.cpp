@@ -1565,6 +1565,8 @@ int main()
      * Are you still wasting time looking around ? Wanting me to play the same stupid game over and over again ? That got me nowhere ?
      * So you still coerce people into playing stupid games ? Because why not ? because he can not do anything else than that ? Thats the reason
      * why you will get violence, be sure about that as well, seek education you will find yourselves in as much as you would like
+     * 
+     * You do it the old way you say ?
       **/ 
      
 
