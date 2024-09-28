@@ -1103,7 +1103,7 @@ int main()
      * 
      * 
      * You still say the same narrative which you coerced people into ? Do you hear or you just want to see what you want to see ?
-     * Is it because you understand that its a scandal ?
+     * Is it because you understand that its a scandal ? Do you understand the history ?
      **/ 
 
 
