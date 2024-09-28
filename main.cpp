@@ -1087,6 +1087,9 @@ int main()
      * You say things and it starts happening by itself ? after years and years of bullshit ? ehehe ? funny ?
      * All the resources etc eheheh
      * 
+     * 
+     * You answer for your own actions, and stop acting as if its intelligent to "make random noises"
+     * 
      **/ 
 
 
