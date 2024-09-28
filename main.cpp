@@ -1094,6 +1094,8 @@ int main()
      * Ehehehe, doing this, or doing that!! eheheh, we tryna help you, say that you ate it!!! pls
      * Wait wait, years after, there is not even the single sign of such disgusting accusations of inferior nature ?
      * Who is the problem bro ? So you just dream that I do not remember but whats the reality again ?
+     * Wait wait, you also wish that the individual who you are harming would not remember ? Whats the problem great people ?
+     * Are you the trusted authority ? ehehehe its most funny
      **/ 
 
 
