@@ -1205,6 +1205,8 @@ int main()
      * who has no relation with your inferior nature
      * And you are asking me to lie so that you can feel intelligent while its not even close to being one ?
      * And you want me to trust you while you use medicines on your own incompetent discretion ?
+     * The way you say things are not related to what they mean or what direction they take others into, so better figure out what life means
+     * before you lecture others and start acting the opposite by greatly "harming" others
      * 
      * 
      **/ 
