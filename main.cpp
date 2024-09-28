@@ -1314,6 +1314,8 @@ int main()
      * so you like hurting people who can not defend ? How come you think it should be FATE ? when the group of stupid animals are doing their best to harm ?
      * YOU SAY YOU DO IT THE OLD WAY ? Great outcomes, great people, great reasons, and you can all get the fuck out of my face
      * Can you now tell me my experience ? while also reminding yourselves the "DEAL" that you also delude on to be something else than what it was
+     * 
+     * And you think I would want to have anything to do with you ?
       **/ 
 
 
