@@ -1301,7 +1301,8 @@ int main()
      * Do you see where cheap natured monkeys come from ?
      * Start begging like the animal you are, for detrimental animal like behavior that you enjoy
      * 
-     * YOU GET SENTENCED FOR YOUR ACTIONS 
+     * YOU GET SENTENCED FOR YOUR ACTIONS, you have given countless chances of proving that you are not inferior, you have proved the opposite
+     * at least 10 times, now there is really no going back right ? No going back of time ?
       **/ 
 
 
