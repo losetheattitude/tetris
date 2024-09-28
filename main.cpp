@@ -1119,6 +1119,7 @@ int main()
      * that is a major indication
      * 
      * Your saying of "fate" while contributing incomparable harm is a major indication
+     * I do not "naturally" have time for falsely harmful people
      * 
      * 
      **/ 
