@@ -1106,6 +1106,8 @@ int main()
      * Is it because you understand that its a scandal ? Do you understand the history ?
      * Have a look at the history and you see your stupid actions finding their place on the disgusting side of the history
      * or you would beg your best in order not to let people find out about it ?
+     * 
+     * I ? I have had no problems other than stupid animals like you ? So who is guilty do you think ?
      **/ 
 
 
