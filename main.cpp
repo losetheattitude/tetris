@@ -1155,6 +1155,8 @@ int main()
      * all these attributes belong to people like you
      * If you take a look at the history, you will find your place in the worst of worst
      * 
+     * Your incomprehension of other contexts thus its emotions is the major indication of your misjudgments
+     * 
      **/ 
 
 
