@@ -1356,6 +1356,9 @@ int main()
      * 
      * And you still use your incompetent brain to offer material which is only linked with a chemical in human brain, that means
      * it would only help for a few month for someone to "FOOL THEMSELVES"
+     * 
+     * Do you understand that your misformations of ideas through intentional harm would cause anyone the same natured harm ?
+     * That is your problem, but guess who is not capable of seeing it ?
       **/ 
 
 
