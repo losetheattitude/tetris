@@ -1554,6 +1554,7 @@ int main()
      * Because you would love to enjoy your experiences while you cause others WHO YOU CAN NOT SUPPRESS NO MATTER WHAT, have detrimental life,
      * AND EXPECT NOTHING BAD, that is definitely the definition of "inferior, injust, liar, selfish, incompetent"
      * 
+     * Do not even spend any second engaging with me, I want none of you around me, do you follow ?
       **/ 
      
 
