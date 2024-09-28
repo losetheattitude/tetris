@@ -1209,7 +1209,7 @@ int main()
      * before you lecture others and start acting the opposite by greatly "harming" others
      * 
      * You take 30 years for lightly, you take a chance at your own life then suddenly you will face your inferiority and stop talking
-     * like you know bullshit
+     * like you know bullshit, are you still taking it lightly ?
      * 
      * 
      **/ 
