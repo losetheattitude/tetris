@@ -1386,6 +1386,8 @@ int main()
      * 
      * Thats why you can not see, or your great confidence can not see that you are actually begging like the animal you are
      * while you are offering things, then you do not deliver which makes you more and more the disgusting animal you already are
+     * 
+     * So tell me again instead of avoiding it like the disgusting immature animal you are, WHO IS THE PROBLEM HERE ?
       **/ 
 
 
