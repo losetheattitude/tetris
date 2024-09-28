@@ -1274,6 +1274,8 @@ int main()
      * 
      * You explain your actions, we talk about what should be done to animals like you, then we get to the what should make people's lives easier to live
      * instead of you constantly begging like the animal you are, for what you are committing intentionally
+     * Then we get to the, watching illegally, using medicines illegally, using violence pointlessly
+     * So do you think you are as intelligent as to provide "reasonable" responses to your OWN MIND'S CONTENT ?
      **/ 
 
 
