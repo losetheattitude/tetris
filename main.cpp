@@ -1417,6 +1417,8 @@ int main()
      * You say people should be stupid as to believe solely for the sake of your own interests that "I SHOULD BE GLAD TO HAVE NORMAL INTERACTIONS ?"
      * 
      * And why are you still begging ? Do you want to be reminded to your actions, THAT I STILL REMEMBER ?
+     * TAKE A LOOK AT THE HISTORY, And find your place in it
+     * 
       **/ 
 
 
