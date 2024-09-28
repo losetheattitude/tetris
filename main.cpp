@@ -1104,6 +1104,8 @@ int main()
      * 
      * You still say the same narrative which you coerced people into ? Do you hear or you just want to see what you want to see ?
      * Is it because you understand that its a scandal ? Do you understand the history ?
+     * Have a look at the history and you see your stupid actions finding their place on the disgusting side of the history
+     * or you would beg your best in order not to let people find out about it ?
      **/ 
 
 
