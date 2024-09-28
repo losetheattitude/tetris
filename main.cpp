@@ -1538,6 +1538,7 @@ int main()
      * You do not even know what you are doing, or would love people to see as if its not what you are craving to do ?
      * Have you ever tried to use your own brain on your own actions ?
      * You won ehehehehe after 30 years eheheheh intelligent and funny people should exactly be like you right ?
+     * Try to make disgusting things into funny conversations so that everyone can look the other way and enjoy their experiences ?
       **/ 
      
 
