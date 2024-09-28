@@ -1632,6 +1632,8 @@ int main()
      * But you still would love to educate people of your own taste, That is not the problem bro
      * Offer material, its fun!!!!!!! Hopeless, never learning people of great earth, good natured, good intentioned, etc etc etc etc. And where are you now ?
      * Btw, start talking about coercing children, you can not have any problems because you obviously act with good intention right ?
+     * 
+     * How come you think I should explain what I do to you ? From which audacity do you think you get to request such a dumb approach ?
       **/ 
 
      
