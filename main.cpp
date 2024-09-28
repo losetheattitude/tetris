@@ -1297,6 +1297,7 @@ int main()
      * Do you think I do not remember your great skillful beggings and later on thinking it "intelligent" to reject ? Womeeennnn!!! Woooomeeennn!!
      * Wait wait, why do you think you should be released with such a disgusting history of crimes against an individual you have neither relation
      * nor justification to ?
+     * And you offer what again ? How much money do you want ???? eheheheh
       **/ 
 
 
