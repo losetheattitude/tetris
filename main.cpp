@@ -1475,6 +1475,9 @@ int main()
      * You get unconditional actions for your coercing actions ? Especially towards kids ? especially afterwards of your begging attitude ?
      * 
      * Think more than twice about you get unconditional violence, you uncover when you come across what you can not comprehend at the moment
+     * You are disregarding all that should be regarded because you do not understand what you are seeing before you ?
+     * And you still claim you are not looking for your own disaster. Talk about coercion of kids, harming single individuals
+     * and talk more about what should be done to those who harm because they are ignorant
      * 
       **/ 
 
