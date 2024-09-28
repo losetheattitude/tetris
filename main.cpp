@@ -1471,6 +1471,8 @@ int main()
      * We still think we are right in our coerced actions, thats how reason works ?
      * You get violence or get the proper sentence for your actions and you see, when everyone is happy, no problems occur
      * 
+     * WHY ARE YOU STILL BEGGING ?
+     * 
       **/ 
 
 
