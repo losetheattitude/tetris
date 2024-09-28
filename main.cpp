@@ -1445,6 +1445,8 @@ int main()
      * 
      * Or you would rather offer what you would like to commit ? Talk about time, may be you can appear to be credible ?
      * How come you get to still accuse ? There is no freaking proof for years but you just can not cope with the reality of your miserable attitude ?
+     * And you still interrupt on and on again, and get surprised at the outcome of someone you have no relation with ? But you would rather beg instead of
+     * understand the consequences of your actions ?
      * 
       **/ 
 
