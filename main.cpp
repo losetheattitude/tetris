@@ -1501,6 +1501,7 @@ int main()
      * 
      * Tell me my experience, and do not start begging like the animal you truly are, and tell me you do not deserve the same 
      * You know you would be considered intelligent, had you not started begging for your intentional actions
+     * And you call that being a good animal ? A good intelligent hunter ? try harder, and use your brain better next time
       **/ 
 
 
