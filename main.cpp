@@ -1210,6 +1210,7 @@ int main()
      * 
      * You take 30 years for lightly, you take a chance at your own life then suddenly you will face your inferiority and stop talking
      * like you know bullshit, are you still taking it lightly ?
+     * Get in line so that you can become wiser
      * 
      * 
      **/ 
