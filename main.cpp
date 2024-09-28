@@ -1147,6 +1147,7 @@ int main()
      * thats not called stupid games!! You also think its skillful ehehehehe what a stupid group
      * You say, you do it the old way ?
      * You say, you should be taken into consideration ?
+     * The crime is not even close to anything comparable but all you can say is what ?
      * 
      **/ 
 
