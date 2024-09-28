@@ -1566,7 +1566,8 @@ int main()
      * So you still coerce people into playing stupid games ? Because why not ? because he can not do anything else than that ? Thats the reason
      * why you will get violence, be sure about that as well, seek education you will find yourselves in as much as you would like
      * 
-     * You do it the old way you say ?
+     * You do it the old way you say ? I am neither playing nor wanting to be around any of animals who attributes so much value to materials
+     * while they think they are educating people with violence, thats the qualities of the best people of earth right ?
       **/ 
      
 
