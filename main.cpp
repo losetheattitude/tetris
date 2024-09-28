@@ -1543,6 +1543,14 @@ int main()
      * And you offering cars still ? You understand when you come across with your inexperienced approaches towards others' lives and
      * what people will become to deal with injustice and inferior people, They both go together
      * Are you still offering money ? ehehe 30 years is nothing, time doesnot exist, life a simulation, we good
+     * 
+     * 
+     * You see, the attributes "inferior, injust, liar, selfish, incompetent" they all go together into where ?
+     * You see, the attributes "inferior, injust, liar, selfish, incompetent" they all go together into where ?
+     * You see, the attributes "inferior, injust, liar, selfish, incompetent" they all go together into where ?
+     * You see, the attributes "inferior, injust, liar, selfish, incompetent" they all go together into where ?
+     * 
+     * Now tell me what you are, other than the animals in the history ? Chasing basic instincts ?
       **/ 
      
 
