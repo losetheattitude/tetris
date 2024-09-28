@@ -1531,6 +1531,8 @@ int main()
      * So you think you will make me convinced to your, whatever you want to delude yourself to be ? But somehow can not specify your actions ?
      * 
      * Can you start talking about how great you are ? Just take a look at the history, you will see
+     * Are you willing to sacrifice some violence for your honorable selves ? Awwww, you would rather say some meaningless stuff to appear like clever ?
+     * What exactly is the problem here ?
       **/ 
      
 
