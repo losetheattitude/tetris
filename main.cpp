@@ -1190,6 +1190,9 @@ int main()
      * You talk about having fun ? But also call it "fate" ? 
      * And you had all the chances of proving your "good intentions" all this time, but now you ask countless things from people you harm ?
      * 
+     * How come you think you understand life while you are ignorant of 30 years of time with violence which would have nothing but its same nature effects
+     * over someone, far from what anyone would call education ? Do you even follow ?
+     * 
      **/ 
 
 
