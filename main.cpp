@@ -1420,6 +1420,7 @@ int main()
      * TAKE A LOOK AT THE HISTORY, And find your place in it
      * 
      * You get sentenced for your own actions ? As opposed to actions that you coerced, for 30 years
+     * Take violence for an education, thats why you are animal
      * 
       **/ 
 
