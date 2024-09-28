@@ -1229,6 +1229,10 @@ int main()
      * And would love not to pay for your own actions with what their actually worth is ?
      * 
      * Who said I want to waste my time with stupid animals like you ? Are you still offering cars and women ? and you still seek no problems ?
+     * How about you explain your great actions and pay for what you done intentionally without a direction then we can talk about what should
+     * biological entities should do with their life so that they can survive and lead good life they enjoy, awww you can not just deal with
+     * the fact that someone else could have a good time ? But only you have to enjoy yours ? And you still claim justification of most vile action "violence"
+     * with false and coerced proofs ?
      * 
      **/ 
 
