@@ -1540,7 +1540,8 @@ int main()
      * You won ehehehehe after 30 years eheheheh intelligent and funny people should exactly be like you right ?
      * Try to make disgusting things into funny conversations so that everyone can look the other way and enjoy their experiences ?
      * 
-     * And you offering cars still ? 
+     * And you offering cars still ? You understand when you come across with your inexperienced approaches towards others' lives and
+     * what people will become to deal with injustice and inferior people, They both go together
       **/ 
      
 
