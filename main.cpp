@@ -1253,6 +1253,7 @@ int main()
      * I do not have time for your bullshit, call that intelligent
      * 
      * Do you still think, harming intentionally is a matter of joke ?
+     * Or are you just a regular monkey who have no intentions ?
      * 
      **/ 
 
