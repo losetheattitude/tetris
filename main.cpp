@@ -1083,6 +1083,7 @@ int main()
      * So are you trying to convince me that what I have seen "as my life" is just fate or that I just do not know what I have experienced ? But you still would love
      * to talk the same story ?
      * Do you understand why you are a cheap animal ?
+     * You say lifes short ? eheheh
      **/ 
 
 
