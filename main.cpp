@@ -1193,6 +1193,9 @@ int main()
      * How come you think you understand life while you are ignorant of 30 years of time with violence which would have nothing but its same nature effects
      * over someone, far from what anyone would call education ? Do you even follow ?
      * 
+     * Talk about the time that you have wasted without direction and violence along with it, then think more than twice to call "peace!!!"
+     * "wooomeeennn!!!"
+     * 
      **/ 
 
 
