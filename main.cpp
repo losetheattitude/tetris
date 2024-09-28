@@ -1184,6 +1184,9 @@ int main()
      * But you would still like to harm and calling it intelligent while it literally means you are a directionless animal who acts on his emotions
      * for detrimental purposes FOR THE GREATER HARM. Stupid monkeys
      * 
+     * Now all you can say is "we do it the old way", "past does not change", "we good", "we intelligent", "we tryna help" ? Which of those do you think
+     * are true ?
+     * 
      **/ 
 
 
