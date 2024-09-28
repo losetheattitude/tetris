@@ -1315,7 +1315,7 @@ int main()
      * YOU SAY YOU DO IT THE OLD WAY ? Great outcomes, great people, great reasons, and you can all get the fuck out of my face
      * Can you now tell me my experience ? while also reminding yourselves the "DEAL" that you also delude on to be something else than what it was
      * 
-     * And you think I would want to have anything to do with you ?
+     * And you think I would want to have anything to do with you ? Ehehehe get some womenn ?
       **/ 
 
 
