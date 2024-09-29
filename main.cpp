@@ -1762,6 +1762,8 @@ int main()
      * Why is it that though you suddenly are inclined to play "stupid childish games" to save your experiences from ruining which they should already be ruined ?
      * You love objecting truths that threathen your precious experiences while you talk about "being wise on life" ? Time does not exist btw,
      * Get some women btw ? We tryna help you btw, how come you think you make decisions ?
+     * Ehehe, go take a holiday!! get some womeenn!! life a simulation, we value our experiences like cheap animals while guising it with cheap nature!!!
+     * Thats really intelligent, I have never seen no such a great moves before
      * 
       **/ 
 
