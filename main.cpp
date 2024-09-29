@@ -1749,7 +1749,7 @@ int main()
      * Or would you like to allege that violence is education because you are inferior of the history ? Btw, what was your credibility again ?
      * 
      * Do you want to be reminded to your previous attempts of great nature ? Forget about the past ehehehe, we no like beg
-     * Talk about once again your credibility btw ?
+     * Talk about once again your credibility btw ? Awww you good ppl, you tryna help ppl, 
      * 
       **/ 
 
