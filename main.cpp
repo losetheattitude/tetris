@@ -1643,6 +1643,7 @@ int main()
      * Now how come you think you should walk away ? And you still expect me to believe that you are just trying to provide when you had so many chances ?
      * But you still somehow reduce to lying ? Why do you think lying is a quality of superior tissue ?
      * Do you want to know how many incompetent people are out there making decisions daily ?
+     * So you make detrimenting other's lives a job and trying your hardest ? Where is the superiority in that btw ?
       **/ 
 
      
