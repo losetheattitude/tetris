@@ -1651,6 +1651,10 @@ int main()
      * 
      * So because you are afraid that you will look like inferior, which you are, so you coerce and make people do things, so that later on 
      * you can present it as education what is called violence ? The complete stupidity is what it is called, do not look too far, you can not
+     * 
+     * 
+     * So it has taken 30 years for you to understand what has become more and more apparent that you coerced and wielded it as a weapon
+     * and you take yourself as righteous ?
       **/ 
 
      
