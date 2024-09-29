@@ -1852,7 +1852,8 @@ int main()
      * Btw, we have to act like we understand life, and demonstrate some violence so that we can actually enjoy our experiences eheheh
      * And then we say, wooomeeeeennn!!!! get some wooomeeeennnn!!! No no, we like no harming people! 
      * 
-     * Btw, we love acting like we know how it is!!! eheheh wait why dont you have some woooomeeeennn!! ?
+     * Btw, we love acting like we know how it is!!! eheheh wait why dont you have some woooomeeeennn!! ? Why dont you initiate something ?
+     * Awwww, we have forgotten that we like harming eheheh
      *  
       **/  
 
