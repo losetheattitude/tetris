@@ -1655,7 +1655,9 @@ int main()
      * 
      * So it has taken 30 years for you to understand what has become more and more apparent that you coerced and wielded it as a weapon
      * and you take yourself as righteous ? So lets take a look, whats the problem ? Where are all the allegations of great nature ? You guys are great!!
+     * 
      * I do not accept what is apparently unusual as usual, and go with the flow so that you can continue enjoying your experiences
+     * What you are doing is inferior and you perpetuate it, making it more inferior than what you are already are, so do not accuse me of seeing you as one
       **/ 
 
      
