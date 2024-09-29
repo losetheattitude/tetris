@@ -1741,7 +1741,7 @@ int main()
      * Now is this the time you take your actions for whatever you want to delude them to be ?
      * You see that is harm to harm, the nature of disgusting animals like yourselves, beg more that does only help to prove harder that you are a cheap animal
      * Ehehehe, get womeeennn!!! pls help us!! get womennn, 30 years is obviously nothing especially when its malign intentioned, thats what I know, and you know that I know
-     * Who is cheap again ?
+     * Who is cheap again ? You serve a few years, you understand why stupid people has to beg all the time
      * 
       **/ 
 
