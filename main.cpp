@@ -1674,7 +1674,8 @@ int main()
      * You understand its neither acceptable nor funny nor actionable nor explainable nor right nor substantial, What are you looking for still ?
      * You have 30 years of proof that "not indicates but entirely falsify your noncoerceful allegations" ?
      * 
-     * And I am the one who is being rude right ? and I am the one who is violating ?
+     * And I am the one who is being rude right ? and I am the one who is violating ? You dont say delusional for what is delusional ?
+     * ehehehe its funny though, whats the problem ?
       **/ 
 
      
