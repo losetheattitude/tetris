@@ -1760,6 +1760,7 @@ int main()
      * You object to truth, why is that ? You also say, you understand life, time does not exist, and you do it the old way ?
      * And you still allege you act with reason ? but all you can say is complete bullshit that contradict eachother ?
      * Why is it that though you suddenly are inclined to play "stupid childish games" to save your experiences from ruining which they should already be ruined ?
+     * You love objecting truths that threathen your precious experiences while you talk about "being wise on life" ?
      * 
       **/ 
 
