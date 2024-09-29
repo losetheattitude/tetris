@@ -1703,6 +1703,8 @@ int main()
      * Are you trying to coerce people and try to misrepresent the "history" ? and you also intentionally misinterpret to your own benefit ?
      * So I am telling you that I know what kind of people you are because there are lots of them outthere, so at which part do you have problem understanding ?
      * 
+     * You accuse people being "rude" ? Out of all, I am not even surprised for a second eheheh it proves better the pattern that clueless people exhibit
+     * 
       **/ 
 
      
