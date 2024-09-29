@@ -1794,6 +1794,8 @@ int main()
      * 
      * Why dont you start killing people ? awww you developed and etc right
      * ehehehehe, get cars btw, we do it the old way btw, right 
+     * 
+     * You are bunch of ignorant people that can not stand to lose his experience while asking from others to do so, thats why you inferior
       **/ 
 
      
