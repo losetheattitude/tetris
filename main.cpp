@@ -1807,7 +1807,10 @@ int main()
      * Why cant you make crime lawful ? YOU CAN NOT DO THAT!!! YOU CAN NOT SAY THAT!!
      * Ehehehe, we good btw, ehehheeh tryna be helpful and all that but we needed to try eheheh because lifes simulation, no no life short, life money yeahhh
      * we understand really well, we tryna invent stuff eheheh
+     * 
+     * He is dangerous! he is dangerous!! he tryna defend himself from our irrelevant actions, please we good ppl, life a simulation eheheh
       **/ 
+
 
      
 
