@@ -1746,7 +1746,7 @@ int main()
      * You thought I was the same natured as you ? You playing games with "mind" and you brag about understanding the life etc ?
      * Ehehe only way out for our credible and honorable selves is to allege with "weapon!!", "he did it!!", "its life", "we use medicine!!"
      * Now, tell me my experience. Again, start talking about my experience without getting emotional over your incompetency 
-     * Or would you like to allege that violence is education because you are inferior of the history ?
+     * Or would you like to allege that violence is education because you are inferior of the history ? Btw, what was your credibility again ?
      * 
       **/ 
 
