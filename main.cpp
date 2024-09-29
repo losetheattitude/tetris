@@ -1719,6 +1719,8 @@ int main()
      * Not the individual that when out of your coercions, act and get along with people just okay. So whats the pattern, so whats the problem ?
      * Would you be also deluding if you do not get any sort of "punishment" for your great and honorable actions ?
      * So now lets talk about the timeline of your actions, and what they are, and why you did them, and what did they produce for you 
+     * If you are not the problem in this context, then you should be able to use your reason and answer every single question with relief. 
+     * Does that sound complicated ?
      * 
       **/ 
 
