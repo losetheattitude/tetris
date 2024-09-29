@@ -1754,6 +1754,8 @@ int main()
      * And somehow btw, you think you should be harming and making decisions and also talk about how wise you are, and try to advice people you do not understand etc
      * and some violence you say, a little bit education, life a simulation as well, aww and you do not like to ruin your experiences as well thats the most crucial ones eheheheh
      * 
+     * try to explain again, instead of providing irrelevant excuses
+     * 
       **/ 
 
      
