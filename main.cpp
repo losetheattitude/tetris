@@ -1766,7 +1766,7 @@ int main()
      * Thats really intelligent, I have never seen no such a great moves before
      * 
      * Talk about my experience again, including the prior sequences, why you think anyone would start take you for someone serious and 
-     * grant you the credibility that you never deserve ?
+     * grant you the credibility that you never deserve ? Because you can not answer for your actions ?
      * 
       **/ 
 
