@@ -1666,6 +1666,8 @@ int main()
      * Better grow up ? ehehe
      * I call pointless what do not produce any good outcomes ? What do you call it ? See where your reason is failing you
      * Wait, havent you realized it was a mistake of intentional purpose ? that can not be the problem.
+     * 
+     * Why do you think intentionally harmed people suddenly start listening and playing along with your pointless games ?
       **/ 
 
      
