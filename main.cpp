@@ -1812,7 +1812,7 @@ int main()
      * Please lie for us, we need your help so that we can enjoy our experiences eheheh we good ppl, we tryna solve problems pls
      * 
      * Your not enjoying life is our only remedy!!! If you lie for us, we will be feel like we are great!!!
-     * Are you still looking around ? when everyone knows you are guilty ?
+     * Are you still looking around ? when everyone knows you are guilty ? If you say, this is the first time! we will help you!!! please!!!
       **/ 
 
 
