@@ -1698,7 +1698,8 @@ int main()
      * the most rare qualities, is it a coincidence that you do not exhibit ? You good ppl btw, that can not be false. Eeheheh
      * 
      * Let the people know, for example, people attacking buddha times and times, do you want to know how would people react to it ?
-     * Attacked and harmed and assaulted buddha ?
+     * Attacked and harmed and assaulted buddha ? Just imagine it, having a conversation with your friends and point them out the "news" ?
+     * 
       **/ 
 
      
