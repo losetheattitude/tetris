@@ -1752,7 +1752,7 @@ int main()
      * Talk about once again your credibility btw ? Awww you good ppl, you tryna help ppl, 
      * What has my experience been like ? and talk about your credibility ?
      * And somehow btw, you think you should be harming and making decisions and also talk about how wise you are, and try to advice people you do not understand etc
-     * and some violence you say, a little bit education, life a simulation as well
+     * and some violence you say, a little bit education, life a simulation as well, aww and you do not like to ruin your experiences as well thats the most crucial ones eheheheh
      * 
       **/ 
 
