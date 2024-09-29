@@ -1758,6 +1758,7 @@ int main()
      * wait wait, but you said you do it the old way btw ? Awwww, I have forgotten you also said, its education what you are afraid of as an inferior animal ?
      * So you do it the old way, but you say violence is education, you also promise some stuff, then start saying irrelevant things and at last beg like the inferior animal you are?
      * You object to truth, why is that ? You also say, you understand life, time does not exist, and you do it the old way ?
+     * And you still allege you act with reason ? but all you can say is complete bullshit that contradict eachother ?
      * 
       **/ 
 
