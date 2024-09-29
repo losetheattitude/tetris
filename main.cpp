@@ -1687,6 +1687,8 @@ int main()
      * 
      * So you say, you are what again ? eheheh its funny though,
      * you know, its only one time!!! its only this!! its only that!!!
+     * 
+     * Why is it that you think it should be fine to take life lightly, but you can not pay for your actions ? No!!! we the righteous ppl!!!
       **/ 
 
      
