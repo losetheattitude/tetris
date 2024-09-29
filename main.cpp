@@ -1791,6 +1791,8 @@ int main()
      * You are not contributing with good intention, that all I need to know, try harder you can believe that earth is flat
      * There is really nothing you can do other than start accusing with irrelevant stuff
      * Act like you do not remember conditions, why not ehehe
+     * 
+     * Why dont you start killing people ? awww you developed and etc right
       **/ 
 
      
