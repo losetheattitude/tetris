@@ -1744,6 +1744,7 @@ int main()
      * Who is cheap again ? You serve a few years, you understand why stupid people has to beg all the time
      * 
      * You thought I was the same natured as you ? You playing games with "mind" and you brag about understanding the life etc ?
+     * Ehehe only way out for our credible and honorable selves is to allege with "weapon!!", "he did it!!", "its life", "we use medicine!!"
      * 
       **/ 
 
