@@ -1738,6 +1738,7 @@ int main()
      * Awwww, you have invented everyyything on your own, fucking monkeys
      * 
      * Now start talking about your actions, explain people instead of begging
+     * Now is this the time you take your actions for whatever you want to delude them to be ?
      * 
       **/ 
 
