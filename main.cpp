@@ -1733,7 +1733,7 @@ int main()
      * Looking around is the proof instead of acting on right away "what you want others to think that you want"
      * 
      * I am asking my experience and what are you doing instead ? Ignoring for the sake of harming. That is not a problem for the likes of you
-     * 30 years is not a problem, we all know that its not the truth
+     * 30 years is not a problem, we all know that its not the truth, your nature of coercion is shining as always! The delusion of the mind ?
      * 
       **/ 
 
