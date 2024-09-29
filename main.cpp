@@ -1701,6 +1701,8 @@ int main()
      * Attacked and harmed and assaulted buddha ? Just imagine it, having a conversation with your friends and point them out the "news" ?
      * 
      * Are you trying to coerce people and try to misrepresent the "history" ? and you also intentionally misinterpret to your own benefit ?
+     * So I am telling you that I know what kind of people you are because there are lots of them outthere, so at which part do you have problem understanding ?
+     * 
       **/ 
 
      
