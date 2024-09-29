@@ -1680,6 +1680,9 @@ int main()
      * 
      * You like calling what you can not explain, justifiable ? Oysterrr!!! he did this! he ate it!! ehehehe 30 years and no signs eheheheh
      * its getting more and more ridiculous but we have to save ourselves and the way to go is to accuse with our "disgusting mind's content"
+     * 
+     * There is no indication or signs of whatever you have accused with so far, but you would love that people get into trouble for no apparent reason.
+     * And you call yourselves "not the inferior people of the history" ?
       **/ 
 
      
