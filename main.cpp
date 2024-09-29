@@ -1846,6 +1846,7 @@ int main()
      * 
      * Get womeeeennn!!! commit crimes!!! get wommeeeennn!! wait wait, we have forgotten!!! ehehehe life a simulation btw
      * No no, you are doing the right thing btw, wait wait, you do not understand biased context ? 
+     * We take really disgusting lies and actions as jokes, and ask people to lie for us
       **/  
 
 
