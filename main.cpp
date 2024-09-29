@@ -1745,7 +1745,7 @@ int main()
      * 
      * You thought I was the same natured as you ? You playing games with "mind" and you brag about understanding the life etc ?
      * Ehehe only way out for our credible and honorable selves is to allege with "weapon!!", "he did it!!", "its life", "we use medicine!!"
-     * Now, tell me my experience 
+     * Now, tell me my experience. Again, start talking about my experience without getting emotional over your incompetency 
      * 
       **/ 
 
