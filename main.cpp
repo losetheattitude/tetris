@@ -1669,6 +1669,8 @@ int main()
      * 
      * Why do you think intentionally harmed people suddenly start listening and playing along with your pointless games ?
      * You understand it when you come across ?
+     * 
+     * How come I would want to waste more and more time, heading to nowhere in my life that would help me enjoy it ?
       **/ 
 
      
