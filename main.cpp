@@ -1774,7 +1774,7 @@ int main()
      * So you are saying, you do it the old way, but you also do it the right way, but you say its the only way, you say violence is education, you also say get womeeenn!!!
      * you also say, past does not exist ? I only say one thing, tell me your credibility ?
      * Now try to explain it one by one, why you think you are right or how come you think you make decisions ?
-     * But you suddenly disappear when you are confronted with your intentional decisions ?
+     * But you suddenly disappear when you are confronted with your intentional decisions ? You understand why you are the smear of history ?
      * 
       **/ 
 
