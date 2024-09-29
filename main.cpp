@@ -1860,6 +1860,7 @@ int main()
      * Btw, we think we are fooling ehehehe, great nation btw
      * Btw, get some medicine ehehe, wait wait, we was gonna say, get some womeeeennn!! ehehehe as we have done
      * We wants to act like we know life, and start harming suddenly btw eheheh
+     * Please lie for us eheheheh
      *  
       **/  
 
