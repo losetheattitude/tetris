@@ -1850,8 +1850,8 @@ int main()
      * 
      * 
      * Btw, we have to act like we understand life, and demonstrate some violence so that we can actually enjoy our experiences eheheh
-     * And then we say, wooomeeeeennn!!!! get some wooomeeeennnn!!!
-     * 
+     * And then we say, wooomeeeeennn!!!! get some wooomeeeennnn!!! No no, we like no harming people! 
+     *  
       **/  
 
 
