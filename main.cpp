@@ -1801,6 +1801,7 @@ int main()
      * Get some money, thats what we after eheheh life about money, hmmmm no no, life about time, no no time does not exist eheheh
      * Ehehehe, clever, no no, good ppl btw
      * we like harming etc, eheheheh honorable wait no, good ppl, yeahh, life about time, or experiences!!! no no life about money yeahhhhh, get some money pls eheheheh
+     * Awwwww, what happened!!! wait wait, life about simulation, time does not exist btw
       **/ 
 
      
