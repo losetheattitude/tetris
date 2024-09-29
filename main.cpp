@@ -1802,6 +1802,8 @@ int main()
      * Ehehehe, clever, no no, good ppl btw
      * we like harming etc, eheheheh honorable wait no, good ppl, yeahh, life about time, or experiences!!! no no life about money yeahhhhh, get some money pls eheheheh
      * Awwwww, what happened!!! wait wait, life about simulation, time does not exist btw
+     * 
+     * We do it the old way ehehhe funny enough, good qualities btw
       **/ 
 
      
