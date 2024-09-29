@@ -1708,6 +1708,8 @@ int main()
      * And every one of them thought they were competent, were doing good, were visionary, etc
      * But you see the correlation I hope ehehe
      * 
+     * disinterpretation, intentional malign approach, unjustifiable actions, pointless violence, lying as a skill,
+     * 
       **/ 
 
      
