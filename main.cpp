@@ -1728,6 +1728,7 @@ int main()
      * Now start talking about the delusion that you are not average, it should be fine right ?
      * 30 years should totally be fine especially when I know what I am, and I know what you are doing, eheheh its funny though
      * So you like to delude ? to cause pointless harm ? and also delude about your intelligence ?
+     * Why not then you suffer as well ? its already education right ? The incomparable logic!
      * 
       **/ 
 
