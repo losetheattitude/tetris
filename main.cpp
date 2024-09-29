@@ -1737,6 +1737,8 @@ int main()
      * You do not think its a little bit late after "really super intelligent type of education that is of your nature, violence ?"
      * Awwww, you have invented everyyything on your own, fucking monkeys
      * 
+     * Now start talking about your actions, explain people instead of begging
+     * 
       **/ 
 
      
