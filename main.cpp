@@ -1856,6 +1856,8 @@ int main()
      * Awwww, we have forgotten that we like harming eheheh
      * If you say violent and disgusting stuff funny, then people will start acting as if they are funny!
      * We give wooomeeeenn!!! please help us lie !!!! eheheh
+     * 
+     * Btw, we think we are fooling ehehehe, great nation btw
      *  
       **/  
 
