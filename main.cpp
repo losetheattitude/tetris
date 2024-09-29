@@ -1645,6 +1645,8 @@ int main()
      * Do you want to know how many incompetent people are out there making decisions daily ?
      * So you make detrimenting other's lives a job and trying your hardest ? Where is the superiority in that btw ?
      * Eheeheh, we tryna achieve something but we can not tell everyone what we are trying to ? Is that really what you are ?
+     * 
+     * You force kids into playing games, games that neither exist nor make sense nor just ?
       **/ 
 
      
