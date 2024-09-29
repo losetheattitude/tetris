@@ -1748,7 +1748,7 @@ int main()
      * Now, tell me my experience. Again, start talking about my experience without getting emotional over your incompetency 
      * Or would you like to allege that violence is education because you are inferior of the history ? Btw, what was your credibility again ?
      * 
-     * Do you want to be reminded to your previous attempts of great nature ?
+     * Do you want to be reminded to your previous attempts of great nature ? Forget about the past ehehehe, we no like beg
      * 
       **/ 
 
