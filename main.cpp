@@ -1665,6 +1665,7 @@ int main()
      * Where are the qualities that you happened to omit for some reason ?
      * Better grow up ? ehehe
      * I call pointless what do not produce any good outcomes ? What do you call it ? See where your reason is failing you
+     * Wait, havent you realized it was a mistake of intentional purpose ? that can not be the problem.
       **/ 
 
      
