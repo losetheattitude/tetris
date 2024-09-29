@@ -1725,6 +1725,8 @@ int main()
      * The pattern that you are average and do average things, then do more average things to hide it ?
      * And you still delude that you will be able to sell your intentional malign approach to someone who you can not understand
      * 
+     * Now start talking about the delusion that you are not average, it should be fine right ?
+     * 
       **/ 
 
      
