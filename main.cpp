@@ -1821,7 +1821,8 @@ int main()
      * "intelligent, not selfish, capable, etc etc"
      * 
      * Its your time to harm people as we have done so with irrelevant precept!!! Thats how we great and intelligent are
-     * Btw, get some womeeeennn!!!
+     * Btw, get some womeeeennn!!! Btw, we tell who lived enough ehehehe because so far we have helped and acted not selfish, and never told any lies
+     * and delivered on our honorable promises, so you should also believe that someone did enough of etc etc eheheheh intelligent inferior monkeys
       **/  
 
 
