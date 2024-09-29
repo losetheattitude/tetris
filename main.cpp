@@ -1671,6 +1671,8 @@ int main()
      * You understand it when you come across ?
      * 
      * How come I would want to waste more and more time, heading to nowhere in my life that would help me enjoy it ?
+     * You understand its neither acceptable nor funny nor actionable nor explainable nor right nor substantial, What are you looking for still ?
+     * You have 30 years of proof that "not indicates but entirely falsify your noncoerce allegations" ?
       **/ 
 
      
