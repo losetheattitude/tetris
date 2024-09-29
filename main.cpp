@@ -1716,6 +1716,8 @@ int main()
      * You also delude that some irrelevant apology would be enough, and people should just be content because they can have natural and basic interactions ?
      * Awwww, you have forgotten I guess. That you are the abomination as you can infer from all the available information
      * 
+     * Not the individual that when out of your coercions, act and get along with people just okay. So whats the pattern, so whats the problem ?
+     * 
       **/ 
 
      
