@@ -1793,7 +1793,7 @@ int main()
      * Act like you do not remember conditions, why not ehehe
      * 
      * Why dont you start killing people ? awww you developed and etc right
-     * ehehehehe, get cars btw, 
+     * ehehehehe, get cars btw, we do it the old way btw, right 
       **/ 
 
      
