@@ -1866,6 +1866,7 @@ int main()
      * Eheheh you already know what life is about, and what you are etc,  eheheh
      * 
      * Btw, we are just tryna lie to people and enjoy eheheh
+     * Btw, he just acting eheheh we tryna help, ehehe we intelligent ppl, we give women btw
      *  
       **/  
 
