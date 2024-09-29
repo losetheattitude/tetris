@@ -1787,6 +1787,8 @@ int main()
      * 
      * ehhehe your time btw, reasonable ppl etc, what could prove right of our behavior ? He crazy!!! life good, etc
      * your intentional miscomprehension is definitely helpful. Just be as this good to your vicinity as well
+     * 
+     * You are not contributing with good intention, that all I need to know
       **/ 
 
      
