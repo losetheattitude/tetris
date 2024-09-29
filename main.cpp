@@ -1647,6 +1647,7 @@ int main()
      * Eheeheh, we tryna achieve something but we can not tell everyone what we are trying to ? Is that really what you are ?
      * 
      * You force kids into playing games, games that neither exist nor make sense nor just ?
+     * You still offering things ?
       **/ 
 
      
