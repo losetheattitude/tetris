@@ -1712,6 +1712,7 @@ int main()
      * directionless behavior against someone who you can not smear only with coercion.
      * 
      * So you are not delusional ? and you still beg ? just have a look at your great composure ?
+     * And you still offer ? and you think that makes you intelligent ?
      * 
       **/ 
 
