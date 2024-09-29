@@ -1823,7 +1823,8 @@ int main()
      * Its your time to harm people as we have done so with irrelevant precept!!! Thats how we great and intelligent are
      * Btw, get some womeeeennn!!! Btw, we tell who lived enough ehehehe because so far we have helped and acted not selfish, and never told any lies
      * and delivered on our honorable promises, so you should also believe that someone did enough of etc etc eheheheh intelligent inferior monkeys
-     * Cope with reality failingly, thats who you are
+     * Cope with reality failingly, thats who you are, if you had the courage or intelligent or whatever you delude to be, you would have faced your actions with innocency and courage
+     * but thats why you are fucking inferior and you are having hard time accepting it because you are also a disgusting monkey
       **/  
 
 
