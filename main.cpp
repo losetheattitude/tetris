@@ -1805,6 +1805,7 @@ int main()
      * 
      * We do it the old way ehehhe funny enough, good qualities btw
      * Why cant you make crime lawful ? YOU CAN NOT DO THAT!!! YOU CAN NOT SAY THAT!!
+     * Ehehehe, we good btw
       **/ 
 
      
