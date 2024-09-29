@@ -1854,6 +1854,7 @@ int main()
      * 
      * Btw, we love acting like we know how it is!!! eheheh wait why dont you have some woooomeeeennn!! ? Why dont you initiate something ?
      * Awwww, we have forgotten that we like harming eheheh
+     * If you say violent and disgusting stuff funny, then people will start acting as if they are funny!
      *  
       **/  
 
