@@ -1761,7 +1761,7 @@ int main()
      * And you still allege you act with reason ? but all you can say is complete bullshit that contradict eachother ?
      * Why is it that though you suddenly are inclined to play "stupid childish games" to save your experiences from ruining which they should already be ruined ?
      * You love objecting truths that threathen your precious experiences while you talk about "being wise on life" ? Time does not exist btw,
-     * Get some women btw ? We tryna help you btw
+     * Get some women btw ? We tryna help you btw, how come you think you make decisions ?
      * 
       **/ 
 
