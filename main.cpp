@@ -1700,6 +1700,7 @@ int main()
      * Let the people know, for example, people attacking buddha times and times, do you want to know how would people react to it ?
      * Attacked and harmed and assaulted buddha ? Just imagine it, having a conversation with your friends and point them out the "news" ?
      * 
+     * Are you trying to coerce people and try to misrepresent the "history" ?
       **/ 
 
      
