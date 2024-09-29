@@ -1717,6 +1717,7 @@ int main()
      * Awwww, you have forgotten I guess. That you are the abomination as you can infer from all the available information
      * 
      * Not the individual that when out of your coercions, act and get along with people just okay. So whats the pattern, so whats the problem ?
+     * Would you be also deluding if you do not get any sort of "punishment" for your great and honorable actions ?
      * 
       **/ 
 
