@@ -1785,7 +1785,7 @@ int main()
      * we doing good btw, ehehehe correlation between no resources and "we tryna help world", eheheh is unmatchable btw, good ppl, eheheh funny stuff
      * world peace etc fucking stupid monkey!!! Get the fuck out of my face
      * 
-     * ehhehe your time btw, reasonable ppl etc 
+     * ehhehe your time btw, reasonable ppl etc, what could prove right of our behavior ? He crazy!!! life good, etc
       **/ 
 
      
