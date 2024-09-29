@@ -1678,7 +1678,8 @@ int main()
      * ehehehe its funny though, whats the problem ? I really do not have time for irrelevant subject to be discussed by irrelevant
      * and detrimental and malign entities. Thats the problem
      * 
-     * You like calling what you can not explain, justifiable ?
+     * You like calling what you can not explain, justifiable ? Oysterrr!!! he did this! he ate it!! ehehehe 30 years and no signs eheheheh
+     * its getting more and more ridiculous but we have to save ourselves and the way to go is to accuse with our "disgusting mind's content"
       **/ 
 
      
