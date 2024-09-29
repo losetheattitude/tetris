@@ -1834,6 +1834,8 @@ int main()
      * But when it comes to explaining it to others, we start begging somehow eheheh
      * 
      * Btw, we start begging with women all the time because that is as far as our understading can go, now please lie for us!!
+     * We had 30 years to prove that we are not dumb animal acting on their directionless emotions but somehow we havent shown our greatness but only some violence
+     * because thats what we are afraid of
       **/  
 
 
