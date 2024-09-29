@@ -1843,6 +1843,8 @@ int main()
      * You enjoyingly ride your delusional feelings ? and just harm so that you ? wait wait,
      * you are afraid of violence like the animal you are, so you try to prove your greatness through violence ?
      * And you seek no trouble, thats the sole proof of your incompetency in explanining your actions
+     * 
+     * Get womeeeennn!!! commit crimes!!! get wommeeeennn!! wait wait, we have forgotten!!! ehehehe life a simulation btw
       **/  
 
 
