@@ -1648,6 +1648,9 @@ int main()
      * 
      * You force kids into playing games, games that neither exist nor make sense nor just ?
      * You still offering things ? you still looking around for solutions ?
+     * 
+     * So because you are afraid that you will look like inferior, which you are, so you coerce and make people do things, so that later on 
+     * you can present it as education what is called violence ? The complete stupidity is what it is called, do not look too far, you can not
       **/ 
 
      
