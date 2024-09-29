@@ -1732,6 +1732,8 @@ int main()
      * 
      * Looking around is the proof instead of acting on right away "what you want others to think that you want"
      * 
+     * I am asking my experience and what are you doing instead ? Ignoring for the sake of harming. That is not a problem for the likes of you
+     * 
       **/ 
 
      
