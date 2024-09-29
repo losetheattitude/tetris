@@ -1820,8 +1820,8 @@ int main()
      * My not having a good time is %10000000000000 related to anything you have been keep saying including you are
      * "intelligent, not selfish, capable, etc etc"
      * 
-     * Its your time to harm people as we have done so with irrelevant precept!!!
-      **/ 
+     * Its your time to harm people as we have done so with irrelevant precept!!! Thats how we great and intelligent are
+      **/  
 
 
      
