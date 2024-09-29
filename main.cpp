@@ -1864,6 +1864,8 @@ int main()
      * If you lie, we give you women btw ehehehe its so fun to be intelligent ehehehhe
      * Wait wait, you was gonna say, you tryna educate people eheheh
      * Eheheh you already know what life is about, and what you are etc,  eheheh
+     * 
+     * Btw, we are just tryna lie to people and enjoy eheheh
      *  
       **/  
 
