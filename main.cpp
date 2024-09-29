@@ -1704,7 +1704,7 @@ int main()
      * So I am telling you that I know what kind of people you are because there are lots of them outthere, so at which part do you have problem understanding ?
      * 
      * You accuse people being "rude" ? Out of all, I am not even surprised for a second eheheh it proves better the pattern that clueless people exhibit
-     * Do you follow the pattern in "clueless" and "history" ?
+     * Do you follow the pattern in "clueless" and "history" ? People who had no direction in the history has and will caused so much without a gain ?
      * 
       **/ 
 
