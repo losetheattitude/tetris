@@ -1696,6 +1696,9 @@ int main()
      * Wait, have you forgotten that there are so many realities ? 
      * Awww, people can die ? Hopefully though, you never get hurt eheheheh great and intelligent people of earth,
      * the most rare qualities, is it a coincidence that you do not exhibit ? You good ppl btw, that can not be false. Eeheheh
+     * 
+     * Let the people know, for example, people attacking buddha times and times, do you want to know how would people react to it ?
+     * Attacked and harmed and assaulted buddha ?
       **/ 
 
      
