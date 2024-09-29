@@ -1662,6 +1662,7 @@ int main()
      * You lack reason, thats the problem, I assure you
      * 
      * You follow ? I do not treat what is inexplicable as normal ? You offering cars for 30 years of coercing ? Righteous ppl 
+     * Where are the qualities that you happened to omit for some reason ?
       **/ 
 
      
