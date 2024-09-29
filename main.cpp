@@ -1664,6 +1664,7 @@ int main()
      * You follow ? I do not treat what is inexplicable as normal ? You offering cars for 30 years of coercing ? Righteous ppl 
      * Where are the qualities that you happened to omit for some reason ?
      * Better grow up ? ehehe
+     * I call pointless what do not produce any good outcomes ? What do you call it ? See where your reason is failing you
       **/ 
 
      
