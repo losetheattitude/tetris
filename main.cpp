@@ -1779,6 +1779,7 @@ int main()
      * false approaches for intelligent. And you suddenly start saying, take holiday ? get womeenn ? Because you can not cope with reality
      * and accept no responsibility for your ill actions ?
      * 
+     * Heheh, we just feel like its wrong, so we harm, whats the problem eheheheh
       **/ 
 
      
