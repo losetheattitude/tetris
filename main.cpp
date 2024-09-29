@@ -1755,6 +1755,7 @@ int main()
      * and some violence you say, a little bit education, life a simulation as well, aww and you do not like to ruin your experiences as well thats the most crucial ones eheheheh
      * 
      * try to explain again, instead of providing irrelevant excuses, we do it the old way btw eheheh funny stuff indeed
+     * wait wait, but you said you do it the old way btw ?
      * 
       **/ 
 
