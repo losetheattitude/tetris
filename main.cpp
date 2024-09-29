@@ -1709,6 +1709,9 @@ int main()
      * But you see the correlation I hope ehehe
      * 
      * disinterpretation, intentional malign approach, unjustifiable actions, pointless violence, lying as a skill,
+     * directionless behavior against someone who you can not smear only with coercion.
+     * 
+     * So you are not delusional ?
      * 
       **/ 
 
