@@ -1817,6 +1817,7 @@ int main()
      * No no, you are not selfish dumb monkeys 
      * Waste more time with premises that prove your selfishness and stupidity, ask for more lies that makes you intelligent indeed, do not come across me
      * or just gather 1231230421312 people eheheh
+     * My not having a good time is %10000000000000 related to anything you have been keep saying
       **/ 
 
 
