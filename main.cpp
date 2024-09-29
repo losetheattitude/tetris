@@ -1776,7 +1776,7 @@ int main()
      * Now try to explain it one by one, why you think you are right or how come you think you make decisions ?
      * But you suddenly disappear when you are confronted with your intentional decisions ? You understand why you are the smear of history ?
      * Ignore the truths and follow your interests, demand credibility, give wommeeennnnn!!!! although you have the inferiority of taking
-     * false approaches for intelligent
+     * false approaches for intelligent. And you suddenly start saying, take holiday ? get womeenn ?
      * 
       **/ 
 
