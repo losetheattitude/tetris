@@ -1765,6 +1765,8 @@ int main()
      * Ehehe, go take a holiday!! get some womeenn!! life a simulation, we value our experiences like cheap animals while guising it with cheap nature!!!
      * Thats really intelligent, I have never seen no such a great moves before
      * 
+     * Talk about my experience again, including the prior sequences 
+     * 
       **/ 
 
      
