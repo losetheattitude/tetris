@@ -1800,6 +1800,7 @@ int main()
      * Look for more, try harder, eheheh one last time pls eheheh one more time heheheh we funny intelligent ppl eheheh we understand world, tryna solve problems eheheh
      * Get some money, thats what we after eheheh life about money, hmmmm no no, life about time, no no time does not exist eheheh
      * Ehehehe, clever, no no, good ppl btw
+     * we like harming etc, eheheheh honorable wait no, good ppl, yeahh, life about time, or experiences!!! no no life about money yeahhhhh, get some money pls eheheheh
       **/ 
 
      
