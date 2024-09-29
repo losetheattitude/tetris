@@ -1658,6 +1658,7 @@ int main()
      * 
      * I do not accept what is apparently unusual as usual, and go with the flow so that you can continue enjoying your experiences
      * What you are doing is inferior and you perpetuate it, making it more inferior than what you are already are, so do not accuse me of seeing you as one
+     * Because you coerced and coerce, and coercing still what is called inexplicable other than saying, its just fate!!
       **/ 
 
      
