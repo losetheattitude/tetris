@@ -1735,6 +1735,7 @@ int main()
      * I am asking my experience and what are you doing instead ? Ignoring for the sake of harming. That is not a problem for the likes of you
      * 30 years is not a problem, we all know that its not the truth, your nature of coercion is shining as always! The delusion of the mind ?
      * You do not think its a little bit late after "really super intelligent type of education that is of your nature, violence ?"
+     * Awwww, you have invented everyyything on your own, fucking monkeys
      * 
       **/ 
 
