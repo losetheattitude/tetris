@@ -1722,6 +1722,8 @@ int main()
      * If you are not the problem in this context, then you should be able to use your reason and answer every single question with relief. 
      * Does that sound complicated ?
      * 
+     * The pattern that you are average and do average things, then do more average things to hide it ?
+     * 
       **/ 
 
      
