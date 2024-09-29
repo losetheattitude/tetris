@@ -1685,7 +1685,8 @@ int main()
      * And you call yourselves "not the inferior people of the history" ?
      * You do not get to discuss what is not your place, you do not get to decide, you can only pay for your own actions, which is called "life" ?
      * 
-     * So you say, you are what again ? eheheh its funny though
+     * So you say, you are what again ? eheheh its funny though,
+     * you know, its only one time!!! its only this!! its only that!!!
       **/ 
 
      
