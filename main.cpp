@@ -1695,7 +1695,7 @@ int main()
      * Ehehehe, we give women btw, pls help us not to suffer!!! we give violence as education btw
      * Wait, have you forgotten that there are so many realities ? 
      * Awww, people can die ? Hopefully though, you never get hurt eheheheh great and intelligent people of earth,
-     * the most rare qualities, is it a coincidence that you do not exhibit ?
+     * the most rare qualities, is it a coincidence that you do not exhibit ? You good ppl btw, that can not be false. Eeheheh
       **/ 
 
      
