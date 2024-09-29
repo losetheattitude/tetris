@@ -1668,6 +1668,7 @@ int main()
      * Wait, havent you realized it was a mistake of intentional purpose ? that can not be the problem.
      * 
      * Why do you think intentionally harmed people suddenly start listening and playing along with your pointless games ?
+     * You understand it when you come across ?
       **/ 
 
      
