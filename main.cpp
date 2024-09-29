@@ -1840,7 +1840,8 @@ int main()
      * We just trying to help thats all, have some violence!!! or wait wait, have some womeeeennn!!
      * We just rather let people get harmed than to let them see enjoying, so it should be fine if you lie for us!!
      * 
-     * You enjoyingly ride your delusional feelings ? and just harm so that you ?
+     * You enjoyingly ride your delusional feelings ? and just harm so that you ? wait wait,
+     * you are afraid of violence like the animal you are, so you try to prove your greatness through violence ?
       **/  
 
 
