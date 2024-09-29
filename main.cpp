@@ -1867,6 +1867,8 @@ int main()
      * 
      * Btw, we are just tryna lie to people and enjoy eheheh
      * Btw, he just acting eheheh we tryna help, ehehe we intelligent ppl, we give women btw
+     * So far, you have tried to educate people and somehow you are failing to receive the reaction that you are seeking ?
+     * Or is this the reaction you are seeking because you know you are guilty ?
      *  
       **/  
 
