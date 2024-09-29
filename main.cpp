@@ -1798,6 +1798,7 @@ int main()
      * You are bunch of ignorant people that can not stand to lose his experience while asking from others to do so, thats why you inferior
      * Awwww, you thought violence would be education ? Eheheheh it is really funny though, its fate or otherwise we would be animals eheheh
      * Look for more, try harder, eheheh one last time pls eheheh one more time heheheh we funny intelligent ppl eheheh we understand world, tryna solve problems eheheh
+     * Get some money, thats what we after eheheh life about money, hmmmm no no, life about time, no no time does not exist eheheh
       **/ 
 
      
