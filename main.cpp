@@ -1769,6 +1769,7 @@ int main()
      * grant you the credibility that you never deserve ? Because you can not answer for your actions ?
      * But you just want to enjoy your experience until the time you die ?
      * You do it the right way or old way ? or you just educate through violence ? or you just make promises ?
+     * Or as I have said, you are only looking to enjoy your experiences so you offer what you value ?
      * 
       **/ 
 
