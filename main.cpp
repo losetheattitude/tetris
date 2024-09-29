@@ -1838,6 +1838,7 @@ int main()
      * because thats what we are afraid of, thats why we think we educate people with violence, just like the average animals
      * 
      * We just trying to help thats all, have some violence!!! or wait wait, have some womeeeennn!!
+     * We just rather let people get harmed than to let them see enjoying, so it should be fine if you lie for us!!
       **/  
 
 
