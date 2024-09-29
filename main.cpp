@@ -1759,6 +1759,7 @@ int main()
      * So you do it the old way, but you say violence is education, you also promise some stuff, then start saying irrelevant things and at last beg like the inferior animal you are?
      * You object to truth, why is that ? You also say, you understand life, time does not exist, and you do it the old way ?
      * And you still allege you act with reason ? but all you can say is complete bullshit that contradict eachother ?
+     * Why is it that though you suddenly are inclined to play "stupid childish games" to save your experiences from ruining which they should already be ruined ?
      * 
       **/ 
 
