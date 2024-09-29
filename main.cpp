@@ -1730,6 +1730,8 @@ int main()
      * So you like to delude ? to cause pointless harm ? and also delude about your intelligence ?
      * Why not then you suffer as well ? its already education right ? The incomparable logic!
      * 
+     * Looking around is the proof instead of acting on right away "what you want others to think that you want"
+     * 
       **/ 
 
      
