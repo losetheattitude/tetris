@@ -1711,7 +1711,7 @@ int main()
      * disinterpretation, intentional malign approach, unjustifiable actions, pointless violence, lying as a skill,
      * directionless behavior against someone who you can not smear only with coercion.
      * 
-     * So you are not delusional ?
+     * So you are not delusional ? and you still beg ? just have a look at your great composure ?
      * 
       **/ 
 
