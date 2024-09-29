@@ -1640,7 +1640,8 @@ int main()
      * Now, you explain and account and talk about your intentions when you have committed so much, and we can talk about what should someone you have no relation do ?
      * Why is it so difficult to accept do you think ?
      * 
-     * Now how come you think you should walk away ?
+     * Now how come you think you should walk away ? And you still expect me to believe that you are just trying to provide when you had so many chances ?
+     * But you still somehow reduce to lying ? Why do you think lying is a quality of superior tissue ?
       **/ 
 
      
