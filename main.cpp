@@ -1740,6 +1740,7 @@ int main()
      * Now start talking about your actions, explain people instead of begging
      * Now is this the time you take your actions for whatever you want to delude them to be ?
      * You see that is harm to harm, the nature of disgusting animals like yourselves, beg more that does only help to prove harder that you are a cheap animal
+     * Ehehehe, get womeeennn!!! pls help us!! get womennn
      * 
       **/ 
 
