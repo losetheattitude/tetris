@@ -1694,6 +1694,7 @@ int main()
      * 
      * Ehehehe, we give women btw, pls help us not to suffer!!! we give violence as education btw
      * Wait, have you forgotten that there are so many realities ? 
+     * Awww, people can die ? 
       **/ 
 
      
