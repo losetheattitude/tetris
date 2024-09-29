@@ -1690,6 +1690,7 @@ int main()
      * 
      * Why is it that you think it should be fine to take life lightly, but you can not pay for your actions ? No!!! we the righteous ppl!!!
      * Can you talk about your promises ? eheheh
+     * Why do you think that its a conversation still ? When it is of tissue that you can not discuss ?
       **/ 
 
      
