@@ -1873,6 +1873,7 @@ int main()
      * Wait wait, did you really think the resources will suddenly appear when you are harming to detriment ?
      * You are doing your best to prevent ? eheheh but you also suddenly reduce to asking lies ? and you think its better than what ?
      *  
+     * Harm more btw
       **/  
 
 
