@@ -1767,6 +1767,7 @@ int main()
      * 
      * Talk about my experience again, including the prior sequences, why you think anyone would start take you for someone serious and 
      * grant you the credibility that you never deserve ? Because you can not answer for your actions ?
+     * But you just want to enjoy your experience until the time you die ?
      * 
       **/ 
 
