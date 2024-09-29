@@ -1781,7 +1781,7 @@ int main()
      * 
      * Heheh, we just feel like its wrong, so we harm, whats the problem eheheheh
      * lifes good!!! we do not chase harm! world peace btw, good ppl, etc, chatter etc, trying to solve problem btw etc ehehehe
-     * life a simulation, fucking stupid monkeys
+     * life a simulation, fucking stupid monkeys 20 something years etc, it doesnot matter unless its somebody else, 
       **/ 
 
      
