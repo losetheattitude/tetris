@@ -1654,7 +1654,7 @@ int main()
      * 
      * 
      * So it has taken 30 years for you to understand what has become more and more apparent that you coerced and wielded it as a weapon
-     * and you take yourself as righteous ?
+     * and you take yourself as righteous ? So lets take a look, whats the problem ? 
       **/ 
 
      
