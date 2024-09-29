@@ -1815,6 +1815,7 @@ int main()
      * Are you still looking around ? when everyone knows you are guilty ? If you say, this is the first time! we will help you!!! please!!!
      * We do not care about your experience thats why we good ppl,
      * No no, you are not selfish dumb monkeys 
+     * Waste more time with premises that prove your selfishness and stupidity, ask for more lies
       **/ 
 
 
