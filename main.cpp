@@ -1705,6 +1705,8 @@ int main()
      * 
      * You accuse people being "rude" ? Out of all, I am not even surprised for a second eheheh it proves better the pattern that clueless people exhibit
      * Do you follow the pattern in "clueless" and "history" ? People who had no direction in the history has and will caused so much without a gain ?
+     * And every one of them thought they were competent, were doing good, were visionary, etc
+     * But you see the correlation I hope ehehe
      * 
       **/ 
 
