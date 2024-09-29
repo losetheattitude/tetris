@@ -1771,6 +1771,9 @@ int main()
      * You do it the right way or old way ? or you just educate through violence ? or you just make promises ?
      * Or as I have said, you are only looking to enjoy your experiences so you offer what you value ?
      * 
+     * So you are saying, you do it the old way, but you also do it the right way, but you say its the only way, you also say get womeeenn!!!
+     * you also say, past does not exist ? I only say one thing, tell me your credibility ?
+     * 
       **/ 
 
      
