@@ -1784,6 +1784,8 @@ int main()
      * life a simulation, fucking stupid monkeys 20 something years etc, it doesnot matter unless its somebody else, 
      * we doing good btw, ehehehe correlation between no resources and "we tryna help world", eheheh is unmatchable btw, good ppl, eheheh funny stuff
      * world peace etc fucking stupid monkey!!! Get the fuck out of my face
+     * 
+     * ehhehe your time btw, reasonable ppl etc 
       **/ 
 
      
