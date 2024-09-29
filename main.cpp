@@ -1723,6 +1723,7 @@ int main()
      * Does that sound complicated ?
      * 
      * The pattern that you are average and do average things, then do more average things to hide it ?
+     * And you still delude that you will be able to sell your intentional malign approach to someone who you can not understand
      * 
       **/ 
 
