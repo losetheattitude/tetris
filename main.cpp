@@ -1683,6 +1683,7 @@ int main()
      * 
      * There is no indication or signs of whatever you have accused with so far, but you would love that people get into trouble for no apparent reason.
      * And you call yourselves "not the inferior people of the history" ?
+     * You do not get to discuss what is not your place, you do not get to decide, you can only pay for your own actions, which is called "life" ?
       **/ 
 
      
