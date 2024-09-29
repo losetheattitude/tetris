@@ -1825,6 +1825,8 @@ int main()
      * and delivered on our honorable promises, so you should also believe that someone did enough of etc etc eheheheh intelligent inferior monkeys
      * Cope with reality failingly, thats who you are, if you had the courage or intelligent or whatever you delude to be, you would have faced your actions with innocency and courage
      * but thats why you are fucking inferior and you are having hard time accepting it because you are also a disgusting monkey
+     * 
+     * Hoe phase btw, eheheheh we need to prove that someone is this or that so we can feel good about our conduct eheheh no no, we credible disgusting selfish monkeys btw
       **/  
 
 
