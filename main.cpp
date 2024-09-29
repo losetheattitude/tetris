@@ -1830,7 +1830,7 @@ int main()
      * Ehehehe, some women and it will be fine!! we do not understand relativity I guess
      * Heyyyy, look some womeeennn!!! do you want some ? eheheheh we good ppl btw, we tryna solve problems ehehehh
      * 
-     * Why dont we harm a little ejeheh we good ppl btw
+     * Why dont we harm a little ejeheh we good ppl btw, we take violence for education eheheh
       **/  
 
 
