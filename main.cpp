@@ -1804,6 +1804,7 @@ int main()
      * Awwwww, what happened!!! wait wait, life about simulation, time does not exist btw
      * 
      * We do it the old way ehehhe funny enough, good qualities btw
+     * Why cant you make crime lawful ? YOU CAN NOT DO THAT!!! YOU CAN NOT SAY THAT!!
       **/ 
 
      
