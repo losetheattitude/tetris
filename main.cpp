@@ -1874,6 +1874,7 @@ int main()
      * You are doing your best to prevent ? eheheh but you also suddenly reduce to asking lies ? and you think its better than what ?
      *  
      * Harm more btw, you can not be clueless monkeys who are after what they do not even know but just would like to accuse
+     * We understand life btw
       **/  
 
 
