@@ -1714,6 +1714,7 @@ int main()
      * So you are not delusional ? and you still beg ? just have a look at your great composure ?
      * And you still offer ? and you think that makes you intelligent ?
      * You also delude that some irrelevant apology would be enough, and people should just be content because they can have natural and basic interactions ?
+     * Awwww, you have forgotten I guess. That you are the abomination as you can infer from all the available information
      * 
       **/ 
 
