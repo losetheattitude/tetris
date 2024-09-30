@@ -1891,6 +1891,8 @@ int main()
      * No animals btw, reasonful and nice, intelligent, etc etc eheheh funny though
      * Awwww, now I see, you think what you are doing is being tough. Ehehehehe thats indeed most funny eheheheh you think you are being tough eheheh
      * awww wait, so you made yourselves believe into that you are solving a problem while causing one and you think implicitly you are being tough ?
+     * 
+     * Btw, you think harming should be okay but also alleging that you are trying to solve problems but its not helping ?
       **/  
 
 
