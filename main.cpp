@@ -1951,6 +1951,7 @@ int main()
      * failing approaches
      * 
      * Now is this the time you start acting ? Call that intelligence and beg so that it should solve what you are causing, stupid people
+     * The problem they say, who they are afraid of, Thats the definition of "inferior"
      * 
      * 
       **/  
