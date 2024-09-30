@@ -1986,6 +1986,8 @@ int main()
      * Beg more may be you can feel great, btw do you still think its a game ? Its probably because you have not noticed for too long that life is not a game
      * and especially when it comes to others' lives that you have no rights over, you still begging ? Thats why you think life for a game
      * 
+     * You already know, you are irrelevant animals, so you are fine to think that you are doing good eheheh thats why btw
+     * 
      * 
       **/  
 
