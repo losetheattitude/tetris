@@ -1963,6 +1963,8 @@ int main()
      * especially the ones that we know that they are better than us in every shape or form
      * Thats why you are inferior, still think coercion is a skill of great substance ?
      * 
+     * Still think coercion is a skill ? Still think coercing people to play irrelevant games is mandatory ?
+     * 
      * 
       **/  
 
