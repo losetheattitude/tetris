@@ -1904,7 +1904,7 @@ int main()
      * What else were you saying ? Awww, he ate it! he did it! he this, no no he that, we insecure, we tryna help ppl, we solve problems ehehehe
      * 
      * So tell me the pattern in this intelligent people, the problem is you are doing wrong and there is no going back and you can not turn wrong into true
-     * So you are having problems
+     * So you are having problems, and you are still looking around wishing that the people should help you ?
       **/  
 
 
