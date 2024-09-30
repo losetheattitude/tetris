@@ -1974,6 +1974,8 @@ int main()
      * Btw, tell me the worth of your irrelevant noises ? Just answer the question. WHAT IS THE WORTH OF YOUR NOISES ? Worthless right ?
      * Stupid people, trying to achieve what they can not even point out, only saying "fate!!", "life!!!", have you mistaken me for your inferior disgusting selves ?
      * 
+     * Are you still looking around ?
+     * 
      * 
       **/  
 
