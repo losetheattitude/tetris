@@ -2030,6 +2030,8 @@ int main()
      * What are you looking for ? What are you waiting for ? Do you think it is going to happen by itself ? Waowwwww, resources have started raining from the sky suddenly ?
      * Do you really think things are going to start happening by itself ? STUPID DISGUSTING INSINCERE ANIMALS WHO DO NOT UNDERSTAND THE LIFE BUT ONLY KNOW HOW TO BEG
      * 
+     * Call that intelligent, stupid monkeys do not face me
+     * 
      * 
       **/  
 
