@@ -2097,7 +2097,7 @@ int main()
      * Because you beg guising it as promises for your own precious experience of life, and start acting oblivious, 
      * 
      * I could have neither any business nor any relation to the very animals that I observe everywhere, so start promising no no you are not begging for your
-     * disgusting experiences, thats for sure
+     * disgusting experiences, thats for sure. Do you call that education ? Try again ? 
      * 
      * 
       **/  
