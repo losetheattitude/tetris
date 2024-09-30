@@ -1909,7 +1909,7 @@ int main()
      * As you can guess with your unseen superior intelligence that comes with its noble attributes, harming for the sake of harming is considered what ? What did you say ?
      * You still nagging ? Awwww, you said you were educating eehehhehe
      * wait wait, nobody asked you to educate other than you own misguidances making it for you to act on your disgusting animal nature but you still would love
-     * to beg ? or offer things ? when you had 30 years ?
+     * to beg ? or offer things ? when you had 30 years ? Btw we righteous etc, we rights have someone who we harm ehehe funny stuff though
       **/  
 
 
