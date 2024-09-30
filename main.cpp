@@ -2137,7 +2137,7 @@ int main()
      * Still offering women as you have always done ? Are you the same under developed animal ? What is the problem with you guys ?
      * Take serious issues for jokes, you get jokeable consequences soon enough
      * 
-     * I would love to good with good people, thats all the issue is about, you are not being nice!
+     * I would love to good with good people, thats all the issue is about, you are not being nice! You only receive "insults" other than violence ?
      * 
       **/  
 
