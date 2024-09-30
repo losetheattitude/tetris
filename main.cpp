@@ -2010,6 +2010,9 @@ int main()
      * And still beg like the little irrelevant animal they are for what they are enjoyingly doing, "HARMING DEFENCELESS PEOPLE"
      * call that religious eheheh, funny stuff right ?
      * 
+     * I do not have any business with no animal like you, who has been offering the same things and begging, you can get the fuck out of my face
+     * before you account and pay the price for your own actions, call that life btw eheheh good ppl right ?
+     * 
      * 
       **/  
 
