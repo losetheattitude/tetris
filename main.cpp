@@ -2092,6 +2092,8 @@ int main()
      * Who do you think decides on what happens ? Wait wait, have you remembered your random noises or have you had the time to think about "afterlife" ?
      * What happened ? Just try to tell people your great conduct
      * 
+     * Little worthless, cluesless, afraid animals, you are nothing more than that, disgusting monkeys
+     * 
      * 
       **/  
 
