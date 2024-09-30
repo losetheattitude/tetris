@@ -1965,6 +1965,8 @@ int main()
      * 
      * Still think coercion is a skill ? Still think coercing people to play irrelevant games is mandatory ?
      * Disgusting little people and their great acts, that everyone would entirely accept it as normal conduct right ?
+     * Other than you and the people around you who beg just like you, will see it as a gain. So better get the fuck out of my face with your
+     * inexplicable disgusting conducts
      * 
      * 
       **/  
