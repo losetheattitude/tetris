@@ -1915,6 +1915,7 @@ int main()
      * Only way is to harm ehehe, awwww wait wait, we all have committed the worst crime so we have to harm like the animal we are ? 
      * And start begging people who we harm ? Is that what you are saying ?
      * Do you remember ? Eheheheh you did this, you did that!!!! you eat it and say that you ate it!!!
+     * Wait wait, you have forgotten ? Get this, get that eheheh womeennn etccc, cars!!! eheheh
      * 
      * 
       **/  
