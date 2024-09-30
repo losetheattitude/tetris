@@ -1879,6 +1879,7 @@ int main()
      * 
      * You know see the meaning of "obsession" and the lack of understanding "relativity"
      * Btw, there is not even a single sign of what you are accusing but it should be fine that you have to insist because you know you are in real mess otherwise
+     * Just do not cope with the truth eheheh that does not attract problems at all
       **/  
 
 
