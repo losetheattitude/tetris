@@ -2045,6 +2045,7 @@ int main()
      * Can you tell me your credibility ? 30 years have passed and you are still the ignorant stupid monkeys ?
      * 
      * I do not accept your irrelevant accusations of disgusting nature, as you can also tell the value of your credibility
+     * What were you saying ? You are not animal ?
      * 
      * 
       **/  
