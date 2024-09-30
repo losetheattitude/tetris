@@ -2134,6 +2134,8 @@ int main()
      * How come do you think that should be acceptable ? You think women should be enough, that is the same approach that will cause you problems
      * because I recognize human nature, and you are acting cheap
      * 
+     * Still offering women as you have always done ? Are you the same under developed animal ? What is the problem with you guys ?
+     * 
       **/  
 
 
