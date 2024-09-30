@@ -1884,7 +1884,7 @@ int main()
      * 
      * We take it back! we take it back btw, god please give back 15 years because we think we are really good ppl and we intelligent and
      * we think we understand life, god where are you ? give us 15 years eheheh we need it, so you should eheheh its funny though
-     * Seek no trouble, you find none btw eheheh
+     * Seek no trouble, you find none btw eheheh or just accuse and beg to those you harm, 
       **/  
 
 
