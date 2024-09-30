@@ -2128,6 +2128,7 @@ int main()
      * Grow up, and learn the meaning of each word, then employ them properly in senses of tangible truths not to look poetic
      * 
      * I am telling already that I have no intention to waste my time with people like you, and you still hoping that something happens by itself ?
+     * Still watching and waiting to be the same stupid animal you are, looking out for inexplicable yet somehow "convincing truths" ?
      * 
       **/  
 
