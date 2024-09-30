@@ -1877,7 +1877,7 @@ int main()
      * We understand life btw, grow up or we will never have an understanding with eachother
      * And you guessed it right, I am not trying to be rude, bad guy btw 
      * 
-     * You know see the meaning of "obsession"
+     * You know see the meaning of "obsession" and the lack of understanding "relativity"
       **/  
 
 
