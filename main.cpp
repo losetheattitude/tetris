@@ -2073,7 +2073,8 @@ int main()
      * 
      * Selfish, arrogant, clueless monkeys trying their hardest to prove that they are actually fucking monkeys, no problems indeed bro
      * You would love to harm but when it comes to what you suppose to do, you just wait and see if everything plays out by itself ?
-     * Thats not the problem,
+     * Thats not the problem, awwwwww wait wait, did you get yourselves into situations that you regret ? And you still are the same doing pointless things ?
+     * And you say you are not animal ?
      * 
      * 
       **/  
