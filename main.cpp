@@ -2033,6 +2033,8 @@ int main()
      * Call that intelligent, stupid monkeys do not face me
      * Ehehehe, we give wooomeeennnnn!!! we think its funny but also intelligent but also honorable etc, eeheh funny stuff bro, its just life man
      * 
+     * So now, what do you think is going to happen ? When you consider the prior promises or I should say "begging" ?
+     * 
      * 
       **/  
 
