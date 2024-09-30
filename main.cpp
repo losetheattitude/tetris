@@ -1950,6 +1950,8 @@ int main()
      * consequences so why not ? We do not have already anything else to do, so enjoy our experiences through harming others for completely trivial and artificial
      * failing approaches
      * 
+     * Now is this the time you start acting ? Call that intelligence and beg so that it should solve what you are causing, stupid people
+     * 
      * 
       **/  
 
