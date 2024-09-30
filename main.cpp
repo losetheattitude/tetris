@@ -1934,6 +1934,7 @@ int main()
      * Now tell me my experience, btw you do not get to decide, and just talk more about life you are too convincing
      * 
      * So you are afraid that people can use resources to harm others unlike just the very thing that you do to people who have no defense ?
+     * And you still beg like the animal you are ? Please be silent eheheh be silent so that we can jerk off more, plsss
      * 
      * 
       **/  
