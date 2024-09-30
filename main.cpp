@@ -2054,6 +2054,8 @@ int main()
      * I do not accept any possible "rules" that you can allege, since you can also tell by your disgusting actions that you are only detrimental
      * And thanks btw, you go pay for your own actions, and we are all good
      * 
+     * Are you still braging about your greatness ? When you consider all the information that comes from "the history" that you run away like the little animal you are ?
+     * 
      * 
       **/  
 
