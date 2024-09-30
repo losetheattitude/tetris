@@ -1912,6 +1912,9 @@ int main()
      * to beg ? or offer things ? when you had 30 years ? Btw we righteous etc, we rights have someone who we harm ehehe funny stuff though
      * 
      * help us lie eheheh, start again, pls, we tryna help
+     * Only way is to harm ehehe
+     * 
+     * 
       **/  
 
 
