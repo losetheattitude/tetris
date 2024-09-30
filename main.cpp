@@ -1968,6 +1968,9 @@ int main()
      * Other than you and the people around you who beg just like you, will see it as a gain. So better get the fuck out of my face with your
      * inexplicable disgusting conducts
      * 
+     * Wait wait, you still beg with the same imploring approach and wish that it works so that you can harm and enjoy your life ? While you harm others ?
+     * Awwwwww, you thought everyone is trying to harm as you do ?
+     * 
      * 
       **/  
 
