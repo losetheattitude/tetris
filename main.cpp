@@ -1955,6 +1955,7 @@ int main()
      * Afraid of facing their "already implicitly accepted" failure by accusing and coercing. Good ppl btw, yess intelligent also
      * 
      * How about you try the same education ? Noooo, you are delusional intelligent superior people btw
+     * Try your own education and see what a basic animal you are
      * 
      * 
       **/  
