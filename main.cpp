@@ -2051,6 +2051,9 @@ int main()
      * I do not accept anything you could possibly allege ? Do you follow ? Credible people indeed
      * Now tell me my experience again ? And be proud about your credibility
      * 
+     * I do not accept any possible "rules" that you can allege, since you can also tell by your disgusting actions that you are only detrimental
+     * And thanks btw
+     * 
      * 
       **/  
 
