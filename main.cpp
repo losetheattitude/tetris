@@ -1958,6 +1958,7 @@ int main()
      * Try your own education and see what a basic animal you are
      * 
      * Its not your job so you can get the fuck out of my face
+     * Are you still offering the same things ?
      * 
      * 
       **/  
