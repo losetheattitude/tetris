@@ -1994,7 +1994,8 @@ int main()
      * You havent grown up ? Still afraid like the little animal you are ? You gather 2312321 people, to feel great about harming others, and beg moree like the little animal you are
      * 
      * Gather more, may be you can achieve something that has never achieved before, stupid monkeys
-     * Still asking help from people who you harm ?
+     * Still asking help from people who you harm ? Thats the little animal I have observed everywhere, beg more may be you can live forever right ? Stupid disgusting
+     * animals
      * 
      * 
       **/  
