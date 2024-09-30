@@ -2090,7 +2090,7 @@ int main()
      * and start begging suddenly ehehehe, Just tell me the worth of your credibility again, then everyone talks about what an irrelevant animal you all are
      * 
      * Who do you think decides on what happens ? Wait wait, have you remembered your random noises or have you had the time to think about "afterlife" ?
-     * What happened ? 
+     * What happened ? Just try to tell people your great conduct
      * 
      * 
       **/  
