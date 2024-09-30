@@ -1942,6 +1942,8 @@ int main()
      * So you remember on and on, that you are a simple begging animal, isnt that right ?
      * An inferior animal that starts begging to people who she harms voluntarily
      * 
+     * I do not and have not accepted anything that comes from you, so better stop begging
+     * 
      * 
       **/  
 
