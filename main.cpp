@@ -2001,6 +2001,8 @@ int main()
      * Why are you still begging ? Ehehehe we make offers btw, You still beg your salvation from who you specifically harm ?
      * Eheheheh life btw, we beg we make gains, we make offers, then we start begging again eheheheh
      * 
+     * Why dont you show people how violent and great you are ? Awwww, you would be embarrassed if there were people watching who they can uphold you ?
+     * 
      * 
       **/  
 
