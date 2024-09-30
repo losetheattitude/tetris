@@ -2016,6 +2016,8 @@ int main()
      * We offer wooomeeeennnn!!! we give wooomeeeennn!!! plss help us!!!
      * Fucking simplistic inferior disgusting animals who they act like they know what they are doing, like they beg as the little animal they are
      * 
+     * Just start telling the life I have had, and provide more explanations or should I call begging ?
+     * 
      * 
       **/  
 
