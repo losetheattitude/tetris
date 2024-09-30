@@ -1964,6 +1964,7 @@ int main()
      * Thats why you are inferior, still think coercion is a skill of great substance ?
      * 
      * Still think coercion is a skill ? Still think coercing people to play irrelevant games is mandatory ?
+     * Disgusting little people and their great acts, that everyone would entirely accept it as normal conduct right ?
      * 
      * 
       **/  
