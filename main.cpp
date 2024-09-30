@@ -1959,7 +1959,8 @@ int main()
      * 
      * Its not your job so you can get the fuck out of my face
      * Are you still offering the same things ?
-     * Disgusting simple inferior animals, arent you ? Or would you like to beg ?
+     * Disgusting simple inferior animals, arent you ? Or would you like to beg ? Heyyy!!! we can not see people having good time
+     * especially the ones that we know that they are better than us in every shape or form
      * 
      * 
       **/  
