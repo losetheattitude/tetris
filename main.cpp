@@ -2120,6 +2120,7 @@ int main()
      * Still watching illegally and waiting to see WHAT ? Is that the problem, do you think ?
      * 
      * Half evolved monkeys ? Are you still the same ? Offering women ? Offering violence ? Are those what you want ? Are you sure about that ?
+     * How come you take life lightly ? When you have no rights over ?
      * 
      * 
      * 
