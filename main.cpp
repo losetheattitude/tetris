@@ -2110,6 +2110,8 @@ int main()
      * Wait wait, do you still offer normal things as "wonderful" life experiences ? Tell me more of that again ?
      * Do your stupid brain can not notice that what you are offering is AMPLE AND NATURAL ? But you still would like to harm ?
      * 
+     * Evolve better, may be we can have an understanding after that
+     * 
      * 
       **/  
 
