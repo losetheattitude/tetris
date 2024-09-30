@@ -1899,6 +1899,7 @@ int main()
      * God, give us 15 years we think we own the world eheheh its funny you really have a false understanding
      * 
      * You know I am not being rude, If you really wake up to the truth, you will understand that I am only after experiences ? That is the problem 
+     * Btw, violence should solve every problem because we are afraid of it, relax, its fine
       **/  
 
 
