@@ -1928,6 +1928,8 @@ int main()
      * Where is the proof for all those years ? 
      * ehehehe beg like the animal you are, btw there is nowhere to hide  ehehe
      * 
+     * Education we seek, education eheheh
+     * 
      * 
       **/  
 
