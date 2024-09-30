@@ -2083,6 +2083,9 @@ int main()
      * 
      * Please let it go, let it go, forget about the past!!! Clueless, unreasonable, emotional, detrimental animals of "earth", try harder to guise your irrelevant actions
      * 
+     * I have never seen though people who has achieved the most unachievable thing !!!! How did you manage to gather 10012321 people and succeeded at harming single individuals ?
+     * Great nation you say ? Fucking dumb monkeys, beg more
+     * 
      * 
       **/  
 
