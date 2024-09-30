@@ -2078,6 +2078,9 @@ int main()
      * As you have proven times and times again
      * Enemies you say, fucking dumb monkeys
      * 
+     * And you were here watching, and you allow these happen to someone who neither had relation nor have done anything wrong, and you say you religious etc
+     * Good ppl btw
+     * 
      * 
       **/  
 
