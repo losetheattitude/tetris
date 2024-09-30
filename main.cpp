@@ -1895,7 +1895,7 @@ int main()
      * Btw, you think harming should be okay but also alleging that you are trying to solve problems but its not helping ?
      * Thats clever, I have never seen nobody intelligent like that eeheheh
      * 
-     * We take it back we take it back, eehehe funny though, 
+     * We take it back we take it back, eehehe funny though,  awww it was fate yeahh you are right
       **/  
 
 
