@@ -2102,6 +2102,9 @@ int main()
      * Do you call coercing and presenting your great violence to 5 years of kids ? Awwww, thats education as well
      * Have you ever taken a look at yourselves ? Stupid monkeys, why do you think you are monkeys ?
      * 
+     * Go away!! go away!!, we do not want to face our disgusting natures and the sequence of events that our disgusting natures have created.
+     * We just want to guise by violence as we are afraid of it, so should others be as well ? Did you mistake me for your inferior self ?
+     * 
      * 
       **/  
 
