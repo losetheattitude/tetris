@@ -2066,6 +2066,7 @@ int main()
      * Do you still call it life though ? And you still expect life to do something by itself ? and looking around for false premises?
      * 
      * Why are you still offering the same violent and disgusting things that you would like to do ? Do you think that it is not the problem ?
+     * Ehehehe lets watch him more and see what he is doing after our incomparable harms ? ehehehe its so fun to watch people we harm!!! because we think we are superior btw
      * 
      * 
       **/  
