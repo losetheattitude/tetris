@@ -2089,7 +2089,7 @@ int main()
      * Why are you still begging like the little animal you are ? Let it go, let it go please, we know we are committing a disgusting crime, and we still do it
      * and start begging suddenly ehehehe, Just tell me the worth of your credibility again, then everyone talks about what an irrelevant animal you all are
      * 
-     * Who do you think decides on what happens ?
+     * Who do you think decides on what happens ? Wait wait, have you remembered your random noises or have you had the time to think about "afterlife" ?
      * 
      * 
       **/  
