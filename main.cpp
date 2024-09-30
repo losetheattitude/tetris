@@ -1887,6 +1887,8 @@ int main()
      * Seek no trouble, you find none btw eheheh or just accuse and beg to those you harm, 
      * No no!! we should be looking for solutions to problem that do not exist! Hmmm, what could be the problem ? Where are the years ? bring us back 15 years
      * we take it back pls, we seek no harm, we like harm eheheh
+     * 
+     * No animals btw, reasonful and nice, intelligent, etc etc eheheh funny though
       **/  
 
 
