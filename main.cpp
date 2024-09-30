@@ -2108,6 +2108,7 @@ int main()
      * as we delude others to be something that they are not ? Is that what you are saying ?
      * 
      * Wait wait, do you still offer normal things as "wonderful" life experiences ? Tell me more of that again ?
+     * Do your stupid brain can not notice that what you are offering is AMPLE AND NATURAL ? But you still would like to harm ?
      * 
      * 
       **/  
