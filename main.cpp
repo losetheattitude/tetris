@@ -1922,6 +1922,7 @@ int main()
      * Awwwww, you would rather tell people that you have managed to gather 123138239431 people against one eheheheh
      * You still looking around for excuses ? Heyy, please do this for us, fucking stupid child monkeys
      * Still wishing false things to be true because you think you are a spoiled kid and you get to nag about it ?
+     * Immature animals, you know where you belong
      * 
      * 
       **/  
