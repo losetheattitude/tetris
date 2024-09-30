@@ -2068,6 +2068,9 @@ int main()
      * Why are you still offering the same violent and disgusting things that you would like to do ? Do you think that it is not the problem ?
      * Ehehehe lets watch him more and see what he is doing after our incomparable harms ? ehehehe its so fun to watch people we harm!!! because we think we are superior btw
      * 
+     * Hey what happened ??? Use more medicinee!!!! wait wait, lets watch him more and do harm more then use some medicine then watch him again because WHY NOT ?
+     * heheheh have some women bro, pls have some women
+     * 
      * 
       **/  
 
