@@ -2099,6 +2099,8 @@ int main()
      * I could have neither any business nor any relation to the very animals that I observe everywhere, so start promising no no you are not begging for your
      * disgusting experiences, thats for sure. Do you call that education ? Try again ? 
      * 
+     * Do you call coercing and presenting your great violence to 5 years of kids ? Awwww, thats education as well
+     * 
      * 
       **/  
 
