@@ -2076,6 +2076,7 @@ int main()
      * Thats not the problem, awwwwww wait wait, did you get yourselves into situations that you regret ? And you still are the same doing pointless things ?
      * And you say you are not animal ? Say something reasonable and you see people start listening to you, otherwise you are nothing more than a regular citizen of "earth"
      * As you have proven times and times again
+     * Enemies you say, fucking dumb monkeys
      * 
      * 
       **/  
