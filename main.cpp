@@ -1957,6 +1957,8 @@ int main()
      * How about you try the same education ? Noooo, you are delusional intelligent superior people btw
      * Try your own education and see what a basic animal you are
      * 
+     * Its not your job so you can get the fuck out of my face
+     * 
      * 
       **/  
 
