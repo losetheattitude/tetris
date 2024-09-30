@@ -1897,6 +1897,8 @@ int main()
      * 
      * We take it back we take it back, eehehe funny though,  awww it was fate yeahh you are right
      * God, give us 15 years we think we own the world eheheh its funny you really have a false understanding
+     * 
+     * You know I am not being rude, If you really wake up to the truth, you will understand that I am only after experiences ? That is the problem 
       **/  
 
 
