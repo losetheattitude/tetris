@@ -1880,7 +1880,7 @@ int main()
      * You know see the meaning of "obsession" and the lack of understanding "relativity"
      * Btw, there is not even a single sign of what you are accusing but it should be fine that you have to insist because you know you are in real mess otherwise
      * Just do not cope with the truth eheheh that does not attract problems at all, the biggest single sign of incomparable intelligence is accusing falsely btw
-     * Get carsss!!! get wooomeeen!!! btw
+     * Get carsss!!! get wooomeeen!!! btw, you badd!! we intelligent, we good ppl, we tryna help btw, YOU CAN NOT SAY THAT!!!
       **/  
 
 
