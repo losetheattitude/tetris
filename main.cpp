@@ -2031,6 +2031,7 @@ int main()
      * Do you really think things are going to start happening by itself ? STUPID DISGUSTING INSINCERE ANIMALS WHO DO NOT UNDERSTAND THE LIFE BUT ONLY KNOW HOW TO BEG
      * 
      * Call that intelligent, stupid monkeys do not face me
+     * Ehehehe, we give wooomeeennnnn!!! we think its funny but also intelligent but also honorable etc, eeheh funny stuff bro, its just life man
      * 
      * 
       **/  
