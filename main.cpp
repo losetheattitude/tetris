@@ -1990,6 +1990,8 @@ int main()
      * How come you think its fine ? Waaawww, thats because you are inferior and you are afraid of the life, and you do not know where you are,
      * but you also think that you are doing what is right because you are afraid of life like the little animal you are
      * 
+     * Do you see where the animal approach is coming from ? You are worthless, clueless, and irrelevant animals who love to enjoy their experiences
+     * 
      * 
       **/  
 
