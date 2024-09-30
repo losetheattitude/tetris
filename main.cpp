@@ -1901,7 +1901,9 @@ int main()
      * You know I am not being rude, If you really wake up to the truth, you will understand that I am only after experiences ? That is the problem 
      * Btw, violence should solve every problem because we are afraid of it, relax, its fine
      * Btw, we do it the old way, thats the only way, thats the good way, thats just education, we fear violence, we intelligent, we good ppl
-     * What else were you saying ?
+     * What else were you saying ? Awww, he ate it! he did it! he this, no no he that, we insecure, we tryna help ppl, we solve problems ehehehe
+     * 
+     * So tell me the pattern in this intelligent people
       **/  
 
 
