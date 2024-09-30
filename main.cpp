@@ -2079,7 +2079,7 @@ int main()
      * Enemies you say, fucking dumb monkeys
      * 
      * And you were here watching, and you allow these happen to someone who neither had relation nor have done anything wrong, and you say you religious etc
-     * Good ppl btw
+     * Good ppl btw, beg more for your experiences, not the average citizen of "earth"
      * 
      * 
       **/  
