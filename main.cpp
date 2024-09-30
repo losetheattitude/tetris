@@ -1919,6 +1919,7 @@ int main()
      * Ehehehe if you say this ehehehhe you get women etc eheheh
      * 
      * Okay now, its the time where you explain instead of begging like a child
+     * Awwwww, you would rather tell people that you have managed to gather 123138239431 people against one eheheheh
      * 
      * 
       **/  
