@@ -2094,6 +2094,7 @@ int main()
      * 
      * Little worthless, cluesless, afraid animals, you are nothing more than that, disgusting monkeys
      * NOW TELL ME MY EXPERIENCE AND YOUR DISGUSTING BEGGING GUISED AS PROMISES, Do you now understand why you are inferior animal ?
+     * Because you beg guising it as promises for your own precious experience of life, and start acting oblivious, 
      * 
      * 
       **/  
