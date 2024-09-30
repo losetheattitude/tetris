@@ -2093,6 +2093,7 @@ int main()
      * What happened ? Just try to tell people your great conduct
      * 
      * Little worthless, cluesless, afraid animals, you are nothing more than that, disgusting monkeys
+     * NOW TELL ME MY EXPERIENCE AND YOUR DISGUSTING BEGGING GUISED AS PROMISES, Do you now understand why you are inferior animal ?
      * 
      * 
       **/  
