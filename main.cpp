@@ -2131,7 +2131,8 @@ int main()
      * Still watching and waiting to be the same stupid animal you are, looking out for inexplicable yet somehow "convincing truths" ?
      * 
      * How come you expect someone to suddenly comply with those who harmed with a reason ? Thats being cheap, as I am far from the likes of you,
-     * How come do you think that should be acceptable ?
+     * How come do you think that should be acceptable ? You think women should be enough, that is the same approach that will cause you problems
+     * because I recognize human nature, and you are acting cheap
      * 
       **/  
 
