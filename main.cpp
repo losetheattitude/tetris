@@ -1933,6 +1933,8 @@ int main()
      * I havent done anything other than what you have coerced kids into, be proud about that as well, not dumb disgusting monkeys
      * Now tell me my experience, btw you do not get to decide, and just talk more about life you are too convincing
      * 
+     * So you are afraid that people can use resources to harm others unlike just the very thing that you do to people who have no defense ?
+     * 
      * 
       **/  
 
