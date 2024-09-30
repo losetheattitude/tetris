@@ -2059,7 +2059,8 @@ int main()
      * Dumb animals, do you want to know why ? Just start explaining your incomparable intellgent actions to the ones in the history, that way you will see
      * that you are nothing more than a little animal who likes to harm without a reason
      * 
-     * Hey little animals ? Why dont you start talking ?
+     * Hey little animals ? Why dont you start talking ? Ehehehe its your time! you are 30 with full of violent past who has been committed by the disgusting animals ?
+     * What could be the problem ? 
      * 
      * 
       **/  
