@@ -1896,6 +1896,7 @@ int main()
      * Thats clever, I have never seen nobody intelligent like that eeheheh
      * 
      * We take it back we take it back, eehehe funny though,  awww it was fate yeahh you are right
+     * God, give us 15 years we think we own the world eheheh its funny you really have a false understanding
       **/  
 
 
