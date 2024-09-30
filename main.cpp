@@ -2071,6 +2071,8 @@ int main()
      * Hey what happened ??? Use more medicinee!!!! wait wait, lets watch him more and do harm more then use some medicine then watch him again because WHY NOT ?
      * heheheh have some women bro, pls have some women
      * 
+     * Selfish, arrogant, clueless monkeys trying their hardest to prove that they are actually fucking monkeys, no problems indeed bro
+     * 
      * 
       **/  
 
