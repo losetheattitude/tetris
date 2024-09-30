@@ -2014,7 +2014,7 @@ int main()
      * before you account and pay the price for your own actions, call that life btw eheheh good ppl right ?
      * 
      * We offer wooomeeeennnn!!! we give wooomeeeennn!!! plss help us!!!
-     * Fucking simplistic inferior disgusting animals who they act like they know what they are doing
+     * Fucking simplistic inferior disgusting animals who they act like they know what they are doing, like they beg as the little animal they are
      * 
      * 
       **/  
