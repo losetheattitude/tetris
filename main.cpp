@@ -2127,6 +2127,8 @@ int main()
      * and stay out of others' personal businesses that only concern them. That sounds really difficult yess
      * Grow up, and learn the meaning of each word, then employ them properly in senses of tangible truths not to look poetic
      * 
+     * I am telling already that I have no intention to waste my time with people like you, and you still hoping that something happens by itself ?
+     * 
       **/  
 
 
