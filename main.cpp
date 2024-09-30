@@ -1975,6 +1975,7 @@ int main()
      * Stupid people, trying to achieve what they can not even point out, only saying "fate!!", "life!!!", have you mistaken me for your inferior disgusting selves ?
      * 
      * Are you still looking around ? Do you all remember the most great and religious and credible and good and helpful people the random sounds you make ?
+     * Awwww you still think you doing good, thats not the problem btw
      * 
      * 
       **/  
