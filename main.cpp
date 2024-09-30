@@ -2141,6 +2141,7 @@ int main()
      * YOU ARE NOT BEING NICE, I hope you all can use your brain to see that
      * 
      * Why dont you see anything different ? Or its just what you want to see
+     * If you were right in your actions and did the correct thing, you wouldnt have to be in a position of bending
      * 
       **/  
 
