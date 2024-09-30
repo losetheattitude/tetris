@@ -2140,6 +2140,8 @@ int main()
      * I would love to good with good people, thats all the issue is about, you are not being nice! You only receive "insults" other than violence ?
      * YOU ARE NOT BEING NICE, I hope you all can use your brain to see that
      * 
+     * Why dont you see anything different ? Or its just what you want to see
+     * 
       **/  
 
 
