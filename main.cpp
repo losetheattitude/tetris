@@ -1946,6 +1946,9 @@ int main()
      * Awwwwww, we have forgotten that we are animal!!! eheheheh wait wait, there is a thing called death ? eheheheheh funny stuff though
      * Continue begging or just tell them your great solutions and actions, see who is right and who is inferior and who is incapable of coping with THE TRUTH
      * 
+     * Jobless people trying their hardest to harm who they beg, its just for a short period of time that we have to face this "disgusting crime" and its
+     * consequences so why not ? We do not have already anything else to do, so enjoy our experiences through harming others
+     * 
      * 
       **/  
 
