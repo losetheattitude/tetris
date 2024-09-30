@@ -2087,7 +2087,7 @@ int main()
      * Great nation you say ? Fucking dumb monkeys, beg more. Awwww wait, you say you are trying to educate ? But you are the one who is begging still ?
      * 
      * Why are you still begging like the little animal you are ? Let it go, let it go please, we know we are committing a disgusting crime, and we still do it
-     * and start begging suddenly ehehehe
+     * and start begging suddenly ehehehe, Just tell me the worth of your credibility again, then everyone talks about what an irrelevant animal you all are
      * 
      * 
       **/  
