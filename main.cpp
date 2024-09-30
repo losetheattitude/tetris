@@ -1978,6 +1978,7 @@ int main()
      * Awwww you still think you doing good, thats not the problem btw
      * 
      * I do not accept anything you enforce through threats, do what you have to do great people, thats as far as your understading goes, simple violent animals
+     * Do you follow ? I DO NOT CARE ABOUT YOUR STUPID DELUSIONS OR DELUSION OF DOING GOOD DEEDS BY COERCION, you can get the fuck out of my face
      * 
      * 
       **/  
