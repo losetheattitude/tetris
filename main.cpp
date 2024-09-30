@@ -2017,6 +2017,9 @@ int main()
      * Fucking simplistic inferior disgusting animals who they act like they know what they are doing, like they beg as the little animal they are
      * 
      * Just start telling the life I have had, and provide more explanations or should I call begging ?
+     * Go serve a few years bro ? You will realize what a stupid animal you are ehehehe if you keep it silent, you go have some fun with wooomeeeennnnnn!!!
+     * As we have always promised ehehehehehheh, YOU GO SERVE A FEW YEARS YOU REALIZE WHAT A STUPID ANIMAL YOU ARE INSTEAD OF BEGGING LIKE THE LITTLE MONKEYS
+     * Beg for food!!! beg for resourcess!!! beg for your life!!!! Did you think I am alike ?
      * 
      * 
       **/  
