@@ -1924,7 +1924,7 @@ int main()
      * Still wishing false things to be true because you think you are a spoiled kid and you get to nag about it ?
      * Immature animals, you know where you belong
      * 
-     * Start killing people eheheh
+     * Start killing people eheheh, education you say ?
      * 
      * 
       **/  
