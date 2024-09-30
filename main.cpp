@@ -1954,6 +1954,8 @@ int main()
      * The problem they say, who they are afraid of, Thats the definition of "inferior"
      * Afraid of facing their "already implicitly accepted" failure by accusing and coercing. Good ppl btw, yess intelligent also
      * 
+     * How about you try the same education ? Noooo, you are delusional intelligent superior people btw
+     * 
      * 
       **/  
 
