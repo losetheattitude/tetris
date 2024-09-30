@@ -2138,6 +2138,7 @@ int main()
      * Take serious issues for jokes, you get jokeable consequences soon enough
      * 
      * I would love to good with good people, thats all the issue is about, you are not being nice! You only receive "insults" other than violence ?
+     * YOU ARE NOT BEING NICE, I hope you all can use your brain to see that
      * 
       **/  
 
