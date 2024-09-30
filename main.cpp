@@ -2003,6 +2003,9 @@ int main()
      * 
      * Why dont you show people how violent and great you are ? Awwww, you would be embarrassed if there were people watching who they can uphold you ?
      * 
+     * We can not cope with the truth that this kid can fuck our conducts whenever and however he likes, so we harm!!!! good and intelligent and
+     * awesome and helpful and genius ppl btw
+     * 
      * 
       **/  
 
