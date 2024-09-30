@@ -2034,6 +2034,8 @@ int main()
      * Ehehehe, we give wooomeeennnnn!!! we think its funny but also intelligent but also honorable etc, eeheh funny stuff bro, its just life man
      * 
      * So now, what do you think is going to happen ? When you consider the prior promises or I should say "begging" ?
+     * Ehehehe you can start to have basic interactions!!! You can trust us because we have been there all the time and we did this and that,
+     * we think we great etc ??
      * 
      * 
       **/  
