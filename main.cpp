@@ -1930,7 +1930,7 @@ int main()
      * 
      * Education we seek, education eheheh
      * 
-     * I havent done anything other than what you have coerced kids into
+     * I havent done anything other than what you have coerced kids into, be proud about that as well, not dumb disgusting monkeys
      * 
      * 
       **/  
