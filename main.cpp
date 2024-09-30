@@ -1980,6 +1980,10 @@ int main()
      * I do not accept anything you enforce through threats, do what you have to do great people, thats as far as your understading goes, simple violent animals
      * Do you follow ? I DO NOT CARE ABOUT YOUR STUPID DELUSIONS OR DELUSION OF DOING GOOD DEEDS BY COERCION, you can get the fuck out of my face
      * 
+     * Just like the clueless dumb monkeys that lives on earth, and who loves to enjoy their life through numerous disgusting lies and bring up the "afterlife"
+     * everytime they realize they are disgustingly wrong and false and they have to accept that they are simple animal who likes to harm under many guises,
+     * Thats the type I do not associate myself with whatever you want to think
+     * 
      * 
       **/  
 
