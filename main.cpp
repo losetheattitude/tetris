@@ -2006,6 +2006,8 @@ int main()
      * We can not cope with the truth that this kid can fuck our conducts whenever and however he likes, so we harm!!!! good and intelligent and
      * awesome and helpful and genius ppl btw
      * 
+     * I would simply call all of you as "INFERIOR MONKEYS WHO THEY DO NOT KNOW EITHER WHERE THEY ARE OR WHAT THEY ARE DOING"
+     * 
      * 
       **/  
 
