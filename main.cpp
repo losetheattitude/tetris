@@ -2104,6 +2104,7 @@ int main()
      * 
      * Go away!! go away!!, we do not want to face our disgusting natures and the sequence of events that our disgusting natures have created.
      * We just want to guise by violence as we are afraid of it, so should others be as well ? Did you mistake me for your inferior self ?
+     * Go away!! go away!! we do not want to remember our conduct guised as education!!!! no no, we delude we are good ppl,
      * 
      * 
       **/  
