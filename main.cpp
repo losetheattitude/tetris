@@ -1905,6 +1905,9 @@ int main()
      * 
      * So tell me the pattern in this intelligent people, the problem is you are doing wrong and there is no going back and you can not turn wrong into true
      * So you are having problems, and you are still looking around wishing that the people should help you ?
+     * 
+     * As you can guess with your unseen superior intelligence that comes with its noble attributes, harming for the sake of harming is considered what ? What did you say ?
+     * You still nagging ? 
       **/  
 
 
