@@ -2116,6 +2116,8 @@ int main()
      * At which part are you having problem understanding ? Still wasting time ? Coercing people into a house and waiting and watching them 
      * to do something ? So that you can provide it as proof to your stupid allegations ? Do you say you are not looking for problems ?
      * 
+     * Do you still offer women ? Are you incapable of using your brains ? Thats not the problem
+     * 
      * 
      * 
       **/  
