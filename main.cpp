@@ -2135,6 +2135,7 @@ int main()
      * because I recognize human nature, and you are acting cheap
      * 
      * Still offering women as you have always done ? Are you the same under developed animal ? What is the problem with you guys ?
+     * Take serious issues for jokes, you get jokeable consequences soon enough
      * 
       **/  
 
