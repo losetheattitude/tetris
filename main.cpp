@@ -2007,6 +2007,8 @@ int main()
      * awesome and helpful and genius ppl btw
      * 
      * I would simply call all of you as "INFERIOR MONKEYS WHO THEY DO NOT KNOW EITHER WHERE THEY ARE OR WHAT THEY ARE DOING"
+     * And still beg like the little irrelevant animal they are for what they are enjoyingly doing, "HARMING DEFENCELESS PEOPLE"
+     * call that religious eheheh, funny stuff right ?
      * 
      * 
       **/  
