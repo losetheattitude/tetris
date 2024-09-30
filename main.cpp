@@ -1997,6 +1997,8 @@ int main()
      * Still asking help from people who you harm ? Thats the little animal I have observed everywhere, beg more may be you can live forever right ? Stupid disgusting
      * animals
      * 
+     * What are you waiting for ? Just show everyone what a great animal you are ? What is the problem ?
+     * 
      * 
       **/  
 
