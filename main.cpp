@@ -1984,7 +1984,7 @@ int main()
      * everytime they realize they are disgustingly wrong and false and they have to accept that they are simple animal who likes to harm under many guises,
      * Thats the type I do not associate myself with whatever you want to think, 
      * Beg more may be you can feel great, btw do you still think its a game ? Its probably because you have not noticed for too long that life is not a game
-     * and especially when it comes to others' lives that you have no rights over
+     * and especially when it comes to others' lives that you have no rights over, you still begging ? Thats why you think life for a game
      * 
      * 
       **/  
