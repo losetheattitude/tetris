@@ -1982,7 +1982,9 @@ int main()
      * 
      * Just like the clueless dumb monkeys that lives on earth, and who loves to enjoy their life through numerous disgusting lies and bring up the "afterlife"
      * everytime they realize they are disgustingly wrong and false and they have to accept that they are simple animal who likes to harm under many guises,
-     * Thats the type I do not associate myself with whatever you want to think
+     * Thats the type I do not associate myself with whatever you want to think, 
+     * Beg more may be you can feel great, btw do you still think its a game ? Its probably because you have not noticed for too long that life is not a game
+     * and especially when it comes to others' lives that you have no rights over
      * 
      * 
       **/  
