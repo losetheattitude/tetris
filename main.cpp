@@ -1920,7 +1920,7 @@ int main()
      * 
      * Okay now, its the time where you explain instead of begging like a child
      * Awwwww, you would rather tell people that you have managed to gather 123138239431 people against one eheheheh
-     * You still looking around for excuses ? Heyy, please do this for us,
+     * You still looking around for excuses ? Heyy, please do this for us, fucking stupid child monkeys
      * 
      * 
       **/  
