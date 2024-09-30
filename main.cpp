@@ -1944,7 +1944,7 @@ int main()
      * 
      * I do not and have not accepted anything that comes from you, so better stop begging
      * Awwwwww, we have forgotten that we are animal!!! eheheheh wait wait, there is a thing called death ? eheheheheh funny stuff though
-     * Continue begging
+     * Continue begging or just tell them your great solutions and actions, see who is right and who is inferior and who is incapable of coping with THE TRUTH
      * 
      * 
       **/  
