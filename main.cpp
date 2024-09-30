@@ -1943,6 +1943,7 @@ int main()
      * An inferior animal that starts begging to people who she harms voluntarily
      * 
      * I do not and have not accepted anything that comes from you, so better stop begging
+     * Awwwwww, we have forgotten that we are animal!!! eheheheh wait wait, there is a thing called death ? eheheheheh funny stuff though
      * 
      * 
       **/  
