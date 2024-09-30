@@ -1875,7 +1875,7 @@ int main()
      *  
      * Harm more btw, you can not be clueless monkeys who are after what they do not even know but just would like to accuse
      * We understand life btw, grow up or we will never have an understanding with eachother
-     * And you guessed it right, I am not trying to be rude
+     * And you guessed it right, I am not trying to be rude, bad guy btw
       **/  
 
 
