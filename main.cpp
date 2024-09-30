@@ -2037,7 +2037,7 @@ int main()
      * Ehehehe you can start to have basic interactions!!! You can trust us because we have been there all the time and we did this and that,
      * we think we great etc ??
      * 
-     * What are you waiting for ? GROW UP!
+     * What are you waiting for ? GROW UP! GROW UP AND THINK FOR YOURSELVES, use your brains to solve problems not your fucking stupid emotions
      * 
      * 
       **/  
