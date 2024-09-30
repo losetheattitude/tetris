@@ -2065,7 +2065,7 @@ int main()
      * No no, yall not simple btw, why are you still begging and waiting ? Do you think it just happens by itself ?
      * Do you still call it life though ? And you still expect life to do something by itself ? and looking around for false premises?
      * 
-     * Why are you still offering the same violent and disgusting things that you would like to do ?
+     * Why are you still offering the same violent and disgusting things that you would like to do ? Do you think that it is not the problem ?
      * 
      * 
       **/  
