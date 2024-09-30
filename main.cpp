@@ -2027,6 +2027,8 @@ int main()
      * 
      * Ehehehehe, we offer the most basic life interactions, and harm you for it, WHAT IS THE PROBLEM ? Awww, you are not the problem btw, 
      * 
+     * What are you looking for ? What are you waiting for ? Do you think it is going to happen by itself ? Waowwwww, resources have started raining from the sky suddenly ?
+     * 
      * 
       **/  
 
