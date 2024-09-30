@@ -1977,6 +1977,8 @@ int main()
      * Are you still looking around ? Do you all remember the most great and religious and credible and good and helpful people the random sounds you make ?
      * Awwww you still think you doing good, thats not the problem btw
      * 
+     * I do not accept anything you enforce through threats, do what you have to do great people, thats as far as your understading goes, simple violent animals
+     * 
      * 
       **/  
 
