@@ -1972,6 +1972,7 @@ int main()
      * Awwwwww, you thought everyone is trying to harm as you do ? Where are the justifications btw eheheheh, we tryna help, people steal womeenn!! we give womeen btw
      * 
      * Btw, tell me the worth of your irrelevant noises ? Just answer the question. WHAT IS THE WORTH OF YOUR NOISES ? Worthless right ?
+     * Stupid people, trying to achieve what they can not even point out, only saying "fate!!", "life!!!"
      * 
      * 
       **/  
