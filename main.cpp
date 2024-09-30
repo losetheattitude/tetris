@@ -2056,7 +2056,8 @@ int main()
      * 
      * Are you still braging about your greatness ? When you consider all the information that comes from "the history" that you run away like the little animal you are ?
      * Are you still the same animal ? Take a look at the history, you will see why 
-     * Dumb animals
+     * Dumb animals, do you want to know why ? Just start explaining your incomparable intellgent actions to the ones in the history, that way you will see
+     * that you are nothing more than a little animal who likes to harm without a reason
      * 
      * 
       **/  
