@@ -2045,7 +2045,7 @@ int main()
      * Can you tell me your credibility ? 30 years have passed and you are still the ignorant stupid monkeys ?
      * 
      * I do not accept your irrelevant accusations of disgusting nature, as you can also tell the value of your credibility
-     * What were you saying ? You are not animal ? Awww, so you also say that you do not lack credibility ? Thats literally being an animal
+     * What were you saying ? You are not animal ? Awww,  so you also say that you do not lack credibility ? Thats literally being an animal
      * Insecure, irrelevant, ignorant, violent people trying to be clever... Thats interesting indeed
      * 
      * I do not accept anything you could possibly allege ? Do you follow ? Credible people indeed
@@ -2063,6 +2063,7 @@ int main()
      * What could be the problem ? 
      * 
      * No no, yall not simple btw, why are you still begging and waiting ? Do you think it just happens by itself ?
+     * Do you still call it life though ? And you still expect life to do something by itself ? and looking around for false premises?
      * 
      * 
       **/  
