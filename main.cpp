@@ -1936,7 +1936,7 @@ int main()
      * So you are afraid that people can use resources to harm others unlike just the very thing that you do to people who have no defense ?
      * And you still beg like the animal you are ? Please be silent eheheh be silent so that we can jerk off more, plsss
      * Irrelevant others' lives are a joke to you ? Start talking about the impartial facts, you will see you are wrong
-     * You are still watching like the inferior animal you are ?
+     * You are still watching like the inferior animal you are ? Immature ignorant inferior displaying animals
      * 
      * 
       **/  
