@@ -2022,6 +2022,8 @@ int main()
      * Beg for food!!! beg for resourcess!!! beg for your life!!!! Did you think I am alike ?
      * 
      * Heyyy!! have a few walks in our unseen city!!! Have some walks mann! have some womeeeenn!!! such a rare experience isnt it ?
+     * Such a rare experience to have a few walks !!!! have a few womeeeennnnnnn, not that we are going to do that but its just life btw
+     * We are irrelevant dumb animal who can not account for their actions, but only beg and hope that it works out btw
      * 
      * 
       **/  
