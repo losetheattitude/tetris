@@ -1961,6 +1961,7 @@ int main()
      * Are you still offering the same things ?
      * Disgusting simple inferior animals, arent you ? Or would you like to beg ? Heyyy!!! we can not see people having good time
      * especially the ones that we know that they are better than us in every shape or form
+     * Thats why you are inferior
      * 
      * 
       **/  
