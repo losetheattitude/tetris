@@ -2122,6 +2122,9 @@ int main()
      * Half evolved monkeys ? Are you still the same ? Offering women ? Offering violence ? Are those what you want ? Are you sure about that ?
      * How come you take life lightly ? When you have no rights over ?
      * 
+     * Fuck you, I have no time for average animals of earth
+     * 
+     * 
      * 
      * 
       **/  
