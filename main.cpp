@@ -2123,9 +2123,7 @@ int main()
      * How come you take life lightly ? When you have no rights over ?
      * 
      * Fuck you, I have no time for average animals of earth
-     * 
-     * 
-     * 
+     * As your offers can prove that you are mistaking and also projecting your own problems, so go ahead live with your vicinity 
      * 
       **/  
 
