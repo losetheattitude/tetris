@@ -1903,7 +1903,8 @@ int main()
      * Btw, we do it the old way, thats the only way, thats the good way, thats just education, we fear violence, we intelligent, we good ppl
      * What else were you saying ? Awww, he ate it! he did it! he this, no no he that, we insecure, we tryna help ppl, we solve problems ehehehe
      * 
-     * So tell me the pattern in this intelligent people
+     * So tell me the pattern in this intelligent people, the problem is you are doing wrong and there is no going back and you can not turn wrong into true
+     * So you are having problems
       **/  
 
 
