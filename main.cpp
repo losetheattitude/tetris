@@ -2130,6 +2130,9 @@ int main()
      * I am telling already that I have no intention to waste my time with people like you, and you still hoping that something happens by itself ?
      * Still watching and waiting to be the same stupid animal you are, looking out for inexplicable yet somehow "convincing truths" ?
      * 
+     * How come you expect someone to suddenly comply with those who harmed with a reason ? Thats being cheap, as I am far from the likes of you,
+     * How come do you think that should be acceptable ?
+     * 
       **/  
 
 
