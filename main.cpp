@@ -1940,6 +1940,7 @@ int main()
      * Again and again so that you can understand what an animal you are
      * 
      * So you remember on and on, that you are a simple begging animal, isnt that right ?
+     * An inferior animal that starts begging to people who she harms voluntarily
      * 
      * 
       **/  
