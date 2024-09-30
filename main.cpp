@@ -2096,6 +2096,9 @@ int main()
      * NOW TELL ME MY EXPERIENCE AND YOUR DISGUSTING BEGGING GUISED AS PROMISES, Do you now understand why you are inferior animal ?
      * Because you beg guising it as promises for your own precious experience of life, and start acting oblivious, 
      * 
+     * I could have neither any business nor any relation to the very animals that I observe everywhere, so start promising no no you are not begging for your
+     * disgusting experiences, thats for sure
+     * 
      * 
       **/  
 
