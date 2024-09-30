@@ -1987,6 +1987,8 @@ int main()
      * and especially when it comes to others' lives that you have no rights over, you still begging ? Thats why you think life for a game
      * 
      * You already know, you are irrelevant animals, so you are fine to think that you are doing good eheheh thats why btw
+     * How come you think its fine ? Waaawww, thats because you are inferior and you are afraid of the life, and you do not know where you are,
+     * but you also think that you are doing what is right because you are afraid of life like the little animal you are
      * 
      * 
       **/  
