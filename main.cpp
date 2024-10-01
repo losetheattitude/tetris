@@ -2194,6 +2194,7 @@ int main()
      * You still allege with false things and beg ? Ehehehe get cars!! get wooomeenn!! get house!!!! we had the opportunity but we waited till this far
      * Eheheheh intelligent btw, pls dont be harmful like us, NOWW ITS YOUR TIME!!! Please help us first
      * Hide your nature like the little animal you are, now its your time!!! please dont hurt others as we do!!! we educate we good we educate btw
+     * Wait wait, you are false and also beg ? and also allege that is education ? and also hope that people do not act like you ?
      * 
      * 
       **/  
