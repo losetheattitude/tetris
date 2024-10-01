@@ -2221,6 +2221,7 @@ int main()
      * 30 years etc and etc, yet you still standing there somehow thinking that you have rights to demand that you be taken serious, fucking dumb delusional people
      * 
      * We request debates ehehehe thats what we think for being intelligent etc
+     * We think we facing stupid monkeys as we are
       **/  
 
 
