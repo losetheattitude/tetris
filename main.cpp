@@ -2317,6 +2317,8 @@ int main()
      * Awwww, you would rather wield as weapon and hope that you will be okay
      * Awww, you all use your brain very efficiently, you are clueless people, you do not know what you are doing
      * Who do you think is the obsessive one ? Obsessing over harm ?
+     * 
+     * You still making promises or apologies or saying that you regret after 30 years ?
       **/  
 
 
