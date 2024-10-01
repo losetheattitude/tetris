@@ -2274,6 +2274,8 @@ int main()
      * 
      * You do not get to decide as you can see the consequences of your decisions so far, yet you still somehow think you should decide ?
      * Ehehhehe we tryna test him while we hide like we are reallllllyyyy good people as if we havent done so many things that we can not even explain to others ?
+     * 
+     * Hide like the worthless people you are, be afraid more, you deserve the best definitely!!!
       **/  
 
 
