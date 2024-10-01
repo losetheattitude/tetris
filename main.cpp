@@ -2279,7 +2279,7 @@ int main()
      * Good ppl, good nation, good religion, as if I do not know or remember
      * 
      * Awww, you would rather call it insane ? Eehehe good ppl, you have no other choice other than to act on your animal side and regret it over and over again 
-     * Great ppl btw
+     * Great ppl btw, Where are you btw ? Are you watching the little animals ?
       **/  
 
 
