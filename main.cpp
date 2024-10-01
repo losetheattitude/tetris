@@ -2245,6 +2245,8 @@ int main()
      * Awwww, you would love to beg for your experiences thinking it for a skill ?
      * You do not care ? But you would like to beg because you do not know what to do else ? How about you be a proper animal
      * and act on your promises etc and do not coerce next time the people who you will certainly regret
+     * 
+     * You thought it would solve by itself once you coerce and lied and taken that for a skill ? You have never thought about the future btw
       **/  
 
 
