@@ -2152,7 +2152,7 @@ int main()
      * Still begging ? You were in this, you were doing this, why do you think that there is no proof of that ?
      * Why are you still the worthless monkey you are, that can not be trusted with ? No credibility ? Yet somehow you claim reason ?
      * And you still delude the reality be different because you can not deal with people being largely better than you ?
-     * Who the fuck are you to harm irrelevant people because of your insecurity ?
+     * Who the fuck are you to harm irrelevant people because of your insecurity ? Btw, tell me about your credibility again ?
      * 
       **/  
 
