@@ -2205,7 +2205,7 @@ int main()
      * wait wait, lie for us and you get wommeeenn!!! you get carss!!!! you get housess!!!!! we goood, we after no material, life a simulation btw
      * Now, after our great education, do not be like us and do not harm others!!! That sounds like a genius approach waaaaaaoowwW!!! 
      * Fucking little animals of earth, eheheheh its your time, its your time. Have fun!! life short life simulation eheheheh good ppl btw
-     * We nag like little animals ehehehe
+     * We nag like little animals ehehehe noooo he did this, you can not do that!! you can not say that!!! we educate btw
      * 
      * 
       **/  
