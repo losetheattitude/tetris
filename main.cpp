@@ -2224,6 +2224,9 @@ int main()
      * We think we facing stupid monkeys as we are
      * We request debetes eheheh it should be fine, go waste someone else's time trying to enjoy through flexing
      * You just pay attention to your own lives, yeah yeah yeahh "he did it!!! etc"
+     * 
+     * Heyy, you are not in a position of deciding what one should do with his life so is the end of the discussion,
+     * now you talk about violence promises good bad etc and account for your actions 
       **/  
 
 
