@@ -2204,7 +2204,7 @@ int main()
      * Awwwwww, you thought it was education what you are afraid of ehehehe, and you also allege with irrelevant stuff, he did it! he is this, no no no
      * wait wait, lie for us and you get wommeeenn!!! you get carss!!!! you get housess!!!!! we goood, we after no material, life a simulation btw
      * Now, after our great education, do not be like us and do not harm others!!! That sounds like a genius approach waaaaaaoowwW!!! 
-     * Fucking little animals of earth, 
+     * Fucking little animals of earth, eheheheh its your time, its your time. Have fun!! life short life simulation eheheheh good ppl btw
      * 
      * 
       **/  
