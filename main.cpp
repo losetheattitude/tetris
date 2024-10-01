@@ -2322,7 +2322,7 @@ int main()
      * Yessss, we need to free ourselves just once more so that next time we do it one more time until something happens,
      * and the way to achieve that is make some random noises and think our inferior qualities to be great
      * 
-     * You talk about family ehehehhe waaawwwwww, 
+     * You talk about family ehehehhe waaawwwwww, you talk about justice ? talk about honor etc ?
       **/  
 
 
