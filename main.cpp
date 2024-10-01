@@ -2187,6 +2187,7 @@ int main()
      * Awwww, thats the problem, you too inferior so you seek in your own nature and arrive to inferior conclusions that aims to detriment irrelevant people
      * I see, thats not the problem btw yes
      * Awwwww, you also say, get womeeen!!! get carss!!!! get money!!!! life a simulation btw, life short, life good, we good, we just, thats right yesss
+     * Beg more, may be you convince you re not inferior
      * 
      * 
       **/  
