@@ -2334,6 +2334,11 @@ int main()
      * do you see how low you are ? Suddenly start changing your approach ? no no, we want to live, we are almost 90 years plsss
      * Look at the difference, see where and who is wrong at
      * Thats the inferiority part, not the biological one
+     * 
+     * You see what you are doing right ? You did something stupid together now you have to act like you are not a dumb animal, eheheh we just want to
+     * forget about it, plsss get some womeeeeennnn!! as we have always promised,
+     * 
+     * Look at you, you make promises you do stupid things, you also harm people, Am I the bad one ? eheheheh funny stuff good ppl
       **/  
 
 
