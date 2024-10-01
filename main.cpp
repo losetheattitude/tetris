@@ -2325,6 +2325,8 @@ int main()
      * You talk about family ehehehhe waaawwwwww, you talk about justice ? talk about honor etc ?
      * Be proud about yourselves, delude that you make decisions and people who has to actually live through them should stay and listen to you
      * or you just harm, either way, I am not alike thus you do your best, violence can only affect inferior animals like you
+     * 
+     * Are you still begging bro ? Why dont you grow up and bare the responsibility of your own actions ?
       **/  
 
 
