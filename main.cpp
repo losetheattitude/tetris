@@ -2296,6 +2296,8 @@ int main()
      * 
      * Awwww, now you are in trouble you start begging, "its your time!!!!" "we are your family!!!"
      * Are you still begging really good and intelligent people ?
+     * 
+     * How come you think you should talk women still ? What a shame isnt it ? etc etc etc
       **/  
 
 
