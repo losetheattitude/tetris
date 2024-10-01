@@ -2287,6 +2287,9 @@ int main()
      * You do not even exist as a human being
      * Act like you know how to raise "special kids" as if you are so special yourself, Whats the pattern again ?
      * Instead of hiding like the animal you are, tell the same things to my face, little disgusting animals
+     * 
+     * Did you mistake me for your inferior selves ? Do not stop displaying your inferior qualities, thats the only reason you are an animal who
+     * pretends like not one. Beg more, that only strengthens your disgusting animal tissue
       **/  
 
 
