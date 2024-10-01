@@ -2276,6 +2276,7 @@ int main()
      * Ehehhehe we tryna test him while we hide like we are reallllllyyyy good people as if we havent done so many things that we can not even explain to others ?
      * 
      * Hide like the worthless people you are, be afraid more, you deserve the best definitely!!!
+     * Good ppl, good nation, good religion, as if I do not know or remember
       **/  
 
 
