@@ -2286,6 +2286,7 @@ int main()
      * Why dont you grow up instead ? Awww, you would rather do what you want with life while you try to brag through your irrelevant virtues ?
      * You do not even exist as a human being
      * Act like you know how to raise "special kids" as if you are so special yourself, Whats the pattern again ?
+     * Instead of hiding like the animal you are, tell the same things to my face, little disgusting animals
       **/  
 
 
