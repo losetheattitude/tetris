@@ -2290,6 +2290,8 @@ int main()
      * 
      * Did you mistake me for your inferior selves ? Do not stop displaying your inferior qualities, thats the only reason you are an animal who
      * pretends like not one. Beg more, that only strengthens your disgusting animal tissue
+     * 
+     * Who do you think I am talking about ?
       **/  
 
 
