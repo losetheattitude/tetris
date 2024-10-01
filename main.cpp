@@ -2299,7 +2299,7 @@ int main()
      * 
      * How come you think you should talk women still ? What a shame isnt it ? etc etc etc
      * 
-     * I have no time to waste with any of you
+     * I have no time to waste with any of you, the very people who has caused so much
       **/  
 
 
