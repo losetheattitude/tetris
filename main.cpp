@@ -2192,7 +2192,7 @@ int main()
      * You say you good etc ? 
      * 
      * You still allege with false things and beg ? Ehehehe get cars!! get wooomeenn!! get house!!!! we had the opportunity but we waited till this far
-     * Eheheheh intelligent btw
+     * Eheheheh intelligent btw, pls dont be harmful like us, NOWW ITS YOUR TIME!!! Please help us first
      * 
      * 
       **/  
