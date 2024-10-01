@@ -2206,6 +2206,7 @@ int main()
      * Now, after our great education, do not be like us and do not harm others!!! That sounds like a genius approach waaaaaaoowwW!!! 
      * Fucking little animals of earth, eheheheh its your time, its your time. Have fun!! life short life simulation eheheheh good ppl btw
      * We nag like little animals ehehehe noooo he did this, you can not do that!! you can not say that!!! we educate btw
+     * Wait wait, can you tell me again whats the worth of your words ? ehehehe Worthless piece of shits
      * 
      * 
       **/  
