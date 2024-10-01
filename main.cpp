@@ -2199,6 +2199,7 @@ int main()
      * 
      * Awwwww, you say its education because you are afraid of violence as the little animal you are ? And you misguess that it would help scare others
      * that you do not understand ? Who is sick btw ? Awwww you are just lost animals, thats the problem, you are afraid as the little animals of earth
+     * Thats why you beg with offers and thinking that you are intelligent and pulling off great things, fucking monkeys 
      * 
      * 
       **/  
