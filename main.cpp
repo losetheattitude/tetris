@@ -2266,6 +2266,7 @@ int main()
      * Still telling the same narrative ? But knowing better and better that you are just a disgusting animal ?
      * 
      * You know you are wrong but also insisting on your stupid existence?
+     * You do not even have a single explanation for your actions ? Why is that ?
       **/  
 
 
