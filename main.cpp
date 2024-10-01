@@ -2220,6 +2220,7 @@ int main()
      * Fucking stupid monkeys, we talk about etc etc 30 years etc btw
      * 30 years etc and etc, yet you still standing there somehow thinking that you have rights to demand that you be taken serious, fucking dumb delusional people
      * 
+     * We request debates ehehehe thats what we think for being intelligent etc
       **/  
 
 
