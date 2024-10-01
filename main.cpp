@@ -2315,7 +2315,7 @@ int main()
      * 30 years, awww we have forgotten we only care about our own experiences, ehehe
      * Who do you think is the obsessive towards the most basic physical action ?
      * Awwww, you would rather wield as weapon and hope that you will be okay
-     * Awww, you all use your brain very efficiently
+     * Awww, you all use your brain very efficiently, you are clueless people, you do not know what you are doing
       **/  
 
 
