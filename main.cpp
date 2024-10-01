@@ -2184,6 +2184,9 @@ int main()
      * Wait wait, when was the last time you were begging again ? You do not get to make decisions with your malign contexts
      * Wait wait, whats the problem again ? Awwww, you are too afraid to deal with what you can not match because you are too inferior ?
      * 
+     * Awwww, thats the problem, you too inferior so you seek in your own nature
+     * 
+     * 
       **/  
 
 
