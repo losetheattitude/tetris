@@ -2264,6 +2264,8 @@ int main()
      * May be you start using your brain better next time ? Instead of acting reasonless?
      * So what do you think the solution would be to a problem of this substance ? You can not even begin to talk about only begging to guise ?
      * Still telling the same narrative ? But knowing better and better that you are just a disgusting animal ?
+     * 
+     * You know you are wrong but also insisting on your stupid existence?
       **/  
 
 
