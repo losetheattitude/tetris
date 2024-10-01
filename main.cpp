@@ -2282,7 +2282,7 @@ int main()
      * Great ppl btw, Where are you btw ? Are you watching the little animals ?
      * 
      * I have no business with the people like you, do you still not get that you are a selfish stupid animal ?
-     * I do not even want to spend one second with you
+     * I do not even want to spend one second with you, are you still begging and making promises ? 
       **/  
 
 
