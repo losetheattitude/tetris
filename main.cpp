@@ -2150,6 +2150,7 @@ int main()
      * instead of begging like immature kids who know they are wrong and have done something they shouldnt have
      * 
      * Still begging ? You were in this, you were doing this, why do you think that there is no proof of that ?
+     * Why are you still the worthless monkey you are, that can not be trusted with ? No credibility ? Yet somehow you claim reason ?
      * 
       **/  
 
