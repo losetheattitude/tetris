@@ -2283,7 +2283,8 @@ int main()
      * 
      * I have no business with the people like you, do you still not get that you are a selfish stupid animal ?
      * I do not even want to spend one second with you, are you still begging and making promises ? 
-     * Why dont you grow up instead ?
+     * Why dont you grow up instead ? Awww, you would rather do what you want with life while you try to brag through your irrelevant virtues ?
+     * You do not even exist as a human being
       **/  
 
 
