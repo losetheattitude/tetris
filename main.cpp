@@ -2328,6 +2328,7 @@ int main()
      * 
      * Are you still begging bro ? Why dont you grow up and bare the responsibility of your own actions ?
      * Instead of begging people to sacrifice their whole life ? And you call it "enemy!!!!" so that you can feel good about your inferiority ?
+     * If you are wrong, you are wrong the amount of cool things you say does not change it
       **/  
 
 
