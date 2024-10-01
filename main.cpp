@@ -2145,7 +2145,9 @@ int main()
      * 
      * So, now start talking explaining your conduct, are you still begging ? eheheh if you do this for us, we will give you this or that 
      * eheheh we were so generous and gentle and good all the time eheheh
-     * What makes you think I want to have anything to do with you ?
+     * 
+     * What makes you think I want to have anything to do with you ? You do your best to justify your actions and see who is right and wrong
+     * instead of begging like immature kids who know they are wrong and have done something they shouldnt have
      * 
       **/  
 
