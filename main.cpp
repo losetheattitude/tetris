@@ -2271,6 +2271,8 @@ int main()
      * So what do you say again ? You say you are not afraid of your own actions thats why you start acting violent and can not explain ?
      * Why are you begging with the same promises ? Honorable people indeed
      * Disgusting right ? Who do you think is completely wrong  ?
+     * 
+     * You do not get to decide as you can see the consequences of your decisions so far, yet you still somehow think you should decide ?
       **/  
 
 
