@@ -2201,6 +2201,9 @@ int main()
      * that you do not understand ? Who is sick btw ? Awwww you are just lost animals, thats the problem, you are afraid as the little animals of earth
      * Thats why you beg with offers and thinking that you are intelligent and pulling off great things, fucking monkeys 
      * 
+     * Awwwwww, you thought it was education what you are afraid of ehehehe, and you also allege with irrelevant stuff, he did it! he is this, no no no
+     * wait wait, lie for us and you get wommeeenn!!! you get carss!!!! you get housess!!!!! we goood, we after no material, life a simulation btw
+     * 
      * 
       **/  
 
