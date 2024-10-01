@@ -2197,6 +2197,9 @@ int main()
      * Wait wait, you are false and also beg ? and also allege that is education ? and also hope that people do not act like you ?
      * Awwwww, 30 years you say ? How about that ? Awwww, you say its fate!!! its life!!!! its simulation!!! What a shame that you are a disgusting animal
      * 
+     * Awwwww, you say its education because you are afraid of violence as the little animal you are ? And you misguess that it would help scare others
+     * that you do not understand ?
+     * 
      * 
       **/  
 
