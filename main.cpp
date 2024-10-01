@@ -2273,6 +2273,7 @@ int main()
      * Disgusting right ? Who do you think is completely wrong  ?
      * 
      * You do not get to decide as you can see the consequences of your decisions so far, yet you still somehow think you should decide ?
+     * Ehehhehe we tryna test him while we hide like we are reallllllyyyy good people as if we havent done so many things that we can not even explain to others ?
       **/  
 
 
