@@ -2257,7 +2257,7 @@ int main()
      * Eheheh we the simplest form of animals who act like developed you say ? You can leave from out of my face
      * I have no intention to waste my time with people like you
      * 
-     * Wooooomeeeeennnnnnn!!!! Please help lie us eheheh
+     * Wooooomeeeeennnnnnn!!!! Please help lie us eheheh, Are you still making artificial problems and presenting them as proof or excuse ?
       **/  
 
 
