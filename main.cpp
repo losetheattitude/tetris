@@ -2323,6 +2323,8 @@ int main()
      * and the way to achieve that is make some random noises and think our inferior qualities to be great
      * 
      * You talk about family ehehehhe waaawwwwww, you talk about justice ? talk about honor etc ?
+     * Be proud about yourselves, delude that you make decisions and people who has to actually live through them should stay and listen to you
+     * or you just harm, either way, I am not alike thus you do your best, violence can only affect inferior animals like you
       **/  
 
 
