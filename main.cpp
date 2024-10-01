@@ -2188,7 +2188,8 @@ int main()
      * I see, thats not the problem btw yes
      * Awwwww, you also say, get womeeen!!! get carss!!!! get money!!!! life a simulation btw, life short, life good, we good, we just, thats right yesss
      * Beg more, may be you convince you re not inferior
-     * Btw, good night etc,
+     * Btw, good night etc, Awwww, you also provide inferior excuses for your inferior actions that creates inferior circumstances for everyone ?
+     * You say you good etc ?
      * 
      * 
       **/  
