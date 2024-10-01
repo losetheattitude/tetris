@@ -2163,7 +2163,7 @@ int main()
      * intentional violence ? Thats intelligence btw
      * 
      * Do you remember ? Because I still remember eeheheh
-     * Now talk about the violence 
+     * Now talk about the violence and try your hardest to guise your stupid disgusting nature
      * 
       **/  
 
