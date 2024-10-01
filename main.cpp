@@ -2313,6 +2313,8 @@ int main()
      * 
      * This the only way,  this is the old way, this is the correct way, etc  etc
      * 30 years, awww we have forgotten we only care about our own experiences, ehehe
+     * Who do you think is the obsessive towards the most basic physical action ?
+     * Awwww, you would rather wield as weapon and hope that you will be okay
       **/  
 
 
