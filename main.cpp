@@ -2209,7 +2209,7 @@ int main()
      * Wait wait, can you tell me again whats the worth of your words ? ehehehe Worthless piece of shits
      * Why you begging though ? Awww, you value your experiences thats why. I see, whats then the worth of your words again ?
      * Awwww, you are tryna help, I see, whats the value of your words again ? I have forgotten awwwww, thats right. 
-     * Poem btw, When do you grow up do you think ?
+     * Poem btw, When do you grow up do you think ? Delusional peopleeee ? Do you think you need help ?
      * 
      * 
       **/  
