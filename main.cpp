@@ -2168,6 +2168,7 @@ int main()
      * Ehehehee funny stuff indeed
      * Wait wait, you also start acting like the animal you are when there are people around who they can uphold you for your animality ?
      * and you start acting emotional ? eheheh not disgusting btw
+     * Why are you the sole animals who are delusional ? Yet you still think you get to demand people lie for you ?
      * 
       **/  
 
