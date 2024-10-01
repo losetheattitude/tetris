@@ -2247,6 +2247,7 @@ int main()
      * and act on your promises etc and do not coerce next time the people who you will certainly regret
      * 
      * You thought it would solve by itself once you coerce and lied and taken that for a skill ? You have never thought about the future btw
+     * You just like beggin I guess ?
       **/  
 
 
