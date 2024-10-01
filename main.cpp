@@ -2301,6 +2301,8 @@ int main()
      * 
      * I have no time to waste with any of you, the very people who has caused so much
      * So lets go, why wait ?
+     * 
+     * You still call it life, family, fate btw ?
       **/  
 
 
