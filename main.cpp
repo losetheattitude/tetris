@@ -2174,6 +2174,7 @@ int main()
      * Grow up and pay the price of your 30 years of irrelevant hateful crimes. Does that sound intelligent ?
      * Btw, whats the credibility of your words ?
      * Do you remember the last time ? You accepted if it happens one more time, you get to pay with your life ?
+     * Go get sentenced for a few years, so that you get educated about violence
      * 
       **/  
 
