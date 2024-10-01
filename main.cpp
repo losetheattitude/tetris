@@ -2327,6 +2327,7 @@ int main()
      * or you just harm, either way, I am not alike thus you do your best, violence can only affect inferior animals like you
      * 
      * Are you still begging bro ? Why dont you grow up and bare the responsibility of your own actions ?
+     * Instead of begging people to sacrifice their whole life ? And you call it "enemy!!!!" so that you can feel good about your inferiority ?
       **/  
 
 
