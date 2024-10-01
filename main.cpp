@@ -2216,7 +2216,8 @@ int main()
      * btw you delude you should make decisions, you are not related any shape or form to what you are not entitled to, as you can neither receive any harm nor 
      * can interact with what you do not understand, only the monkeys like you can harm
      * 
-     * You still watching illegally ?
+     * You still watching illegally ? You still made yourselves believe into doing what you can not openly talk about and make decisions accordingly ?
+     * Fucking stupid monkeys
      * 
      * 
       **/  
