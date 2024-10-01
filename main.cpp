@@ -2262,6 +2262,7 @@ int main()
      * Awwww, you would rather call it education right ?
      * 
      * May be you start using your brain better next time ? Instead of acting reasonless?
+     * So what do you think the solution would be to a problem of this substance ? You can not even begin to talk about only begging to guise ?
       **/  
 
 
