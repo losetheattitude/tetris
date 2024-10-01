@@ -2229,6 +2229,7 @@ int main()
      * now you talk about violence promises good bad etc and account for your actions and do not forget to say "fate"
      * 
      * Btw, do you follow the intentional bias ? Why though is it only you ? Awwww, its the intentional bias with inferior qualities
+     * And alsooo, just think your great brain once more on how to substitute such a bullshit as this 
       **/  
 
 
