@@ -2316,7 +2316,7 @@ int main()
      * Who do you think is the obsessive towards the most basic physical action ?
      * Awwww, you would rather wield as weapon and hope that you will be okay
      * Awww, you all use your brain very efficiently, you are clueless people, you do not know what you are doing
-     * Who do you think is the obsessive one ?
+     * Who do you think is the obsessive one ? Obsessing over harm ?
       **/  
 
 
