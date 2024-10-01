@@ -2230,6 +2230,7 @@ int main()
      * 
      * Btw, do you follow the intentional bias ? Why though is it only you ? Awwww, its the intentional bias with inferior qualities
      * And alsooo, just think your great brain once more on how to substitute such a bullshit as this 
+     * As you have employed your immaculate reason, now try to employ it for such an absurd thing, you will suddenly see
       **/  
 
 
