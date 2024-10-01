@@ -2292,7 +2292,7 @@ int main()
      * pretends like not one. Beg more, that only strengthens your disgusting animal tissue
      * 
      * Who do you think I am talking about ?
-     * Stupid dumb monkeys
+     * Stupid dumb monkeys, you call that family ? You call that job ?
       **/  
 
 
