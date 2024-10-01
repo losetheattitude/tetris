@@ -2213,7 +2213,8 @@ int main()
      * You need help solving your problems properly, or just act immature why not
      * 
      * You do not take it serious, thats why I wont do it as well,
-     * btw you delude you should make decisions
+     * btw you delude you should make decisions, you are not related any shape or form to what you are not entitled to, as you can neither receive any harm nor 
+     * can interact with what you do not understand, only the monkeys like you can harm
      * 
      * 
       **/  
