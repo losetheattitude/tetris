@@ -2269,6 +2269,7 @@ int main()
      * You do not even have a single explanation for your actions ? Why is that ?
      * Just try to explain others the experience I have had and the experience of you watching when all those really good people etc were acting ?
      * So what do you say again ? You say you are not afraid of your own actions thats why you start acting violent and can not explain ?
+     * Why are you begging with the same promises ? Honorable people indeed
       **/  
 
 
