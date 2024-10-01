@@ -2166,6 +2166,7 @@ int main()
      * Now talk about the violence and try your hardest to guise your stupid disgusting nature
      * Do you say you are intelligent because you are violently coerced kids into "eating" ? And you brag about it ?
      * Ehehehee funny stuff indeed
+     * Wait wait, you also start acting like the animal you are when there are people around who they can uphold you for your animality ?
      * 
       **/  
 
