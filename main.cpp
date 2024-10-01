@@ -2238,6 +2238,8 @@ int main()
      * I didnt do anything your stupid nature has not coerced me into, do you follow ?
      * Are you still trying to produce excuses ? Are you afraid to approach or you just do not want ?
      * Awwww, you delude again to accuse others, same animals that are rife everywhere
+     * 
+     * Heyyyy!!!! please help us lie, we need help, btw we beg with every possibility ? How about you tell the same story to me ?
       **/  
 
 
