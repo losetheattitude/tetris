@@ -2175,7 +2175,8 @@ int main()
      * Btw, whats the credibility of your words ?
      * Do you remember the last time ? You accepted if it happens one more time, you get to pay with your life ?
      * Go get sentenced for a few years, so that you get educated about violence
-     * Or you would rather bend and beg ?
+     * Or you would rather bend and beg ? Or just notice your inexplicable nature and accept what you deserve for irrelevant violence
+     * as you have promised as well the last time
      * 
       **/  
 
