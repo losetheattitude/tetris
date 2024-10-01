@@ -2164,6 +2164,8 @@ int main()
      * 
      * Do you remember ? Because I still remember eeheheh
      * Now talk about the violence and try your hardest to guise your stupid disgusting nature
+     * Do you say you are intelligent because you are violently coerced kids into "eating" ? And you brag about it ?
+     * Ehehehee funny stuff indeed
      * 
       **/  
 
