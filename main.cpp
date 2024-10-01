@@ -2234,7 +2234,7 @@ int main()
      * Irrelevant people committing irrelevant actions and trying their hardest to hide through begging, great!
      * 
      * Heyyy ?? Still waiting for the same thing to happen ? The pussies like I said
-     * Scary stuff indeed
+     * Scary stuff indeed, btw please do this for us, give us some this or that and say that you ate it eheheh thats how clever we are btw
       **/  
 
 
