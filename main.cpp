@@ -2181,7 +2181,7 @@ int main()
      * Delusional ppl you say ? Awwwww, you think basic physical actions as gift or concession ? Whats the problem intelligent ppl
      * Btw, tell me the value of your irrelevant noises ? Awwwww, you delude about being etc and etc, I see
      * 
-     * Wait wait, when was the last time you were begging again ?
+     * Wait wait, when was the last time you were begging again ? You do not get to make decisions with your malign contexts
      * 
       **/  
 
