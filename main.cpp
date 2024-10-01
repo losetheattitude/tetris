@@ -2178,7 +2178,7 @@ int main()
      * Or you would rather bend and beg ? Or just notice your inexplicable nature and accept what you deserve for irrelevant violence
      * as you have promised as well the last time, better use your judgment next time
      * 
-     * Delusional ppl you say ?
+     * Delusional ppl you say ? Awwwww, you think basic physical actions as gift or concession ? Whats the problem intelligent ppl
      * 
       **/  
 
