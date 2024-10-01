@@ -2333,6 +2333,7 @@ int main()
      * Awwww, just because you do it, it should be fine,
      * do you see how low you are ? Suddenly start changing your approach ? no no, we want to live, we are almost 90 years plsss
      * Look at the difference, see where and who is wrong at
+     * Thats the inferiority part, not the biological one
       **/  
 
 
