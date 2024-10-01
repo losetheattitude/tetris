@@ -2171,6 +2171,8 @@ int main()
      * Why are you the sole animals who are delusional ? Yet you still think you get to demand people lie for you ?
      * Awwww, you think thats education while you are the one who is acting like an animal ? Including bending for your experience ?
      * 
+     * Grow up and pay the price of your 30 years of irrelevant hateful crimes. Does that sound intelligent ?
+     * 
       **/  
 
 
