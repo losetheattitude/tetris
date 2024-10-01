@@ -2236,7 +2236,7 @@ int main()
      * Heyyy ?? Still waiting for the same thing to happen ? The pussies like I said
      * Scary stuff indeed, btw please do this for us, give us some this or that and say that you ate it eheheh thats how clever we are btw
      * I didnt do anything your stupid nature has not coerced me into, do you follow ?
-     * Are you still trying to produce excuses ?
+     * Are you still trying to produce excuses ? Are you afraid to approach or you just do not want ?
       **/  
 
 
