@@ -2191,7 +2191,8 @@ int main()
      * Btw, good night etc, Awwww, you also provide inferior excuses for your inferior actions that creates inferior circumstances for everyone ?
      * You say you good etc ? 
      * 
-     * You still allege with false things and beg ?
+     * You still allege with false things and beg ? Ehehehe get cars!! get wooomeenn!! get house!!!! we had the opportunity but we waited till this far
+     * Eheheheh intelligent btw
      * 
      * 
       **/  
