@@ -2226,7 +2226,7 @@ int main()
      * You just pay attention to your own lives, yeah yeah yeahh "he did it!!! etc"
      * 
      * Heyy, you are not in a position of deciding what one should do with his life so is the end of the discussion,
-     * now you talk about violence promises good bad etc and account for your actions 
+     * now you talk about violence promises good bad etc and account for your actions and do not forget to say "fate"
       **/  
 
 
