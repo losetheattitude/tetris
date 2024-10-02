@@ -2435,6 +2435,8 @@ int main()
      * Wait wait, tell me again what was your really logical explanation that proves and protects and justifies of violating others ?
      * Awwwww, you would rather call it fate ? Fucking monkeys
      * Why are you still begging, I can not tell, I guess its because you are great
+     * Awwwww, when there is no problem, you force problems onto people and start talking about how great you are ?
+     * Wait wait, where are the resources btw ? Awwww, you can only claim because there is not enough proof ? Why didnt you ?
       **/   
 
 
