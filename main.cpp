@@ -2361,7 +2361,7 @@ int main()
      * Thats not your job, is the simplest approach which is the only truth, that you can use to solve "the problem"
      * Awwwwww, how are we going to hide our great behavior ? Plss help us, it has been 30 years !!!!!
      * You see why now you are called "the stupid people of the history" ? Ehehehe it was not only me!! there were so many people around me
-     * who was encouraging me to harm someone because its just because!!!
+     * who was encouraging me to harm someone because its just because!!! Please dont be like us!!! ehehe lie for us!! dont be like us!!! plss
       **/  
 
 
