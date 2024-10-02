@@ -2416,6 +2416,8 @@ int main()
      * 
      * Wait wait, you had all this time but you have chosen not to do anything because ? Because you though you would harm others
      * throught irrelevant entities ? Thats where the "fucking monkeys" is coming from
+     * 
+     * Awwwww, just forget about it, live your life!!! Enjoy that shit bro!!
       **/   
 
 
