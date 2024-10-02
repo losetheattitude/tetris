@@ -2344,7 +2344,7 @@ int main()
      * Keep showing "offers" ehehehe its a blessing!!! its a blessing to be offered such by such eheheheh
      * 
      * 
-     * Btw, what was the value of your irrelevant noises ?
+     * Btw, what was the value of your irrelevant noises ? You know thats called begging behaviour
       **/  
 
 
