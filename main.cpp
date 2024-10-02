@@ -2380,7 +2380,7 @@ int main()
      * 
      * Use more medicine so that he will feel relaxed to do "what you are begging", 
      * Do you want to use more medicine so that people can do what you desperately need to ?
-     * Rape etc, ? Russians etc ?
+     * Rape etc, ? Russians etc ? Awww, you say medicine, rape, violence to 10yo kids and you seek no trouble ?
       **/   
 
 
