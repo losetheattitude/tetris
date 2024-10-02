@@ -2352,6 +2352,8 @@ int main()
      * 
      * Wait wait, when there is no signs you just say it anyway? Or insist on irrational bullshit ?
      * Awww, if you start laughing it should be funny
+     * Do you ever heard about people using their "discretion" in the most disgusting and malign way ?
+     * Aww, you can not be one of those disgusting people I guess
       **/  
 
 
