@@ -2422,6 +2422,7 @@ int main()
      * for the sake of harm!!
      * 
      * GOOD PEOPLE!!!!  Awwww you would rather call it "fate", thats why you are fucking stupid
+     * Awwww, you would rather call it "life", you know that is called intentional "DELUSION"
       **/   
 
 
