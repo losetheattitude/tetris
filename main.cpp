@@ -2341,6 +2341,7 @@ int main()
      * Look at you, you make promises you do stupid things, you also harm people, Am I the bad one ? eheheheh funny stuff good ppl
      * 
      * Beggg moree, luckily I know every single information I need
+     * Keep showing "offers" ehehehe its a blessing!!! its a blessing to be offered such by such eheheheh
      * 
       **/  
 
