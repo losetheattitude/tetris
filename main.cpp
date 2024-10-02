@@ -2351,6 +2351,7 @@ int main()
      * Awwwww, you have forgotten I guess ?
      * 
      * Wait wait, when there is no signs you just say it anyway? Or insist on irrational bullshit ?
+     * Awww, if you start laughing it should be funny
       **/  
 
 
