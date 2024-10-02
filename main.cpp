@@ -2434,6 +2434,7 @@ int main()
      * WHY ARE YOU STILL TALKING ABOUT "LIFE" as if you understand it ?
      * Wait wait, tell me again what was your really logical explanation that proves and protects and justifies of violating others ?
      * Awwwww, you would rather call it fate ? Fucking monkeys
+     * Why are you still begging, I can not tell, I guess its because you are great
       **/   
 
 
