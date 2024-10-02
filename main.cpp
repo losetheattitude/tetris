@@ -2391,7 +2391,8 @@ int main()
      * Wait wait, you think you should be forgiven ? eheheh
      * 
      * You see where it is going towards, it is going towards that you are false and malign. What does that mean ?
-     * That also means, you have caused intentional harm
+     * That also means, you have caused intentional harm, you already know, so stop acting do what you have to or get the fuck out of my face
+     * 
       **/   
 
 
