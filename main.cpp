@@ -2437,6 +2437,9 @@ int main()
      * Why are you still begging, I can not tell, I guess its because you are great
      * Awwwww, when there is no problem, you force problems onto people and start talking about how great you are ?
      * Wait wait, where are the resources btw ? Awwww, you can only claim because there is not enough proof ? Why didnt you ?
+     * 
+     * Awwwwww, you suddenly start offering materials ? THATS THE REASON WHY YOU ARE A SIMPLE MONKEY WHO CHASES IT
+     * AND HARMES IRRELEVANT PEOPLE ON THE WAY
       **/   
 
 
