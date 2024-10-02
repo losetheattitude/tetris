@@ -2421,7 +2421,7 @@ int main()
      * Awwwwwwww, now its the time we act proper!! just wait a few seconds we are gonna continue doing what we want, after harming
      * for the sake of harm!!
      * 
-     * GOOD PEOPLE!!!! 
+     * GOOD PEOPLE!!!!  Awwww you would rather call it "fate", thats why you are fucking stupid
       **/   
 
 
