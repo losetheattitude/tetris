@@ -2382,6 +2382,9 @@ int main()
      * Do you want to use more medicine so that people can do what you desperately need to ?
      * Rape etc, ? Russians etc ? Awww, you say medicine, rape, violence to 10yo kids and you seek no trouble ?
      * Why arent there any problems when your disgusting existence there ? Awwww, it should be the other way around ?
+     * 
+     * Do something other than waiting looking around, enjoying the interaction for your selfish needs, How come you think its fine that
+     * I should waste more time like this
       **/   
 
 
