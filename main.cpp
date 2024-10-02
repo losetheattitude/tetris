@@ -2431,6 +2431,7 @@ int main()
      * Failure btw, its most convincing especially when you are there to harm for the detriment
      * 
      * Its also most funny that you happen to call everything you do "FATE"
+     * WHY ARE YOU STILL TALKING ABOUT "LIFE" as if you understand it ?
       **/   
 
 
