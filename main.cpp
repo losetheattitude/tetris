@@ -2373,7 +2373,7 @@ int main()
      * Heyyy I want to see him!! I am curious!! Yesssss!!!! Please dont hurt but we like hurt eheheh
      * Are you fucking stupid ? Grow up people!!!!!!! instead of making bullshit for detrimention
      * I have never said I would play any games, especially with people of this tissue, you are only committing crime
-     * in contrast to I
+     * in contrast to I. Why are you spoiled selfish inaccountable to say the least ?
       **/   
 
 
