@@ -2377,6 +2377,8 @@ int main()
      * You are still enjoying your stupid "experience" over things that do not matter to you ?
      * I do not have time for your stupid behavior where you just enjoy because you are fucking bored out of your lives
      * Go find yourselves something else, I am bored!! 
+     * 
+     * Use more medicine so that he will feel relaxed to do "what you are begging", 
       **/   
 
 
