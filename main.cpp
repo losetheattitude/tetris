@@ -2400,7 +2400,11 @@ int main()
      * 
      * WHY ARE YOU WAITING ? FUCKING STUPID MONKEYSSS, it does not make legal because you are doing it
      * Awww, you say it was just a mistake ?
+     * 
+     * IF YOU HAD THE INTENTION OF DOING WHAT YOU WERE SUPPOSED TO, YOU WOULD HAVE ALREADY DONE IT, INSTEAD OF
+     * PROVIDING CIRCUMSTANCIAL "EVIDENCE"
       **/   
+
 
 
 
