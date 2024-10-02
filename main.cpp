@@ -2375,6 +2375,8 @@ int main()
      * I have never said I would play any games, especially with people of this tissue, you are only committing crime
      * in contrast to I. Why are you spoiled selfish inaccountable to say the least ?
      * You are still enjoying your stupid "experience" over things that do not matter to you ?
+     * I do not have time for your stupid behavior where you just enjoy because you are fucking bored out of your lives
+     * Go find yourselves something else
       **/   
 
 
