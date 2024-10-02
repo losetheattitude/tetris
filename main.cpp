@@ -2340,7 +2340,7 @@ int main()
      * 
      * Look at you, you make promises you do stupid things, you also harm people, Am I the bad one ? eheheheh funny stuff good ppl
      * 
-     * Beggg moree
+     * Beggg moree, luckily I know every single information I need
      * 
       **/  
 
