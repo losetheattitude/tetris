@@ -2398,7 +2398,7 @@ int main()
      * directionless animals who likes to watch what they do not understand, may be you should grow up, thats the problem
      * 
      * 
-     * WHY ARE YOU WAITING ? FUCKING STUPID MONKEYSSS
+     * WHY ARE YOU WAITING ? FUCKING STUPID MONKEYSSS, it does not make legal because you are doing it
       **/   
 
 
