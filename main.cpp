@@ -2433,6 +2433,7 @@ int main()
      * Its also most funny that you happen to call everything you do "FATE"
      * WHY ARE YOU STILL TALKING ABOUT "LIFE" as if you understand it ?
      * Wait wait, tell me again what was your really logical explanation that proves and protects and justifies of violating others ?
+     * Awwwww, you would rather call it fate ? Fucking monkeys
       **/   
 
 
