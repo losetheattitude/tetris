@@ -2428,6 +2428,7 @@ int main()
      * It is such a misfortune that you happen to bend when you are under threat. Thats fate btw, thats life etc
      * No no, thats not INTENTIONAL DELUSION
      * Awwwww, wait how come you have decided to make completely irrelevant decision ? Awwww, you think you wise eheheh thats why probably 
+     * Failure btw, its most convincing especially when you are there to harm for the detriment
       **/   
 
 
