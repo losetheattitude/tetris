@@ -2357,6 +2357,8 @@ int main()
      * Awwww, you say it should be past!!!! It was just a mistake, It was like etc etc eheheh
      * I reject every single thing that you have coerced kids into, sooooo where is your "reason" ?
      * But now, talk about the "past", the time that is gone, while you were doing the stupid things ?
+     * 
+     * Thats not your job, is the simplest approach which is the only truth, that you can use to solve "the problem"
       **/  
 
 
