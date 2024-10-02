@@ -2403,6 +2403,9 @@ int main()
      * 
      * IF YOU HAD THE INTENTION OF DOING WHAT YOU WERE SUPPOSED TO, YOU WOULD HAVE ALREADY DONE IT, INSTEAD OF
      * PROVIDING CIRCUMSTANCIAL "EVIDENCE" AND IGNORING EVERYTHING ELSE
+     * 
+     * Next time, instead of begging, you start acting right and avoid geteting your disgusting and guilty selves into situations
+     * that will have its own repercussions right ?
       **/   
 
 
