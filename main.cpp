@@ -2395,7 +2395,7 @@ int main()
      * 
      * Where is the signs of your great accusations ? Awwwwww, it was such a little mistake ehehe
      * Awwwww, have you forgotten ? Awwww, you still watching ? ehehe whats going on there ? Lets waste our time since we are
-     * directionless animals who likes to watch what they do not understand
+     * directionless animals who likes to watch what they do not understand, may be you should grow up, thats the problem
       **/   
 
 
