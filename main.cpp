@@ -2364,7 +2364,7 @@ int main()
      * who was encouraging me to harm someone because its just because!!! Please dont be like us!!! ehehe lie for us!! dont be like us!!! plss
      * 
      * Such a funny thing right ? Why though then you are begging still?
-     * Why are you still begging ?
+     * Why are you still begging ? Awwww, you thought you are going to live forever ?
       **/  
 
 
