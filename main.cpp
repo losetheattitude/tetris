@@ -2423,6 +2423,8 @@ int main()
      * 
      * GOOD PEOPLE!!!!  Awwww you would rather call it "fate", thats why you are fucking stupid
      * Awwww, you would rather call it "life", you know that is called intentional "DELUSION"
+     * Are you still offering women ? You disgusting people, who has committed this ? No surprise you offer women
+     * because you are the simple party in this
       **/   
 
 
