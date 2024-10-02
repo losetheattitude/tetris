@@ -2420,6 +2420,8 @@ int main()
      * Awwwww, just forget about it, live your life!!! Enjoy that shit bro!!
      * Awwwwwwww, now its the time we act proper!! just wait a few seconds we are gonna continue doing what we want, after harming
      * for the sake of harm!!
+     * 
+     * GOOD PEOPLE!!!! 
       **/   
 
 
