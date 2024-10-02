@@ -2370,7 +2370,7 @@ int main()
      * 
      * ehehehe, its a joke, its funny, it was consensual!!
      * 
-     * Heyyy I want to see him!! I am curious!! Yesssss!!!!
+     * Heyyy I want to see him!! I am curious!! Yesssss!!!! Please dont hurt but we like hurt eheheh
       **/   
 
 
