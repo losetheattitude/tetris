@@ -2425,6 +2425,8 @@ int main()
      * Awwww, you would rather call it "life", you know that is called intentional "DELUSION"
      * Are you still offering women ? You disgusting people, who has committed this ? No surprise you offer women
      * because you are the simple party in this
+     * It is such a misfortune that you happen to bend when you are under threat. Thats fate btw, thats life etc
+     * No no, thats not INTENTIONAL DELUSION
       **/   
 
 
