@@ -2394,7 +2394,8 @@ int main()
      * That also means, you have caused intentional harm, you already know, so stop acting do what you have to or get the fuck out of my face
      * 
      * Where is the signs of your great accusations ? Awwwwww, it was such a little mistake ehehe
-     * Awwwww, have you forgotten ?
+     * Awwwww, have you forgotten ? Awwww, you still watching ? ehehe whats going on there ? Lets waste our time since we are
+     * directionless animals who likes to watch what they do not understand
       **/   
 
 
