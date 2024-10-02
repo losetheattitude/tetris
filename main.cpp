@@ -2429,6 +2429,8 @@ int main()
      * No no, thats not INTENTIONAL DELUSION
      * Awwwww, wait how come you have decided to make completely irrelevant decision ? Awwww, you think you wise eheheh thats why probably 
      * Failure btw, its most convincing especially when you are there to harm for the detriment
+     * 
+     * Its also most funny that you happen to call everything you do "FATE"
       **/   
 
 
