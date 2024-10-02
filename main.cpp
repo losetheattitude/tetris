@@ -2367,6 +2367,8 @@ int main()
      * Why are you still begging ? Awwww, you thought you are going to live forever ?
      * You say, you do not deserve the same attitude you have displayed for no reason
      * Awwwwww, you would love to see others sacrifice but you hate to see yourself do the same thing ? You claim etc etc eheheh
+     * 
+     * ehehehe, its a joke, its funny, it was consensual!!
       **/  
 
 
