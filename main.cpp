@@ -2413,6 +2413,9 @@ int main()
      * What did you achieve  ? Btw, brag about your "whatever you want to see as"
      * Carss!!! womeeennnnn!! etc ehheheh we tryna give woomeeeeen!!! but we can not provide evidence etc ehehehe we good ppl
      * we intelligent btw
+     * 
+     * Wait wait, you had all this time but you have chosen not to do anything because ? Because you though you would harm others
+     * throught irrelevant entities ? Thats where the "fucking monkeys" is coming from
       **/   
 
 
