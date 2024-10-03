@@ -2453,6 +2453,9 @@ int main()
      * Why are you suddenly begging ? Awwww, you think you are intelligent ?
      * Where are the proofs btw ? Why are you still offering things ?
      * EHehhehehe its too late btw, we are the disgusting people of the "history" eheheheh well thats too bad!! thats a shame!! yess!!! we need to free ourselves somehow!!!
+     * 
+     * Awwww, you are probably the most intelligent people eheheh, fucking failures, if you aim to fool and you fail everytime, that means you are a failure
+     * with inferior qualities that can not be trusted. Do you follow ? You have the credibility of the animal on the street
       **/   
 
 
