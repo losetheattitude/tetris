@@ -2505,6 +2505,8 @@ int main()
      * You see the point ? If you had the intention, you would have already acted on your "reallyy good intentions and promises etc etc"
      * Instead of intentionally deluding, you would have already done something about it
      * So better stop playing and get the fuck out of my face
+     * Instead of thinking such a thing for funny, you would have already acted on for such a easy thing that you have been keep saying,
+     * so Imma pass thank you 
       **/   
 
 
