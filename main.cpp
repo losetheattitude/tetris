@@ -2508,6 +2508,8 @@ int main()
      * Instead of thinking such a thing for funny, you would have already acted on for such a easy thing that you have been keep saying,
      * so Imma pass thank you, "Too late" coming from stupid people who thinks they can make decisions because of their pride
      * Too late btw, its good, its fine, we do it why not be good, fine etc
+     * 
+     * You do not have anything to do with your life ? So you said why not ? Thats great, do it from out of my vicinity
       **/   
 
 
