@@ -2516,7 +2516,7 @@ int main()
      * You follow the immature and selfish ? Combine it with malign and detrimental intentions, you get yourselves a disgusting mass
      * that does not understand anything other than what they aim by harming
      * 
-     * I do not recognize any of you, I do not care what you think yourselves to be
+     * I do not recognize any of you, I do not care what you think yourselves to be, thats called "delusion"
       **/   
 
 
