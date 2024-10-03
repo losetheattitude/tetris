@@ -2464,6 +2464,8 @@ int main()
      * Awwww, you still say education, Do you notice how many misguesses are you making ?
      * You now see the meaning of "delusion", you already know the meaning of "inferior"
      * You already know there is no easy way out ? Or is that I ? Awwww, btw you have done great!!! look at the problems you have solved!!
+     * 
+     * You still misguessing over matters that do not affect you but will have its own effects ? How come though?
       **/   
 
 
