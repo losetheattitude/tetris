@@ -2447,7 +2447,7 @@ int main()
      * The funny pattern "its too late", do you think thats not emotional as well ?
      * You still talk the same narrative, dumb people, why do you think you are the one who takes life for joke?
      * I call inferiority what you call a skill, so who is the problem ?
-     * Why you still here, thinking that you can demand lies ?
+     * Why you still here, thinking that you can demand lies ? You have got a lot of explanation to do
       **/   
 
 
