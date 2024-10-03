@@ -2530,6 +2530,7 @@ int main()
      * It is unmistakenly destined to fail, you know  understand the definition of "delusion"
      * So now you see, how to waste an opportunity that is not your due,
      * do you see now why people do not cross their boundaries for stupid stuff
+     * Because this is what happens, now you got yourselves a perfect problem
       **/   
 
 
