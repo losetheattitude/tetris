@@ -2543,6 +2543,8 @@ int main()
      * You see the "grow up", you see the "cheap", you see why you are the "stupid people of the history"
      * You see why you are "inferior", I do not call anything you do as skills eheheh
      * 
+     * Yesss, you would love to call it education because you take it for a skill, dumb animals
+     * 
       **/   
 
 
