@@ -2463,7 +2463,7 @@ int main()
      * thats not the problem also some violence and etc etc, Do you see how many misguesses have you done so far ?
      * Awwww, you still say education, Do you notice how many misguesses are you making ?
      * You now see the meaning of "delusion", you already know the meaning of "inferior"
-     * You already know there is no easy way out ? Or is that I ?
+     * You already know there is no easy way out ? Or is that I ? Awwww, btw you have done great!!! look at the problems you have solved!!
       **/   
 
 
