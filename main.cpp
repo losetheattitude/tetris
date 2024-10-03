@@ -2551,7 +2551,7 @@ int main()
      * Ignoring it, as you can tell, will make it worse. Thats the only accurate guess you could make because you already know you are guilty eheheh
      * Or just insecure enough to not cope with the truth instead start displaying begging behavior, as you can tell by the "history" right ?
      * 
-     * Thats why you are called "inferior", you see the point ?
+     * Thats why you are called "inferior", you see the point ? The whole sequence of your doings, is the precise definition of INFERIOR BEGGING 
      * 
       **/   
 
