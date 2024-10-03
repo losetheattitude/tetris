@@ -2531,7 +2531,7 @@ int main()
      * So now you see, how to waste an opportunity that is not your due,
      * do you see now why people do not cross their boundaries for stupid stuff
      * Because this is what happens, now you got yourselves a perfect problem which is going to cause you something, you already know that
-     * Now do you see the "stupid people in the history" ?
+     * Now do you see the "stupid people in the history" ? Make no mistake, you are the disgusting and malicious one 
       **/   
 
 
