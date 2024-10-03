@@ -2445,6 +2445,7 @@ int main()
      * Awwwww, its too late!! You do not see the problem ? That a look at the history, you will see a lot of people who is saying "its too late!!!"
      * Thats the pattern of emotional decisions, stupid monkeys
      * The funny pattern "its too late", do you think thats not emotional as well ?
+     * You still talk the same narrative, dumb people
       **/   
 
 
