@@ -2523,7 +2523,7 @@ int main()
      * So you see, its easily observable what you are aiming at, if you were the man that you brag to be, Whats the outcome ? Alright, so you commit knowingly
      * and congrats for that !!! great ppl etc etc
      * 
-     * Education btw
+     * Education btw, the very same brains that have "produced", thats to be proud at definitely
       **/   
 
 
