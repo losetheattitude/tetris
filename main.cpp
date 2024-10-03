@@ -2518,7 +2518,7 @@ int main()
      * 
      * I do not recognize any of you, I do not care what you think yourselves to be, thats called "delusion"
      * and as you delude with "hoping" that it would be fine, thats called "begging behavior" for something
-     * you clearly do not deserve
+     * you clearly do not deserve. As youcan guess, your aim is to harm to detriment and you beg for that, what a shame isnt it
       **/   
 
 
