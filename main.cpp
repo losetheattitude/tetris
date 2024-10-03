@@ -2527,7 +2527,7 @@ int main()
      * Btw, talk about the time that has been wasted with your irrelevant intentional harmful approach. And be sure that I am as stupid as you wish me to be something else as well
      * You see the obsession ? ITS NOT YOUR JOB
      * 
-     * It is unmistakenly destined to fail
+     * It is unmistakenly destined to fail, you know  understand the definition of "delusion"
       **/   
 
 
