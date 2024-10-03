@@ -2442,7 +2442,7 @@ int main()
      * AND HARMES IRRELEVANT PEOPLE ON THE WAY
      * 
      * Great people, just stay away though, "YOU DO NOT CARE!!!" Whats the problem btw?
-     * Awwwww, its too late!!
+     * Awwwww, its too late!! You do not see the problem ?
       **/   
 
 
