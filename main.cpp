@@ -2515,6 +2515,8 @@ int main()
      * Do you see how spoiled people act ? Immature, spoiled, selfish people proud of what they are explaining
      * You follow the immature and selfish ? Combine it with malign and detrimental intentions, you get yourselves a disgusting mass
      * that does not understand anything other than what they aim by harming
+     * 
+     * I do not recognize any of you, I do not care what you think yourselves to be
       **/   
 
 
