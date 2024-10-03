@@ -2496,7 +2496,12 @@ int main()
      * as you can infer the outcome through sequence of events that belongs to the "HISTORY" as you would love to call it out of desperation
      * Now, tell me the value of your words, Now tell me to trust any of you, thats really funny, be sure
      * Still wasting time ? Playing irrelevant harmful but only to me games ? ehehehe that could be the only thing I need
-     * You are the most uncredible entity and you still ask for what ?
+     * You are the most uncredible entity and you still ask for what ? 
+     * 
+     * For such an easy action, you waste this amount of time
+     * and you still demand credibility, you are the farthest entity to demand such a valuable asset. If you mean it, you do it, and move forward
+     * 
+     * That is as far as your credibility can reach, to nowhere
       **/   
 
 
