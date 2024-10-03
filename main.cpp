@@ -2553,7 +2553,7 @@ int main()
      * 
      * Thats why you are called "inferior", you see the point ? The whole sequence of your doings, is the precise definition of INFERIOR BEGGING 
      * Btw, try explaining once more ehehhe its most funny indeed
-     * Its delusion btw!!
+     * Its delusion btw!! Do you now see the "coercion" ? If you do not, I still remember everything so good luck 
      * 
       **/   
 
