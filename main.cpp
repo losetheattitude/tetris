@@ -2502,6 +2502,7 @@ int main()
      * and you still demand credibility, you are the farthest entity to demand such a valuable asset. If you mean it, you do it, and move forward
      * 
      * That is as far as your credibility can reach, to nowhere
+     * You see the point ? If you had the intention, you would have already acted on your "reallyy good intentions and promises etc etc"
       **/   
 
 
