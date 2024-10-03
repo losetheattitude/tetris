@@ -2541,6 +2541,7 @@ int main()
      * You know what you are doing is exactly the begging behavior, thats why you are also misguessing 
      * It is the sole indication of your "misguessings" so far, because you are causing harm through false but intentional approach
      * You see the "grow up", you see the "cheap", you see why you are the "stupid people of the history"
+     * You see why you are "inferior", I do not call anything you do as skills eheheh
      * 
       **/   
 
