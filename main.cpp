@@ -2520,6 +2520,8 @@ int main()
      * and as you delude with "hoping" that it would be fine, thats called "begging behavior" for something
      * you clearly do not deserve. As youcan guess, your aim is to harm to detriment and you beg for that, what a shame isnt it
      * And you offer the same stupid approach to others! Commit crime!!! get woomeeennn!!! thats not what we are after!!
+     * So you see, its easily observable what you are aiming at, if you were the man that you brag to be, Whats the outcome ? Alright, so you commit knowingly
+     * and congrats for that !!! great ppl etc etc
       **/   
 
 
