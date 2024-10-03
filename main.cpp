@@ -2548,7 +2548,7 @@ int main()
      * 
      * Thats the problem that will eventually fail, so your "education" or "cured" approach can not take you anywhere near salvation of
      * a disgusting "crime" as you would like to call and hate at the same time
-     * Ignoring it, as you can tell, will make it worse
+     * Ignoring it, as you can tell, will make it worse. Thats the only accurate guess you could make because you already know you are guilty eheheh
      * 
       **/   
 
