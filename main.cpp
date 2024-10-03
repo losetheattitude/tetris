@@ -2490,6 +2490,8 @@ int main()
      * I do not have time for your stupid conduct, "ITS GREAT!!!!", "WE HAVE DONE GOOD!!!", "ITS REALLY FUN!!!!", "WE LIKE HARMING!!!"
      * "WE HARMED SOMEONE!!!", "WE HIDE BEHIND STUPID EXCUSES!!!", "WE GREAT NATION ETCC!!"
      * "ITS FATE!!!", now try to explain your great reasoning and the sequence of events and start bragging about
+     * 
+     * You know its called selfish, immature when there is no reason to neither laugh nor harm
       **/   
 
 
