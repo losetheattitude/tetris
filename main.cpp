@@ -2486,7 +2486,9 @@ int main()
      * If you take a close look at yourself, you will see why you are a selfish stupid animal, who thinks they can make decisions on behalf of others
      * Now, what happened ? Who has gained what ? Are you still begging ?
      * 
-     * I do not have time for your stupid conduct 
+     * 
+     * I do not have time for your stupid conduct, "ITS GREAT!!!!", "WE HAVE DONE GOOD!!!", "ITS REALLY FUN!!!!", "WE LIKE HARMING!!!"
+     * "WE HARMED SOMEONE!!!", "WE HIDE BEHIND STUPID EXCUSES!!!", "WE GREAT NATION ETCC!!"
       **/   
 
 
