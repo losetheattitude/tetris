@@ -2513,6 +2513,7 @@ int main()
      * It is most productive and etc etc. Good, you all are super nice
      * so you say, we love being inferior!!! its fun to do stupid shit!!! eheheh
      * Do you see how spoiled people act ? Immature, spoiled, selfish people proud of what they are explaining
+     * You follow the immature and selfish ? Combine it with malign and detrimental intentions, you get yourselves a disgusting mass
       **/   
 
 
