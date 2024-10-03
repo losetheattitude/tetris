@@ -2532,6 +2532,8 @@ int main()
      * do you see now why people do not cross their boundaries for stupid stuff
      * Because this is what happens, now you got yourselves a perfect problem which is going to cause you something, you already know that
      * Now do you see the "stupid people in the history" ? Make no mistake, you are the disgusting and malicious one 
+     * Why ? You have done what you shouldnt have and also done it with malicious intention and did it again and again and again, while everyone including I
+     * knew what it is and was
       **/   
 
 
