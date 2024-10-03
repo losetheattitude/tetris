@@ -2546,7 +2546,8 @@ int main()
      * Yesss, you would love to call it education because you take it for a skill, dumb animals
      * You see the problem in your thinking ? I know what you are, and what I am, thats the problem for you
      * 
-     * Thats the problem that will eventually fail
+     * Thats the problem that will eventually fail, so your "education" or "cured" approach can not take you anywhere near salvation of
+     * a disgusting "crime" as you would like to call and hate at the same time
      * 
       **/   
 
