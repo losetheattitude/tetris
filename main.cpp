@@ -2451,7 +2451,7 @@ int main()
      * 
      * You have got literally a mountain of explanation to do, yet you still demand that individual who you harm should lie for you ?
      * Why are you suddenly begging ? Awwww, you think you are intelligent ?
-     * Where are the proofs btw ?
+     * Where are the proofs btw ? Why are you still offering things ?
       **/   
 
 
