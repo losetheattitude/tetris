@@ -2535,7 +2535,8 @@ int main()
      * Why ? You have done what you shouldnt have and also done it with malicious intention and did it again and again and again, while everyone including I
      * knew what it is and was
      * 
-     * Now call that intelligence, you can get the fuck out of my face
+     * Now call that intelligence, you can get the fuck out of my face, the stupid and ignorant people of the history
+     * Yes yes, you are great
      * 
       **/   
 
