@@ -2469,6 +2469,8 @@ int main()
      * Just talk about the time, and you still see why you are wrong, and talk more about life as if you understand or care
      * You still keep wasting time for your irrelevant "accusations" OF MALIGN NATURE?
      * Awwww you can not see that its not your job ehehe
+     * 
+     * You still waste time because you are afraid of facing someone ?
       **/   
 
 
