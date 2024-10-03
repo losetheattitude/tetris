@@ -2480,6 +2480,8 @@ int main()
      * 
      * Do you even follow what I am saying ?  I SAID I DO NOT WANT TO SEE STUPID ANIMALS LIKE YOU AROUND ME, ESPECIALLY NOT ALLOW THEM TO
      * HARM FOR THE SAKE OF HARM, I do not care whoever you think you are
+     * 
+     * Do you follow the logic ? Dumb animals ? You still beg for your own experiences ?
       **/   
 
 
