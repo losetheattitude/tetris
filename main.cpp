@@ -2448,6 +2448,8 @@ int main()
      * You still talk the same narrative, dumb people, why do you think you are the one who takes life for joke?
      * I call inferiority what you call a skill, so who is the problem ?
      * Why you still here, thinking that you can demand lies ? You have got a lot of explanation to do
+     * 
+     * You have got literally a mountain of explanation to do, yet you still demand that individual who you harm should lie for you ?
       **/   
 
 
