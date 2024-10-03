@@ -2524,6 +2524,7 @@ int main()
      * and congrats for that !!! great ppl etc etc
      * 
      * Education btw, the very same brains that have "produced", thats to be proud at definitely
+     * Btw, talk about the time that has been wasted with your irrelevant intentional harmful approach. And be sure that I am as stupid as you wish me to be something else as well
       **/   
 
 
