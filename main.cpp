@@ -2484,6 +2484,7 @@ int main()
      * Do you follow the logic ? Dumb animals ? You still beg for your own experiences ?
      * But you would love to harm others ? Now, you say "REGRET", "DESERVED" ?
      * If you take a close look at yourself, you will see why you are a selfish stupid animal, who thinks they can make decisions on behalf of others
+     * Now, what happened ? Who has gained what ? 
       **/   
 
 
