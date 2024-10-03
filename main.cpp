@@ -2475,6 +2475,7 @@ int main()
      * Do not solicit irrelevant noises, cars!!!! womeeeennnn!!!! get carss!!! please!!! help us!!!
      * 
      * I am not interested in your disgusting conduct that you brag as a skill, what makes you think its funny let alone applicable ?
+     * Eheheheh we are such low on the scale that we suddenly start making offers!!!!!!  cars!!!! wooomeeennn!!! plss
       **/   
 
 
