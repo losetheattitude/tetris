@@ -2443,6 +2443,7 @@ int main()
      * 
      * Great people, just stay away though, "YOU DO NOT CARE!!!" Whats the problem btw?
      * Awwwww, its too late!! You do not see the problem ? That a look at the history, you will see a lot of people who is saying "its too late!!!"
+     * Thats the pattern of emotional decisions, stupid monkeys
       **/   
 
 
