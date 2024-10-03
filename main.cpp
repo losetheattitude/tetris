@@ -2514,6 +2514,7 @@ int main()
      * so you say, we love being inferior!!! its fun to do stupid shit!!! eheheh
      * Do you see how spoiled people act ? Immature, spoiled, selfish people proud of what they are explaining
      * You follow the immature and selfish ? Combine it with malign and detrimental intentions, you get yourselves a disgusting mass
+     * that does not understand anything other than what they aim by harming
       **/   
 
 
