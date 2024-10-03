@@ -2470,7 +2470,8 @@ int main()
      * You still keep wasting time for your irrelevant "accusations" OF MALIGN NATURE?
      * Awwww you can not see that its not your job ehehe
      * 
-     * You still waste time because you are afraid of facing someone ?
+     * You still waste time because you are afraid of facing someone ? And also call that intelligent and also beg the very individual to lie so that
+     * you can feel great ?
       **/   
 
 
