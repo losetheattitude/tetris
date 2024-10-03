@@ -2512,6 +2512,7 @@ int main()
      * You do not have anything to do with your life ? So you said why not ? Thats great, do it from out of my vicinity
      * It is most productive and etc etc. Good, you all are super nice
      * so you say, we love being inferior!!! its fun to do stupid shit!!! eheheh
+     * Do you see how spoiled people act ? 
       **/   
 
 
