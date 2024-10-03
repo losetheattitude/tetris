@@ -2528,6 +2528,7 @@ int main()
      * You see the obsession ? ITS NOT YOUR JOB
      * 
      * It is unmistakenly destined to fail, you know  understand the definition of "delusion"
+     * So now you see, how to waste an opportunity that is not your due
       **/   
 
 
