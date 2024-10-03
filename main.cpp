@@ -2479,7 +2479,7 @@ int main()
      * I do not want to be around stupid people like you all especially allow such stupidness to make decisions that they are not entitled to
      * 
      * Do you even follow what I am saying ?  I SAID I DO NOT WANT TO SEE STUPID ANIMALS LIKE YOU AROUND ME, ESPECIALLY NOT ALLOW THEM TO
-     * HARM FOR THE SAKE OF HARM
+     * HARM FOR THE SAKE OF HARM, I do not care whoever you think you are
       **/   
 
 
