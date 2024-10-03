@@ -2517,7 +2517,8 @@ int main()
      * that does not understand anything other than what they aim by harming
      * 
      * I do not recognize any of you, I do not care what you think yourselves to be, thats called "delusion"
-     * and as you delude with "hoping" that it would be fine
+     * and as you delude with "hoping" that it would be fine, thats called "begging behavior" for something
+     * you clearly do not deserve
       **/   
 
 
