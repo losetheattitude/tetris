@@ -2536,7 +2536,7 @@ int main()
      * knew what it is and was
      * 
      * Now call that intelligence, you can get the fuck out of my face, the stupid and ignorant people of the history
-     * Yes yes, you are great
+     * Yes yes, you are great, continue misguessing the consequences of your pointless accusations and actions
      * 
       **/   
 
