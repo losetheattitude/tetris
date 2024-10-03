@@ -2457,6 +2457,7 @@ int main()
      * Awwww, you are probably the most intelligent people eheheh, fucking failures, if you aim to fool and you fail everytime, that means you are a failure
      * with inferior qualities that can not be trusted. Do you follow ? You have the credibility of the animal on the street
      * And you still talk about education ? Have you ever taken a look at yourselves ? Why you still begging irrelevant noises ?
+     * Get cars!!! get womeeennnn!!! we had all the time but we still think begging for a skill!!!! get cars!! etcc!!! plss lie!!!
       **/   
 
 
