@@ -2544,6 +2544,7 @@ int main()
      * You see why you are "inferior", I do not call anything you do as skills eheheh
      * 
      * Yesss, you would love to call it education because you take it for a skill, dumb animals
+     * You see the problem in your thinking ? I know what you are, and what I am, thats the problem for you
      * 
       **/   
 
