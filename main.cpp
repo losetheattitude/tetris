@@ -2476,7 +2476,7 @@ int main()
      * 
      * I am not interested in your disgusting conduct that you brag as a skill, what makes you think its funny let alone applicable ?
      * Eheheheh we are such low on the scale that we suddenly start making offers!!!!!!  cars!!!! wooomeeennn!!! plss
-     * I do not want to be around stupid people like you all
+     * I do not want to be around stupid people like you all especially allow such stupidness to make decisions that they are not entitled to
       **/   
 
 
