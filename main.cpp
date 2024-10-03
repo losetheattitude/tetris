@@ -2537,7 +2537,7 @@ int main()
      * 
      * Now call that intelligence, you can get the fuck out of my face, the stupid and ignorant people of the history
      * Yes yes, you are great, continue misguessing the consequences of your pointless accusations and actions
-     * Waste more time!!! you are the stupid people of the history btw
+     * Waste more time!!! you are the stupid people of the history btw, you know what you are doing is exactly the begging behavior
      * 
       **/   
 
