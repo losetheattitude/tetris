@@ -2460,7 +2460,7 @@ int main()
      * Get cars!!! get womeeennnn!!! we had all the time but we still think begging for a skill!!!! get cars!! etcc!!! plss lie!!!
      * 
      * Can you imagine someone being reallllyyy realllyyy grateful for what is avaiable ? But somehow made to be withhold ? Ehehehe
-     * thats not the problem also some violence and etc etc, 
+     * thats not the problem also some violence and etc etc, Do you see how many misguesses have you done so far ?
       **/   
 
 
