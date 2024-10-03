@@ -2489,6 +2489,7 @@ int main()
      * 
      * I do not have time for your stupid conduct, "ITS GREAT!!!!", "WE HAVE DONE GOOD!!!", "ITS REALLY FUN!!!!", "WE LIKE HARMING!!!"
      * "WE HARMED SOMEONE!!!", "WE HIDE BEHIND STUPID EXCUSES!!!", "WE GREAT NATION ETCC!!"
+     * "ITS FATE!!!"
       **/   
 
 
