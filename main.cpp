@@ -2474,7 +2474,7 @@ int main()
      * you can feel great ? What problem did you solve btw ? Use your own immaculate brain to solve the stupid problem that you have created
      * Do not solicit irrelevant noises, cars!!!! womeeeennnn!!!! get carss!!! please!!! help us!!!
      * 
-     * I am not interested in your disgusting conduct that you brag as a skill
+     * I am not interested in your disgusting conduct that you brag as a skill, what makes you think its funny let alone applicable ?
       **/   
 
 
