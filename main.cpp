@@ -2466,6 +2466,7 @@ int main()
      * You already know there is no easy way out ? Or is that I ? Awwww, btw you have done great!!! look at the problems you have solved!!
      * 
      * You still misguessing over matters that do not affect you but will have its own effects ? How come though?
+     * Just talk about the time, and you still see why you are wrong, and talk more about life as if you understand or care
       **/   
 
 
