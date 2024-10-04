@@ -2605,7 +2605,7 @@ int main()
      * 
      * You see the immaturity thats why you ignore, eheheh so simple yet too disgusting right ?
      * Thats the beauty of ignorant ppl, no direction and more irrelevant actions etc etc we good 
-     * Thats the only way to not cope with reality btw
+     * Thats the only way to not cope with reality btw, get womeennnn!!!
       **/   
 
 
