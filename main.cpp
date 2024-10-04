@@ -2617,6 +2617,7 @@ int main()
      * The great attributes that are as rare as fucking animals, not inferior btw
      * No no, you are not begging because you are false eheheh, have some womeeeennnn!!! we think life is about harming and womeennnnn!!!
      * superior btw, not obsession btw
+     * Awww, you say I should be glad to live a most basic life, thats indeed !!
       **/   
 
 
