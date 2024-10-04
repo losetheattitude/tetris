@@ -2602,6 +2602,8 @@ int main()
      * 
      * If you want to understand your simplicity, you observe your reactions when you are under threat. I already know the answer
      * Education etc you say eheheh, no boundaries etc etc education ehehhe
+     * 
+     * You see the immaturity thats why you ignore, eheheh so simple yet too disgusting right ?
       **/   
 
 
