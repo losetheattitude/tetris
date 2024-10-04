@@ -2599,6 +2599,8 @@ int main()
      * You see why you do not know what you are doing, thats the definition of selfish and immature btw
      * Its fate! its life!  its ignorance, its stupidity, its etc etc
      * You can already see what you are when you are under threat of losing something
+     * 
+     * If you want to understand your simplicity, you observe your reactions when you are under threat. I already know the answer
       **/   
 
 
