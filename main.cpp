@@ -2662,7 +2662,7 @@ int main()
      * Awwwww, you now suddenly start to act ? eheheheh its funny isnt it ? Its too late!!!! we did it but we did it again!!! its too late btww!!
      * Fear more so you make more mistakes of your inferior nature, or I should say "cheap nature"
      * 
-     * I do not accept any of you around me
+     * I do not accept any of you around me, begging inferior animals who takes violence for a skill or education, the sole indication of undue judgment
       **/   
 
 
