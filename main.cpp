@@ -2580,6 +2580,8 @@ int main()
      * 
      * You see the problem right ? You are the problem because you know all the things I said and you intentionally act like you are entitled to make that "tough decision"
      * then start begging, "HEYY I REGRET!!!", you do not deserve it. That is the conclusion that any sane individual can draw
+     * 
+     * Complete guilt and shameless of it, the most superior qualities indeed!
       **/   
 
 
