@@ -2655,6 +2655,8 @@ int main()
      * 
      * Because you intentionally chose to present "great vile" off of a few days of proof whereas the reality is "there are years and years of evidence
      * that prove the complete otherwise"
+     * 
+     * So you are not animal you say ?
       **/   
 
 
