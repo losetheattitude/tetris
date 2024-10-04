@@ -2706,6 +2706,8 @@ int main()
      * Talk with your own level, or just grow up and then may be you will see converging points 
      * No resources!!! heheheh funny stuff indeed
      * I have seen enough of you, ehehe funny stuff right ?
+     * 
+     * We need people lie for us, pls  etc etc
       **/   
 
 
