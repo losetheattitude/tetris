@@ -2652,6 +2652,9 @@ int main()
      * 
      * So you know, your approach violence as education can self evidently proves the otherwise while you are the one who is presenting that "great behaviour"
      * that self evidently proves that you need to be educated
+     * 
+     * Because you intentionally chose to present "great vile" off of a few days of proof whereas the reality is "there are years and years of evidence
+     * that prove the complete otherwise"
       **/   
 
 
