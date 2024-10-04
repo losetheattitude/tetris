@@ -2594,6 +2594,8 @@ int main()
      * There is nothing that can not be possible with misguessing a sequence of events and their outcomes. So is your position and has always been
      * You are the untrustable entity, has always been as anyone can tell by the explanations to your actions
      * And guess who does not know what they are doing ?
+     * 
+     * You will probably see why you are a simple animal when the time comes for your detrimention ?
       **/   
 
 
