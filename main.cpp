@@ -2573,6 +2573,8 @@ int main()
      * Now talk about 30 years and you will suddenly infer what will come just purely off of your selfish and immature childness
      * 
      * But you see, when the types of animals are trusted with judgment, this is what happens, so do not look farther for whose mistake this is
+     * The very same incapable mind that can not see the problem in 123919302130 wooomeeeennnn!!!! 122312321 cars!!!!!! get womeeennnn!!!
+     * You see the problem ?
       **/   
 
 
