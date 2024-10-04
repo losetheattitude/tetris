@@ -2682,7 +2682,7 @@ int main()
      * as you have demonstrated it with every decision that is not your place
      * 
      * You are irrelevant!!! eheheheh its funny though
-     * You said fair game regardless ?
+     * You said fair game regardless ? Thats playing like a pussy
       **/   
 
 
