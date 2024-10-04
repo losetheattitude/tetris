@@ -2577,6 +2577,9 @@ int main()
      * You see the problem ? Awww you were the ones who understood the life. etc etc fucking dumb monkeys
      * You do not understand the relative importance of things ? You see the problem right ?
      * The problem of immaturity and its undue reflection on you as authority. That what happens when stupid people are trusted with judgment!! funny though
+     * 
+     * You see the problem right ? You are the problem because you know all the things I said and you intentionally act like you are entitled to make that "tough decision"
+     * then start begging, "HEYY I REGRET!!!", you do not deserve it. That is the conclusion that any sane individual can draw
       **/   
 
 
