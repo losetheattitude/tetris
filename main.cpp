@@ -2621,6 +2621,7 @@ int main()
      * Gone!! its life!! its fate!! we right!! etc etc
      * Thats undue judgment, use it wisely next time,
      * Eheehhehe, if you say this, you are out!!! eheheh we good ppl, more like immature selfish monkeys
+     * Its most skillful and funny at the same time btw
       **/   
 
 
