@@ -2620,7 +2620,7 @@ int main()
      * Awww, you say I should be glad to live a most basic life, thats indeed !!
      * Gone!! its life!! its fate!! we right!! etc etc
      * Thats undue judgment, use it wisely next time,
-     * Eheehhehe, if you say this, you are out!!! eheheh we good ppl
+     * Eheehhehe, if you say this, you are out!!! eheheh we good ppl, more like immature selfish monkeys
       **/   
 
 
