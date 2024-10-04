@@ -2601,6 +2601,7 @@ int main()
      * You can already see what you are when you are under threat of losing something
      * 
      * If you want to understand your simplicity, you observe your reactions when you are under threat. I already know the answer
+     * Education etc you say eheheh
       **/   
 
 
