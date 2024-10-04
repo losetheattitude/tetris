@@ -2711,6 +2711,7 @@ int main()
      * Thanks for all of that, I am not interested in what you eat ehhehehe funny stuff isnt it
      * You know what they say, do it instead of bragging eheheh 
      * btw, you have got at least 1000000000 question before you get to explain your point of view, because you have made promises
+     * Without trust, there can be no future
       **/   
 
 
