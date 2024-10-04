@@ -2560,7 +2560,7 @@ int main()
      * Now you see the "immature, selfish animal", still wasting time ? Because you acted malign ? You wish that you be true even at the expense of ?
      * Awwww, you just need to harm, so you say why not this, its fair game etc
      * And all you can say is ? "its too late", "its fate", "its life", "its still the same stupid mass I am facing ?"
-     * Who does not know how to accept the truth ?
+     * Who does not know how to accept the truth ? Keep nagging and lying and accusing and ignoring ? Whos the problem 
       **/   
 
 
