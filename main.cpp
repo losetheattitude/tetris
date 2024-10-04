@@ -2635,7 +2635,7 @@ int main()
      * Get womeeennnnn!!!
      * 
      * And guess what ? You already know where it is going to lead, because you are a disgusting animal
-     * And the only way to solve is to "GROW UP", You are presenting as proofs what you "collected" coercefully against years of evidence
+     * And the only way to solve is to "GROW UP", You are presenting as proofs what you "collected" coercefully for a few days against years of evidence
       **/   
 
 
