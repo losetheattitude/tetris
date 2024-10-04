@@ -2688,6 +2688,10 @@ int main()
      * 
      * Awwwww, its too late for you!!! eheheh good ppl, etc, we need resources pls
      * Wait wait, 30 years etc eeheheh its funny stuff indeed, lets not even talk about it because it is apparent that "we are guilty"
+     * 
+     * You do not understand the distinction between your emotions and the truth ? Yet you still insist on your stupid obsessions because you think you should ?
+     * Eheehe funny stuff indeed
+     * 
       **/   
 
 
