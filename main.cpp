@@ -2627,6 +2627,7 @@ int main()
      * Fucking mad people, you see who is who
      * You see the problem in "regret etc", "education", "ignorance". Whats the pattern in them do you think ?
      * You have all of them eheheh, I was about to forget the begging behavior
+     * Awwww, also some malign intentions make it the perfect recipe for disasters, rightfully deserved for you
       **/   
 
 
