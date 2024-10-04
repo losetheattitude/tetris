@@ -2691,6 +2691,7 @@ int main()
      * 
      * You do not understand the distinction between your emotions and the truth ? Yet you still insist on your stupid obsessions because you think you should ?
      * Eheehe funny stuff indeed
+     * Awwww, you cop, you this, you that, please we want no losses eheheh thats the truth that you can not distinguish from your stupid emotions dumb animals
      * 
       **/   
 
