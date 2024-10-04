@@ -2576,6 +2576,7 @@ int main()
      * The very same incapable mind that can not see the problem in 123919302130 wooomeeeennnn!!!! 122312321 cars!!!!!! get womeeennnn!!!
      * You see the problem ? Awww you were the ones who understood the life. etc etc fucking dumb monkeys
      * You do not understand the relative importance of things ? You see the problem right ?
+     * The problem of immaturity and its undue reflection on you as authority. That what happens when stupid people are trusted with judgment!! funny though
       **/   
 
 
