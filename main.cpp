@@ -2677,6 +2677,9 @@ int main()
      * Or, you already know that you have caused a mess that is unseen, so you have to keep accusing otherwise there would be consequences. And you dare call it cured etc
      * Thats definitely the competency ehehe I do not respect your opinion as its irrelevant, because its not your job  as there is and has been no reason
      * other than stupid bullshit to act on
+     * 
+     * You see the undue judgment leads to stupid decisions because you do not know how to carry that responsibility,
+     * as you have demonstrated it with every decision that is not your place
       **/   
 
 
