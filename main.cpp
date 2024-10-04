@@ -2626,7 +2626,7 @@ int main()
      * Your every single argument has been refuted bro ? Why you still demand that you do not receive the same approach as you do ?
      * Fucking mad people, you see who is who
      * You see the problem in "regret etc", "education", "ignorance". Whats the pattern in them do you think ?
-     * You have all of them eheheh
+     * You have all of them eheheh, I was about to forget the begging behavior
       **/   
 
 
