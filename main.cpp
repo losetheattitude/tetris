@@ -2647,7 +2647,8 @@ int main()
      * Both of those are wrong guesses, they falsify eachother because their origin is malign and false, so there you go
      * 
      * Now you have wasted 30 years, and you think there is no responsible person, what do you think is the problem ?
-     * Where is the explanation other than "we mean good"?
+     * Where is the explanation other than "we mean good" ? But you also detriment ? through couple means, including the most cheap one "violence"
+     * as you deserve to be attributed as
       **/   
 
 
