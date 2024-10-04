@@ -2569,6 +2569,7 @@ int main()
      * I have all the information I need to tell who is right or wrong ? You accuse me lying ?
      * 
      * I am telling you, the misguess of "what would happen" is going to cause you a lot of trouble.
+     * Because I have all the information and facts and the awareness of "what you are alleging" and "its complete fallacy"
       **/   
 
 
