@@ -2607,6 +2607,7 @@ int main()
      * Thats the beauty of ignorant ppl, no direction and more irrelevant actions etc etc we good 
      * Thats the only way to not cope with reality btw, get womeennnn!!!
      * You see how you are completely okay but also enjoy the violence when you think its okay
+     * Thats the beauty of ignorant people
       **/   
 
 
