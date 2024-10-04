@@ -2704,6 +2704,7 @@ int main()
      * Acting like you are doing good stuff ? Yeahhhh, thats the problem
      * And you go on to call it education, you take me for stupid ?
      * Talk with your own level, or just grow up and then may be you will see converging points 
+     * No resources!!! heheheh funny stuff indeed
       **/   
 
 
