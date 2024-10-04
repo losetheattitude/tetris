@@ -2574,7 +2574,7 @@ int main()
      * 
      * But you see, when the types of animals are trusted with judgment, this is what happens, so do not look farther for whose mistake this is
      * The very same incapable mind that can not see the problem in 123919302130 wooomeeeennnn!!!! 122312321 cars!!!!!! get womeeennnn!!!
-     * You see the problem ?
+     * You see the problem ? Awww you were the ones who understood the life. etc etc fucking dumb monkeys
       **/   
 
 
