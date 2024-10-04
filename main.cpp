@@ -2644,7 +2644,7 @@ int main()
      * 
      * You see the sequence, you think it should be okay to make irrelevant decisions on behalf of someone else which includes violence and
      * you also think that it should be okay later on
-     * Both of those are wrong guesses
+     * Both of those are wrong guesses, they falsify eachother because their origin is malign and false, so there you go
       **/   
 
 
