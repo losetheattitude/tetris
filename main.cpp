@@ -2563,6 +2563,7 @@ int main()
      * Who does not know how to accept the truth ? Keep nagging and lying and accusing and ignoring ? Whos the problem 
      * 
      * Still begging ? Awwww, the past is past, its life, its fate, its meant to be, "WE ARE STILL THE SAME INFERIOR ANIMAL" ?
+     * Eheheheheh live your life!!!! we good ppl, it must be a blessinggg thank you!!!
       **/   
 
 
