@@ -2582,7 +2582,8 @@ int main()
      * then start begging, "HEYY I REGRET!!!", you do not deserve it. That is the conclusion that any sane individual can draw
      * 
      * Complete guilt and shameless of it, the most superior qualities indeed!
-     * Do you now see how the problems are created ? 
+     * Do you now see how the problems are created ? Do you see though that this is the most stupid way of creating problems for you, but who am I talking to
+     * after seeing your stupid actions ?
       **/   
 
 
