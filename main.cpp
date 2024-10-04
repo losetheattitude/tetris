@@ -2597,7 +2597,7 @@ int main()
      * 
      * You will probably see why you are a simple animal when the time comes for your detrimention ?
      * You see why you do not know what you are doing, thats the definition of selfish and immature btw
-     * Its fate! its life! 
+     * Its fate! its life!  its ignorance, its stupidity, its etc etc
       **/   
 
 
