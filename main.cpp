@@ -2608,6 +2608,9 @@ int main()
      * Thats the only way to not cope with reality btw, get womeennnn!!!
      * You see how you are completely okay but also enjoy the violence when you think its okay
      * Thats the beauty of ignorant people
+     * 
+     * Luckily though I already know what I should know, you better do not coerce or incentivize next time so things do not get ugly
+     * OR YOU WOULD DISPLAY GREATTTT VIOLENCE
       **/   
 
 
