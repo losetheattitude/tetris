@@ -2694,6 +2694,7 @@ int main()
      * Awwww, you cop, you this, you that, please we want no losses eheheh thats the truth that you can not distinguish from your stupid emotions dumb animals
      * 
      * Do you remember the conditions ? You stupid stubborn ignorant selfish people ?
+     * You keep saying mean, but you do not recognize your inexplicable actions ?
      * 
       **/   
 
