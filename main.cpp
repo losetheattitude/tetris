@@ -2672,6 +2672,8 @@ int main()
      * 
      * Wait wait, nobody is responsible!!!!! because we think so, awwwww its competency btw, ehehehe
      * Do you see the difference between coercion and "legal" ?
+     * 
+     * Still the same narrative ? There are almost 3 decades of regular conduct but you still say "heyyy !!!! its illegal" because we do not want to cope with the truth ????
       **/   
 
 
