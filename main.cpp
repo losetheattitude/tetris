@@ -2671,6 +2671,7 @@ int main()
      * Awwwwwwww, you call it education eheheh
      * 
      * Wait wait, nobody is responsible!!!!! because we think so, awwwww its competency btw, ehehehe
+     * Do you see the difference between coercion and "legal" ?
       **/   
 
 
