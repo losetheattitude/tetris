@@ -2669,6 +2669,8 @@ int main()
      * You have the credibility of the animal on the street, you still calling shots you think ?
      * Awwwww, its too late for you !!!!! Awwwww, you have forgotten ? But you havent forgotten to harm, most interesting bro
      * Awwwwwwww, you call it education eheheh
+     * 
+     * Wait wait, nobody is responsible!!!!! because we think so
       **/   
 
 
