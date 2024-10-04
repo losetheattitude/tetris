@@ -2702,6 +2702,7 @@ int main()
      * 
      * Do you still think you should make decisions with your obviously irrelevant contexts acting like you know what you are doing ?
      * Acting like you are doing good stuff ? Yeahhhh, thats the problem
+     * And you go on to call it education, you take me for stupid ?
       **/   
 
 
