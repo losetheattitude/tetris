@@ -2562,7 +2562,7 @@ int main()
      * And all you can say is ? "its too late", "its fate", "its life", "its still the same stupid mass I am facing ?"
      * Who does not know how to accept the truth ? Keep nagging and lying and accusing and ignoring ? Whos the problem 
      * 
-     * Still begging ?
+     * Still begging ? Awwww, the past is past, its life, its fate, its meant to be, "WE ARE STILL THE SAME INFERIOR ANIMAL" ?
       **/   
 
 
