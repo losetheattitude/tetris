@@ -2628,6 +2628,7 @@ int main()
      * You see the problem in "regret etc", "education", "ignorance". Whats the pattern in them do you think ?
      * You have all of them eheheh, I was about to forget the begging behavior
      * Awwww, also some malign intentions make it the perfect recipe for disasters, rightfully deserved for you
+     * Just because you keep saying something out of your desperate fears, does not make it the truth, as you have years of evidence that backs it up
       **/   
 
 
