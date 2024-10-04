@@ -2591,7 +2591,7 @@ int main()
      * Still enjoying your vile experiences through vile actions as a vile animal ? Thats not the problem
      * Guess who is false when saying that "it is a blessing that he gets to live a normal life", You are obviously false 
      * 
-     * There is nothing that can not be possible with misguessing a sequence of events and their outcomes
+     * There is nothing that can not be possible with misguessing a sequence of events and their outcomes. So is your position and has always been
       **/   
 
 
