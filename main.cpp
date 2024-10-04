@@ -2683,6 +2683,8 @@ int main()
      * 
      * You are irrelevant!!! eheheheh its funny though
      * You said fair game regardless ? Thats playing like a pussy
+     * 
+     * Wait wait wait, what happened again ? ehhehe awww you just harmed somebody and something eventually happened awwwww, thats the proof of your greatness I see
       **/   
 
 
