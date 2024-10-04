@@ -2680,6 +2680,8 @@ int main()
      * 
      * You see the undue judgment leads to stupid decisions because you do not know how to carry that responsibility,
      * as you have demonstrated it with every decision that is not your place
+     * 
+     * You are irrelevant!!! eheheheh its funny though
       **/   
 
 
