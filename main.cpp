@@ -2586,6 +2586,8 @@ int main()
      * after seeing your stupid actions ? Who am I telling the relative importance of things, when they are the ones enjoying violence and guising it with education.
      * Awwww, look how educated you are and thanks to you I have become ? So who is the problem good ppl ?
      * Waste more time, who cares ? You are already enjoying your vile emotions, "violence for the education!!!"
+     * 
+     * You are the entity that takes violence for education but can not see that it does not work, because its not!!! awwww, most difficult inference indeed
       **/   
 
 
