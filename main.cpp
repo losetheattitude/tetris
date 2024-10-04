@@ -2695,6 +2695,7 @@ int main()
      * 
      * Do you remember the conditions ? You stupid stubborn ignorant selfish people ?
      * You keep saying mean, but you do not recognize your inexplicable actions ?
+     * Or are you counting on my "forgeting your irrelevant noises because I know that you are uncredible and disgusting ?"
      * 
       **/   
 
