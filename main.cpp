@@ -2687,6 +2687,7 @@ int main()
      * Wait wait wait, what happened again ? ehhehe awww you just harmed somebody and something eventually happened awwwww, thats the proof of your greatness I see
      * 
      * Awwwww, its too late for you!!! eheheh good ppl, etc, we need resources pls
+     * Wait wait, 30 years etc eeheheh its funny stuff indeed, lets not even talk about it because it is apparent that "we are guilty"
       **/   
 
 
