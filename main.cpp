@@ -2674,6 +2674,8 @@ int main()
      * Do you see the difference between coercion and "legal" ?
      * 
      * Still the same narrative ? There are almost 3 decades of regular conduct but you still say "heyyy !!!! its illegal" because we do not want to cope with the truth ????
+     * Or, you already know that you have caused a mess that is unseen, so you have to keep accusing otherwise there would be consequences. And you dare call it cured etc
+     * Thats definitely the competency ehehe
       **/   
 
 
