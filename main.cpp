@@ -2649,6 +2649,9 @@ int main()
      * Now you have wasted 30 years, and you think there is no responsible person, what do you think is the problem ?
      * Where is the explanation other than "we mean good" ? But you also detriment ? through couple means, including the most cheap one "violence"
      * as you deserve to be attributed as
+     * 
+     * So you know, your approach violence as education can self evidently proves the otherwise while you are the one who is presenting that "great behaviour"
+     * that self evidently proves that you need to be educated
       **/   
 
 
