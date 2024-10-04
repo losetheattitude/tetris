@@ -2589,6 +2589,7 @@ int main()
      * 
      * You are the entity that takes violence for education but can not see that it does not work, because its not!!! awwww, most difficult inference indeed
      * Still enjoying your vile experiences through vile actions as a vile animal ? Thats not the problem
+     * Guess who is false when saying that "it is a blessing that he gets to live a normal life", You are obviously false 
       **/   
 
 
