@@ -2612,7 +2612,7 @@ int main()
      * Luckily though I already know what I should know, you better do not coerce or incentivize next time so things do not get ugly
      * OR YOU WOULD DISPLAY GREATTTT VIOLENCE
      * Awwwwww, its too late!!!! Why do you think there is "ignorance" ? That is how it feels to be ignorant because you have ignored at the wrong time
-     * And you feel like you should be forgiven ?
+     * And you feel like you should be forgiven ? Thats literally how it feels to be ignorant eheheh
       **/   
 
 
