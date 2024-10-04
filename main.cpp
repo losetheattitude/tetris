@@ -2700,6 +2700,8 @@ int main()
      * Education btw, its too late btw etc
      * Thats being unreasonable btw etc
      * 
+     * Do you still think you should make decisions with your obviously irrelevant contexts acting like you know what you are doing ?
+     * Acting like you are doing good stuff ? Yeahhhh, thats the problem
       **/   
 
 
