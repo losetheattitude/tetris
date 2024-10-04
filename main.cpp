@@ -2585,6 +2585,7 @@ int main()
      * Do you now see how the problems are created ? Do you see though that this is the most stupid way of creating problems for you, but who am I talking to
      * after seeing your stupid actions ? Who am I telling the relative importance of things, when they are the ones enjoying violence and guising it with education.
      * Awwww, look how educated you are and thanks to you I have become ? So who is the problem good ppl ?
+     * Waste more time, who cares ? You are already enjoying your vile emotions, "violence for the education!!!"
       **/   
 
 
