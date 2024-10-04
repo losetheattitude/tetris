@@ -2641,6 +2641,9 @@ int main()
      * Why dont you grow up instead ? Who said you could make decisions that ARE NOT YOUR PLACE
      * Do you see who is delusioning ? As you are delusioning the supposed consequences of your irrational actions
      * As you delusioning with your boundaries
+     * 
+     * You see the sequence, you think it should be okay to make irrelevant decisions on behalf of someone else which includes violence and
+     * you also think that it should be okay later on
       **/   
 
 
