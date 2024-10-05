@@ -2821,6 +2821,8 @@ int main()
      * Still deluding ? Thats not insecurity, I assure you, education btw you say eheheh
      * More like ignorant people ignoring what their mistake is, but hey!!! you are the ignorant one eheh
      * Do you still dare to talk about time ? As if you understand it ?
+     * 
+     * How come does that make sense ehehe
 
      * 
       **/   
