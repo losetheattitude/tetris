@@ -2752,6 +2752,7 @@ int main()
      * Did you say "sacrifice" with your incomparably rare and honest composures ?
      * How come does that make sense ? eheheh funny stuff indeed
      * And you still begging ? Where were you btw eheheh funny stuff
+     * Awwww, you think you can make offers with your inexistent credibility ? And you still beg ?
       **/   
 
 
