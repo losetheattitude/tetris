@@ -2872,6 +2872,8 @@ int main()
      * What a coincidence!!! what a shame!!! But you also think, miraculously, that the violence is an education ? Yet you can not explain it to others ?
      * So what everyone is missing ? Its not even to be approached as a problem but look at the behavior you are demonstrating eheheh funny stuff
      * 
+     * Why are you still asking things from someone you harm intentionally ?
+     * 
       **/   
 
 
