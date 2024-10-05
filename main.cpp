@@ -2877,6 +2877,8 @@ int main()
      * You do your job properly, nobody gets hurt, you still ask lies ?
      * Eehehehe, you still delude about you should get to make decisions ? What a shame you are a lost selfish animal
      * 
+     * Fucking stupid monkeys, great people
+     * 
       **/   
 
 
