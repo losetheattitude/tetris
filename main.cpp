@@ -2852,7 +2852,7 @@ int main()
      * you would still beg credibility ? How about 30 years of evidence ? You already know it is going to fail and will have different effects than what you
      * have guessed in the first place, so what is your problem ?
      * Awwww, suddenly you take life lightly because you need to eheheheheh funny stuff indeed
-     * Lets see, what happens when others do that as well ?
+     * Lets see, what happens when others do that as well ? Whats the problem then ?
      * 
       **/   
 
