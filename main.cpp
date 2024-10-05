@@ -2865,6 +2865,7 @@ int main()
      * Awwwww, you also offer things eheheheh its most funny
      * 
      * Awwwww, you say its too late eheheh, hopefully though nobody gets hurt
+     * Awww, you also "allege" that not having enough resources is quite related to what you are aiming, and you also claim that its not considered begging behavior?
      * 
       **/   
 
