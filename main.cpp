@@ -2891,6 +2891,7 @@ int main()
      * wasting yours and others' times, DO YOU SEE THE PATTERN ?
      * Awwww, you need help ? interesting indeed
      * Do you see the difference between coercion and noncoercion ? Talk about a few days and years of evidence, you will see the problem
+     * You see how selfish people act and respond when confronted, do not be like yourselves guys!! ehehe most funny indeed
      * 
       **/   
 
