@@ -2698,8 +2698,8 @@ int main()
      * Or are you counting on my "forgeting your irrelevant noises because I know that you are uncredible and disgusting ?"
      * Do you remember the times that I said "I trust you in this instance" ? And look at the outcome!!!! great life!!! no no ehehe good ppl
      * Education btw, its too late btw etc
-     * Thats being unreasonable btw etc
-     * 
+     * Thats being unreasonable btw etc 
+     *  
      * Do you still think you should make decisions with your obviously irrelevant contexts acting like you know what you are doing ?
      * Acting like you are doing good stuff ? Yeahhhh, thats the problem
      * And you go on to call it education, you take me for stupid ?
@@ -2717,6 +2717,7 @@ int main()
      * You already know where the "irrelevant people" is coming from eheheh funny stuff btw
      * 
      * Better use your brain next time, stupid people of the history
+     * Before you make a comment about something you have no information, try asking the opinions may be then you wont look like a complete stupid
       **/   
 
 
