@@ -2857,6 +2857,7 @@ int main()
      * 
      * Keep misguessing, guess who is turning the context into something they can not really cope with ?
      * and still thinking that it should be good, you do not see the different contexts ? keep promising, your circle did turned you into the very animal that is rife
+     * now you know the meaning of those qualities
      * 
       **/   
 
