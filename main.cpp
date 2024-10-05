@@ -2778,6 +2778,7 @@ int main()
      * 
      * Hey heyyy, now treat with one or two women and say good stuff about him and beg more ehehehe so that we can save our disgusting
      * and guilty existence from 30 years of irrelevant decisions, btw instead of trusting we have chosen to ignore and presented some violence!!!! whats the problem eheh
+     * So, you have ignored and became what ?
      * 
       **/   
 
