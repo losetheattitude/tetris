@@ -2868,7 +2868,8 @@ int main()
      * Awww, you also "allege" that not having enough resources is quite related to what you are aiming, and you also claim that its not considered begging behavior?
      * Please say that you did it!! eheheh otherwise it means we might be in a situation to reduce our really precious experiences a little ?
      * 
-     * Wait wait, you also think it should be okay to request things again ?
+     * Wait wait, you also think it should be okay to request things again ? How come ? You are the most incredible entity but you somehow think that for a skill ?
+     * What a coincidence!!! what a shame!!!
      * 
       **/   
 
