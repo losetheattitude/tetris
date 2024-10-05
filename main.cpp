@@ -2824,7 +2824,8 @@ int main()
      * 
      * How come does that make sense ehehe, you say "sacrifice" with relief, thats reallly realllyy funny
      * Still wasting time with the same relief, and asking more things 
-
+     * 
+     * As I told you, I have no intention for detrimention, so thanks for all that good acts etc
      * 
       **/   
 
