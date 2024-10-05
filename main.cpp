@@ -2819,6 +2819,7 @@ int main()
      * and coerce others into doing so ? Not the pattern of "stupid people of the earth"
      * The same people who take a few days of coercion over years of evidence, that is the pattern
      * Still deluding ? Thats not insecurity, I assure you, education btw you say eheheh
+     * More like ignorant people ignoring what their mistake is, but hey!!! you are the ignorant one eheh
 
      * 
       **/   
