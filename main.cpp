@@ -2741,7 +2741,9 @@ int main()
      * Thats kinda mmhhhh, thats kinda eheheh 
      * 
      * You see the correlation between your actions and the stupid people of the history right ? ehehe its because you can neither advocate nor account
-     * for your actions
+     * for your actions.
+     * 
+     * Yeahhhh, irrelevant people CAUSING irrelevant disasters through irrelevant actions, perfect match
       **/   
 
 
