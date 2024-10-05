@@ -2873,7 +2873,7 @@ int main()
      * So what everyone is missing ? Its not even to be approached as a problem but look at the behavior you are demonstrating eheheh funny stuff
      * 
      * Why are you still asking things from someone you harm intentionally ?
-     * You solve your own problems
+     * You solve your own problems and you will see the problem in your thinking, especially with "correlating resources with your supposedly justified aim"
      * 
       **/   
 
