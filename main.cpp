@@ -2813,7 +2813,7 @@ int main()
      * You have chosen womeeennnn!!! ehehehehehehheheehh its so fun
      * 
      * Do you want to see fake tough guys or fake men ? Do not reach too far, its you
-     * Thats the meaning of "cheap", I have no time for you
+     * Thats the meaning of "cheap", I have no time for you, still offering things ?
 
      * 
       **/   
