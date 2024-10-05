@@ -2878,7 +2878,7 @@ int main()
      * Eehehehe, you still delude about you should get to make decisions ? What a shame you are a lost selfish animal
      * 
      * Fucking stupid monkeys, great people, Awwwwww either you have forgotten or you are such a good people that I can not even find the words to describe ?
-     * Awww, you say money etc eheheh funny stuff
+     * Awww, you say money etc eheheh funny stuff, awww you had all this time but you obviously chose yourself 1230213021 times ?
      * 
       **/   
 
