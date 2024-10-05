@@ -2775,6 +2775,10 @@ int main()
      * Hope that everyone just goes along with your point of view, that can not be the problem dumb people
      * Now, talk about the violence and do not delude about not receiving the same, as your unseen credibility and sincerity can tell
      * that you are a normal animal
+     * 
+     * Hey heyyy, now treat with one or two women and say good stuff about him and beg more ehehehe so that we can save our disgusting
+     * and guilty existence from 30 years of irrelevant decisions, btw instead of trusting we have chosen to ignore and presented some violence!!!! whats the problem eheh
+     * 
       **/   
 
 
