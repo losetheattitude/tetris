@@ -2722,6 +2722,8 @@ int main()
      * Immature, irresponsible monkeys tryna fool people they can not, reduce to your own nature bro
      * Ehehehe, we seek no harms, we seek no problems, pls help us lie, fix our problems, help us live our life eheheh, experiences,
      * life a simulation eheheh, life good, life short, ehehe its too late, FUCKING DUMB MONKEYS
+     * 
+     * You already know, you are %100000000000000000000000 guilty, and there is nothing to talk about
       **/   
 
 
