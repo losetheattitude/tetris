@@ -2869,7 +2869,7 @@ int main()
      * Please say that you did it!! eheheh otherwise it means we might be in a situation to reduce our really precious experiences a little ?
      * 
      * Wait wait, you also think it should be okay to request things again ? How come ? You are the most incredible entity but you somehow think that for a skill ?
-     * What a coincidence!!! what a shame!!!
+     * What a coincidence!!! what a shame!!! But you also think, miraculously, that the violence is an education ? Yet you can not explain it to others ?
      * 
       **/   
 
