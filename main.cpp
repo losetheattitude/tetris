@@ -2879,7 +2879,7 @@ int main()
      * 
      * Fucking stupid monkeys, great people, Awwwwww either you have forgotten or you are such a good people that I can not even find the words to describe ?
      * Awww, you say money etc eheheh funny stuff, awww you had all this time but you obviously chose yourself 1230213021 times ?
-     * Why do you take life lightly ? 
+     * Why do you take life lightly ? Awwww, you say its family, its education, its mandatory, its funny, eheheheh 
      * 
       **/   
 
