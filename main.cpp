@@ -2794,6 +2794,7 @@ int main()
      * Awwwww, I have forgotten you are the animal who guises his desire to enjoy, I see, Imma pass on those who so far acted as they have promised to
      * 
      * Not selfish, immature etc eheheh never ignorant as well!!! good ppl
+     * You suddenly see the meaning in "stupid people of the history", you precisely fit that pattern, trust me I am not alike and wont bend for my own "experiences"
 
      * 
       **/   
