@@ -2870,7 +2870,7 @@ int main()
      * 
      * Wait wait, you also think it should be okay to request things again ? How come ? You are the most incredible entity but you somehow think that for a skill ?
      * What a coincidence!!! what a shame!!! But you also think, miraculously, that the violence is an education ? Yet you can not explain it to others ?
-     * So what everyone is missing ?
+     * So what everyone is missing ? Its not even to be approached as a problem but look at the behavior you are demonstrating eheheh funny stuff
      * 
       **/   
 
