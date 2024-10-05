@@ -2841,7 +2841,7 @@ int main()
      * then get to the real problem ?
      * 
      * Wait wait, how about you explain to me my experience ? Awwww, you think assaulting defenceless people is being tough guy eheheh
-     * Look who is the problem bro ?
+     * Look who is the problem bro ? Are you still offering women ?
      * 
       **/   
 
