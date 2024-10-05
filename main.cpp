@@ -2832,6 +2832,7 @@ int main()
      * What are you waiting for again ? Awww, you need help from the people you want to harm eheheh
      * Ehehehe, 30 years of evidence can not convince obvioulsy the stupid people 
      * Good ppl btw, awww you think saying the most disgusting thing in a funny way should solve the problem ?
+     * ehehehe, talk about the time btw you will realize your stupidity
      * 
       **/   
 
