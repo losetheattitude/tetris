@@ -2822,7 +2822,7 @@ int main()
      * More like ignorant people ignoring what their mistake is, but hey!!! you are the ignorant one eheh
      * Do you still dare to talk about time ? As if you understand it ?
      * 
-     * How come does that make sense ehehe
+     * How come does that make sense ehehe, you say "sacrifice" with relief, thats reallly realllyy funny
 
      * 
       **/   
