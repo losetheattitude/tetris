@@ -2802,8 +2802,8 @@ int main()
      * Awwww, you are also proud that you manipulate people who has no proper choice ehehehe so fun btw
      * Why are you still begging through "offers that your unseen honor have never delivered" ? Thats why you are inferior, also the fact that you enjoy 
      * your inferiority eheheh funny stuff, talk more about coercion and violence 
-     * 
-     * You still making offers ? 30 years ? eheheh funny stuff right ?
+     *  
+     * You still making offers ? 30 years ? eheheh funny stuff right ? Awww you still go against years of evidence with a few days of coercion eheheh
 
      * 
       **/   
