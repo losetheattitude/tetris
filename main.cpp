@@ -2739,6 +2739,9 @@ int main()
      * 
      * You can not provide any reasonable explanation to your actions, that are far from your boundaries ?
      * Thats kinda mmhhhh, thats kinda eheheh 
+     * 
+     * You see the correlation between your actions and the stupid people of the history right ? ehehe its because you can neither advocate nor account
+     * for your actions
       **/   
 
 
