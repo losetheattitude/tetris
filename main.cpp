@@ -2758,7 +2758,9 @@ int main()
      * 
      * Awwww, you also think, watching illegally and enjoying your "life" through such a stupid mean should be okay ?
      * What makes you think you could even do that ? What makes you think you can watch and take it for a "job" ?
-     * Fucking stupid monkeys
+     * Fucking stupid monkeys, you are the irrelevant stupid peoples
+     * 
+     * Ehehehe, have this!! have that!!! its yours!!! ehehe funny stuff 
       **/   
 
 
