@@ -2836,7 +2836,9 @@ int main()
      * 
      * Ehehehe, you stay there, eheheh do not do this or that, no no, because why not eheheh funny stuff btw
      * its the only way!! its the old way!! its the best way!! ehehe we do it like this!!! what else are you saying ?
-     * You all are irrelevant!!!
+     * You all are irrelevant!!! Why though you still think, because of people around you who gives you the courage "the stupid mass",
+     * to waste more time on bullshit ? Awwww, I have forgotten you only care about your own experience so you try to enjoy yours first
+     * then get to the real problem ?
      * 
       **/   
 
