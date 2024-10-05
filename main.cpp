@@ -2826,7 +2826,7 @@ int main()
      * Still wasting time with the same relief, and asking more things 
      * 
      * As I told you, I have no intention for detrimention, so thanks for all that good acts etc
-     * You all are just selfish simple animals, who to thank btw ?
+     * You all are just selfish simple animals, who to thank btw ? Awww, you would love calling it fate while committing it eheheh funny stuff 
      * 
       **/   
 
