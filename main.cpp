@@ -2790,7 +2790,7 @@ int main()
      * and we also think we right, and we want to enjoy our experiences!!!!! please heheh funny 
      * You still call it drama, such a funny approach, I have never seen nobody stupid like you all
      * 
-     * Waste more time bro what is the problem ?
+     * Waste more time bro what is the problem ? Ehehe we understand time bwt, not that we are emotional eheheh
 
      * 
       **/   
