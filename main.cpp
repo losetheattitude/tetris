@@ -2816,7 +2816,7 @@ int main()
      * Thats the meaning of "cheap", I have no time for you, still offering things ?
      * Eheheeheh education, look at the dumb people who think they are achieving...
      * Its because you did this!!!! not we coerced, you did it!!! and you chose to waste your time like this
-     * and coerce others into doing so ?
+     * and coerce others into doing so ? Not the pattern of "stupid people of the earth"
 
      * 
       **/   
