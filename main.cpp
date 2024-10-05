@@ -2817,7 +2817,7 @@ int main()
      * Eheheeheh education, look at the dumb people who think they are achieving...
      * Its because you did this!!!! not we coerced, you did it!!! and you chose to waste your time like this
      * and coerce others into doing so ? Not the pattern of "stupid people of the earth"
-     * The same people who take a few days of coercion over years of evidence 
+     * The same people who take a few days of coercion over years of evidence, that is the pattern
 
      * 
       **/   
