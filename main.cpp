@@ -2807,6 +2807,8 @@ int main()
      * And following that approach, you suddenly start making offers ? Where were you ??? eheheh funny btw
      * Get woomeeeennnn!!! Why you still delude about making "decisions" THAT DO NOT BELONG TO YOU ?,
      * You see the pattern in your relief about such a thing with the "stupid people of the history ?"
+     * Do you see the pattern in your "offers of wooomeeennnnnn!!!", thats why you are stupid. You still think having 10000000 women would be a solution
+     * and you say you understand time and you also say you want to enjoy your experiences, DUMB PEOPLE
 
      * 
       **/   
