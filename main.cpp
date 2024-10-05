@@ -2845,7 +2845,7 @@ int main()
      * How come I owe you anything other than irrelevant violence ? Thats who you are
      * 
      * Wait wait, detrimental lifestyle should answer everything you say!! eheheh and I owe you something ?
-     * You see the "obsessive" and "ignorant" people ?
+     * You see the "obsessive" and "ignorant" people ? Still asking what ?
      * 
       **/   
 
