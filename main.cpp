@@ -2835,6 +2835,8 @@ int main()
      * ehehehe, talk about the time btw you will realize your stupidity
      * 
      * Ehehehe, you stay there, eheheh do not do this or that, no no, because why not eheheh funny stuff btw
+     * its the only way!! its the old way!! its the best way!! ehehe we do it like this!!! what else are you saying ?
+     * You all are irrelevant!!!
      * 
       **/   
 
