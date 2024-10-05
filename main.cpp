@@ -2715,6 +2715,8 @@ int main()
      * Not spoiled immature people btw, do not abstain from what you tell others, eheheh funny stuff btw
      * No no, do not give up the same things, there is no reason for you to give up!!! ehehehe
      * You already know where the "irrelevant people" is coming from eheheh funny stuff btw
+     * 
+     * Better use your brain next time, stupid people of the history
       **/   
 
 
