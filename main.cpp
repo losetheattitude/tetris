@@ -2767,9 +2767,8 @@ int main()
      * Please, we want to enjoy our experiences you say ? Have some wooomeeennnn!!!!! eheheh funny bro, 
      * 
      * 
-     * How about years of evidence against your a few days
-     * of coercion ?
-     * Indeed monkeys eheheh 
+     * How about years of evidence against your a few days of coercion ?
+     * Indeed monkeys eheheh. The time that has passed ? eheheh its also funny because we want to enjoy our experiences ehehehe 
       **/   
 
 
