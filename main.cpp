@@ -2798,6 +2798,7 @@ int main()
      * Awwwww, you also act like you are sad, not because "you know you are guilty". eheheh good and intelligent ppl
      * 
      * Do you remember the coercions etc ? eheheh I am sure thats not why you feel the need of being sad!! funny stuff indeed
+     * You know why you are begging right now, its because your nature is exactly that inferior
 
      * 
       **/   
