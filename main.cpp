@@ -2732,6 +2732,8 @@ int main()
      * we understand etc eheheh, get womenn btw
      * There were literally 12301230210 things you could do, you still insist on what you think should be the truth eheheh
      * Thats immature, try harder
+     * 
+     * I am sure you do not see the correlation between you and the stupid people of the history, who can not deal with the truth
       **/   
 
 
