@@ -2805,7 +2805,7 @@ int main()
      *  
      * You still making offers ? 30 years ? eheheh funny stuff right ? Awww you still go against years of evidence with a few days of coercion eheheh
      * And following that approach, you suddenly start making offers ? Where were you ??? eheheh funny btw
-     * Get woomeeeennnn!!!
+     * Get woomeeeennnn!!! Why you still delude about making "decisions" THAT DO NOT BELONG TO YOU ?
 
      * 
       **/   
