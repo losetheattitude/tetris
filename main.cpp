@@ -2773,7 +2773,7 @@ int main()
      * Why did you reduce to your own nature now ? Do not call that intelligence because WE ARE NOT ALIKE, 
      * 
      * Hope that everyone just goes along with your point of view, that can not be the problem dumb people
-     * Now, talk about the violence
+     * Now, talk about the violence and do not delude about not receiving the same
       **/   
 
 
