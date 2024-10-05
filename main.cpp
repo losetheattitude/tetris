@@ -2844,6 +2844,8 @@ int main()
      * Look who is the problem bro ? Are you still offering women ? Why do you think I should owe you anything ? Awww, please be silent!!! shhhh eheheh intelligent people
      * How come I owe you anything other than irrelevant violence ? Thats who you are
      * 
+     * Wait wait, detrimental lifestyle should answer everything you say!! eheheh and I owe you something ?
+     * 
       **/   
 
 
