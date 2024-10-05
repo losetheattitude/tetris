@@ -2885,7 +2885,9 @@ int main()
      * 
      * Aww you say, you trust now ehehe until you free yourself from your crimes ? eheheh inexplicable etc
      * greater good btw, I am not interested in anything you could possibly form, as the "history" has proven on multiple occasions
+     * 
      * If you did your job then and now and back then, we wouldnt have any issues, do you see the pattern ? How about start listening instead of ignoring ?
+     * Because I can really tell when someone does not know what he is doing
      * 
       **/   
 
