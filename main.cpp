@@ -2848,7 +2848,9 @@ int main()
      * You see the "obsessive" and "ignorant" people ? Still asking what ?
      * Awwww, you say you did your job perfectly eheheh
      * 
-     * You really did your job great!!! ehehehhe,
+     * You really did your job great!!! ehehehhe, wait wait, you still do not take people words for serious ? but as a most uncredible disgusting entity,
+     * you would still beg credibility ? How about 30 years of evidence ? You already know it is going to fail and will have different effects than what you
+     * have guessed in the first place, so what is your problem ?
      * 
       **/   
 
