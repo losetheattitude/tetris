@@ -2829,7 +2829,7 @@ int main()
      * You all are just selfish simple animals, who to thank btw ? Awww, you would love calling it fate while committing it eheheh funny stuff 
      * So, whats the value of your promises again ?
      * 
-     * What are you waiting for again ?
+     * What are you waiting for again ? Awww, you need help from the people you want to harm eheheh
      * 
       **/   
 
