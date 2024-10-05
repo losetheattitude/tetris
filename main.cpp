@@ -2809,6 +2809,7 @@ int main()
      * You see the pattern in your relief about such a thing with the "stupid people of the history ?"
      * Do you see the pattern in your "offers of wooomeeennnnnn!!!", thats why you are stupid. You still think having 10000000 women would be a solution
      * and you say you understand time and you also say you want to enjoy your experiences, DUMB PEOPLE
+     * You still delude, a few women should solve the problem of "time", for a limited amount of time !!! eheheh funny people
 
      * 
       **/   
