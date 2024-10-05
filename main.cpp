@@ -2801,7 +2801,7 @@ int main()
      * You know why you are begging right now, its because your nature is exactly that inferior, delude about that as well
      * Awwww, you are also proud that you manipulate people who has no proper choice ehehehe so fun btw
      * Why are you still begging through "offers that your unseen honor have never delivered" ? Thats why you are inferior, also the fact that you enjoy 
-     * your inferiority eheheh funny stuff
+     * your inferiority eheheh funny stuff, talk more about coercion and violence 
 
      * 
       **/   
