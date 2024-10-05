@@ -2830,6 +2830,7 @@ int main()
      * So, whats the value of your promises again ?
      * 
      * What are you waiting for again ? Awww, you need help from the people you want to harm eheheh
+     * Ehehehe, 30 years of evidence can not convince obvioulsy the stupid people 
      * 
       **/   
 
