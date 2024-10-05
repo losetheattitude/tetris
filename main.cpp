@@ -2874,6 +2874,7 @@ int main()
      * 
      * Why are you still asking things from someone you harm intentionally ?
      * You solve your own problems and you will see the problem in your thinking, especially with "correlating not having resources with your supposedly justified aim"
+     * You do your job properly, nobody gets hurt
      * 
       **/   
 
