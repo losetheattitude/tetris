@@ -2713,6 +2713,7 @@ int main()
      * btw, you have got at least 1000000000 question before you get to explain your point of view, because you have made promises
      * Without trust, there can be no future
      * Not spoiled immature people btw, do not abstain from what you tell others, eheheh funny stuff btw
+     * No no, do not give up the same things, there is no reason for you to give up!!! ehehehe
       **/   
 
 
