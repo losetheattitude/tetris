@@ -2799,6 +2799,7 @@ int main()
      * 
      * Do you remember the coercions etc ? eheheh I am sure thats not why you feel the need of being sad!! funny stuff indeed
      * You know why you are begging right now, its because your nature is exactly that inferior, delude about that as well
+     * Awwww, you are also proud that you manipulate people who has no proper choice ehehehe so fun btw
 
      * 
       **/   
