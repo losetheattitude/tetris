@@ -2786,6 +2786,7 @@ int main()
      * Although we know we do not deserve to have that judgment but still eheheh funny stuff, why not harm them ehehe
      * 
      * Not even single assumption about me is allowed, let alone deciding or you would just coerce as its your nature and habit
+     * Ehehe we love making decisions because ehehehe we coerce eheheh scare and violate ehehhe then make decisions off of that eheeh funny stuff indeed
 
      * 
       **/   
