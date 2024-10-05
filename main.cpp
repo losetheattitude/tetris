@@ -2760,7 +2760,8 @@ int main()
      * What makes you think you could even do that ? What makes you think you can watch and take it for a "job" ?
      * Fucking stupid monkeys, you are the irrelevant stupid peoples
      * 
-     * Ehehehe, have this!! have that!!! its yours!!! ehehe funny stuff 
+     * Ehehehe, have this!! have that!!! its yours!!! ehehe funny stuff, we have delivered every single of our honorable and credible
+     * and sincere "noises", why dont you just trust us ? Do you say that ? With straight face ?
       **/   
 
 
