@@ -2734,7 +2734,7 @@ int main()
      * Thats immature, try harder
      * 
      * I am sure you do not see the correlation between you and the stupid people of the history, who can not deal with the truth
-     * Wait wait, how about 30 years etc ?
+     * Wait wait, how about 30 years etc ? eheheh it was a mistake, WHAT CAN I SAY ? ehehehe its most funny indeed
       **/   
 
 
