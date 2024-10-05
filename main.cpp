@@ -2796,6 +2796,8 @@ int main()
      * Not selfish, immature etc eheheh never ignorant as well!!! good ppl
      * You suddenly see the meaning in "stupid people of the history", you precisely fit that pattern, trust me I am not alike and wont bend for my own "experiences"
      * Awwwww, you also act like you are sad, not because "you know you are guilty". eheheh good and intelligent ppl
+     * 
+     * Do you remember the coercions etc ? eheheh I am sure thats not why you feel the need of being sad!! funny stuff indeed
 
      * 
       **/   
