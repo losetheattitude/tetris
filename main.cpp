@@ -2820,6 +2820,7 @@ int main()
      * The same people who take a few days of coercion over years of evidence, that is the pattern
      * Still deluding ? Thats not insecurity, I assure you, education btw you say eheheh
      * More like ignorant people ignoring what their mistake is, but hey!!! you are the ignorant one eheh
+     * Do you still dare to talk about time ? As if you understand it ?
 
      * 
       **/   
