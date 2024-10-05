@@ -2719,7 +2719,7 @@ int main()
      * Better use your brain next time, stupid people of the history
      * Before you make a comment about something you have no information, try asking the opinions may be then you wont look like a complete stupid
      * Ehehehe, he does not need anything eheheh they are doing good! eheheh funny stuff indeed
-     * Immature, irresponsible monkeys tryna fool people they can not
+     * Immature, irresponsible monkeys tryna fool people they can not, reduce to your own nature bro
       **/   
 
 
