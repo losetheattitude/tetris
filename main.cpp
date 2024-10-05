@@ -2811,6 +2811,8 @@ int main()
      * and you say you understand time and you also say you want to enjoy your experiences, DUMB PEOPLE
      * You still delude, a few women should solve the problem of "time", for a limited amount of time !!! eheheh funny people
      * You have chosen womeeennnn!!! ehehehehehehheheehh its so fun
+     * 
+     * Do you want to see fake tough guys or fake men ? Do not reach too far, its you
 
      * 
       **/   
