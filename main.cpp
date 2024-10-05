@@ -2771,6 +2771,8 @@ int main()
      * Indeed monkeys eheheh. The time that has passed ? eheheh its also funny because we want to enjoy our experiences ehehehe 
      * We do not care about nobody eheheh we want harm and enjoy our experiences heheheh pleasee, help!!!
      * Why did you reduce to your own nature now ? Do not call that intelligence because WE ARE NOT ALIKE, 
+     * 
+     * Hope that everyone just goes along with your point of view, that can not be the problem dumb people
       **/   
 
 
