@@ -2780,6 +2780,9 @@ int main()
      * and guilty existence from 30 years of irrelevant decisions, btw instead of trusting we have chosen to ignore and presented some violence!!!! whats the problem eheh
      * So, you have ignored and became what ? "You just want to enjoy your experiences!!!!", "you know everything about life!!!", "you want no harm!!!"
      * 
+     * Do you even communicate through words or do you just want to ignore for the rest of your stupid life ?
+
+     * 
       **/   
 
 
