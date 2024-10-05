@@ -2860,7 +2860,7 @@ int main()
      * now you know the meaning of those qualities
      * 
      * Awww, you guys are doing great!!! good job etc, talk about the violence you ll see why
-     * Every single decisions that are not yours, I reject them
+     * Every single decisions that are not yours, I reject them regardless of its significance or its intention
      * 
       **/   
 
