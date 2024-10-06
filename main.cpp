@@ -2922,7 +2922,7 @@ int main()
      * Ehehe, just talk more about the "past" so that you can have a more broad view, before you make yourself a complete stupid monkey
      * 
      * I have no time for your bullshit, out of my vicinity, not even a second I have whether you think you own the world, 
-     * You also delude that I would waste my time with your stupid games ?
+     * You also delude that I would waste my time with your stupid games ? Awwwwww, life not fair please eheheh
      * 
       **/   
 
