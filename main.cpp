@@ -2929,7 +2929,7 @@ int main()
      * Please please, can you lie for us, fix this once more, we need it so that we can enjoy our precious experiences!!!!
      * No no, not obsession indeed
      * 
-     * Ehehe look how intelligent we are!!!
+     * Ehehe look how intelligent we are!!! Eheheh we are little childs that do not accept no sort of accountability!!!!! eheheh intelligence btw
       **/   
 
 
