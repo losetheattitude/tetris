@@ -2899,6 +2899,7 @@ int main()
      * 
      * Eheheheh its too late for you ehehehe, funny stuff most indeed
      * If it wasnt working, it would have never in the first place
+     * Awww, you thought it was a game, thats why you take life lightly eheheh
      * 
       **/   
 
