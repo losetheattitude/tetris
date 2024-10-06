@@ -2921,6 +2921,8 @@ int main()
      * Awwww, you recognize boundaries eheheh funny stuff 
      * Ehehe, just talk more about the "past" so that you can have a more broad view, before you make yourself a complete stupid monkey
      * 
+     * I have no time for your bullshit, out of my vicinity, not even a second I have whether you think you own the world, 
+     * 
       **/   
 
 
