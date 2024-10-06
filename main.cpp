@@ -2916,7 +2916,7 @@ int main()
      * Awwww, I do not let you leave!!! eheheh funny stuff
      * Wait wait, do you even remember the conditions ?
      * 
-     * Ehehehe, its good btw
+     * Ehehehe, its good btw, hey ask for some forgiveness and it should be done, its just really simple
      * 
       **/   
 
