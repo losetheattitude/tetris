@@ -2925,6 +2925,7 @@ int main()
      * You also delude that I would waste my time with your stupid games ? Awwwwww, life not fair please eheheh
      * 
      * Incompetent people still thinking that acting as if it should be okay makes it okay
+     * Awww, you were the type that takes violence for a skill 
       **/   
 
 
