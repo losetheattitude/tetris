@@ -2926,6 +2926,7 @@ int main()
      * 
      * Incompetent people still thinking that acting as if it should be okay makes it okay
      * Awww, you were the type that takes violence for a skill 
+     * Please please, can you lie for us, fix this once more, we need it so that we can enjoy our precious experiences!!!!
       **/   
 
 
