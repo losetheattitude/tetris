@@ -2930,6 +2930,7 @@ int main()
      * No no, not obsession indeed
      * 
      * Ehehe look how intelligent we are!!! Eheheh we are little childs that do not accept no sort of accountability!!!!! eheheh intelligence btw
+     * Ehehehe funny stuff isnt it ? Why though cant you just explain others ?eheheh funny stuff indeed
       **/   
 
 
