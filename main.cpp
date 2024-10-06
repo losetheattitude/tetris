@@ -2905,6 +2905,7 @@ int main()
      * still after the same stupid narrative ?
      * 
      * Awwww, what are you waiting for ? eheheh please help us ehehe help help eheheh
+     * we like helping people eheheh we want no harm we want harming others eheheh
      * 
       **/   
 
