@@ -2898,6 +2898,7 @@ int main()
      * education etc ehehe, awwww you were the reasonable people, I have forgotten
      * 
      * Eheheheh its too late for you ehehehe, funny stuff most indeed
+     * If it wasnt working, it would have never in the first place
      * 
       **/   
 
