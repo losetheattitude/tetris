@@ -2928,6 +2928,8 @@ int main()
      * Awww, you were the type that takes violence for a skill 
      * Please please, can you lie for us, fix this once more, we need it so that we can enjoy our precious experiences!!!!
      * No no, not obsession indeed
+     * 
+     * Ehehe look how intelligent we are!!!
       **/   
 
 
