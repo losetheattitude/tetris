@@ -2924,6 +2924,7 @@ int main()
      * I have no time for your bullshit, out of my vicinity, not even a second I have whether you think you own the world, 
      * You also delude that I would waste my time with your stupid games ? Awwwwww, life not fair please eheheh
      * 
+     * Incompetent people still thinking that acting as if it should be okay makes it okay
       **/   
 
 
