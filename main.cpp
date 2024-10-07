@@ -2985,7 +2985,7 @@ int main()
      * Awww, you calling it education and fate at the same time, ahahahahah really really realllllyyyy funny stuff, 
      * 
      * Btw, try to utilize your brain better next time, ehehe
-     * We tryna help etc
+     * We tryna help etc, great responsibility, definitely the type of people I would love to associate myself with
       **/   
 
 
