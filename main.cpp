@@ -3115,6 +3115,7 @@ int main()
      * Why you waiting instead of acting ? Awww, thats the credible part right ?  
      * 
      * Wait wait, I just do not see the part where you still ask things ? How come you get to be so disgusting ?
+     * Awwww, you say time a illusion, life simulation ehehehehe funny stuff
       **/   
 
 
