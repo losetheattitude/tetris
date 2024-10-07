@@ -3141,7 +3141,8 @@ int main()
      * Awww, you said, instead of others, I would mind as well enjoy my experiences eheheheh why not, its education btw
      * And also life eheheh life a simulation and act like you know eheheh life short, time a illusion eheheh
      * 
-     * Women!!!!!! eheheh its really fun
+     * Women!!!!!! eheheh its really fun, its most beneficial to "forget about the past!!!!!" when you are the one who is responsible ? wait wait, eheheh
+     * funny stuff 
       **/   
 
 
