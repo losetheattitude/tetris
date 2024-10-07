@@ -3110,6 +3110,8 @@ int main()
      * 
      * Who are you again ? To tell ? Hey!! "he did this!!!" please we need you to lie for us eheheh so that later on we can harm !!!
      * we like harm as simple stupid monkeys!!! Awwwww, you also like your experiences, thats why you act like a complete monkey and start begging ?
+     * 
+     * Which part do you think is funny and operable and credible ?
       **/   
 
 
