@@ -3122,6 +3122,8 @@ int main()
      * if someone else does it too ? That is the begging behavior, anything you can not reasonably prove ?
      * Thus its precise corresponding "meaning" is "wasting time"
      * You still produce irrelevant excuses ? Thats not the problem indeed
+     * 
+     * Awwww, probably you have forgotten, not that its my fault that you are the inferior who would like to take violence for education eheheh
       **/   
 
 
