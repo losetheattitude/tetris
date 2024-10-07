@@ -3062,7 +3062,8 @@ int main()
      * Awwww, but you still think you should make decisions, eheheheh wait wait, please lie !!!!
      * 
      * Wait wait, you still enjoy your selfish experiences while advicing otherwise ?
-     * Awwwww, you still say life ? Or revenge ? you just imploring ?
+     * Awwwww, you still say life ? Or revenge ? you just imploring ? Awwww, thank you!!!! I am so glad to have the most normal interactions!!!
+     * And you still think you have done good ? You still think you are making decisions ? ehehehe
       **/   
 
 
