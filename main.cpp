@@ -3071,6 +3071,7 @@ int main()
      * Awww, thats why you intelligence btw, eheheh you still believe rejecting would prove your nature to be otherwise than what you hate to perceive?
      * 
      * Thats the truth I guess, heeheh, are you still talking about competency ? You get carss!!!! womeennnn!!! good life!!! pls help lie
+     * Wait wait, how do we deal with such a "truth" that we have formed ? If it were to come surface ? pls pls, help lie us so that we can harm more!!!
       **/   
 
 
