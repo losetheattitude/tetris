@@ -3043,6 +3043,8 @@ int main()
      * Awwww, you think bringing up family should solve the problem but you would sacrifice in the first place heheheheh really reallllllyy intelligence ehehh
      * We think we can even bring back more time heheh pls help us, eehehehe we tryna do some shit eheheh
      * 
+     * Do you still not understand why you are stupid ? Look at your actions and your inability to explain them
+     * 
       **/   
 
 
