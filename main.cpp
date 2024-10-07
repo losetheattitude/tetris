@@ -3106,7 +3106,7 @@ int main()
      * 
      * Awww, you say also you are religious ehehehehehhe intelligence eheheh fucking monkeys 
      * Heyy!!! you did this!!! you this!! noo wait wait, it was just our "intelligent coercion" eheheheh
-     * Beg more intelligently eheheh
+     * Beg more intelligently eheheh because "ITS TOO LATE!!!!!" beg more intelligently!!!! thats who you are
       **/   
 
 
