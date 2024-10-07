@@ -3094,6 +3094,8 @@ int main()
      * Wait wait, tell me once more again, instead of "doing your job good", why do you prefer to wait and look around ? Awwww, you still think
      * taking a few days of coercion against years of evidence ? eheheheh realllllly realllly intelligence stuff, fucking stupid monkeys, do not come across me
      * I will fucking remove you from your conscious
+     * 
+     * Wait wait, why though, you think its your "responsibility" to tell someone ? and you suddenly implore for lies ?
       **/   
 
 
