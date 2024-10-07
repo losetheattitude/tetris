@@ -3066,6 +3066,7 @@ int main()
      * And you still think you have done good ? You still think you are making decisions ? ehehehe
      * 
      * Awwww, you now think that changing stories should help you free yourselves from what you are committing ?
+     * Awww, you also say, do not look back, 30 years of unreasonable actions does not matter ?
       **/   
 
 
