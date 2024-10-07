@@ -3118,6 +3118,8 @@ int main()
      * Awwww, you say time a illusion, life simulation ehehehehe funny stuff
      * 
      * Awwww, you have forgotten I guess ? wait wait, what was it eheheh we funny we forgot eheh
+     * Why are you still deluding though ? How come though you still think it could cause problems what you already have "resources"
+     * if someone else does it too ?
       **/   
 
 
