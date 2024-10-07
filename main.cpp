@@ -3021,7 +3021,7 @@ int main()
      * Do you see the responsibility and competency and opportunity and time and "history" and value and credibility ? eheheh funny stuff indeed
      * Mature etc eheheh, now you do what you have to do, and see who is right ? eheheh funny indeed
      * 
-     * Awwwwww, we selfish and nagging and its also too late eheheh 
+     * Awwwwww, we selfish and nagging and its also too late eheheh we can replace even the time eheheh we the perfect etc ehehe
      * 
       **/   
 
