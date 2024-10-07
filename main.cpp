@@ -3073,6 +3073,7 @@ int main()
      * Thats the truth I guess, heeheh, are you still talking about competency ? You get carss!!!! womeennnn!!! good life!!! pls help lie
      * Wait wait, how do we deal with such a "truth" that we have formed ? If it were to come surface ? pls pls, help lie us so that we can harm more!!!
      * The term, stupid disgusting people is coming from just that, you still allege ?
+     * I do not have even one second to waste with you, solve your own problems by yourselves
       **/   
 
 
