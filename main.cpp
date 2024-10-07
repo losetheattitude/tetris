@@ -3096,6 +3096,7 @@ int main()
      * I will fucking remove you from your conscious
      * 
      * Wait wait, why though, you think its your "responsibility" to tell someone ? and you suddenly implore for lies ?
+     * Go go!!! get something ehehehe go !! womeenn!!! cars!!! pls!!! competency!! we good!!! intelligence ??
       **/   
 
 
