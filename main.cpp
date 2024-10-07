@@ -3009,6 +3009,9 @@ int main()
      * eheheh next time, you use your brain only for your selfish interests, thats the great people of the history
      * Ehehehehe, time does not exist btw, and also we tryna help everybody
      * 
+     * No women btw ehehehehehhehe no resources btw ehehheheh funny stuff indeed, no no time does not matter, and also
+     * its kinda of a regret eehehheh pls can you help us ?
+     * 
       **/   
 
 
