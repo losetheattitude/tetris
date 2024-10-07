@@ -3024,6 +3024,8 @@ int main()
      * Awwwwww, we selfish and nagging and its also too late eheheh we can replace even the time eheheh we the perfect etc ehehe
      * You still asking lies ? How about you do not reduce ? Awwww, its too late!! btw what was the value of your words ?
      * 
+     * Nowwwww, talk about the time eheheh, life a simulation hopefully nobody gets hurt
+     * 
       **/   
 
 
