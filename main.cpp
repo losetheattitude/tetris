@@ -2999,6 +2999,8 @@ int main()
      * How come do you think I would have even the tiniest interest in your stupid approaches ?
      * Still misguessing the possible repercussions of such a thing that you have to beg and lie like the reduced nature of animal you are ?
      * 
+     * Ehehehe, have some womeeennn!! we tryna help educate and fate and simulation and good ppl, and intelligence also eheheh
+     * 
       **/   
 
 
