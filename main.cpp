@@ -3086,6 +3086,8 @@ int main()
      * 
      * Wait wait, do you see the great intelligence ? Instead of acting on "what you are offering", you would still love to wait and look around
      * then harm more once you feel safe ? That is not insecurity ? eheheheh harmmmm plss harmmm we seek harm, eheheh funny stuff
+     * 
+     * Wait wait, tell me once more, instead of acting on, why you wait and look around imploring ? Awwww, its because you are entirely false and guilty ?
       **/   
 
 
