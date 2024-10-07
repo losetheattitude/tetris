@@ -2979,7 +2979,7 @@ int main()
      * Btw, good conclusions and intentions and thus the sequence of outcomes, eheheh
      * good good, doing good, really good ppl, just stay away and do your own disgusting things
      * Awwwww, its too late!! eheheh funny stuff btw, awww you love wasting time!!! so that you can enjoy eheheheh that sounds like not a problem
-     * but its fine, its good, 
+     * but its fine, its good, great people, I must be really lucky to be around such people eheheh really nice thanks eheheh
       **/   
 
 
