@@ -2990,6 +2990,8 @@ int main()
      * Ehehehe, we still think we should make decisions but also beg for silence eheheheheh its really really funny stuff
      * 
      * Ehehehe sacrifice btw, no no, its education and its also fate hehehe btw life a simulation eheheh funny stuff
+     * Luckily though, I neither like nor would like to have any sort of people around me
+     * 
       **/   
 
 
