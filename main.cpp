@@ -3045,7 +3045,7 @@ int main()
      * 
      * Do you still not understand why you are stupid ? Look at your actions and your inability to explain them
      * Ehehe and you still also say, "we want to enjoy our experiences!!!" pls lie for us
-     * Awww, you also said "education"
+     * Awww, you also said "education", wait wait it was "fate" eheheh you intelligence ?
      * 
       **/   
 
