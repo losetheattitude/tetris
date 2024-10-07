@@ -3055,6 +3055,8 @@ int main()
      * Awwww, you talk time and jewelry and money and life and simulation at the same time ? eheheheh thats not the problem, its the most sincere eheheh
      * wait wait, you also said fate heheheheheheheh too funnn, we like harm eheh
      * 
+     * Do you still need help with something you great people ? eheheheh you religious etc eheheh really really fun stuff
+     * 
       **/   
 
 
