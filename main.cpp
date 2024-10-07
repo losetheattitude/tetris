@@ -3097,6 +3097,8 @@ int main()
      * 
      * Wait wait, why though, you think its your "responsibility" to tell someone ? and you suddenly implore for lies ?
      * Go go!!! get something ehehehe go !! womeenn!!! cars!!! pls!!! competency!! we good!!! intelligence ??
+     * 
+     * And you still say women ? and competency ? fucking dumb monkeys, as I have already guessed it 30 fucking years ago
       **/   
 
 
