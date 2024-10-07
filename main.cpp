@@ -3022,7 +3022,7 @@ int main()
      * Mature etc eheheh, now you do what you have to do, and see who is right ? eheheh funny indeed
      * 
      * Awwwwww, we selfish and nagging and its also too late eheheh we can replace even the time eheheh we the perfect etc ehehe
-     * You still asking lies ? How about you do not reduce ? Awwww, its too late!!
+     * You still asking lies ? How about you do not reduce ? Awwww, its too late!! btw what was the value of your words ?
      * 
       **/   
 
