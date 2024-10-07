@@ -3128,6 +3128,7 @@ int main()
      * "honor" ?
      * 
      * Awwwww, you think or wish that I would not know what I have lived ? So that you can still enjoy your experiences and harm some more ?
+     * And you still hope that you could disgustingly lie and trick someone ? wait wait, how long has passed ? eheheh funny stuff indeed
       **/   
 
 
