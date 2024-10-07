@@ -2984,7 +2984,8 @@ int main()
      * Ehehehe, really fun though, its good, we like harming etc eheheh time does not exist btw hehehe funny stuff
      * Awww, you calling it education and fate at the same time, ahahahahah really really realllllyyyy funny stuff, 
      * 
-     * Btw, try to utilize your brain better next time
+     * Btw, try to utilize your brain better next time, ehehe
+     * We tryna help etc
       **/   
 
 
