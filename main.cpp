@@ -3007,6 +3007,7 @@ int main()
      * 
      * I have no time for your stupid bullshit, you go pay for your own mistakes 
      * eheheh next time, you use your brain only for your selfish interests, thats the great people of the history
+     * Ehehehehe, time does not exist btw, and also we tryna help everybody
      * 
       **/   
 
