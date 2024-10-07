@@ -3040,6 +3040,8 @@ int main()
      * What a shame that you are an oblivious animal, you still think I want to have anything to do with you ? Do you still think you own the world ? awwwwww
      * thats really really clever, btw we want to enjoy our experiences
      * 
+     * Awwww, you think bringing up family should solve the problem but you would sacrifice in the first place heheheheh really reallllllyy intelligence ehehh
+     * 
       **/   
 
 
