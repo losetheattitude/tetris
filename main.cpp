@@ -3002,6 +3002,9 @@ int main()
      * Ehehehe, have some womeeennn!! we tryna help educate and fate and simulation and good ppl, and intelligence also eheheh
      * You know its especially really really easy to go against years of evidence with a few days of coercion ehehehe
      * 
+     * Help us!!!!!! we give womennn!!! etc etc eheheh funny stuff indeed, you see ? so far we have had all the time in the world but we have chosen to harm ehehheh
+     * intelligent and educational and fate ehehe also simulation eheh with some ehehe we do not know what
+     * 
       **/   
 
 
