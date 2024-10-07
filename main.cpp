@@ -2982,6 +2982,7 @@ int main()
      * but its fine, its good, great people, I must be really lucky to be around such people eheheh really nice thanks eheheh
      * Awwww, we didnt know!!! awwww, we have forgotten!!! awwww, we intelligence!!!
      * Ehehehe, really fun though, its good, we like harming etc eheheh time does not exist btw hehehe funny stuff
+     * Awww, you calling it education and fate at the same time, ahahahahah really really realllllyyyy funny stuff, 
       **/   
 
 
