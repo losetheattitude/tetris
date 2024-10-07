@@ -3070,7 +3070,7 @@ int main()
      * Wait wait, when did you see a situation handled so poorly by incompetent and selfish people that it turned out not to be a problem ?
      * Awww, thats why you intelligence btw, eheheh you still believe rejecting would prove your nature to be otherwise than what you hate to perceive?
      * 
-     * Thats the truth I guess, heeheh
+     * Thats the truth I guess, heeheh, are you still talking about competency ?
       **/   
 
 
