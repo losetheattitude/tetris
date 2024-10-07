@@ -3108,7 +3108,8 @@ int main()
      * Heyy!!! you did this!!! you this!! noo wait wait, it was just our "intelligent coercion" eheheheh
      * Beg more intelligently eheheh because "ITS TOO LATE!!!!!" beg more intelligently!!!! thats who you are
      * 
-     * Who are you again ? To tell ?
+     * Who are you again ? To tell ? Hey!! "he did this!!!" please we need you to lie for us eheheh so that later on we can harm !!!
+     * we like harm as simple stupid monkeys!!!
       **/   
 
 
