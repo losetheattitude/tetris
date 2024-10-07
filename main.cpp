@@ -3119,7 +3119,7 @@ int main()
      * 
      * Awwww, you have forgotten I guess ? wait wait, what was it eheheh we funny we forgot eheh
      * Why are you still deluding though ? How come though you still think it could cause problems what you already have "resources"
-     * if someone else does it too ?
+     * if someone else does it too ? That is the begging behavior, anything you can not reasonably prove ?
       **/   
 
 
