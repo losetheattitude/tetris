@@ -3052,6 +3052,7 @@ int main()
      * No resources!!!! because we think we should be able to do that!!! eheheheheh you can not go outside!!! ehehehehehe good night!!
      * You do not even have any more place to reduce to, you are already at your worst disgusting composure, why is that ?
      * Why is it that though, you can not really talk about the time ? awwww, you think you should be right not that you are ?
+     * Awwww, you talk time and jewelry and money and life and simulation at the same time ? eheheheh thats not the problem, its the most sincere eheheh
      * 
       **/   
 
