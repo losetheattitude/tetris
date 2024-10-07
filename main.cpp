@@ -3048,6 +3048,7 @@ int main()
      * Awww, you also said "education", wait wait it was "fate" eheheh you intelligence ?
      * Awwwwwwwwww, eheheheh 30 years is nothing broo, we good and honorable people eheheheh
      * Do you see our greatness ? eheheheh its too late!!!! awwwww, you see the pattern ?
+     * Wait wait, did you mistake me for your fearful composure ? Why doesnt your superior education work ? eheheh may be you are an entire stupid monkey ?
      * 
       **/   
 
