@@ -2973,7 +2973,9 @@ int main()
      * Something wrong, heheh whats the problem eheheh, education eheheh
      * You say education and you do not see any effects ? wait wait, what ?
      * If you tell me the experience and the time that has passed, you will easily see the problem of your most sincere approach
-     * and you guessed it right, calling it fate or 
+     * and you guessed it right, calling it fate would not even prove to work ?
+     * 
+     * Anyways, better use your brains next time, only for yourselves
       **/   
 
 
