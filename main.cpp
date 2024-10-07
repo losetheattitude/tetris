@@ -3089,6 +3089,11 @@ int main()
      * 
      * Wait wait, tell me once more, instead of acting on, why you wait and look around imploring ? Awwww, its because you are entirely false and guilty ?
      * And you think I will fear like the little animal you are ? Wait wait, talk more about violence hehehe really fun right ?
+     * 
+     * 
+     * Wait wait, tell me once more again, instead of "doing your job good", why do you prefer to wait and look around ? Awwww, you still think
+     * taking a few days of coercion against years of evidence ? eheheheh realllllly realllly intelligence stuff, fucking stupid monkeys, do not come across me
+     * I will fucking remove you from your conscious
       **/   
 
 
