@@ -3081,6 +3081,8 @@ int main()
      * ehehehe intelligence heheheheh
      * 
      * Ehehehe, we still have all the means and time and opportunity but we still wait and try to come up with bullshit, thats how we know we intelligence eheheheh
+     * Because its such a simple thing yet we are not inclined to do it ?  eheheheh thats why we look around for excuses instead of acting on our words
+     * immediately eheheh
       **/   
 
 
