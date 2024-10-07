@@ -3038,7 +3038,7 @@ int main()
      * Awwwww help us find out more bullshit that is irrelevant, eheheh enjoy the life!!!!! eheheh good ppl!!!! we tryna help!!!
      * Awwww, you have forgotten that "you have decided to sacrifice" ehehehe reall really funny stuff
      * What a shame that you are an oblivious animal, you still think I want to have anything to do with you ? Do you still think you own the world ? awwwwww
-     * thats really really clever
+     * thats really really clever, btw we want to enjoy our experiences
      * 
       **/   
 
