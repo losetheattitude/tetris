@@ -3060,6 +3060,8 @@ int main()
      * Ignorant not btw eheeh BECAUSE TIME DOES NOT EXIST!!! eheheheheh reallllllyyyy fun stuff
      * Please pleasee, say this ehehehe "you did it!!" eheheheh fun and intelligence hehehehehe
      * Awwww, but you still think you should make decisions, eheheheh wait wait, please lie !!!!
+     * 
+     * Wait wait, you still enjoy your selfish experiences while advicing otherwise ?
       **/   
 
 
