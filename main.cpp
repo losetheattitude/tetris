@@ -3079,6 +3079,8 @@ int main()
      * Or you die!!! as if we are not afraid of everything like the little animal we are ? Religious you say? 
      * More harm!!! more harmmmm!!!!! we like harm not getting harmmm!!!! plss!!!
      * ehehehe intelligence heheheheh
+     * 
+     * Ehehehe, we still have all the means and time and opportunity but we still wait and try to come up with bullshit, thats how we know we intelligence eheheheh
       **/   
 
 
