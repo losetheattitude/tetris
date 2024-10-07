@@ -3117,7 +3117,7 @@ int main()
      * Wait wait, I just do not see the part where you still ask things ? How come you get to be so disgusting ?
      * Awwww, you say time a illusion, life simulation ehehehehe funny stuff
      * 
-     * Awwww, you have forgotten I guess ?
+     * Awwww, you have forgotten I guess ? wait wait, what was it eheheh we funny we forgot eheh
       **/   
 
 
