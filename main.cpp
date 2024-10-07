@@ -3047,6 +3047,7 @@ int main()
      * Ehehe and you still also say, "we want to enjoy our experiences!!!" pls lie for us
      * Awww, you also said "education", wait wait it was "fate" eheheh you intelligence ?
      * Awwwwwwwwww, eheheheh 30 years is nothing broo, we good and honorable people eheheheh
+     * Do you see our greatness ?
      * 
       **/   
 
