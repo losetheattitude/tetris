@@ -3382,7 +3382,10 @@ int main()
      * Why is it the same little animal that still offers women ? But nobody can actually prove it ? eheheheh really funny right ?
      * Why are you waiting ? Are you the little afraid animal that everyone has been referring to in the past ?
      * 
-     * And you still delude that you should advice people ?
+     * And you still delude that you should advice people ? Who are you to tell me ? Awwww, he has nothing to do so we waste more time
+     * trying to show off to people, thats why we gather everyone around so that we can waste our time more and more eheheheheheh
+     * 
+     * Is he good ? Wait wait, what happened ?? pleasee help us lie!!!! You get womeeeennnnn!!!! as we have promised so far!!!! please lie for us!!!
      * 
       **/   
 
