@@ -3210,6 +3210,9 @@ int main()
      * Now talk about the time and violence and say again "wooooomeeeeennnnnnn" see who is the stupid people of the history
      * 
      * get woomeeennn!!!! pls get woomeeennn!! we want no harm, we want harm others ehehehe
+     * 
+     * you see why you are drunk ? you think you should make decisions that are neither your place nor your rights and you dare to call it "fate"
+     * as you are the stupid people of the history, what happened ? awwwww, wait wait why ? eheheheh funny
       **/   
 
 
