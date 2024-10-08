@@ -3274,6 +3274,7 @@ int main()
      * 
      * What are you waiting for btw ?
      * What do you think the outcome will be ? You thought I would bend for your stupid violence education ? Or is it going to get worsen for you ?
+     * "Where are all the random noises you have made ? Is that the extent of your stupid conscious can go ?"
       **/   
 
 
