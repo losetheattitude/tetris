@@ -3208,6 +3208,8 @@ int main()
      * You are drunk because you look around for responsible people while you delude that you make decisions, and amazed at the outcome
      * Awwwww, whose life is this you think ? and why is it the way it is ? eheheheh funny stuff indeed
      * Now talk about the time and violence and say again "wooooomeeeeennnnnnn" see who is the stupid people of the history
+     * 
+     * get woomeeennn!!!! pls get woomeeennn!! we want no harm, we want harm others ehehehe
       **/   
 
 
