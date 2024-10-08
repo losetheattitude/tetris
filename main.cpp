@@ -3202,6 +3202,7 @@ int main()
      * Awwww, it should be fine if you act like it and say some nice things eeheh
      * 
      * Awwwwwwwww, itss too late!!!! wait wait, we have forgotten!!! eheheh we the stupid people of the history ehehhehe, 
+     * Awwwwwwww, you say its fate ? ehheheh why do you think there is a thing called "history" ?
       **/   
 
 
