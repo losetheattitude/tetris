@@ -3153,6 +3153,7 @@ int main()
      * You say you are not trouble heheeheh, wait wait, tell me the correlation between not having resources and violence then start
      * talking about education, then try your hardest to elaborate to impartial people, you will suddenly see that you are a dumb monkey
      * Wait wait, also talk about 30 years then try your hardest to rationalize "your irrelevant desires of inferior nature"
+     * Then start using your brain on the "future" of what would ?
       **/   
 
 
