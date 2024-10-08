@@ -3370,7 +3370,8 @@ int main()
      * 
      * But why can not you account for your own actions ? awwww, I see you think you should be able to do that and see no problems ? you see the problem right ?
      * 
-     * You dare still to lecture people ?
+     * You dare still to lecture people ? ehehehehe just do this then do that, then get some harm, then eheheh get some womeeeennnn!!!! as we have promised eheheheh
+     * its life!!! its fate!!! we good religious etc people hhehehe
      * 
       **/   
 
