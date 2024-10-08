@@ -3300,6 +3300,8 @@ int main()
      * and beg for someone else's silence that you can not even "educate" violently, and amazed at the outcome ? 
      * Wait, why isnt he afraid as we are ? As irrelevant disgusting animals ? Awwww, you just want to enjoy your life ?
      * and harm people on the way ehehehehehhe, why wait though ? Because you are the simple animal that I have been referring to ? So do not delude
+     * 
+     * You say what ? "GET WOOOMEEEENENNNNNNNNN!!!!"eheheheh inteligent clever people indeed
       **/   
 
 
