@@ -3370,6 +3370,8 @@ int main()
      * 
      * But why can not you account for your own actions ? awwww, I see you think you should be able to do that and see no problems ? you see the problem right ?
      * 
+     * You dare still to lecture people ?
+     * 
       **/   
 
 
