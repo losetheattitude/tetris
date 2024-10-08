@@ -3305,6 +3305,7 @@ int main()
      * Where are they ehehehhehee, you get this women pls help us ehehehehehh lie, we want to harm eheheheh
      * 
      * So you still delude that nobody gets hurt ? Is that why you take violence for education ?
+     * Talk about the time, you will see why I will not stop
       **/   
 
 
