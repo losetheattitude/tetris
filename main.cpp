@@ -3203,6 +3203,7 @@ int main()
      * 
      * Awwwwwwwww, itss too late!!!! wait wait, we have forgotten!!! eheheh we the stupid people of the history ehehhehe, 
      * Awwwwwwww, you say its fate ? ehheheh why do you think there is a thing called "history" ?
+     * Just talk about violence eheheh funny stuff
       **/   
 
 
