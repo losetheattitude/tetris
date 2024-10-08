@@ -3224,7 +3224,8 @@ int main()
      * Awwww, its too late you say ? Why dont you grow up instead then ? After you account for all your actions of malign and detrimental nature
      * Awww you say its too late again eheheheheh really funny and sincere stuff also being the most intelligent I have ever seen!!
      * 
-     * You would rather waste more time ? What are you waiting for ?
+     * You would rather waste more time ? What are you waiting for ? Awwwww, you can not do that!!! eheheh just give him ehehehhe 200 eeheheheh 
+     * we wait eheheh why dont you come eheheheh we good ppl ehehehe pls help us lie eheheh
       **/   
 
 
