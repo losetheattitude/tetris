@@ -3149,6 +3149,8 @@ int main()
      * You think I can not recognize ? Thats why you inferior with all your "etc etc"
      * Your not seeing it proves it more and more, thats acting insufficient, you should have already known that
      * Try no harder, the problem is apparent, just start explaining and you will see why and try to explain what you achieved, you will see why
+     * 
+     * You say you are not trouble heheeheh
       **/   
 
 
