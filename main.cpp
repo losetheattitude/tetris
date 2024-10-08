@@ -3382,6 +3382,8 @@ int main()
      * Why is it the same little animal that still offers women ? But nobody can actually prove it ? eheheheh really funny right ?
      * Why are you waiting ? Are you the little afraid animal that everyone has been referring to in the past ?
      * 
+     * And you still delude that you should advice people ?
+     * 
       **/   
 
 
