@@ -3296,6 +3296,9 @@ int main()
      * 
      * Eheheheheheh, really fun stuff right ? Awwwww, you think you are doing what ? Awww, you can not even explain that, its just you want to beg and harm like the 
      * little animal you are and hopefully you do not get hurt, and hide like the little animals
+     * 
+     * and beg for someone else's silence that you can not even "educate" violently, and amazed at the outcome ? 
+     * Wait, why isnt he afraid as we are ? As irrelevant disgusting animals ?
       **/   
 
 
