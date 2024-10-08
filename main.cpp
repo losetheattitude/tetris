@@ -3233,6 +3233,9 @@ int main()
      * 
      * Whats so difficult ? Awwww, you would just like to harm ehehehehehehe 
      * No resources eheheheh you can not get good grades!!! some womeennnn!!! get woomeeenn!!! please we do not want eheheheheh pslpslsp hehhehe really funny stuff
+     * 
+     * I do not want to see any of the stupid people around me that has been there for so long and done nothing but beg and lie and "make really honorable
+     * offers", dumb animals
       **/   
 
 
