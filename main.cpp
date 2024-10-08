@@ -3373,7 +3373,7 @@ int main()
      * You dare still to lecture people ? ehehehehe just do this then do that, then get some harm, then eheheh get some womeeeennnn!!!! as we have promised eheheheh
      * its life!!! its fate!!! we good religious etc people hhehehe
      * 
-     * Dumb monkey ? What are you waiting for ?
+     * Dumb monkey ? What are you waiting for ? Beg like the little insignificant animal you are
      * 
       **/   
 
