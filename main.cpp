@@ -3243,6 +3243,8 @@ int main()
      * You do not even have the slighest shame ? Just explain it to others and you will see why ?
      * Wait wait, you also think that not having resources is the sole way to achieve "your disgusting side ?"
      * And you also say, "ITS TOOO LATEEEE!!!!!"
+     * Fucking inferior scared people will always fuck up with what they can not replace, do you still talk about "we can even bring back time!!!"
+     * Fucking animals
       **/   
 
 
