@@ -3174,7 +3174,7 @@ int main()
      * Awww, you still make up rules ehehehehe really funny stuff
      * Why dont you make up some random shit to cover for your actions ?
      * 
-     * Ehehehe no resources!!!! pls lie for us
+     * Ehehehe no resources!!!! pls lie for us, are you also asking for "thanks" ?
       **/   
 
 
