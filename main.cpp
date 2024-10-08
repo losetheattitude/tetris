@@ -3158,6 +3158,9 @@ int main()
      * 
      * wait wait, you do not remember the conditions ? Awww you just like lying and showing off people how you "delude" to fool others ?
      * Thats the point of contention in your understanding hmmmmm
+     * 
+     * 
+     * Thats kinda begging behavior heheh
       **/   
 
 
