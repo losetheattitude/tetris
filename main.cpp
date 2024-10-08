@@ -3221,7 +3221,7 @@ int main()
      * 
      * 
      * Ehehehehehehe, hopefully though nobody gets hurt, eheheh no resources btw eheheh we good eheheh we tryna help heheheh
-     * Awwww, its too late you say ?
+     * Awwww, its too late you say ? Why dont you grow up instead then ?
       **/   
 
 
