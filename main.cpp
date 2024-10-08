@@ -3352,6 +3352,8 @@ int main()
      * 
      * So you still claim that you understand others ? Why then you take life lightly ?
      * Thats the type I do not want to see around, UNDER NO CIRCUMSTANCES
+     * 
+     * Now be proud of your really good actions while you explain them to others ? How come you still delude about your nonexistent anything ?
       **/   
 
 
