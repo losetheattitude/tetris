@@ -3156,7 +3156,8 @@ int main()
      * Then start using your brain on the "future" of what would ? ehehehehe its too late!!!! we have caused so much harm that we can not even 
      * think anything other than harming more!!!! ehehe brain btw
      * 
-     * wait wait, you do not remember the conditions ?
+     * wait wait, you do not remember the conditions ? Awww you just like lying and showing off people how you "delude" to fool others ?
+     * Thats the point of contention in your understanding hmmmmm
       **/   
 
 
