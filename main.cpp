@@ -3244,7 +3244,7 @@ int main()
      * Wait wait, you also think that not having resources is the sole way to achieve "your disgusting side ?"
      * And you also say, "ITS TOOO LATEEEE!!!!!"
      * Fucking inferior scared people will always fuck up with what they can not replace, do you still talk about "we can even bring back time!!!"
-     * Fucking animals
+     * Fucking animals, just tell everyone what you have achieved eheheh, funny stuff indeed
       **/   
 
 
