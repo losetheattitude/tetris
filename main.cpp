@@ -3295,7 +3295,7 @@ int main()
      * Do you still think that offering women is making you somehow the owner of the world ? Fucking stupid monkeys indeed
      * 
      * Eheheheheheh, really fun stuff right ? Awwwww, you think you are doing what ? Awww, you can not even explain that, its just you want to beg and harm like the 
-     * little animal you are
+     * little animal you are and hopefully you do not get hurt, and hide like the little animals
       **/   
 
 
