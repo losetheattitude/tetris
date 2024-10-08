@@ -3247,6 +3247,7 @@ int main()
      * Fucking animals, just tell everyone what you have achieved eheheh, funny stuff indeed
      * Awwww, you reduced to your "sorry, itsss too late!!, we meant good!!"
      * Not selfish, scared, immature people indeed, Imma pass on those stupid people, as there are millions of proof
+     * Wait wait, when you had 30 years and "you say its tooo late!!!!" and hopefully nobody gets hurt ?
       **/   
 
 
