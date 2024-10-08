@@ -3319,6 +3319,8 @@ int main()
      * 
      * So now, you are here, demanding that you should accept no responsibility on the very thing that you have caused it ?
      * What do you think is going to happen though ? Stupid monkeys ?
+     * 
+     * Do you really think I will care ? You say money or women ? Wait wait, talk about the time and harm ? eheheheheh good ppl, religious etc ?
       **/   
 
 
