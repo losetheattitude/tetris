@@ -3357,6 +3357,9 @@ int main()
      * Do you see the stupid people of the history ? Why are you begging ?
      * 
      * You still say, it should be your right to harm people and start suddenly begging ?
+     * and saying "we take it back!! we take it back!!!", "forget about the history!!!", "we think we can even bring back the time!!!!"
+     * ehehehehe, good and intelligent and proper eheheheh
+     * 
       **/   
 
 
