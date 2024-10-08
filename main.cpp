@@ -3404,6 +3404,8 @@ int main()
      * offer even "ideas" ? Instead of sacrificing your own ? You coercefully sacrifice and offer it as an idea ? 
      * And you also hope that the people will go with it ? without no problems ?
      * 
+     * Are you okay ?
+     * 
       **/   
 
 
