@@ -3399,6 +3399,8 @@ int main()
      * Why do you then still think you are actually mature ? and you can use your brain ? you can use your reason ? 
      * You are completely disgusting little clueless lost animal who will beg with every possible occurence ? Isnt that the truth ?
      * 
+     * You still mistake me for your self and delude that it be okay ? 
+     * 
       **/   
 
 
