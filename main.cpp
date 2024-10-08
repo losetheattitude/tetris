@@ -3306,6 +3306,8 @@ int main()
      * 
      * So you still delude that nobody gets hurt ? Is that why you take violence for education ?
      * Talk about the time, you will see why I will not stop
+     * 
+     * Delude longer, the only way for your stupid to wake up, is to live it right ? Live your life!!!! get womeeennn!!! as we have promised!!!!
       **/   
 
 
