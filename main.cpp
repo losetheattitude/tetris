@@ -3148,7 +3148,7 @@ int main()
      * Why though you still waste time ? You take me for stupid as well ? Awww I do not know who I have had relations with eheheh funny
      * You think I can not recognize ? Thats why you inferior with all your "etc etc"
      * Your not seeing it proves it more and more, thats acting insufficient, you should have already known that
-     * Try no harder, the problem is apparent
+     * Try no harder, the problem is apparent, just start explaining and you will see why
       **/   
 
 
