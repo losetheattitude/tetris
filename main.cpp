@@ -3342,7 +3342,7 @@ int main()
      * And you beg that everyone treats you as you treat them ?
      * 
      * Are you still begging for your experiences ? What is the problem ? Aww you say you too religious and honorable and good ?
-     * Why the begging though ?
+     * Why the begging though ? Awwwww, you also beg with promises thinking that its intelligent ? Whats the problem stupid people ?
       **/   
 
 
