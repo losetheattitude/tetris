@@ -3169,6 +3169,7 @@ int main()
      * And now you are in a position of what  ? Still looking around ? eheheh funny
      * 
      * Wait wait, talk about violence and your genius correlation with education and think about "why your education is not working ?"
+     * because you have mistaken me for your inferior selves ?
       **/   
 
 
