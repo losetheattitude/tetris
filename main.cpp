@@ -3271,6 +3271,8 @@ int main()
      * Are you really sure about your devices ?
      * 
      * You also say, "ehehe we take it back ?" Dumb monkeys
+     * 
+     * What are you waiting for btw ?
       **/   
 
 
