@@ -3249,7 +3249,8 @@ int main()
      * Not selfish, scared, immature people indeed, Imma pass on those stupid people, as there are millions of proof
      * Wait wait, when you had 30 years and "you say its tooo late!!!!" and hopefully nobody gets hurt ?
      * 
-     * Just try to tell everyone what was my experience like ?
+     * Just try to tell everyone what was my experience like ? Or you just waste more time with irrelevant stuff ehehehehehehe stay with mee plsss
+     * so I can harm you more!!!!! goood pppl!!!!
       **/   
 
 
