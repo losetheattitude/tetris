@@ -3283,7 +3283,8 @@ int main()
      * 
      * Ehehehe hopefully nobody gets hurt!!!! help us lie!!! we give you womeenn!! eheheheh funny and religious and eheheheheh really really good ppl
      * 
-     * What are you looking for ?
+     * What are you looking for ? You see, the problem is you are a never learning disgusting monkey that takes violence for education because you are 
+     * afraid of it like the little animal you are ? Do you see the problem ?
       **/   
 
 
