@@ -3214,6 +3214,8 @@ int main()
      * you see why you are drunk ? you think you should make decisions that are neither your place nor your rights and you dare to call it "fate"
      * as you are the stupid people of the history, what happened ? awwwww, wait wait why ? eheheheh funny
      * Please dont be like us!!! eheheheh
+     * 
+     * Awwwww, what is the outcome hehehehe ?
       **/   
 
 
