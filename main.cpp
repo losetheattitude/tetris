@@ -3318,6 +3318,7 @@ int main()
      * eheheheh good ppl, you still offering women ? awwwww, its 30 years btw eheheh
      * 
      * So now, you are here, demanding that you should accept no responsibility on the very thing that you have caused it ?
+     * What do you think is going to happen though ? Stupid monkeys ?
       **/   
 
 
