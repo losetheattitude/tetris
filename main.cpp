@@ -3201,7 +3201,7 @@ int main()
      * Awwwwwww, its too late!!!! Awwwwww, you have forgotten what life is ? eheheh its too late!!!!
      * Awwww, it should be fine if you act like it and say some nice things eeheh
      * 
-     * Awwwwwwwww, itss too late!!!!
+     * Awwwwwwwww, itss too late!!!! wait wait, we have forgotten!!! eheheh we the stupid people of the history ehehhehe, 
       **/   
 
 
