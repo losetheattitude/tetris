@@ -3173,6 +3173,8 @@ int main()
      * Talk more about violence ehehehe you can see why, so you still mistaking ?
      * Awww, you still make up rules ehehehehe really funny stuff
      * Why dont you make up some random shit to cover for your actions ?
+     * 
+     * Ehehehe no resources!!!! pls lie for us
       **/   
 
 
