@@ -3360,6 +3360,10 @@ int main()
      * and saying "we take it back!! we take it back!!!", "forget about the history!!!", "we think we can even bring back the time!!!!"
      * ehehehehe, good and intelligent and proper eheheheh
      * 
+     * I told you that if you are going to be the animal that you have been so far, I will not even waste another second, and what did you do ?
+     * You acted like the animal you are, so thanks, I do not want to get anything from you and do not have any desire to waste my time 
+     * with the very people who begs me to harm. Thats how it is
+     * 
       **/   
 
 
