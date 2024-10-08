@@ -3179,6 +3179,7 @@ int main()
      * 
      * Awwwww, you also say, its too late!!!!! eheheheh we intelligence, aww you also think it should be okay, so why not 
      * You do not even know what you are doing, I want no people like that stupid around me, look around for more, thats begging
+     * You see what malign image of whats the truth can get you into ? You will regardless
       **/   
 
 
