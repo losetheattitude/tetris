@@ -3323,7 +3323,9 @@ int main()
      * Do you really think I will care ? You say money or women ? Wait wait, talk about the time and harm ? eheheheheh good ppl, religious etc ?
      * But wait, whats the reallly honorable and good reason that you still waste time on arguing WHAT CAN NOT BE ARGUED ?
      * 
-     * I do not have time for the likes of animals LIKE YOU
+     * I do not have time for the likes of animals LIKE YOU, why are you waiting ? awwww, I see you are too clever eheheheheheh tryna come up
+     * with bullshit as you have done so far without acknowleding what it would cause, both in short term and long term, but it should be fine because
+     * you have done it!!!!! thanks!!!
       **/   
 
 
