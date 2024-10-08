@@ -3321,6 +3321,7 @@ int main()
      * What do you think is going to happen though ? Stupid monkeys ?
      * 
      * Do you really think I will care ? You say money or women ? Wait wait, talk about the time and harm ? eheheheheh good ppl, religious etc ?
+     * But wait, whats the reallly honorable and good reason that you still waste time on arguing WHAT CAN NOT BE ARGUED ?
       **/   
 
 
