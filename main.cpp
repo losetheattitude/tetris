@@ -3188,7 +3188,7 @@ int main()
      * That is the exact problem you are going to have, because you will misguess with the "false information" that you wish it to be true
      * 
      * Thats why you now have to ask for irrelevant noises from people who you harm, thats what I call inferior
-     * Awwwww, you would love to call it a "innocent mistake" eheheh
+     * Awwwww, you would love to call it a "innocent mistake" eheheh, hopefully nobody gets hurt though
       **/   
 
 
