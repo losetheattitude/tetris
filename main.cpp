@@ -3245,6 +3245,7 @@ int main()
      * And you also say, "ITS TOOO LATEEEE!!!!!"
      * Fucking inferior scared people will always fuck up with what they can not replace, do you still talk about "we can even bring back time!!!"
      * Fucking animals, just tell everyone what you have achieved eheheh, funny stuff indeed
+     * Awwww, you reduced to your "sorry, itsss too late!!, we meant good!!"
       **/   
 
 
