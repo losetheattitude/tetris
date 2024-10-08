@@ -3400,6 +3400,9 @@ int main()
      * You are completely disgusting little clueless lost animal who will beg with every possible occurence ? Isnt that the truth ?
      * 
      * You still mistake me for your self and delude that it be okay ? 
+     * Whether you think you own the world, I DO NOT NEED ANY TYPE OF DISGUSTING ANIMAL LIKE YOU AROUND ME, and you still
+     * offer even "ideas" ? Instead of sacrificing your own ? You coercefully sacrifice and offer it as an idea ? 
+     * And you also hope that the people will go with it ? without no problems ?
      * 
       **/   
 
