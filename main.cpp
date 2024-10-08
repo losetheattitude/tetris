@@ -3186,6 +3186,8 @@ int main()
      * 
      * Are you still assuming false information when you are given the true information ? Awww, thats not delusional for sure
      * That is the exact problem you are going to have, because you will misguess with the "false information" that you wish it to be true
+     * 
+     * Thats why you now have to ask for irrelevant noises from people who you harm, thats what I call inferior
       **/   
 
 
