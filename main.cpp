@@ -3341,7 +3341,8 @@ int main()
      * Awwww, you had 12312321 years but you just waited for something to happen while harming without a direction eheheheh
      * And you beg that everyone treats you as you treat them ?
      * 
-     * Are you still begging for your experiences ? What is the problem ?
+     * Are you still begging for your experiences ? What is the problem ? Aww you say you too religious and honorable and good ?
+     * Why the begging though ?
       **/   
 
 
