@@ -3292,6 +3292,7 @@ int main()
      * 
      * 
      * LITTLE STUPID DISGUSTING ANIMALS THAT I WILL UNDER NO CIRCUMSTANCE ASSOCIATE MYSELF WITH ? Do you see the problem ?
+     * Do you still think that offering women is making you somehow the owner of the world ? Fucking stupid monkeys indeed
       **/   
 
 
