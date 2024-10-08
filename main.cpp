@@ -3374,6 +3374,7 @@ int main()
      * its life!!! its fate!!! we good religious etc people hhehehe
      * 
      * Dumb monkey ? What are you waiting for ? Beg like the little insignificant animal you are
+     * Just talk about the history that you avoid just like the little disgusting animal you are
      * 
       **/   
 
