@@ -3285,6 +3285,8 @@ int main()
      * 
      * What are you looking for ? You see, the problem is you are a never learning disgusting monkey that takes violence for education because you are 
      * afraid of it like the little animal you are ? Do you see the problem ?
+     * 
+     * Ehehehe please please help us, please lie eheheheh hey be silent we give you womenn! we honorable people ehehehhe get women, get money eheheh
       **/   
 
 
