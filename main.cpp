@@ -3354,6 +3354,7 @@ int main()
      * Thats the type I do not want to see around, UNDER NO CIRCUMSTANCES
      * 
      * Now be proud of your really good actions while you explain them to others ? How come you still delude about your nonexistent anything ?
+     * Do you see the stupid people of the history ? Why are you begging ?
       **/   
 
 
