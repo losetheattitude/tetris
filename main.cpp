@@ -3345,6 +3345,9 @@ int main()
      * Why the begging though ? Awwwww, you also beg with promises thinking that its intelligent ? Whats the problem stupid people ?
      * 
      * Do you even have a functioning brain ? Yes!!! we say he can start!! and he will start like we do!!! hopefully!!! eheheheh good ppl
+     * Get yourself a womeeennnnnn!!!! get yourself a carrrr!!!!!! yesss!!!! we are the type of simple animal that are RIFE EVERYWHERE!!!!!
+     * 
+     * Thats why we make decisions that we delude about being entitled to ? Is that what you are saying ?
       **/   
 
 
