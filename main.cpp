@@ -3351,6 +3351,7 @@ int main()
      * What are you waiting for ? ehehehehe funny right ?
      * 
      * So you still claim that you understand others ? Why then you take life lightly ?
+     * Thats the type I do not want to see around, UNDER NO CIRCUMSTANCES
       **/   
 
 
