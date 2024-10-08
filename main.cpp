@@ -3349,6 +3349,8 @@ int main()
      * 
      * Thats why we make decisions that we delude about being entitled to ? Is that what you are saying ?
      * What are you waiting for ? ehehehehe funny right ?
+     * 
+     * So you still claim that you understand others ? Why then you take life lightly ?
       **/   
 
 
