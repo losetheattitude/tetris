@@ -3226,6 +3226,8 @@ int main()
      * 
      * You would rather waste more time ? What are you waiting for ? Awwwww, you can not do that!!! eheheh just give him ehehehhe 200 eeheheheh 
      * we wait eheheh why dont you come eheheheh we good ppl ehehehe pls help us lie eheheh
+     * 
+     * Its not like, "if we had the intention we would have already acted on so "I am like, yesss definitely good ppl", but Imma pass on them disgusting animals  "
       **/   
 
 
