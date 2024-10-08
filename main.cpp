@@ -3220,7 +3220,7 @@ int main()
      * Aww, you are still the ones who are advocating for waste of time and violence and eheheheh funny stuff indeed
      * 
      * 
-     * Ehehehehehehe, hopefully though nobody gets hurt
+     * Ehehehehehehe, hopefully though nobody gets hurt, eheheh no resources btw eheheh we good eheheh we tryna help heheheh
       **/   
 
 
