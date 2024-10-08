@@ -3236,6 +3236,8 @@ int main()
      * 
      * I do not want to see any of the stupid people around me that has been there for so long and done nothing but beg and lie and "make really honorable
      * offers", dumb animals
+     * 
+     * wait wait, what were you doing all this time ?
       **/   
 
 
