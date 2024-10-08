@@ -3260,6 +3260,14 @@ int main()
      * We give womennn!!!! eheheh although there is no sign of them ehehehehehe, good and religious eheheheh
      * 
      * I have no time to waste with you, you say "its toooo late!!!!!", you say "getttt woooomeeeennnn!!!", definitely proper human beings eheheh
+     * 
+     * 
+     * 
+     * wait wait, you all really intelligent and knowing what life is people dare to say what ?
+     * "Its life!!!!"
+     * "Its fate!!!"
+     * "Get womeeenn!!!"
+     * Are you really sure about your devices ?
       **/   
 
 
