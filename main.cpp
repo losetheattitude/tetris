@@ -3160,7 +3160,7 @@ int main()
      * Thats the point of contention in your understanding hmmmmm
      * 
      * 
-     * Thats kinda begging behavior heheh
+     * Thats kinda begging behavior heheh, awwww, you say you just do not want to cope with what you can not face ? wait wait eheheh funny
       **/   
 
 
