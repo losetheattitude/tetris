@@ -3178,7 +3178,7 @@ int main()
      * ehehehe are you also offering the same things as before and before than that ? ehehehhe get womennnn get moneyyy!!!! pls
      * 
      * Awwwww, you also say, its too late!!!!! eheheheh we intelligence, aww you also think it should be okay, so why not 
-     * You do not even know what you are doing
+     * You do not even know what you are doing, I want no people like that stupid around me
       **/   
 
 
