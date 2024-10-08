@@ -3170,7 +3170,7 @@ int main()
      * 
      * Wait wait, talk about violence and your genius correlation with education and think about "why your education is not working ?"
      * because you have mistaken me for your inferior selves ?
-     * Talk more about violence ehehehe you can see why
+     * Talk more about violence ehehehe you can see why, so you still mistaking ?
       **/   
 
 
