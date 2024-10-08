@@ -3264,10 +3264,13 @@ int main()
      * 
      * 
      * wait wait, you all really intelligent and knowing what life is people dare to say what ?
+     * 
      * "Its life!!!!"
      * "Its fate!!!"
      * "Get womeeenn!!!"
      * Are you really sure about your devices ?
+     * 
+     * You also say, "ehehe we take it back ?" Dumb monkeys
       **/   
 
 
