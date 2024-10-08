@@ -3376,6 +3376,8 @@ int main()
      * Dumb monkey ? What are you waiting for ? Beg like the little insignificant animal you are
      * Just talk about the history that you avoid just like the little disgusting animal you are
      * 
+     * Insignificant, disgusting, immature, unreasonable, selfish, but somehow deluding as with everything, that they should be able to ?
+     * 
       **/   
 
 
