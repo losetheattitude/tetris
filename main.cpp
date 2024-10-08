@@ -3273,6 +3273,7 @@ int main()
      * You also say, "ehehe we take it back ?" Dumb monkeys
      * 
      * What are you waiting for btw ?
+     * What do you think the outcome will be ? You thought I would bend for your stupid violence education ? Or is it going to get worsen for you ?
       **/   
 
 
