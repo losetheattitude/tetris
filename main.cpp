@@ -3331,6 +3331,9 @@ int main()
      * Obviously you will be the one who will say, "FORGET ABOUT THE PAST PLEASE!!!!", why though am I supposed to be the gentle one ?
      * Take a look at your disgusting nature, what do you have to say ? "GET WOMEEENNNNNN!!!!"
      * Help us fix it!!! please!!!
+     * 
+     * How do you think things will occur by itself ? Awww, I have forgotten you were the reallllly reallllyy intelligent and good and honorable people 
+     * eheheheheheh funny stuff indeed
       **/   
 
 
