@@ -3150,7 +3150,8 @@ int main()
      * Your not seeing it proves it more and more, thats acting insufficient, you should have already known that
      * Try no harder, the problem is apparent, just start explaining and you will see why and try to explain what you achieved, you will see why
      * 
-     * You say you are not trouble heheeheh
+     * You say you are not trouble heheeheh, wait wait, tell me the correlation between not having resources and violence then start
+     * talking about education, then try your hardest to elaborate to impartial people, you will suddenly see that you are a dumb monkey
       **/   
 
 
