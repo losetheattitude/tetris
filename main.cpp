@@ -3167,6 +3167,8 @@ int main()
      * 
      * Why are you still deluding that I should thank ? While you have chased the same narrative for years and harmed with ?
      * And now you are in a position of what  ? Still looking around ? eheheh funny
+     * 
+     * Wait wait, talk about violence and your genius correlation with education and think about "why your education is not working ?"
       **/   
 
 
