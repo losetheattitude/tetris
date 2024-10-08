@@ -3355,6 +3355,8 @@ int main()
      * 
      * Now be proud of your really good actions while you explain them to others ? How come you still delude about your nonexistent anything ?
      * Do you see the stupid people of the history ? Why are you begging ?
+     * 
+     * You still say, it should be your right to harm people and start suddenly begging ?
       **/   
 
 
