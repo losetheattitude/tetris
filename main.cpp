@@ -3467,6 +3467,9 @@ int main()
      * 
      * Are you still begging ? Like the little disgusting animal you are ? Awwww, are you religious ? ehehehe really funny stuff like ? SUCK MORE
      * And you say, you are great ? eheheheh really disgusting animal WE ARE!!!! 
+     * Please say that you did this!!! we give you womeeennn!!! we give you cars!!! we the religious people, the great people of all time!!!
+     * 
+     * the stupid people of the history!!! we like begging the individual who we harm !!!!
      * 
       **/   
 
