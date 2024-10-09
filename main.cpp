@@ -3560,7 +3560,7 @@ int main()
      * eeeheh not selfish and eheheheh honest ehhe people really funny stuff
      * 
      * Awww, you also do not like to harm eheheh
-     * You still offering women ?
+     * You still offering women ? most funny indeed
      * 
       **/   
 
