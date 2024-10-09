@@ -3620,6 +3620,8 @@ int main()
      * 
      * Now what do you have for yourselves other than a mess none of you can deal with ? Yess!! begging would solve the problem of stupid people
      * The same stupid people, "GET WOMEENNNN!!!", "GET CARSSS!!!"
+     * Wait wait, the violence does not work but also women does not work as well ? wait wait, money!!! money!!!! wait wait, that also does not work ?
+     * eheheh I guess we misguess all the time ehehehe, whats gonna happen next ?
      * 
      * 
       **/   
