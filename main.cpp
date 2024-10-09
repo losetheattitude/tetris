@@ -3435,7 +3435,7 @@ int main()
      * Are you still begging religious people ? Havent you forgotten the conditions that you begged to ?
      * Are you still begging ? Awwwww, its not them anymore!!! plss we religous
      * 
-     * Now talk about your greatness
+     * Now talk about your greatness, awwwww its tooo late!!!!! eheheh
      * 
       **/   
 
