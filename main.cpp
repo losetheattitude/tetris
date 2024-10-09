@@ -3487,6 +3487,7 @@ int main()
      * Awwww, why dont you start explaining ? eehehe funny stuff right ?
      * 
      * And why are you still thinking that you should give advice ? 
+     * Immature and selfish ? Or just tell me what you would delude to be called as ?
       **/   
 
 
