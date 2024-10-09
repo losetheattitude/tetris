@@ -3505,7 +3505,7 @@ int main()
      * committing the most vile things but suddenly reduced to its most natural state ?
      * 
      * Why are you begging instead of "saying that you are innocent ?" Awwww, now you have to beg because you know you are guilty ? and also afraid ?
-     * Awwww, you would just love to take "everything" lightly ?
+     * Awwww, you would just love to take "everything" lightly ? Because ? Because you are a stupid animal who commits crime for no apparent reason ?
      * 
       **/   
 
