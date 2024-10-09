@@ -3440,6 +3440,8 @@ int main()
      * and you still say fate ?
      * 
      * Awwwww, you have forgotten because you were really busy enjoying your experiences ? now, "what happened" ???
+     * And suddenly you offer, "as you have always done", what everyone has access to ? although you have never delivered except a few exceptional circumstances ?
+     * And you also harmed ? What a shame that you are a stupid monkey
      * 
       **/   
 
