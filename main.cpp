@@ -3601,6 +3601,8 @@ int main()
      * So think better, what did you now build for yourself ? You havent built anything that is going to help you right ? So is the reason
      * for your stupidity and immaturity 
      * 
+     * Wait wait, you havent built anything but also in the position of begging ?
+     * 
      * 
       **/   
 
