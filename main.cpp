@@ -3740,6 +3740,8 @@ int main()
      * 
      * Stupid irrelevant people who is looking for trouble that they CAN NOT DEAL WITH, try harder ? awww you would rather gather
      * 123214213 people and think you are good ? fucking stupid monkeys indeed
+     * 
+     * Eheheheh you just harmed 123213921 people and you think you are good ? Thats the definition of inferior ? 
       **/   
 
 
