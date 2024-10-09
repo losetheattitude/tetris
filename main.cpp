@@ -3566,6 +3566,7 @@ int main()
      * Please!!! be silent!!!! eheheh be silent!!!! we have nothing other than begging to do !!! please eheheh
      * Talk about some violence hehehe really fun stuff indeed isnt it ?
      * Are you still advicing people ? Awwwwww, its too late!!!!! its regretful ehehehe but its fun because we think its okay to harm!!
+     * Can you please help us lie more, then we harm ehehehe, because we religious and delude also that we intelligent eheheh
      * 
       **/   
 
