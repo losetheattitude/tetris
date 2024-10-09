@@ -3568,6 +3568,8 @@ int main()
      * Are you still advicing people ? Awwwwww, its too late!!!!! its regretful ehehehe but its fun because we think its okay to harm!!
      * Can you please help us lie more, then we harm ehehehe, because we religious and delude also that we intelligent eheheh
      * 
+     * Bunch of stupid irrelevant immature selfish disgusting animals, is what I see, you do proceed with your delusions, OUT OF MY VICINITY
+     * 
       **/   
 
 
