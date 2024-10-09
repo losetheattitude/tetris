@@ -3821,6 +3821,7 @@ int main()
      * 
      * Ehehehe, I am competent!! I know what I am doing!! hopefully nobody gets hurt!!! I know what I am doing!!!
      * I am competent!!! please help us lie!!
+     * Do you delude that I will follow the most delusionally competent and scared animals like you ?
       **/   
 
 
