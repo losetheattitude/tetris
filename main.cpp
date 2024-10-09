@@ -3562,6 +3562,8 @@ int main()
      * Awww, you also do not like to harm eheheh
      * You still offering women ? most funny indeed, WOMEEEENNN!!! we reallly realllyy understand the life and time a illusion pls shhhh be silent
      * 
+     * Ehehehehe, violence and not having resources and etc etc are really relevant things, thats the problem indeed
+     * 
       **/   
 
 
