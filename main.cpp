@@ -3655,6 +3655,8 @@ int main()
      * btw btw btw, eheheh ? whats my experience like and talk about the "past", the past of a few years ?
      * You would rather beg like the little animal you are, "ITS MEAN!!!", lets show him how little animal we are, by violence ?
      * 
+     * What do you think it will lead to ? Yesss, you guessed it right!!! More violence for yourselves ?
+     * 
      * 
       **/   
 
