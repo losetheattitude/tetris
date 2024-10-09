@@ -3903,6 +3903,8 @@ int main()
      * 
      * ARE YOU STILL OFFERING ? eheheh really fun harming others is what you are trying to tell ? You talk about competency and you still 
      * reduce to asking things ?
+     * 
+     * Do not get into contexts that you will hate or regret or can not account for ? Whats the problem then ?
       **/    
 
 
