@@ -3717,6 +3717,8 @@ int main()
      * Arent you bored of your lives ? Awww you think I will follow your stupid lead ? Thats the delusion aww no no thats the problem ? eheheh
      * Funny indeed!!!! You think I do forgot ? eheheh
      * 
+     * I DO NOT CARE WHAT YOU HAVE TO SAY NEITHER WILL I EVER FOLLOW YOUR IRRELEVANT CONTEXT'S DECISIONS ? Do you follow ?
+     * 
      * 
      * 
       **/   
