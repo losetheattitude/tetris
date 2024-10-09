@@ -3569,6 +3569,7 @@ int main()
      * Can you please help us lie more, then we harm ehehehe, because we religious and delude also that we intelligent eheheh
      * 
      * Bunch of stupid irrelevant immature selfish disgusting animals, is what I see, you do proceed with your delusions, OUT OF MY VICINITY
+     * And do not mention about "life", remember this next time eheheh its funny indeed
      * 
       **/   
 
