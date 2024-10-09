@@ -3715,7 +3715,7 @@ int main()
      * advicing others to get harmed with the most stupid precepts ever ?
      * 
      * Arent you bored of your lives ? Awww you think I will follow your stupid lead ? Thats the delusion aww no no thats the problem ? eheheh
-     * Funny indeed!!!!
+     * Funny indeed!!!! You think I do forgot ? eheheh
      * 
      * 
      * 
