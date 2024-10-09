@@ -3489,6 +3489,8 @@ int main()
      * And why are you still thinking that you should give advice ? 
      * Immature and selfish ? Or just tell me what you would delude to be called as ?
      * And a little fear ? and you think you are the competent people ?
+     * wait wait, did you really think that you are passionate ? and also not animals ?
+     * ehehehe really fun stuff, Imma pass for the eternity likes of animals that I would not even consider
      * 
       **/   
 
