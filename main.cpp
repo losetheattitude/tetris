@@ -3471,6 +3471,7 @@ int main()
      * 
      * the stupid people of the history!!! we like begging the individual who we harm !!!!
      * You say you are not looking for trouble ? and you still beg like the animal you are ?
+     * Religious and good and great and honest and what else were you saying ? awww you were begging ? eheheheheh really funny stuff right ?
      * 
       **/   
 
