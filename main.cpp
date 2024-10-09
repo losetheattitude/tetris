@@ -3714,6 +3714,9 @@ int main()
      * EHeheheh now I see the problem, you are just clueless lost masses that want to enjoy your lives and avoid getting harmed while
      * advicing others to get harmed with the most stupid precepts ever ?
      * 
+     * Arent you bored of your lives ? Awww you think I will follow your stupid lead ? Thats the delusion aww no no thats the problem ? eheheh
+     * Funny indeed!!!!
+     * 
      * 
      * 
       **/   
