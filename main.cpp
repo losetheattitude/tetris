@@ -3701,6 +3701,7 @@ int main()
      * Wait wait, why though the great violence of your disgusting mind's product DOES NOT WORK AGAINST WHO YOU CAN NOT UNDERSTAND ?
      * Awww, because you are simple animal that do not understand shit ? shhhh be silent please!!! we want to enjoy our lives!!! eheheh
      * ehehehe, you still delude you will make decisions and I will follow you ?
+     * You get educated before then we can talk about what would ? Does that make sense ?
      * 
      * 
      * 
