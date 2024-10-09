@@ -3447,6 +3447,8 @@ int main()
      * and you say you still do not beg for your inferior nature to not be exposed ?
      * 
      * Do you want to see what a stupid animal look like ? Just try to explain your reasons and you will see 
+     * Do you see the simplicity in your thinking ? You are the one who is harming and begging and still deluding that everything goes as planned ?
+     * Nobody gets hurt!!! pleasee
      * 
       **/   
 
