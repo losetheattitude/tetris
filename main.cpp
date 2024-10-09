@@ -3665,6 +3665,7 @@ int main()
      * 
      * Pay for your own actions, you still offer women, as your disgusting nature allows you to ?
      * Wait wait, you also say education ? Just say it again ? eheheh education!!! education!!! we are afraid of violence as the inferior animals we are!!!
+     * and you offer women ? WHATS THE PATTERN LITTLE ANIMALS ?
      * 
      * 
       **/   
