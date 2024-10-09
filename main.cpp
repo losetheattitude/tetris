@@ -3682,7 +3682,7 @@ int main()
      * shhhhh be silent for our great experiences, we want to harm you!!! eheheh good people you say ? But why are you still begging ?
      * Please lie for us!!!! lie lie lie!!! eheheheh good and intelligent and religious people ? You ?
      * 
-     * But wait wait, why are you still begging ?
+     * But wait wait, why are you still begging ? Btw btw btw btw ? thats most funny indeed
      * 
      * 
      * 
