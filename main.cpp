@@ -3572,6 +3572,8 @@ int main()
      * And do not mention about "life", remember this next time eheheh its funny indeed
      * 
      * Wait wait, do you still think about offering women so that you can harm more ?
+     * Awwww, are you sorry ? eheheh why dont you beg more ? Why not right ? Violence etc, why not ? Thats the whole point, so better not beg this time?
+     * and explain like the little animal you are
      * 
       **/   
 
