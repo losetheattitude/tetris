@@ -3908,6 +3908,7 @@ int main()
      * Has great people gathered again to show off ? Have they bored of their lives ? Honest indeed eheheheh 
      * 
      * GET WOMEENNNN!!! PLEASE!!! GET WOMEEENN!!!!
+     * Talk a little bit more about coercion and the virtue of yours that is violence, you will see why
       **/    
 
 
