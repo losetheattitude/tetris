@@ -3829,6 +3829,9 @@ int main()
      * Beg like the little animal you are, I am not interested
      * 
      * "Awwwww, he can do nothing ehehehe good and fun ppl we are!!"
+     * Do you follow the part where I say "I AM NOT INTERESTED IN ASSOCIATING MYSELF WITH DISGUSTING PEOPLE AS YOU ARE"
+     * Why dont you explain ? eheheh lie for us lie lie lie please we need you to lie!! You get this place! you get womeeenn!!!
+     * we had all the chances but we still like harming!!!!! please liee!!!
       **/   
 
 
