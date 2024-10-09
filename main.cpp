@@ -3462,6 +3462,8 @@ int main()
      * Disgusting inferior people we are, you say ? shhhhhhh, we tryna solve problem ?
      * Why you still beg though ? as the inferior animal ?
      * 
+     * So you still think you should make decisions with your disgusting inferior harmful approach ?
+     * 
       **/   
 
 
