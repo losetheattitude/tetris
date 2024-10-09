@@ -3706,6 +3706,9 @@ int main()
      * We aim for the GREATER HARM!!!! yessss, no no it was EDUCATION, but somehow it does not work ? Because you are a simple disgusting animal
      * that is fearful of everything ? and you mistake others for your inferior self ?
      * 
+     * eheheh, I have forgotten though, you were just trying to enjoy your life ? eheheh GREATER HARMMMM!!! aww its education
+     * but please help us lie!!!
+     * 
      * 
      * 
       **/   
