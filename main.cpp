@@ -3848,6 +3848,8 @@ int main()
      * 
      * Do you think you are really intelligent ? fucking stupid monkey ? USE YOUR BRAIN BETTER NEXT TIME INSTEAD OF REDUCING TO YOUR DISGUSTING NATURE BY BEGGING
      * Awww such a shame isnt it ? what is the shame again ? eheheheh you wish I do not remember I am sure, that is where your competency lies ?
+     * 
+     * You can get the fuck out of my face indefinitely, beg for your own disasters FROM OUT OF MY VICINITY
       **/   
 
 
