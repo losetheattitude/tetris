@@ -3498,6 +3498,8 @@ int main()
      * Wait wait, you assume bullshit, you act together, you then start talking and accusing randomly and 
      * ask people to lie for your inferior disgusting self ?
      * 
+     * Will you now have anything reasonable ? Awwww, you havent had back then now its more and more apparent ? how about you start begging ? shhhhh be silent please
+     * 
       **/   
 
 
