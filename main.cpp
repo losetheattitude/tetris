@@ -3685,7 +3685,8 @@ int main()
      * But wait wait, why are you still begging ? Btw btw btw btw ? thats most funny indeed
      * Btw, its fate eheheheh life a simulation eheheh time illusion pls do not hurt US!!!! pleasee!! eheheh fucking monkeys, thats who you are
      * 
-     * Pay for your own actions and explain your great intentions
+     * Pay for your own actions and explain your great intentions, wait wait, you just want to enjoy your experiences ? Awww thats the problem
+     * but also like harming people you do not know ?
      * 
      * 
      * 
