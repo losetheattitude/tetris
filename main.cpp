@@ -3571,6 +3571,8 @@ int main()
      * Bunch of stupid irrelevant immature selfish disgusting animals, is what I see, you do proceed with your delusions, OUT OF MY VICINITY
      * And do not mention about "life", remember this next time eheheh its funny indeed
      * 
+     * Wait wait, do you still think about offering women so that you can harm more ?
+     * 
       **/   
 
 
