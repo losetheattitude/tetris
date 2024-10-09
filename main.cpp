@@ -3778,6 +3778,8 @@ int main()
      * Awww, I have forgotten you were the grown ups, and still delude on that it being okay, that it will cause no problems
      * 
      * Eeheheh, he has no phone, he has nothing to do, so we will play reallly really intelligently and beg him not to tell on us !!!
+     * andd awwww, we have forgotten, we will also offer woooomeeeennnn!!!! as we have done so, although nobody has ever seen none of them, ITS FINE,
+     * IT WILL DEFINITELY NOT GO SOUTH, THATS THE DELUSION I PROMISE YOU
       **/   
 
 
