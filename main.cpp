@@ -3475,6 +3475,8 @@ int main()
      * And you still think you are right ? eheheheheheh realllllllllyyy funny stuff ? and you still think you are intelligent ?
      * 
      * Now explain people, what a great nation and religious and etc etc people you are ? Why not ?
+     * 
+     * Are you still begging ? Come help us!!!!! come please lie for the greatest religious people of all the time!!
       **/   
 
 
