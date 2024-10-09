@@ -3495,6 +3495,9 @@ int main()
      * And you still beg like the little animal you are for what you do not deserve ?
      * Do you just like to show off ? ehehe who cares ? We already enjoy our experiences!!!! harm more ehehe
      * 
+     * Wait wait, you assume bullshit, you act together, you then start talking and accusing randomly and 
+     * ask people to lie for your inferior disgusting self ?
+     * 
       **/   
 
 
