@@ -3757,7 +3757,7 @@ int main()
      * or just waste more time on looking for 12312913 people so that you can harm single individual and consider that for education
      * see if thats works out, probably will ? eheheheh funny and little animals
      * 
-     * What are you waiting for ?
+     * What are you waiting for ? Awww you were looking for some unreasonable bullshit to act on your disgusting nature ? Awwww harm more that should help
       **/   
 
 
