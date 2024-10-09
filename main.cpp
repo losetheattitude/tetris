@@ -3843,7 +3843,8 @@ int main()
      * he witch, he did this, Awww we delude he did that please!!!! get womeen!! help us lie, help us save our stupid minds from its own actions!!!!!
      * 
      * 
-     * We tryna cure, we competent animals!!! please help
+     * We tryna cure, we competent animals!!! please help ? Whats the story about ? ehehehe really fun stuff right ? you just can not cope but also
+     * an incompetent and disgusting animal who think the technology they use can not be learnt ?
       **/   
 
 
