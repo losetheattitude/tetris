@@ -3429,6 +3429,8 @@ int main()
      * funny isnt it ? Aww, you also delude that you are not selfish ? also delude on all sort of things, but you suddenly ask for lies ?
      * 
      * And you still say you do not beg for some reason ? I just do not see, I see normally ?
+     * It feels like you have completely forgotten the conditions that you begged to arrive ? Please, say them that you did this!!!
+     * You wasted 30 years with us, why not more ? eheheheheheh intelligent people
      * 
       **/   
 
