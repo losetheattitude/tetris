@@ -3581,6 +3581,9 @@ int main()
      * Are you still the inferior animals who think, having 12321 people around you should grant you all the possible rights ?
      * Talk about violence, its most funny indeed
      * 
+     * Do you understand why you are inferior now ? Do you still think having so many people around should give you the right but 
+     * somehow the very same "education" that you fear like the little animal you are, that is "violence", IS NOT WORKING ?
+     * 
       **/   
 
 
