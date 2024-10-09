@@ -3619,6 +3619,7 @@ int main()
      * and see who is emotional ? Eehehehe we good ppl, we intelligent, we developed eheheh
      * 
      * Now what do you have for yourselves other than a mess none of you can deal with ? Yess!! begging would solve the problem of stupid people
+     * The same stupid people, "GET WOMEENNNN!!!", "GET CARSSS!!!"
      * 
      * 
       **/   
