@@ -3656,6 +3656,7 @@ int main()
      * You would rather beg like the little animal you are, "ITS MEAN!!!", lets show him how little animal we are, by violence ?
      * 
      * What do you think it will lead to ? Yesss, you guessed it right!!! More violence for yourselves ?
+     * Pleaseeeee, help us lie!! help us convince others into the opposite of our disgusting nature ? you say ?
      * 
      * 
       **/   
