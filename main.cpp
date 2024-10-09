@@ -3679,6 +3679,8 @@ int main()
      * Take some photos!!! eeheh please lie for us!! we didnt mean to harm!! ejehehe good religious people hehehe
      * Please!!! we want to harm you but be nice to us!!! eheheheh take some more photos please!!
      * 
+     * shhhhh be silent for our great experiences, we want to harm you!!! eheheh good people you say ? But why are you still begging ?
+     * 
      * 
      * 
       **/   
