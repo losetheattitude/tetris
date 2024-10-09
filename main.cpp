@@ -3616,7 +3616,7 @@ int main()
      * it means PUNISHMENT!!!! which you take for education as you are the inferiors ? But wait, why is not it working ? ehehe I guess you are too inferior
      * 
      * Noww, is the time for talking about "REASONABLE THINGS" instead of "EMOTIONS!!!" eheheheh do not be emotional!!! then pay for your own actions
-     * and see who is emotional ?
+     * and see who is emotional ? Eehehehe we good ppl, we intelligent, we developed eheheh
      * 
      * 
       **/   
