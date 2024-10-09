@@ -3910,6 +3910,9 @@ int main()
      * GET WOMEENNNN!!! PLEASE!!! GET WOMEEENN!!!!
      * Talk a little bit more about coercion and the virtue of yours that is violence, you will see why
      * And you will also see why I will not consider any of you whether you offer what you have so far, thats the reason
+     * 
+     * 
+     * EDUCATION!!!!! EDUCATIONNN!!!
       **/    
 
 
