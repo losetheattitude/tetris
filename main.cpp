@@ -3813,6 +3813,7 @@ int main()
      * help us lie!!!
      * 
      * Are you still watching from afar like the insignificant animal you are ?
+     * You just can not accept that ITS SO FUN TO HARM!!! ? awwww, thats really clever stuff indeed
       **/   
 
 
