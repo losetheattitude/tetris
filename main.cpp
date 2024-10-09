@@ -3856,6 +3856,8 @@ int main()
      * 
      * beg like the weak natured animal you are, while you harm without direction other than to accuse with, Is that the great people ? ehehehe
      * Enemy enemy!! he did that!! he did this!!! stupid monkeys!
+     * 
+     * Havent you mistaken I for your inferior selves and thought that it would cause no problems ?
       **/    
 
 
