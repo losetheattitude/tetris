@@ -3507,6 +3507,9 @@ int main()
      * Why are you begging instead of "saying that you are innocent ?" Awwww, now you have to beg because you know you are guilty ? and also afraid ?
      * Awwww, you would just love to take "everything" lightly ? Because ? Because you are a stupid animal who commits crime for no apparent reason ?
      * 
+     * Are you still disgustingly allege with stupid bullshit ? You do not have eyes ? You do not have brain ? 30 years of evidence is not enough for your
+     * stupid brain ? Thats what I thought, thats why I will not even consider one second to having been involved with any of you
+     * 
       **/   
 
 
