@@ -3847,6 +3847,7 @@ int main()
      * an incompetent and disgusting animal who think the technology they use can not be learnt ?
      * 
      * Do you think you are really intelligent ? fucking stupid monkey ? USE YOUR BRAIN BETTER NEXT TIME INSTEAD OF REDUCING TO YOUR DISGUSTING NATURE BY BEGGING
+     * Awww such a shame isnt it ? what is the shame again ? eheheheh you wish I do not remember I am sure, that is where your competency lies ?
       **/   
 
 
