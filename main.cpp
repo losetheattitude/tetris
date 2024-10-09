@@ -3767,6 +3767,9 @@ int main()
      * life a simulation, time illusion, eheheheh
      * 
      * Still looking around wasting time because you are scared ? 
+     * Eheheheheeh, we tryna help, please get some cars!!! thats what we are after and thats why we are the disgusting animals with stupid contexts here ?
+     * Why dont you get some cars!!!! get wooomeeennn!!! It will not matter ehhehehe we just can not see it!!! we still take everyone for our inferior selves ?
+     * Is that what you are saying ?
       **/   
 
 
