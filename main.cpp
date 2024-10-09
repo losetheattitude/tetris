@@ -3416,6 +3416,7 @@ int main()
      * So you were actually the disgusting selfish stupid animal that done this for the sake of his "experiences" ?
      * 
      * And you also beg ? "We do what we want!!!", "YOU CAN NOT!!!" "YOU CAN NOT SAY THAT!!!", PLEASE STAY!!! WE WANT TO HARM MORE EHEHEHHEHEHE 
+     * Stupid stubborn dumb animals that act like they know what they are doing
      * 
       **/   
 
