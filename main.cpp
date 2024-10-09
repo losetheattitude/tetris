@@ -3511,6 +3511,7 @@ int main()
      * stupid brain ? Thats what I thought, thats why I will not even consider one second to having been involved with any of you
      * Still down to waste others time that you have neither interest nor rights over ?
      * Still cover your actions with highly supposed "good intentions" ? Now talk about time and violence
+     * Okay then it would be easy to explain your actions because you all know everything and should make decisions THAT ARE NOT YOUR PLACE ?
      * 
       **/   
 
