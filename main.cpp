@@ -3658,6 +3658,7 @@ int main()
      * What do you think it will lead to ? Yesss, you guessed it right!!! More violence for yourselves ?
      * Pleaseeeee, help us lie!! help us convince others into the opposite of our disgusting nature ? you say ?
      * What did you achieve so far ? Just some random noises and feeling great about your intelligent ?
+     * Awww, I have forgotten, some violence as well eheheheh
      * 
      * 
       **/   
