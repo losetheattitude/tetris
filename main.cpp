@@ -3804,6 +3804,7 @@ int main()
      * Awww its not so funny when you are around people who can uphold your stupid behavior ?
      * 
      * Why arent you laughing and harming now ? awww thats the greatness you were deluding for also ?
+     * You know its the sole way that you get hurt ? because thats not the problem!!!
       **/   
 
 
