@@ -3548,6 +3548,9 @@ int main()
      * Awwwwwww, now you are in difficult position ehehehe so you reduce to begging with guise as "intelligent" ? Try explaining you will see why
      * Okay now, just tell me my experience, awwww, you have forgotten about the violence ? and start talking about "he bad, he did this!!"
      * 
+     * Are you still begging for stupid games that you think is "legal" because you are just bored ? Who told you that it is okay to
+     * play the most stupid game in which you are no target ?
+     * 
       **/   
 
 
