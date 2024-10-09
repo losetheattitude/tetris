@@ -3630,6 +3630,7 @@ int main()
      * eheheh, do not be emotional pls!! Awww, that means you should get educated ? Whats the problem you say ?
      * 
      * STUPID PEOPLE ? You offer what ? CARSS!!!! WOMEEENNN!!!! eheheheh fun stuff
+     * Why are you offering the same inferior feelings as you love to indulge ?
      * 
      * 
       **/   
