@@ -3626,6 +3626,8 @@ int main()
      * We just now have to act like the opposite of animals that we are, because otherwise THAT MEANS "EDUCATION" which we fear as the animal we are ?
      * What are you saying exactly ? ehehehe really funny stuff indeed
      * 
+     * Awwww, I see the problem, you, instead of getting education, would rather beg with what you have been begging so far ?
+     * 
      * 
       **/   
 
