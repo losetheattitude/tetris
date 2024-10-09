@@ -3699,6 +3699,7 @@ int main()
      * Wait wait, can you tell me my experience again ? Instead of begging like the little lost animal you are ?
      * 
      * Wait wait, why though the great violence of your disgusting mind's product DOES NOT WORK AGAINST WHO YOU CAN NOT UNDERSTAND ?
+     * Awww, because you are simple animal that do not understand shit ? shhhh be silent please!!! we want to enjoy our lives!!! eheheh
      * 
      * 
      * 
