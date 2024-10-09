@@ -3637,7 +3637,7 @@ int main()
      * Dont be emotional!!! eheh get cars!!! its too late!! awww, it is too mean!! please please!! help lie us!!
      * Fucking retarted monkeys you say ?
      * 
-     * Are you still begging like the little animal you are ?
+     * Are you still begging like the little animal you are ? Also hiding ? which proves what you are ?
      * 
      * 
       **/   
