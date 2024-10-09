@@ -3499,6 +3499,8 @@ int main()
      * ask people to lie for your inferior disgusting self ?
      * 
      * Will you now have anything reasonable ? Awwww, you havent had back then now its more and more apparent ? how about you start begging ? shhhhh be silent please
+     * We the great people, we need your lies ehehehe please so we can harm more, thats how we mistake being intelligent as we do for others as well!!!
+     * shhhh, please be silent heheheh its fate!! its fate!!
      * 
       **/   
 
