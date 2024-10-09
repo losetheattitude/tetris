@@ -3737,6 +3737,9 @@ int main()
      * religious ppl!!!
      * 
      * Are you still offering women ? just talk about education eheheh aww it was violence then eheheh really funny and its good!!
+     * 
+     * Stupid irrelevant people who is looking for trouble that they CAN NOT DEAL WITH, try harder ? awww you would rather gather
+     * 123214213 people and think you are good ? fucking stupid monkeys indeed
       **/   
 
 
