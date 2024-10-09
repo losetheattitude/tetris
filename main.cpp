@@ -3865,7 +3865,9 @@ int main()
      * eheheh lets test all these things on him eheheheh, medicinesssss bring more mediciness, we still delude on our competency!!!
      * 
      * Still think you make decisions and I will follow them ? See what happens disgusting animals
+     * They are gone!! now there are new people !!!!! we tryna help!! but somehow we failed at that as well ?
       **/    
+
 
 
 
