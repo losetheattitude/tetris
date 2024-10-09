@@ -3579,7 +3579,7 @@ int main()
      * Still wasting time ? The sole indication indeed
      * 
      * Are you still the inferior animals who think, having 12321 people around you should grant you all the possible rights ?
-     * Talk about violence
+     * Talk about violence, its most funny indeed
      * 
       **/   
 
