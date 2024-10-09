@@ -3827,6 +3827,8 @@ int main()
      * 
      * You still think you are making decisions and you think I would follow them ? and you think it should cause no problems ?
      * Beg like the little animal you are, I am not interested
+     * 
+     * "Awwwww, he can do nothing ehehehe good and fun ppl we are!!"
       **/   
 
 
