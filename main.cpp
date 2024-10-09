@@ -3622,6 +3622,7 @@ int main()
      * The same stupid people, "GET WOMEENNNN!!!", "GET CARSSS!!!"
      * Wait wait, the violence does not work but also women does not work as well ? wait wait, money!!! money!!!! wait wait, that also does not work ?
      * eheheh I guess we misguess all the time ehehehe, whats gonna happen next ?
+     * Ehehehe, the same stupid people who will say, "DO NOT LOOK BACK!!!", although we are still the same stupid animals!!!
      * 
      * 
       **/   
