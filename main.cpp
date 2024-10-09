@@ -3530,6 +3530,8 @@ int main()
      * Eheehhe, the sole way is to still allege, "HE CRAZY HE DID THIS HE DID THAT!!!"
      * Do you follow what I am saying ? I do not even have the tiniest interest in associating myself with people like you
      * 
+     * You pay for your actions on your own, and do not beg the next time instead you use your useless brain
+     * 
       **/   
 
 
