@@ -3900,6 +3900,9 @@ int main()
      * 
      * You still do not understand how life works ? You ignore everything and you would be okay with murder as well, do you think I will care ?
      * Selfish people ? You seek no problems indeed
+     * 
+     * ARE YOU STILL OFFERING ? eheheh really fun harming others is what you are trying to tell ? You talk about competency and you still 
+     * reduce to asking things ?
       **/    
 
 
