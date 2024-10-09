@@ -3426,7 +3426,7 @@ int main()
      * wait wait, what happened ?? ehehehe what happened pls help ?? who did this ?? eheheheh, we think we educate people eheheheh
      * You demand credibility with being the most distant to such an entity and also the entity that shows off violence ? Dumb fucking monkeys
      * And you still beg like the little animal you are ? shhhhhh do not tell the truth!!! be silent, we want to help you!!! we good eheheheh
-     * funny isnt it ?
+     * funny isnt it ? Aww, you also delude that you are not selfish ? also delude on all sort of things, but you suddenly ask for lies ?
      * 
       **/   
 
