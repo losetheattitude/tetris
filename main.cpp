@@ -3858,6 +3858,8 @@ int main()
      * Enemy enemy!! he did that!! he did this!!! stupid monkeys!
      * 
      * Havent you mistaken I for your inferior selves and thought that it would cause no problems ?
+     * Better use your brain next time, ITS TOOOO LATEEE!!! please!!! do not harm nobody!!! we like harming though!!!
+     * ITSSS TOOO LATEEE!!!! awwww, what have done!!! ? Havent you learnt a thing ? Why are you waiting still ? Disgusting animal ?
       **/    
 
 
