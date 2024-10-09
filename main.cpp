@@ -3677,6 +3677,7 @@ int main()
      * Disgusting people ? Talk about the past eheheheh "PAST DOES NOT EXIST PLEASE!!!" we did some things we can not account to, is that what you are begging to ?
      * 
      * Take some photos!!! eeheh please lie for us!! we didnt mean to harm!! ejehehe good religious people hehehe
+     * Please!!! we want to harm you but be nice to us!!! eheheheh take some more photos please!!
      * 
      * 
      * 
