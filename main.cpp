@@ -3532,6 +3532,7 @@ int main()
      * 
      * You pay for your actions on your own, and do not beg the next time instead you use your useless brain
      * Awwww, you have forgotten, or you just would love to forget ? eheheh you love doing so many things right ?
+     * Ehehehe, harm ppl, why not we good etc, no responsibility ehehe ask for lies and make some offers eheheheh good intelligent 
      * 
       **/   
 
