@@ -3823,6 +3823,7 @@ int main()
      * I am competent!!! please help us lie!!
      * Do you delude that I will follow the most delusionally competent and scared animals like you ?
      * You offering materials still ? Dont you think you also delude on it being okay ?
+     * You get the same violence and we are good
       **/   
 
 
