@@ -3595,6 +3595,8 @@ int main()
      * get women get women, eheheh get women ehehehe,  we tryna fool people heheheeh pls pls lie, the last time we also have said the same things ehehehh
      * TIME DOES NOT EXIST!!!! life a simulation, eheheh illusion pls pls
      * 
+     * Why dont you start explaining though ? hehehe please be silent be silent ehhehe good ppl
+     * 
      * 
       **/   
 
