@@ -3802,6 +3802,8 @@ int main()
      * 
      * Eheehhee, its the "PAST" that we still perpetuate, and offer woomeeennnnn!! where are they though ehehehehe ? Funny isnt it ?
      * Awww its not so funny when you are around people who can uphold your stupid behavior ?
+     * 
+     * Why arent you laughing and harming now ? awww thats the greatness you were deluding for also ?
       **/   
 
 
