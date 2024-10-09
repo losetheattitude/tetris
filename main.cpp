@@ -3418,6 +3418,8 @@ int main()
      * And you also beg ? "We do what we want!!!", "YOU CAN NOT!!!" "YOU CAN NOT SAY THAT!!!", PLEASE STAY!!! WE WANT TO HARM MORE EHEHEHHEHEHE 
      * Stupid stubborn dumb animals that act like they know what they are doing
      * 
+     * You still beg ? Please be silent, dont tell what an animal we are!!! eheheh
+     * 
       **/   
 
 
