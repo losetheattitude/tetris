@@ -3513,6 +3513,8 @@ int main()
      * Still cover your actions with highly supposed "good intentions" ? Now talk about time and violence
      * Okay then it would be easy to explain your actions because you all know everything and should make decisions THAT ARE NOT YOUR PLACE ?
      * 
+     * Awwww, some violence and start asking lies so that we can save our precious experiences!!
+     * 
       **/   
 
 
