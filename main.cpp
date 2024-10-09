@@ -3423,6 +3423,8 @@ int main()
      * Impossible that such an individual can not enjoy his life!!!! Does that make sense to really great people and intelligent also ? ehehehhe
      * really realllyy good
      * 
+     * wait wait, what happened ?? ehehehe what happened pls help ?? who did this ?? eheheheh, we think we educate people eheheheh
+     * 
       **/   
 
 
