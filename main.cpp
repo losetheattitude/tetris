@@ -3868,6 +3868,7 @@ int main()
      * They are gone!! now there are new people !!!!! we tryna help!! but somehow we failed at that as well ?
      * 
      * Still saying stupid stuff ? ehehe proud and competent and accountable etc etc, womeeeennnn!!!! please!!!!
+     * eheheh, fun stuff but only when we are not under threat you say ?
       **/    
 
 
