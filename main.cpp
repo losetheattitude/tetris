@@ -3612,7 +3612,8 @@ int main()
      * The threat is for us!!! lets turn into our most gentle and passionate form!! pleasee!! 
      * GET CARSSS!!! GET WOMEENNNN!!! PLEASE!!! WE ASK NO HARM!! WE WANT HARM!!! PLEASE
      * 
-     * Competent indeed!!
+     * Competent indeed!! Eheheeh not its the time, you all joke and laugh at the most unlaughable because you know otherwise 
+     * it means PUNISHMENT!!!! which you take for education as you are the inferiors ? But wait, why is not it working ? ehehe I guess you are too inferior
      * 
      * 
       **/   
