@@ -3727,6 +3727,9 @@ int main()
      * Ignorant stupid people ? wait wait, why you reduced to begging for random noises ? Awww you take life for a game 
      * and you take it lightly but suddenly you beg ? Is that how good you are ? eheheheh
      * 
+     * 
+     * Are you still begging for random noises so that you can harm ? The greatness of the people ? eheheh please please
+     * do not snitch on our actions that we do to harm you!!!!
       **/   
 
 
