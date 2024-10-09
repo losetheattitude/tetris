@@ -3623,6 +3623,8 @@ int main()
      * Wait wait, the violence does not work but also women does not work as well ? wait wait, money!!! money!!!! wait wait, that also does not work ?
      * eheheh I guess we misguess all the time ehehehe, whats gonna happen next ?
      * Ehehehe, the same stupid people who will say, "DO NOT LOOK BACK!!!", although we are still the same stupid animals!!!
+     * We just now have to act like the opposite of animals that we are, because otherwise THAT MEANS "EDUCATION" which we fear as the animal we are ?
+     * What are you saying exactly ? ehehehe really funny stuff indeed
      * 
      * 
       **/   
