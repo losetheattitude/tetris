@@ -3615,6 +3615,9 @@ int main()
      * Competent indeed!! Eheheeh not its the time, you all joke and laugh at the most unlaughable because you know otherwise 
      * it means PUNISHMENT!!!! which you take for education as you are the inferiors ? But wait, why is not it working ? ehehe I guess you are too inferior
      * 
+     * Noww, is the time for talking about "REASONABLE THINGS" instead of "EMOTIONS!!!" eheheheh do not be emotional!!! then pay for your own actions
+     * and see who is emotional ?
+     * 
      * 
       **/   
 
