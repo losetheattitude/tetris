@@ -3683,6 +3683,7 @@ int main()
      * Please lie for us!!!! lie lie lie!!! eheheheh good and intelligent and religious people ? You ?
      * 
      * But wait wait, why are you still begging ? Btw btw btw btw ? thats most funny indeed
+     * Btw, its fate eheheheh life a simulation eheheh time illusion pls do not hurt US!!!! pleasee!! eheheh fucking monkeys, thats who you are
      * 
      * 
      * 
