@@ -3481,6 +3481,9 @@ int main()
      * 
      * wait wait, now you allege that you are trying to help when you had 123213213 years to do so ? eheheheh please lie for us!!!
      * Wait wait, now is the time you talk about violence 
+     * 
+     * 
+     * Why cant you explain your intentional actions ? Awww, you just can not accept that you are an animal ?
       **/   
 
 
