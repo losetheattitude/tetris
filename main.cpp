@@ -3660,7 +3660,7 @@ int main()
      * What did you achieve so far ? Just some random noises and feeling great about your intelligent ?
      * Awww, I have forgotten, some violence as well eheheheh
      * 
-     * Fucking immature disgusting animals
+     * Fucking immature disgusting animals, you already know what it is going to go to ? So save your beggings for your disgusting nature
      * 
      * 
       **/   
