@@ -3809,7 +3809,8 @@ int main()
      * And you dare calling it life ? Stupid monkeys 
      * 
      * Do you see the problem ? You just like having exchanges because you feel completely okay not getting hurt ? Awww
-     * that may be the problem I guess
+     * that may be the problem I guess, are you still begging ? ehehehe please we need to get out of this place
+     * help us lie!!!
       **/   
 
 
