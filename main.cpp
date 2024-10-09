@@ -3765,6 +3765,8 @@ int main()
      * 
      * Where is your great education ? Did you really mistake me for your insignificant desires and actions ? Who is who here ? awww life not fair
      * life a simulation, time illusion, eheheheh
+     * 
+     * Still looking around wasting time because you are scared ? 
       **/   
 
 
