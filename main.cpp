@@ -3446,6 +3446,8 @@ int main()
      * You have also forgotten the conditions you begged to ? awwww you are really good and skillful people then
      * and you say you still do not beg for your inferior nature to not be exposed ?
      * 
+     * Do you want to see what a stupid animal look like ? Just try to explain your reasons and you will see 
+     * 
       **/   
 
 
