@@ -3730,6 +3730,8 @@ int main()
      * 
      * Are you still begging for random noises so that you can harm ? The greatness of the people ? eheheh please please
      * do not snitch on our actions that we do to harm you!!!!
+     * 
+     * Do you think I do not remember ? Thats the difference between the inferior animal like yourselves and I, beg more stupid little monkeys
       **/   
 
 
