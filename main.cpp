@@ -3762,6 +3762,8 @@ int main()
      * 
      * Are you still offering ? eheheheh really fun stuff isnt it ? hopefully nobody gets hurt or no problems ever occur!!! we want to live our lives!!!!
      * please do not hurt us!!
+     * 
+     * Where is your great education ?
       **/   
 
 
