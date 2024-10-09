@@ -3690,6 +3690,8 @@ int main()
      * 
      * Disgusting fearful scared animals ? Is that who you all are ?
      * Better use your brain next time ? Does that make sense do you think ?
+     * Awwwww, I see now what you are trying to tell, you say, I NEED TO FREE MYSELF FROM THIS ATTENTION THAT I HAVE FORMED BECAUSE
+     * I AM A DISGUSTING ANIMAL WHO LIKES TO HARM, IS THAT WHAT YOU SAY ? RELIGIOUS PEOPLE
      * 
      * 
      * 
