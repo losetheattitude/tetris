@@ -3838,7 +3838,7 @@ int main()
      * credible people you say ? Wait wait, try explaining your great conduct ehehehh please help us!! help us lie!!! we want harm!!
      * awww, you were the people who think gathering 1230213021 people against one to harm ? proud indeed
      * 
-     * solve your own problems
+     * solve your own problems, think better next time on whether who is afraid and inferior and etc animal ? as there are countless occurences eheheh funny isnt it ?
       **/   
 
 
