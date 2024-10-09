@@ -3597,7 +3597,9 @@ int main()
      * 
      * Why dont you start explaining though ? hehehe please be silent be silent ehhehe good ppl
      * But wait wait, its too late!!!! we needed to harm you beforehand so that things can get worse and worse!!! now we have achieved it!!!!
-     * So think better, what did you now build for yourself ?
+     * 
+     * So think better, what did you now build for yourself ? You havent built anything that is going to help you right ? So is the reason
+     * for your stupidity and immaturity 
      * 
      * 
       **/   
