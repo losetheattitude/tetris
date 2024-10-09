@@ -3424,6 +3424,7 @@ int main()
      * really realllyy good
      * 
      * wait wait, what happened ?? ehehehe what happened pls help ?? who did this ?? eheheheh, we think we educate people eheheheh
+     * You demand credibility with being the most distant to such an entity and also the entity that shows off violence ? Dumb fucking monkeys
      * 
       **/   
 
