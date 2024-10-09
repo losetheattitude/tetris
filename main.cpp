@@ -3711,6 +3711,8 @@ int main()
      * please help us lie!!! we give womeeeennn!!!
      * 
      * Try educating more ? How about yourselves though ? eheheheheh no no greater good, ehehhe greater harm!!!
+     * EHeheheh now I see the problem, you are just clueless lost masses that want to enjoy your lives and avoid getting harmed while
+     * advicing others to get harmed with the most stupid precepts ever ?
      * 
      * 
      * 
