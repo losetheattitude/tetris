@@ -3744,7 +3744,7 @@ int main()
      * Eheheheh you just harmed 123213921 people and you think you are good ? Thats the definition of inferior ? 
      * Try explaining that to others ? eheheh please please, please lie for us!!
      * 
-     * Fucking stupid monkeys ?
+     * Fucking stupid monkeys ? you still taking life lightly and hopefully noone gets hurt ?
       **/   
 
 
