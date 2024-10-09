@@ -3518,6 +3518,8 @@ int main()
      * Heyyy!!! no regret!!! ehehehe please do not harm anyone
      * Why are you still waiting or harming or asking lies ? 
      * Awww, you also used your unseen intelligent brains to foresee what would ? ehehe its 30 years etc, no worries
+     * So far, we dealt with the problems when they come ehehehe so we will when another one comes eheheh please lie for us!!!
+     * thats how we deal with our problems, asking for lies!!! Pleasee and making offers as if they do not mean begging
      * 
       **/   
 
