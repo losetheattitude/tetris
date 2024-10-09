@@ -3523,6 +3523,8 @@ int main()
      * Please, say this or do this for us!! we tryna help you eheheheh
      * 
      * Who are you going to go to to cover your unaccountable actions ? Do you think threatining would work ?
+     * Or you would start begging ? Get carsss!!!! get womennn!!! where were you btw ? eheheh you were offering the same stupid bullshit
+     * that you take for a skill as you do with "begging" but somehow there is no sign of them ? Thats what I call inferior eheheh good ppl
      * 
       **/   
 
