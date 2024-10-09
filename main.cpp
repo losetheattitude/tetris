@@ -3703,7 +3703,8 @@ int main()
      * ehehehe, you still delude you will make decisions and I will follow you ?
      * You get educated before then we can talk about what would ? Does that make sense ?
      * Awww, you suddenly reduce to "GREATER GOOD", "GREATER HARM!!!" eheheh, wait wait, it got complicated ?
-     * We aim for the GREATER HARM!!!! yessss
+     * We aim for the GREATER HARM!!!! yessss, no no it was EDUCATION, but somehow it does not work ? Because you are a simple disgusting animal
+     * that is fearful of everything ? and you mistake others for your inferior self ?
      * 
      * 
      * 
