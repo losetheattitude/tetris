@@ -3817,6 +3817,7 @@ int main()
      * wasting time, its really fun ehehe because we keep enjoying our experiences over others' lives 
      * 
      * I am not interested in your stupid self enjoying games that you play out of your disgusting boring lifes
+     * Offer resources as thats the only thing that you are after as selfish directionless animals you are
       **/   
 
 
