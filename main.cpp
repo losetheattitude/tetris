@@ -3905,6 +3905,7 @@ int main()
      * reduce to asking things ?
      * 
      * Do not get into contexts that you will hate or regret or can not account for ? Whats the problem then ?
+     * Has great people gathered again to show off ? Have they bored of their lives ? Honest indeed eheheheh 
       **/    
 
 
