@@ -3551,6 +3551,8 @@ int main()
      * Are you still begging for stupid games that you think is "legal" because you are just bored ? Who told you that it is okay to
      * play the most stupid game in which you are no target ? You deal with your own problems, and do what you have to do , get the fuck out of my face
      * 
+     * As a lost and clueless dumb animals, act harder on your "knowledge of world etc", that proves everything I say
+     * 
       **/   
 
 
