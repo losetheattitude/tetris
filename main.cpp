@@ -3415,6 +3415,8 @@ int main()
      * Wait wait, why didnt your superior education havent worked ? Awwww, it was for your selfish experiences then ?
      * So you were actually the disgusting selfish stupid animal that done this for the sake of his "experiences" ?
      * 
+     * And you also beg ? "We do what we want!!!", "YOU CAN NOT!!!" "YOU CAN NOT SAY THAT!!!", PLEASE STAY!!! WE WANT TO HARM MORE EHEHEHHEHEHE 
+     * 
       **/   
 
 
