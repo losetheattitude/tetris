@@ -3851,6 +3851,8 @@ int main()
      * 
      * You can get the fuck out of my face indefinitely, beg for your own disasters FROM OUT OF MY VICINITY
      * This is exactly what happens when the incompetent people start deluding on their capabilities and start begging 
+     * Its most funny indeed, especially the part where you start offering "WOOOMEEENNNNNNNNN!!!" but its nonexistent as your "qualities" that you
+     * would like to make random sounds
       **/   
 
 
