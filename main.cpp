@@ -3639,6 +3639,8 @@ int main()
      * 
      * Are you still begging like the little animal you are ? Also hiding ? which proves what you are ?
      * Pleaseeee, have some women!!! eeheheh so far we have done everything we have said!!!!
+     * Awwww, you were saying education ? Like the little animal you are who fears violence which helps them see violence as education ?
+     * Like the little disgusting insignificant animals you are ?
      * 
      * 
       **/   
