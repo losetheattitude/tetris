@@ -3552,6 +3552,7 @@ int main()
      * play the most stupid game in which you are no target ? You deal with your own problems, and do what you have to do , get the fuck out of my face
      * 
      * As a lost and clueless dumb animals, act harder on your "knowledge of world etc", that proves everything I say
+     * Eehehe, time does not exist, eheheh life a simulation pls do not hurt us
      * 
       **/   
 
