@@ -3671,6 +3671,8 @@ int main()
      * Talk about violence and "NOT HAVING RESOURCES" !! and proceed with your beggings
      * Thats why, btw why not ? eheheh
      * still wasting time thinking that you are competent in your irrelevant actions ?
+     * GET THE FUCK OUT OF MY FACE ? Awwww, wait wait, do not get emotional, MORE VIOLENCE FOR YOU ALL!!!
+     * 
      * 
      * 
       **/   
