@@ -3742,6 +3742,7 @@ int main()
      * 123214213 people and think you are good ? fucking stupid monkeys indeed
      * 
      * Eheheheh you just harmed 123213921 people and you think you are good ? Thats the definition of inferior ? 
+     * Try explaining that to others ? eheheh please please, please lie for us!!
       **/   
 
 
