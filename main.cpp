@@ -3818,6 +3818,9 @@ int main()
      * 
      * I am not interested in your stupid self enjoying games that you play out of your disgusting boring lifes
      * Offer resources as thats the only thing that you are after as selfish directionless animals you are
+     * 
+     * Ehehehe, I am competent!! I know what I am doing!! hopefully nobody gets hurt!!! I know what I am doing!!!
+     * I am competent!!! please help us lie!!
       **/   
 
 
