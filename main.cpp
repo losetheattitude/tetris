@@ -3888,6 +3888,8 @@ int main()
      * 
      * Are you still sure ? Or would you like to say "ITS TOOO LATEEE!!!" please we have given you what has no meaning whatsoever, do not be like us
      * You still say "lucky" so that you can cover your actions ?
+     * 
+     * Would you be able to face the same reality or would you like to avoid ? eheheh thats the competency I would love to associate myself with right ?
       **/    
 
 
