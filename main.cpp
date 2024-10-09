@@ -3451,6 +3451,9 @@ int main()
      * Nobody gets hurt!!! pleasee
      * wait what happened to your education ? Awww you also delude that you are righteous and doing good ?
      * 
+     * Awwwwwww, itsss toooo late!!!! what have we done!!! ?, and surprisingly you are not the type that would accept his mistake
+     * Most tragic indeed
+     * 
       **/   
 
 
