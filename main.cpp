@@ -3527,6 +3527,7 @@ int main()
      * that you take for a skill as you do with "begging" but somehow there is no sign of them ? Thats what I call inferior eheheh good ppl
      * 
      * Why dont you try your best to explain ? awwww just make some offers eheheheh credible ppl btw indeed
+     * Eheehhe, the sole way is to still allege, "HE CRAZY HE DID THIS HE DID THAT!!!"
      * 
       **/   
 
