@@ -3439,6 +3439,8 @@ int main()
      * You act like it is fine, it has to be otherwise things are going to get messed up ehehe
      * and you still say fate ?
      * 
+     * Awwwww, you have forgotten because you were really busy enjoying your experiences ? now, "what happened" ???
+     * 
       **/   
 
 
