@@ -3881,6 +3881,8 @@ int main()
      * You call that education still ? Do not pray more, you get what you beg for bro ?
      * We are gonna do this, but do not be angry please!!!! we want live our life, life a simulation, life short, do not hurt us
      * Whats the problem ?
+     * 
+     * The problem of stupidity that will get you into trouble ? 
       **/    
 
 
