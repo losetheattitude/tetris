@@ -3694,7 +3694,7 @@ int main()
      * I AM A DISGUSTING ANIMAL WHO LIKES TO HARM, IS THAT WHAT YOU SAY ? RELIGIOUS PEOPLE, FAIR PEOPLE ? ADVANCED PEOPLE ? or are you just
      * a fearful peasant who avoids harm ? and follow everyone like the little animal slave that he is ?
      * 
-     * What are you waiting for ? stupid monkeys ?
+     * What are you waiting for ? stupid monkeys ? You guessed it right!!!!! I am far from what you are, and can be ? Aww thats the problem
      * 
      * 
      * 
