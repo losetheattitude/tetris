@@ -3897,6 +3897,8 @@ int main()
      * Do you see the problem ?
      * Do you see the problem in your desperate attempts made at changing the image of an individual that you are afraid of ? Why then though
      * you still beg ?
+     * 
+     * You still do not understand how life works ? You ignore everything and you would be okay with murder as well, do you think I will care ?
       **/    
 
 
