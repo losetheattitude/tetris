@@ -3869,6 +3869,8 @@ int main()
      * 
      * Still saying stupid stuff ? ehehe proud and competent and accountable etc etc, womeeeennnn!!!! please!!!!
      * eheheh, fun stuff but only when we are not under threat you say ?
+     * Is that why you suddenly reduce to your own nature and start asking random noises ? awww because you think
+     * life is short but also life a simulation ? eheheh okay okay so you do not want to get harmed, but you also think that life a simulation ? eheheheheh
       **/    
 
 
