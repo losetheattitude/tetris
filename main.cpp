@@ -3759,6 +3759,9 @@ int main()
      * 
      * What are you waiting for ? Awww you were looking for some unreasonable bullshit to act on your disgusting nature ? Awwww harm more that should help
      * Who is the scared one do you think ? Are you still offering ? Like the little animal you are ?
+     * 
+     * Are you still offering ? eheheheh really fun stuff isnt it ? hopefully nobody gets hurt or no problems ever occur!!! we want to live our lives!!!!
+     * please do not hurt us!!
       **/   
 
 
