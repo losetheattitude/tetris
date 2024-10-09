@@ -3488,6 +3488,8 @@ int main()
      * 
      * And why are you still thinking that you should give advice ? 
      * Immature and selfish ? Or just tell me what you would delude to be called as ?
+     * And a little fear ? and you think you are the competent people ?
+     * 
       **/   
 
 
