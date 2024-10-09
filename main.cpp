@@ -3877,6 +3877,8 @@ int main()
      * 
      * Never learning stupid monkeys ? Did you get yourselves into trouble again ? by complete mistake ?
      * Pray that I am the opposite of your disgusting nature or you are going to have to bring 239132394 people eheheheh fun stuff ?
+     * 
+     * You call that education still ? Do not pray more, you get what you beg for bro ?
       **/    
 
 
