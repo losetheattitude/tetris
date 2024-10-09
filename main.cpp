@@ -3437,6 +3437,7 @@ int main()
      * 
      * Now talk about your greatness, awwwww its tooo late!!!!! eheheh
      * You act like it is fine, it has to be otherwise things are going to get messed up ehehe
+     * and you still say fate ?
      * 
       **/   
 
