@@ -3917,6 +3917,7 @@ int main()
      * Awww, you say being a human eheheh, you say violence eheheh wait wait, you beg ?
      * Do you still think you are to make decisions ?
      * Why begging though ? I do not even give the slighest fuck to your intentional accusations, thats the problem
+     * You still think you should make decisions ?
       **/    
 
 
