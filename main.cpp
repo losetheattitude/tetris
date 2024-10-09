@@ -3667,6 +3667,8 @@ int main()
      * Wait wait, you also say education ? Just say it again ? eheheh education!!! education!!! we are afraid of violence as the inferior animals we are!!!
      * and you offer women ? WHATS THE PATTERN LITTLE ANIMALS ?
      * 
+     * Awww, thats why you would love to delude ? eeheh because otherwise you would be the most disgusting animal ?
+     * 
      * 
       **/   
 
