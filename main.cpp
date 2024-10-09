@@ -3833,7 +3833,7 @@ int main()
      * Why dont you explain ? eheheh lie for us lie lie lie please we need you to lie!! You get this place! you get womeeenn!!!
      * we had all the chances but we still like harming!!!!! please liee!!!
      * 
-     * You believe I joke as well ? eheheheh
+     * You believe I joke as well ? eheheheh, hopefully though nobody gets hurt
       **/   
 
 
