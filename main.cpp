@@ -3718,6 +3718,7 @@ int main()
      * Funny indeed!!!! You think I do forgot ? eheheh
      * 
      * I DO NOT CARE WHAT YOU HAVE TO SAY NEITHER WILL I EVER FOLLOW YOUR IRRELEVANT CONTEXT'S DECISIONS ? Do you follow ?
+     * I do not want to see any of you around me, the types of animals that I hate the most, start begging religious people
      * 
      * 
      * 
