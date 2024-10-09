@@ -3890,6 +3890,7 @@ int main()
      * You still say "lucky" so that you can cover your actions ?
      * 
      * Would you be able to face the same reality or would you like to avoid ? eheheh thats the competency I would love to associate myself with right ?
+     * You still talk about women ? You have told that how many times ? But you still reduce to begging with that ?
       **/    
 
 
