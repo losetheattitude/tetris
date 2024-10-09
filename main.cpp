@@ -3805,6 +3805,8 @@ int main()
      * 
      * Why arent you laughing and harming now ? awww thats the greatness you were deluding for also ?
      * You know its the sole way that you get hurt ? because thats not the problem!!!
+     * Awwww, I see I see, you are just trying to have some fun experiences over what is not threatining you ?
+     * And you dare calling it life ? Stupid monkeys 
       **/   
 
 
