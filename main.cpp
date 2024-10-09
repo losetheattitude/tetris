@@ -3618,6 +3618,8 @@ int main()
      * Noww, is the time for talking about "REASONABLE THINGS" instead of "EMOTIONS!!!" eheheheh do not be emotional!!! then pay for your own actions
      * and see who is emotional ? Eehehehe we good ppl, we intelligent, we developed eheheh
      * 
+     * Now what do you have for yourselves other than a mess none of you can deal with ? Yess!! begging would solve the problem of stupid people
+     * 
      * 
       **/   
 
