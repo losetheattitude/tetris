@@ -3866,6 +3866,8 @@ int main()
      * 
      * Still think you make decisions and I will follow them ? See what happens disgusting animals
      * They are gone!! now there are new people !!!!! we tryna help!! but somehow we failed at that as well ?
+     * 
+     * Still saying stupid stuff ?
       **/    
 
 
