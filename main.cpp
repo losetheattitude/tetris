@@ -3412,6 +3412,8 @@ int main()
      * Wait wait, where were you ? eheheheh
      * Ehehehehe, inferior animals ? talk about the "history" that you avoid like the inferior creature you are, not that you deserve right ?
      * 
+     * Wait wait, why didnt your superior education havent worked ? Awwww, it was for your selfish experiences then ?
+     * 
       **/   
 
 
