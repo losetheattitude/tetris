@@ -3648,6 +3648,9 @@ int main()
      * you still look around fearfully like the little animal you are ?
      * But you keep saying what ? aww you still look around for proper "irrelevant and unjustifiable excuses" ?
      * 
+     * What part do you not get ? I DO NOT CARE IF I AM THIS OR THAT, why still though you are trying to convince someone into, you are this!!!
+     * be passionate!! eheheh
+     * 
      * 
       **/   
 
