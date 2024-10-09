@@ -3664,6 +3664,7 @@ int main()
      * MORE VIOLENCE FOR YOUR GREAT AND INCOMPARABLY INTELLIGENT ACTIONS THAT YOU CAN NOT ACCOUNT FOR ? ehehehe please please
      * 
      * Pay for your own actions, you still offer women, as your disgusting nature allows you to ?
+     * Wait wait, you also say education ? Just say it again ? eheheh education!!! education!!! we are afraid of violence as the inferior animals we are!!!
      * 
      * 
       **/   
