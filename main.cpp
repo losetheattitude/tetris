@@ -3629,7 +3629,7 @@ int main()
      * Awwww, I see the problem, you, instead of getting education, would rather beg with what you have been begging so far ?
      * eheheh, do not be emotional pls!! Awww, that means you should get educated ? Whats the problem you say ?
      * 
-     * STUPID PEOPLE ?
+     * STUPID PEOPLE ? You offer what ? CARSS!!!! WOMEEENNN!!!! eheheheh fun stuff
      * 
      * 
       **/   
