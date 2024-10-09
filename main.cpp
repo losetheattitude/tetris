@@ -3824,6 +3824,8 @@ int main()
      * Do you delude that I will follow the most delusionally competent and scared animals like you ?
      * You offering materials still ? Dont you think you also delude on it being okay ?
      * You get the same violence and we are good, a few decades WOULD NOT HURT RIGHT ? COMPETENT PEOPLE ?
+     * 
+     * You still think you are making decisions and you think I would follow them ? and you think it should cause no problems ?
       **/   
 
 
