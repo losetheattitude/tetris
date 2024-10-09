@@ -3918,6 +3918,8 @@ int main()
      * Do you still think you are to make decisions ?
      * Why begging though ? I do not even give the slighest fuck to your intentional accusations, thats the problem
      * You still think you should make decisions ?
+     * 
+     * Beg more, thats what you do best, eheheh its not being afraid, yeah yeah trust me!!!
       **/    
 
 
