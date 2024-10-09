@@ -3516,6 +3516,7 @@ int main()
      * Awwww, some violence and start asking lies so that we can save our precious experiences!!
      * 
      * Heyyy!!! no regret!!! ehehehe please do not harm anyone
+     * Why are you still waiting or harming or asking lies ? 
      * 
       **/   
 
