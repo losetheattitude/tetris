@@ -3724,6 +3724,8 @@ int main()
      * HONORABLE AND NOT IGNORANT AND ALSO THE MOST RELIGIOUS PEOPLE THAT I HAVE EVER SEEN ? Where are your excuses again ?
      * 
      * Please please, do not hurt us!! ehehe we want to enjoy our experiences ?do you even follow ?
+     * Ignorant stupid people ? wait wait, why you reduced to begging for random noises ? Awww you take life for a game 
+     * and you take it lightly but suddenly you beg ?
      * 
       **/   
 
