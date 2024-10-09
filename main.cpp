@@ -3528,6 +3528,7 @@ int main()
      * 
      * Why dont you try your best to explain ? awwww just make some offers eheheheh credible ppl btw indeed
      * Eheehhe, the sole way is to still allege, "HE CRAZY HE DID THIS HE DID THAT!!!"
+     * Do you follow what I am saying ? I do not even have the tiniest interest in associating myself with people like you
      * 
       **/   
 
