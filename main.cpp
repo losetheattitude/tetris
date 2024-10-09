@@ -3845,6 +3845,8 @@ int main()
      * 
      * We tryna cure, we competent animals!!! please help ? Whats the story about ? ehehehe really fun stuff right ? you just can not cope but also
      * an incompetent and disgusting animal who think the technology they use can not be learnt ?
+     * 
+     * Do you think you are really intelligent ? fucking stupid monkey ? USE YOUR BRAIN BETTER NEXT TIME INSTEAD OF REDUCING TO YOUR DISGUSTING NATURE BY BEGGING
       **/   
 
 
