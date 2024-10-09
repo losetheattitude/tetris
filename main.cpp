@@ -3885,6 +3885,8 @@ int main()
      * The problem of stupidity that will get you into trouble ? 
      * Time an illusion!!!! awww itsss tooo late!!!! wait wait, itsss tooo lateee!!! time an illusion!!!! life simulation!!! do not hurt!!!
      * we competent honest and seek no trouble!! and make some decisions !!! hopefully nobody gets hurt
+     * 
+     * Are you still sure ? Or would you like to say "ITS TOOO LATEEE!!!" please we have given you what has no meaning whatsoever, do not be like us
       **/    
 
 
