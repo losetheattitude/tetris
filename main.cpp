@@ -3584,7 +3584,8 @@ int main()
      * Do you understand why you are inferior now ? Do you still think having so many people around should give you the right but 
      * somehow the very same "education" that you fear like the little animal you are, that is "violence", IS NOT WORKING ?
      * 
-     * You do not get to decide, and thats all
+     * You do not get to decide, and thats all, ehehe 
+     * btw we can not deal with that so we better start accusing!!!
      * 
       **/   
 
