@@ -3522,6 +3522,8 @@ int main()
      * thats how we deal with our problems, asking for lies!!! Pleasee and making offers as if they do not mean begging
      * Please, say this or do this for us!! we tryna help you eheheheh
      * 
+     * Who are you going to go to to cover your unaccountable actions ? Do you think threatining would work ?
+     * 
       **/   
 
 
