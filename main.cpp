@@ -3732,6 +3732,7 @@ int main()
      * do not snitch on our actions that we do to harm you!!!!
      * 
      * Do you think I do not remember ? Thats the difference between the inferior animal like yourselves and I, beg more stupid little monkeys
+     * Why dont you start talking about the violence ? awwww, you would rather beg like the little animal you are ?
       **/   
 
 
