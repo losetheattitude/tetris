@@ -3834,7 +3834,8 @@ int main()
      * we had all the chances but we still like harming!!!!! please liee!!!
      * 
      * You believe I joke as well ? eheheheh, hopefully though nobody gets hurt
-     * Awwwww, we have made such a small mistake ?
+     * Awwwww, we have made such a small mistake ? Eheheheh we good intelligent religious competent honorable trustworthy
+     * credible people you say ? Wait wait, try explaining your great conduct ehehehh please help us!! help us lie!!! we want harm!!
       **/   
 
 
