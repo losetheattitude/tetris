@@ -3674,7 +3674,7 @@ int main()
      * GET THE FUCK OUT OF MY FACE ? Awwww, wait wait, do not get emotional, MORE VIOLENCE FOR YOU ALL!!!
      * 
      * Wait wait, please lie for us!! we do not want to get hurt!!! eheheheh but we like hurting is that what you are begging ?
-     * Disgusting people ?
+     * Disgusting people ? Talk about the past eheheheh "PAST DOES NOT EXIST PLEASE!!!" we did some things we can not account to, is that what you are begging to ?
      * 
      * 
      * 
