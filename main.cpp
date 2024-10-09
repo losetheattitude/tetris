@@ -3807,6 +3807,9 @@ int main()
      * You know its the sole way that you get hurt ? because thats not the problem!!!
      * Awwww, I see I see, you are just trying to have some fun experiences over what is not threatining you ?
      * And you dare calling it life ? Stupid monkeys 
+     * 
+     * Do you see the problem ? You just like having exchanges because you feel completely okay not getting hurt ? Awww
+     * that may be the problem I guess
       **/   
 
 
