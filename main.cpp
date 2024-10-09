@@ -3720,6 +3720,9 @@ int main()
      * I DO NOT CARE WHAT YOU HAVE TO SAY NEITHER WILL I EVER FOLLOW YOUR IRRELEVANT CONTEXT'S DECISIONS ? Do you follow ?
      * I do not want to see any of you around me, the types of animals that I hate the most, start begging religious people
      * 
+     * Are you still offering medicines ? awww you offered womeennn ehehehh but there is no sign eheheheh REALLLLYY REALLLY FUNNY AND
+     * HONORABLE AND NOT IGNORANT AND ALSO THE MOST RELIGIOUS PEOPLE THAT I HAVE EVER SEEN ? Where are your excuses again ?
+     * 
      * 
      * 
       **/   
