@@ -3874,6 +3874,8 @@ int main()
      * 
      * Get womeeeennnn!!!! pleaseee!!!!! get wooomeeennn!!!! get carsss!!!! eheheh do not hurt us!!! life a simulation, iitsss tooo late!!!! we have ehehehehh
      * Awww, thats the competency part ? Is that what you say ?
+     * 
+     * Never learning stupid monkeys ? Did you get yourselves into trouble again ? by complete mistake ?
       **/    
 
 
