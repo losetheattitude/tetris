@@ -3915,6 +3915,7 @@ int main()
      * EDUCATION!!!!! EDUCATIONNN!!! shhh be silent!!
      * Is that the education ? aww competency you say
      * Awww, you say being a human eheheh, you say violence eheheh wait wait, you beg ?
+     * Do you still think you are to make decisions ?
       **/    
 
 
