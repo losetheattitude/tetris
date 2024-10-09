@@ -3853,7 +3853,10 @@ int main()
      * This is exactly what happens when the incompetent people start deluding on their capabilities and start begging 
      * Its most funny indeed, especially the part where you start offering "WOOOMEEENNNNNNNNN!!!" but its nonexistent as your "qualities" that you
      * would like to make random sounds
-      **/   
+     * 
+     * beg like the weak natured animal you are, while you harm without direction other than to accuse with, Is that the great people ? ehehehe
+     * Enemy enemy!! he did that!! he did this!!! stupid monkeys!
+      **/    
 
 
 
