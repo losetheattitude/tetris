@@ -3642,6 +3642,8 @@ int main()
      * Awwww, you were saying education ? Like the little animal you are who fears violence which helps them see violence as education ?
      * Like the little disgusting insignificant animals you are ?
      * 
+     * What could you say ? Awwww, you say get womeeennn!!! but you only like saying because you think its intelligent ?
+     * 
      * 
       **/   
 
