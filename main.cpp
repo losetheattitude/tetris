@@ -3575,6 +3575,7 @@ int main()
      * Awwww, are you sorry ? eheheh why dont you beg more ? Why not right ? Violence etc, why not ? Thats the whole point, so better not beg this time?
      * and explain like the little animal you are
      * Which one do you think is the most funny ? Awwww, not having resources and violence is the sole indicator you say ? WHY NOT ?
+     * Irrelevant inferior immature disgusting animals you say ? why not ?
      * 
       **/   
 
