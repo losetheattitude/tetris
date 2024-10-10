@@ -3996,6 +3996,8 @@ int main()
      * enjoying our experiences as well as wasting others who have no desire to even breathe the same air with any of you ?
      * 
      * Rightfully so, as you not only fail at your "job" but also irresponsibly act ?
+     * You dare saying "we did it", gave womenn!! eheeehhe ? you see the immaturity problem right ? Thats why you have to get yourselves into trouble
+     * all the time, INVOLUNTARILY right ?
       **/    
 
 
