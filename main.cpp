@@ -3930,6 +3930,7 @@ int main()
      * solve your own problems without reaching for what you are not supposed to
      * 
      * you still wasting time with irrelevant excuses ?
+     * Do you understand what it is that you are doing ? to undergone a responsibility of such kind ? funny though
       **/    
 
 
