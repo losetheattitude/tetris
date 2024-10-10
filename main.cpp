@@ -3962,6 +3962,7 @@ int main()
      * Whats the problem ?
      * 
      * Talk about the violence and "highly honored promises", you will see why you do not get to talk
+     * ehehehe, just tell the previous times ? awwww, you said the same things, and made promises but you reduced to your own nature ?
       **/    
 
 
