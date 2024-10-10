@@ -3933,7 +3933,7 @@ int main()
      * Do you understand what it is that you are doing ? to undergone a responsibility of such kind ? funny though
      * You still ask random sounds ? so that you can continue enjoying your experiences ?
      * 
-     * Dumb selfish monkeys
+     * Dumb selfish monkeys, you still offering advices ? You do not need this, you do not need that ? eheheheh
       **/    
 
 
