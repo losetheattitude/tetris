@@ -4010,7 +4010,7 @@ int main()
      * you dare still alleging ? And also you claim you are no inferior, you are the animal that is rife ehehe fun stuff
      * 
      * I do not accept any of you around me regardless of your titles or delusions, do what you have to do
-     * Are you still asking lies ? 
+     * Are you still asking lies ? You need to earn it ehehehe life over life over eheheh good
       **/    
 
 
