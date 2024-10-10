@@ -3928,6 +3928,8 @@ int main()
      * 
      * You did this!!! you did that!!! fucking stupid monkeys, you will get into trouble regardless, once you are on, you will see
      * solve your own problems without reaching for what you are not supposed to
+     * 
+     * you still wasting time with irrelevant excuses ?
       **/    
 
 
