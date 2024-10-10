@@ -3931,7 +3931,7 @@ int main()
      * 
      * you still wasting time with irrelevant excuses ?
      * Do you understand what it is that you are doing ? to undergone a responsibility of such kind ? funny though
-     * You still ask random sounds ?
+     * You still ask random sounds ? so that you can continue enjoying your experiences ?
       **/    
 
 
