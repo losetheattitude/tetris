@@ -4001,7 +4001,8 @@ int main()
      * 
      * Awww, you would also hate to talk about the time and just INTENTIONALLY FORGET about such a thing that you have committed ?
      * 
-     * Do you think though will I do forget VOLUNTARILY ?
+     * Do you think though will I do forget VOLUNTARILY ? 
+     * You have no other "job" ?
       **/    
 
 
