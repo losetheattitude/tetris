@@ -3975,6 +3975,8 @@ int main()
      * go get a job!!! eheheheh not selfish indeed!!!
      * 
      * Commit crimess please!!!
+     * 
+     * still wishing that people would go with whatever you think they should ?
       **/    
 
 
