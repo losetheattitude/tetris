@@ -3934,6 +3934,7 @@ int main()
      * You still ask random sounds ? so that you can continue enjoying your experiences ?
      * 
      * Dumb selfish monkeys, you still offering advices ? You do not need this, you do not need that ? eheheheh
+     * I neither accept nor asked for your opinions ?
       **/    
 
 
