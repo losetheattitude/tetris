@@ -3960,6 +3960,8 @@ int main()
      * Wait wait, honorable people, where is all the evidence to your really good and honest and good intentions ? eheheh funny ?
      * Awwwwww, you will say, WE GAVE WOMENNNN!!! ? Is that so ? hmmmmm, is that so ? you gave womeennnnn ? but suddenly you reduced to lying ?
      * Whats the problem ?
+     * 
+     * Talk about the violence and "highly honored promises", you will see why you do not get to talk
       **/    
 
 
