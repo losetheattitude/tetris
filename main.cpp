@@ -3989,7 +3989,7 @@ int main()
      * BUt also would like to watch illegally ? and make some really wise judgments ?
      * Ignorant people you do not say ?
      * And suddenly you start begging again ? As your inferior nature allows you to beg ?
-     * Do you see the lowness you can reduce ?
+     * Do you see the lowness you can reduce ? Just like a neighborhood begger, beg for pointless harm, thats the problem
       **/    
 
 
