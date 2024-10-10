@@ -3946,7 +3946,8 @@ int main()
      * Eeheheh, good people you say ?
      * Wait wait, honorable honest good intelligent trustworthy credible people, Where are your "excuses" to what you "delude to have done reallly reallly cleverly ?"
      * 
-     * Awww, you suddenly reduce to your own nature of begging ?
+     * Awww, you suddenly reduce to your own nature of begging ? Please pleasee, lie for us!! we take this as a win!!! thats how low we are, you say ?
+     * So far, what have you done ? eheheheh you did this!!! you did that!!! please help the wonderful great people !!! we good ppl pls liee
       **/    
 
 
