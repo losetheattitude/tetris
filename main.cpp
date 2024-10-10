@@ -3972,6 +3972,7 @@ int main()
      * Thats called biased stupid actions committed by dumb masses that are convinced forcefully to directionless ideas. Ehehehe fun stuff though
      * 
      * No resourcesss!!!! eheheheh womeeennn!!!! please!!!!
+     * go get a job!!! eheheheh not selfish indeed!!!
       **/    
 
 
