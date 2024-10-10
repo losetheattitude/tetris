@@ -3954,6 +3954,8 @@ int main()
      * 
      * Havent you reduced to your own disgusting begging nature ? Awww, this is the time where you start begging ?
      * hehehe thats I guess the real definition of intelligence for you ?
+     * 
+     * Wait wait, just talk about the one before this, than before than that, then you start begging again for what you do not deserve
       **/    
 
 
