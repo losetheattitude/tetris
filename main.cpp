@@ -3991,7 +3991,7 @@ int main()
      * And suddenly you start begging again ? As your inferior nature allows you to beg ?
      * Do you see the lowness you can reduce ? Just like a neighborhood begger, beg for pointless harm, thats the problem
      * 
-     * So you still think that if you act like its okay, it will be okay ?
+     * So you still think that if you act like its okay, it will be okay ? and you say education still ? ehehehhehe why isnt it working ?
       **/    
 
 
