@@ -3992,6 +3992,8 @@ int main()
      * Do you see the lowness you can reduce ? Just like a neighborhood begger, beg for pointless harm, thats the problem
      * 
      * So you still think that if you act like its okay, it will be okay ? and you say education still ? ehehehhehe why isnt it working ?
+     * You already know its far from okay, but because you did it, it should be fine though ehehe lets have more discussions and waste our time
+     * enjoying our experiences as well as wasting others who have no desire to even breathe the same air with any of you ?
       **/    
 
 
