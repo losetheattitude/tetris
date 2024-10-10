@@ -3951,6 +3951,9 @@ int main()
      * 
      * Can you help us guise our disgusting nature ? You say ? what have you done so far btw ? eheheh ?
      * Wait wait, where is your all that great attitude when you are around people ?
+     * 
+     * Havent you reduced to your own disgusting begging nature ? Awww, this is the time where you start begging ?
+     * hehehe thats I guess the real definition of intelligence for you ?
       **/    
 
 
