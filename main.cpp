@@ -3936,6 +3936,7 @@ int main()
      * Dumb selfish monkeys, you still offering advices ? You do not need this, you do not need that ? eheheheh
      * I neither accept nor asked for your opinions ?
      * Do you still think you are wise or should be doing such and such ? 
+     * You see the stupidness in your actions ? awww, you think you should eheeheh
       **/    
 
 
