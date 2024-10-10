@@ -4008,6 +4008,8 @@ int main()
      * 
      * After all that bullshit, you dare call any titles ? you dare requesting anything ? you dare even getting in touch ?
      * you dare still alleging ? And also you claim you are no inferior, you are the animal that is rife ehehe fun stuff
+     * 
+     * I do not accept any of you around me regardless of your titles or delusions, do what you have to do
       **/    
 
 
