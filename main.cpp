@@ -4004,7 +4004,7 @@ int main()
      * Do you think though will I do forget VOLUNTARILY ? 
      * You have no other "job" ? I do not accept no begger around me
      * Are you still the one who is begging ? ehehehe help help!!! I do not accept no regular animals so far have been there only to harm
-     * Are you still dreaming ?
+     * Are you still dreaming ? Are you still making offers thinking that everyone is alike ?
       **/    
 
 
