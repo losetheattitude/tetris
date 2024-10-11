@@ -4114,6 +4114,8 @@ int main()
      * 
      * Are you still begging like the inferior animal you are ?
      * And you said what ? eheheh please please, we need you to lie!!!!
+     * 
+     * Talk about the "past" you avoid like the little insignificant animal you are
       **/    
 
 
