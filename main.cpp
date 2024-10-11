@@ -4658,6 +4658,7 @@ int main()
      * But you see the problem right ? The ignorance it means
      * Do you still believe I was joking about "COERCION OF MINORS AND SO ON AND SO FORTH ?"
      * But do you see the ignorance right ? And those who take that for a skill or achievement ?
+     * Gather more people!!!
      * 
       **/    
 
