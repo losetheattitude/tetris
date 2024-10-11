@@ -4127,6 +4127,8 @@ int main()
      * and you did it anyways ehehehe!!! please lie!! please lie!! ? you still begging ?
      * 
      * Awwww, the past is past!! please help!! the past is past!!! violence etc!! etc!! please eheheh
+     * There is no evidence!! please!! eheheh, which part do you think makes more sense to you ?
+     * The pattern ? no ? eheheh fun stuff indeed
       **/    
 
 
