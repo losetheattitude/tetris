@@ -4158,6 +4158,7 @@ int main()
      * Thats the pattern of stupidity that is rife in every single context, you see the problem
      * Offerings of same inferior nature does not even surprise me, because I am used to interacting with inferior animals, whats the pattern right ?
      * And you demand credibility, look at the pattern!!! ?
+     * Still asking for lies and offering things ? you see the stupidity ?
       **/    
 
 
