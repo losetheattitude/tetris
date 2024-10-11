@@ -4184,6 +4184,8 @@ int main()
      * 
      * Look, do you see the pattern ? "YOU CAN NOT GO OUT!", "NO RESOURCES!!" and now you have reduced to your own disgusting nature
      * "GET WOMEEN!!!", "LIE PLS!!" "LIE!!"
+     * 
+     * are you still begging ? just talk about the previous "occurences"
       **/    
 
 
