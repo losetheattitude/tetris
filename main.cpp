@@ -4086,6 +4086,8 @@ int main()
      * Aww, you also think that it should be okay to harm and waste time in such a stupid way, ?  and you also ask for lies!! lie!!! please!! lie!! help!!
      * 
      * Do you see the pattern in your behavior ? The stupidity ? The immaturity ? The inferiority ? The delusion ? Awwww, you just want to enjoy ? I see, thats not the problem!!
+     * 
+     * And you still allege what ? Trying to help you say ? but you cannot account for your behavior ?
       **/    
 
 
