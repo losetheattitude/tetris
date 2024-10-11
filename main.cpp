@@ -4341,6 +4341,8 @@ int main()
      * 
      * Get cars and save us with your lies so that in the future, we can survive long enough to harm irrelevant people, is you say ?
      * Are you still as scared as to play games over others' lives ? so that you can have some fun while there is no official danger to you ?
+     * And that is not selfish ? not immature ? not bloodthirsty ? not irrelevant ? not irresponsible ? 
+     * and you offer what ? you still say women ? you still say cars ? wait wait, where were you btw ? awww, you were busy harming ? 
       **/    
 
 
