@@ -4225,6 +4225,8 @@ int main()
      * btw you had all the time but you just prefered to harm and enjoy your life ? You say you are not a disgusting animal ?
      * Is that why you take violence for education ?
      * Do you see the problem now ? The great people btw ?
+     * Why dont you talk about the previous occurences ?
+     * Awwww, do you now like to offer ? eheheheh where were you btw ?
       **/    
 
 
