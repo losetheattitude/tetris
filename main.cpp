@@ -4490,6 +4490,8 @@ int main()
      * You say what ? You say fate ? You say life short ? you say past does not exist ? Isnt that begging you think ?
      * 
      * So you have done what you are not supposed to ? and you are still begging ?
+     * You say "NO RESOURCES!!!!!" and you now say what ? eheheh come here!! get womeen!!! when you had all the chances ? you decided to beg with that incompetent approach ?
+     * Does that tell you something ?
       **/    
 
 
