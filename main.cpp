@@ -4186,6 +4186,7 @@ int main()
      * "GET WOMEEN!!!", "LIE PLS!!" "LIE!!"
      * 
      * are you still begging ? just talk about the previous "occurences"
+     * When you had all the time you just waited and watched to see what ? and now you are begging again ?
       **/    
 
 
