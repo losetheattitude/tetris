@@ -4065,6 +4065,8 @@ int main()
      * I have no time to waste as you do with your "really precious conversations" that you only do to convince yourself you are not a stupid monkey
      * while I waste my time doing nothing. You see the problem ?
      * 
+     * Awww, are you still roleplaying amazement so that you could act like "ITS WHAT IT IS SUPPOSED TO" because you are just too surprised at ?
+     * 
      * 
       **/    
 
