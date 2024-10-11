@@ -4503,7 +4503,7 @@ int main()
      * Eheheh he a kid, we coerce no problems you say ? you also offer ?
      * Do you now understand the responsibility ? Or would you like to act like you are right ?
      * Because I am telling you and you also have the information of the history that, these things ALWAYS go sideways ? Do you see the problem now ?
-     * Awww, you would rather offer women you say ?
+     * Awww, you would rather offer women you say ? Tell me the experience I say ? What do you say now ?
       **/    
 
 
