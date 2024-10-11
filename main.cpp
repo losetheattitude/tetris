@@ -4161,7 +4161,7 @@ int main()
      * Still asking for lies and offering things ? you see the stupidity ?
      * Heyy get a ticket and join the very people who harmed you !!!! have fun!!! life good!!
      * Dumb monkeys ? You do not say ? You see ? You still delude on using "discretion" while the reality is you are just simple monkeys
-     * who are abusing violence ?
+     * who are abusing violence ? and you still offer ? eheheheh all this time ? you are still the same animal who abuse violence ?
       **/    
 
 
