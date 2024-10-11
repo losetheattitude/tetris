@@ -4318,6 +4318,8 @@ int main()
      * You avoid what you can not face ? awwwwwwwww, thats really great, get some womeeen!!! we religious ppl plsss
      * 
      * So you basically say, help us lie out of this situation so that we can harm and move on with our lives 
+     * Ehehehe btw, its good life, simulation and illusion all together with incomparably intelligence people just like you
+     * Good!!!
       **/    
 
 
