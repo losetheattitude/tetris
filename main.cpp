@@ -4028,6 +4028,7 @@ int main()
      * good ppl, no harm pls, we like harming ?
      * 
      * I do not want to see any of you ? You pay for your own actions ? End of discussion ? As if its literally a discussion ?
+     * eheheh talk about the violence again ? and talk about the price of actions of such inferior nature ?
      * 
      * 
       **/    
