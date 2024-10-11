@@ -4366,7 +4366,7 @@ int main()
      * Because as I have said, I neither need nor want any type of simple people around me that aims to harm
      * ehehehe you think its funny though ? life short, life good, lie pls, help, life simulation, time illusion, ehehe wait wait 30 years eheheh funny
      * wait wait, can you talk more about the events that occured between such a timeline including the "PROMISES" ?
-     * be silent be silent!!! lie!!
+     * be silent be silent!!! lie!! awww, also "forget about the past!!!"
      * 
      * 
      * 
