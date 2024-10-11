@@ -4285,6 +4285,8 @@ int main()
      * 
      * Its completely okay to ruin someone else's life and do not assume blame, its okay its fine!!
      * Just bring more people eheheh 
+     * 
+     * Hey, good ppl, why arent you explaining your actions instead of coercing through threats and begging for lies ?
       **/    
 
 
