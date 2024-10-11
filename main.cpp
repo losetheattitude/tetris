@@ -4027,7 +4027,7 @@ int main()
      * Awwww, you would rather call it poem, and start harming regardless ehehehehehheh seeking peace and development eheheh world peace etc
      * good ppl, no harm pls, we like harming ?
      * 
-     * I do not want to see any of you ? You pay for your own actions ?
+     * I do not want to see any of you ? You pay for your own actions ? End of discussion ? As if its literally a discussion ?
      * 
      * 
       **/    
