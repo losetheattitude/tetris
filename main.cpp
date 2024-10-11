@@ -4361,6 +4361,8 @@ int main()
      * You do not say monkeys ? Are you the men who has committing so much with no reason and hide behind ?
      * More like a simple animal who takes violence for education because they are afraid of it as you can tell by their behavior of "hiding"
      * 
+     * You still taking "games" of the most stupid nature should be okay to "coerce" ? eheheh good men right ?
+     * 
      * 
      * 
       **/    
