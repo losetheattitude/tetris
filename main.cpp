@@ -4282,6 +4282,8 @@ int main()
      * Still the really really cautious and professional and mature narrative ? that sounds like the problem!! ehehe funny stuff
      * Aww, you say its not false image... Who is to blame ? Awww, I guess its just me!! thanks btw good ppl
      * Who is to blame again ? yesss!!! that makes sense, fucking stupid monkeys
+     * 
+     * Its completely okay to ruin someone else's life and do not assume blame, its okay its fine!!
       **/    
 
 
