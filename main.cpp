@@ -4274,6 +4274,8 @@ int main()
      * No resources!!! no resources!!!! awwww, now we have to explain our "conduct", pls lie! pls lie! or we do some stupid shit as we always do ?
      * ehehe its fine, its just whole life of someone, so be content
      * but also some violence hehehe and some emotional harm, which the decision of such DOES NOT BELONG TO YOU ? Thats really clever stuff
+     * 
+     * Are you still after the same stupid tests ? The great narrative that you have 30 years of evidence to say that "YES WE WERE THE STUPID ONES ?"
       **/    
 
 
