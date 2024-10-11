@@ -4296,6 +4296,8 @@ int main()
      * Get education!!! get education pls!! pls! 
      * Life is full of sufferings!!! pls pls, what are you trying to say ? Awwwwww, its 30 years and you still take violence for education
      * and you have no response to your disgusting behavior ?
+     * 
+     * Shhhh, you say, be silent ? fucking monkeys ? I say, wait wait, it was education right ? eheheh funny stuff
       **/    
 
 
