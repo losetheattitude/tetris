@@ -4354,6 +4354,8 @@ int main()
      * get womeenn!!! get cars!!
      * 
      * How many lies do you think I will discover if I start asking ? Yes, thats the problem
+     * Whatever they are accusing, you already know its coercion, you have 30 years of evidence and corresponding violence that proves
+     * the nature of the perpetrator of the violence that they avoid by "making offers!!!"
      * 
      * 
       **/    
