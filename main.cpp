@@ -4102,6 +4102,7 @@ int main()
      * COMMIT MORE VOLUNTARILY, YOU WILL SEE NO PROBLEMS, thats not the problem
      * 
      * I do not want to see no inferior monkeys around me, You still ask for lies ? You still offer what your inferior nature craves ?
+     * Commit!!!! get women!!! get cars!!! TELL ME THE EXPERIENCE I HAVE HAD ? EEheehehhe intelligence! intellligence!! please lie !! lie!! we like harming!
       **/    
 
 
