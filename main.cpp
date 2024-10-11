@@ -4033,6 +4033,7 @@ int main()
      * 
      * Still think I should waste my time with selfish animals like you ?
      * Why though are you still begging ? Get cars!!!!!! get womeenn!!! do this!!! do that!! please!!!
+     * Havent you ever had time to think ?
      * 
      * 
       **/    
