@@ -4323,6 +4323,8 @@ int main()
      * Wait wait, you all are full of contradictions but you still demand credibility and beg for lies ?
      * 
      * Will you start accounting or ? you would rather beg because you already know you are guilty ?
+     * Are you still thinking that I will even for a second fall for your "justified" actions ? I HAVE TOLD YOU THAT I REMEMBER ? eheheh fun stuff right ?
+     * So, start with your "time is relative", "time does not exist", "life illusion" bullshit so that you do not get hurt ?
       **/    
 
 
