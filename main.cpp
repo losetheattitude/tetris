@@ -4289,7 +4289,7 @@ int main()
      * Hey, good ppl, why arent you explaining your actions instead of coercing through threats and begging for lies ?
      * Awww, its because you are so religious ?
      * Time does not exist!! life is simulation and we harm and mind our own businesses, is that what you are saying ?
-     * wait wait, education does not work ? what were you saying bro ?
+     * wait wait, education does not work ? what were you saying bro ? The years of evidence ? and still your beggings guised as offers ?
       **/    
 
 
