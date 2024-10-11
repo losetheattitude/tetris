@@ -4513,7 +4513,8 @@ int main()
      * Arent you proud now ? awwww, you built what ? You still rather accuse as your inferior nature allows you ? because you can not deal with the truth ?
      * 
      * You now suddenly used your immaculate brain and say, "GET WOMEEENNN!!" ? Okay, now tell me the experience I had ?
-     * You still offering women ? 
+     * You still offering women ? Is that what I could need right now ? Arent you the stupid one in this then ?
+     * What do you think I need ? You say wooomeeeeeenn ?
       **/    
 
 
