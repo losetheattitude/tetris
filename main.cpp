@@ -4626,7 +4626,8 @@ int main()
      * 
      * You still say what ? Mandatory ?
      * Which part do you think is the funniest ? Is it the one where you perform your disgusting animal feelings to single individual ?
-     * That can not do anything about it ?
+     * That can not do anything about it ? And you still think its education and it will work but towards which way ?
+     * You mistake me for your irrelevant contextes ?
      * 
       **/    
 
