@@ -4463,6 +4463,8 @@ int main()
      * 
      * I do not want to see any of you around me, the ignorant and selfish people of THE HISTORY right ?
      * You still deluding on making decisions ?
+     * 
+     * So what is going to happen now ?
       **/    
 
 
