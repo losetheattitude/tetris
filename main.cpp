@@ -4069,7 +4069,7 @@ int main()
      * But you actually do not provide any value other than harm ? Is that the great intelligence that I am missing ?
      * 
      * You are amazed at and doing really unnatural and irregular things out of your "amazement" but you do not even provide any value and 
-     * harm physically and mentally ?
+     * harm physically and mentally ? Is that the superior part ehehhehe ? I HAVE NO TIME TO WASTE WITH ANY OF YOU 
      * 
      * 
       **/    
