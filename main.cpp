@@ -4393,6 +4393,7 @@ int main()
      * And you say education also btw ? eheheh pls have women you say ?
      * Do you follow what I am saying ? I will not even consider for a second associating myself with the kinds of animal you were demonstrating to be so far ?
      * Whats your response ? eheheh get women you say ?
+     * What a shame that you are a never learning disgusting inferior animal, I say ? What do you have to say ?
      * 
      * 
      * 
