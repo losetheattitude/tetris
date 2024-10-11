@@ -4345,6 +4345,8 @@ int main()
      * and you offer what ? you still say women ? you still say cars ? wait wait, where were you btw ? awww, you were busy harming ? 
      * Now, combine all those properties above, and tell me you guess correctly the possible outcome of violence of unspeakable nature ?
      * Is that why are you begging ? Awwww, I have forgotten you were "negotiating ?", making offers ? eheheh which time is this, do you say ?
+     * 
+     * Do you see the incompetent label ? Thats what incompetency brings about you right ? So you have to beg ? interesting ?
       **/    
 
 
