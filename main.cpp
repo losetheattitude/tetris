@@ -4024,6 +4024,9 @@ int main()
      * You still think you are making decisions ? with your complete irrelevant and harmful approach ?
      * 
      * Get some harm for yourselves then may be your brain can start working for your self 
+     * Awwww, you would rather call it poem, and start harming regardless ehehehehehheh seeking peace and development eheheh world peace etc
+     * good ppl, no harm pls, we like harming ?
+     * 
      * 
       **/    
 
