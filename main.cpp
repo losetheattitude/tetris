@@ -4581,6 +4581,8 @@ int main()
      * TALK ABOUT THE PAST I SAY ? WHAT ARE YOU STILL SAYING ? You say you can not cope when you see others having fun you say ?
      * 
      * Are you still talking about "building" ? Are you still daring to talk about "building" ?
+     * Wait wait, you say, "we found someone alone so we collectively harm him and act like intelligent ?"
+     * "because there is nothing he can do ?", and you also beg with women ?
       **/    
 
 
