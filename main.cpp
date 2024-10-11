@@ -4409,6 +4409,8 @@ int main()
      * Do you even hear ? I DO NOT WANT TO HAVE ANYTHING TO DO WITH ANY OF YOU 
      * Are you still begging ?
      * Are you still holding conversations over things you have no rights ?
+     * Wait wait, you also say what ? COMMIT CRIMES!!!! COMMITT MORE!!! GET WOMEENNN!! eheheh we use coercion anyway ?
+     * You say what ? ITS TOO LATE!!! ITS TOO LATE!!! We have already done what everyone said we should not have ? and you still beg ?
      * 
      * 
      * 
