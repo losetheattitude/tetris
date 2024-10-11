@@ -4173,6 +4173,7 @@ int main()
      * heheh pls plspls, lie lie, good night, get sleep, pls, lie
      * 
      * no resources so far!! eheheheheh get cars! pls! get cars! eheheh
+     * Its too expensive! ehehe too expensive pls lie ! lie!lie! eheheh we want to enjoy our experiences!! pls lie!!
       **/    
 
 
