@@ -4137,7 +4137,7 @@ int main()
      * You see the catastrophic sequence of false and malign assumptions, you beg for the entirity of your life, nothing could change that!! eheheheh funny stuff right ?
      * 
      * You still think you playing games ? What is the name of that game ? ehehhee life !! life!! fate!! simulation!!! illusion!!! please do not hurt!! lie lie !!!
-     * Is that the game ?
+     * Is that the game ? You still offer your inferior desires ?
       **/    
 
 
