@@ -4527,6 +4527,8 @@ int main()
      * Are you still the same stupid animal ?
      * Are you still alleging your misconduct to be someone else's "mistakes" ? He is afraid of getting laid but you also create chaos 
      * through women ? Dont you remember ? Ehehehe, you say please lie ? lie ? beg like the little animal you are, I say ?
+     * 
+     * Were you saying "we are building !!!!" ?
       **/    
 
 
