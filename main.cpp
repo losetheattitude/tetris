@@ -4498,6 +4498,7 @@ int main()
      * And what do you say ?
      * 
      * Look at the history, take a look at the history reallly good, and tell me the experience I had ? and also tell me your beggings 
+     * You still delude ? Have you had the time to double check your reasoning ?
       **/    
 
 
