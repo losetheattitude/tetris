@@ -4672,6 +4672,8 @@ int main()
      * But you see the problem right ? "ITSS TOOO LATE!!!!", talk more about coercion, you may suddenly realize that you are just an animal
      * who does not understand the "life", only some uncontrollable instincts right ? Thus you act on purely harmful terms to others
      * 
+     * But do you see the problem right ? You act on purily harmful terms ? Do you see it bro ?
+     * 
       **/    
 
 
