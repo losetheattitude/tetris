@@ -4492,6 +4492,8 @@ int main()
      * So you have done what you are not supposed to ? and you are still begging ?
      * You say "NO RESOURCES!!!!!" and you now say what ? eheheh come here!! get womeen!!! when you had all the chances ? you decided to beg with that incompetent approach ?
      * Does that tell you something ?
+     * 
+     * And who are you now ? Who are you to allege ? You can only threaten and beg also at the same time ?
       **/    
 
 
