@@ -4334,6 +4334,7 @@ int main()
      * we make decisions!!! we make decisions ehehehe!!! pls
      * 
      * Eheheehehhee, we are building !!! ehehehe clever people!!!
+     * I said I have no intention to waste my time with any of you, solve your own problems
       **/    
 
 
