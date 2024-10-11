@@ -4347,6 +4347,7 @@ int main()
      * Is that why are you begging ? Awwww, I have forgotten you were "negotiating ?", making offers ? eheheh which time is this, do you say ?
      * 
      * Do you see the incompetent label ? Thats what incompetency brings about you right ? So you have to beg ? interesting ?
+     * You dare still talking ?
       **/    
 
 
