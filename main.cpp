@@ -4429,6 +4429,7 @@ int main()
      * let me remind you what a stupid animal you are ?
      * 
      * And you still do not accept "coercion" which I remember ?
+     * Do you see why there are so many stupid people in the history ?
      * 
      * 
      * 
