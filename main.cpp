@@ -4016,7 +4016,9 @@ int main()
      * Talk about the violence and before than that, and before than that ?
      * You still beg ? awww, although I have all the information I could ever need ?
      * So you still insist on your inaccurate but intentional "superior intelligence" ? and you still do not see that it will bring about
-     * what you are aiming ?
+     * what you are aiming ? 
+     * You know the definition of "etc etc" but you already a addicted of begging so nothing can change the fact that you will remain inferior
+     * as you have done so, for the complete duration of your life ?
      * 
       **/    
 
