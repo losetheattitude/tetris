@@ -4443,6 +4443,8 @@ int main()
      * 
      * You said what ? awwwww, after violence and violence of all sorts, and your highly honorable and credible promises ? you say what ?
      * eheheh he did this!! he did that!! please get women!! get women!! do you say that ?
+     * 
+     * Are you still begging ? Inferior animals ?
       **/    
 
 
