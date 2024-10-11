@@ -4042,7 +4042,7 @@ int main()
      * Bunch of clueless lost ignorant harmful intentional delusional people that have done nothing so far that they said they would ?
      * Isnt that the definition of begging ? Delude more on that I would suddenly feel grateful for your unseen actions indeed
      * Eheheheh, go get woooomeeeennnnn!!!! we still delude that only thing you could ever want should be just that eheheheheh
-     * pls pls, do not hurt!!
+     * pls pls, do not hurt!! be silent pls!! say what we want you to!!! be silent!! eheheh pls pls, we good ppl!!
      * 
      * 
       **/    
