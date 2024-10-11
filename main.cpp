@@ -4338,6 +4338,8 @@ int main()
      * you still playing games over others and expect not to get hurt ?
      * You still do not follow ? "GET WOMMEEEENNNN!!!", "GET CARSSSS!!!!", and suddenly start living the life that you deludingly aim ?
      * How about you be uncredible towards the people around you instead of having fun at your disgusting inferiority ? aww I am sure you have no proper responses
+     * 
+     * Get cars and save us with your lies so that in the future, we can survive long enough to harm irrelevant people, is you say ?
       **/    
 
 
