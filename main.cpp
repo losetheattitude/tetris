@@ -4113,6 +4113,7 @@ int main()
      * The pattern of stupidity, that is rife everywhere, just like your inferior self
      * 
      * Are you still begging like the inferior animal you are ?
+     * And you said what ? eheheh please please, we need you to lie!!!!
       **/    
 
 
