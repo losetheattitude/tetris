@@ -4090,6 +4090,8 @@ int main()
      * And you still allege what ? Trying to help you say ? but you cannot account for your behavior ?
      * And all you can say is ? "COMMIT CRIMESS PLEASE!!!" ?
      * And you still offer things ? How about you talk the previous times then you start begging through offers ? Aww thats the intelligence part btw hehehehhe
+     * 
+     * Still after same narrative ?
       **/    
 
 
