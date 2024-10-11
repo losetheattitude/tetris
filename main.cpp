@@ -4384,6 +4384,7 @@ int main()
      * Awww, it was about "deserving it" so you said, 30 years of irrelevant violence ? You most definitely deserve then ?
      * Ehehehe, you should also talk about, college times ? Aww you say, it was not you ?
      * awww, you also say, ITS TOO LATEE!!! please help fix this! lie!! lie!! pls! you say ?
+     * Do you believe I will recognize you when I know your nature ?
      * 
      * 
      * 
