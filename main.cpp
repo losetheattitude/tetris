@@ -4600,6 +4600,7 @@ int main()
      * Do you want to talk about coercion more ? or more violence ? or more begging ? what do you want to ?
      * 
      * Are you sure about your education's effectivity ???
+     * Talk about the college ? talk about the violence ?
      * 
       **/    
 
