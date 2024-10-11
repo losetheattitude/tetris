@@ -4169,6 +4169,7 @@ int main()
      * No resources!!!! please lie! lie! forgive! ehehe, violence!! lie!! lie for us! pls!! forgive, immature!! pls!!
      * get cars! pls! no resources ehehe! the past! the past!! lie!lie!! eheheh ?
      * ehehehe, pls pls, we need you to lie! eheheh pls pls,eheheh
+     * wait wait, great competent monkeys, explain the violence then your irrelevant noises, then start begging
       **/    
 
 
