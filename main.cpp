@@ -4071,6 +4071,9 @@ int main()
      * You are amazed at and doing really unnatural and irregular things out of your "amazement" but you do not even provide any value and 
      * harm physically and mentally ? Is that the superior part ehehhehe ? I HAVE NO TIME TO WASTE WITH ANY OF YOU 
      * 
+     * If this was you so far, waaaaoowww, I am amazed as well at your unseen stupidity and selfishness, so Imma pass, you just go delude with
+     * what you can not hurt yourself with
+     * 
      * 
       **/    
 
