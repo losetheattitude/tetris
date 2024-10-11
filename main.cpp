@@ -4455,6 +4455,8 @@ int main()
      * What did you say ? You said, LIVE YOUR LIFE!!! ? life short!! life simulation!! life good!! time illusion!! what did you say ?
      * Please do not hurt us!! life short !!! life illusion!!! ? and you still beg lies like the inferior disgusting animal you are ?
      * Havent you learnt anything ?
+     * 
+     * Now is this the time where you beg like the little animal you are to save yourself from guilt ?
       **/    
 
 
