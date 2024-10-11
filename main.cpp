@@ -4445,7 +4445,11 @@ int main()
      * eheheh he did this!! he did that!! please get women!! get women!! do you say that ?
      * 
      * Are you still begging ? Inferior animals ? You stil allege you know how to use things ? Is this how you use the possibly most important value ?
-     * The value that there is no comparisons ?
+     * The value that there is no comparisons ? Awww, you say harm a little, insult a little, then watch!!! its so fun!!! pls lie also you say ?
+     * You also say! get womeeennn!!! ?
+     * 
+     * Isnt this the stupid people of the history ? So you decided to use such a thing as this way ? and you say what ? "ITS TOOO LATEEE!!!"
+     * Fucking monkeys indeed
       **/    
 
 
