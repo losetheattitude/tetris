@@ -4135,6 +4135,9 @@ int main()
      * 
      * Hopefully though, if you laugh long enough, everyone would go with it right ? Thats the pattern bro
      * You see the catastrophic sequence of false and malign assumptions, you beg for the entirity of your life, nothing could change that!! eheheheh funny stuff right ?
+     * 
+     * You still think you playing games ? What is the name of that game ? ehehhee life !! life!! fate!! simulation!!! illusion!!! please do not hurt!! lie lie !!!
+     * Is that the game ?
       **/    
 
 
