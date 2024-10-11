@@ -4039,6 +4039,8 @@ int main()
      * Awww, its just that, you want to enjoy your "experiences!!!"
      * 
      * I have no desire to waste my time with you ? Isnt that reasonable ?
+     * Bunch of clueless lost ignorant harmful intentional delusional people that have done nothing so far that they said they would ?
+     * Isnt that the definition of begging ?
      * 
      * 
       **/    
