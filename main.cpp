@@ -4399,6 +4399,7 @@ int main()
      * its the end of the world!!! please!! we harm and accuse others to be the same disgusting animals we are ?
      * 
      * And you still wait look around ? awww you also beg for lies ?
+     * eheheh if you lie, we harm you and you get women ? ehehe no evidence though ?
      * 
      * 
      * 
