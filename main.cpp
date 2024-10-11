@@ -4518,6 +4518,7 @@ int main()
      * You say women ? And you do not even bother using your brain ? to foresee ?
      * 
      * Thats the type everyone has been referring to and you still say what ?
+     * Do you still label the most cheap action "intelligent" ?
       **/    
 
 
