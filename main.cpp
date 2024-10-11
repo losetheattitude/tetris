@@ -4096,7 +4096,7 @@ int main()
      * 
      * Make up more rules, No you can not do that!!! nooo you can not say that!!!
      * You did the most disgusts though ? Noo!!! THERE ARE RULES!! YOU CAN NOT DO THAT!! WE INTELLIGENT!! WE GENTLE!!
-     * Please hopefully nobody gets hurt 
+     * Please hopefully nobody gets hurt, MEAN!!! eehhe we like harming btw
       **/    
 
 
