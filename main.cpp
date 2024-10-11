@@ -4152,6 +4152,7 @@ int main()
      * Do you see the delusion ? But you already know that is not called delusion rather its intentional harm ?
      * You still offer resources but there is no evidence to them ?
      * Eeheheh there is nothing to do, so we waste and waste more time doing the most stupid things for our precious experiences ?
+     * You still dare call it mean ? How about you talk some violence ? eheheheh fearful like animals you say ?
       **/    
 
 
