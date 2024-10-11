@@ -4624,6 +4624,8 @@ int main()
      * Why isnt your education working btw ? Are you taking me for your lowness ? Do you think I will be afraid of your violence ?
      * How about you start running away ?
      * 
+     * You still say what ? Mandatory ?
+     * 
       **/    
 
 
