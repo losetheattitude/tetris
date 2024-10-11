@@ -4202,6 +4202,8 @@ int main()
      * And you still offer things ? Heyyy you get women!!! you get womeen!!! please lie! lie!!
      * Now you feel like you are in trouble because you have done what you shouldnt have, and started asking things ?
      * You say you are not underdeveloped ? still asking lies dumb monkeys ?
+     * 
+     * Are you still offering things ? How do you think you get to ? 
       **/    
 
 
