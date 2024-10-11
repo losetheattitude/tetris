@@ -4557,6 +4557,7 @@ int main()
      * Eheheheh years eheheh we good, years ehehehh also some violence heheh why are you angry ?
      * 
      * You make decisions out of your disgusting fear to apply random solutions instead of listening ? and you are looking for what ?
+     * Do you understand the consequences ?
       **/    
 
 
