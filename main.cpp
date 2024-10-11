@@ -4591,6 +4591,7 @@ int main()
      * You still play games over others' lives ?
      * 
      * Disgusting animal I say ? What do you say ? You still insist on your coercion from years ago ?
+     * And also present the same violence just a few years ago, now you hide like the little animal you are ?
       **/    
 
 
