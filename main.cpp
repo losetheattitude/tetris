@@ -4062,6 +4062,9 @@ int main()
      * You are the most unnatural and unjustified people to do that, so eheheh funny stuff indeed
      * Are you still begging ? when you are given 12302130 chances ? and you still proved your inferior nature ?
      * 
+     * I have no time to waste as you do with your "really precious conversations" that you only do to convince yourself you are not a stupid monkey
+     * while I waste my time doing nothing. You see the problem ?
+     * 
      * 
       **/    
 
