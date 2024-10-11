@@ -4481,6 +4481,8 @@ int main()
      * You dare advicing "calmness" ? TALK ABOUT THE PAST AND EXPERIENCES ? You fucking fearful disgusting monkey I say? What do you say ? You offer women ?
      * and beg for lies ?
      * When you have 30 years of evidence ? and you still beg like the inferior animal you are ? what do you have to say again ? awww you say, life short ?
+     * Awww, you are so honorable you just have what it takes to accept your mistake ? awwwwwwwwwwwwwwww, thats the problem you say ? what are you saying ?
+     * why are you still begging ?
       **/    
 
 
