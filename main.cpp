@@ -4140,6 +4140,7 @@ int main()
      * Is that the game ? You still offer your inferior desires ?
      * 
      * You still after the RIGHT THING TO DO ? Read some bro ? Read and see what people think about the inferior animals like you
+     * I am sure you will avoid that as well, because of your inferior nature and start begging for lies as thats your NATURE
       **/    
 
 
