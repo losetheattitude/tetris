@@ -4110,6 +4110,7 @@ int main()
      * and you also offer what your inferior nature craves "GET WOMEN!", "COMMIT CRIME!!", "GET CARS!!" but also like to present violence because
      * you are afraid of it like the little animal you are ? and you see it as education but it does not work the way it would on you ?
      * Thats the pattern right ?
+     * The pattern of stupidity, that is rife everywhere, just like your inferior self
       **/    
 
 
