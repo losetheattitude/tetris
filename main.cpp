@@ -4093,6 +4093,8 @@ int main()
      * 
      * Still after same narrative ? What did that prove to solve ? Aww it has caused more problems because you are the problem ? hence your actions lead to problems ?
      * Its so fun!!!! isnt it ?
+     * 
+     * Make up more rules, No you can not do that!!! nooo you can not say that!!!
       **/    
 
 
