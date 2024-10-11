@@ -4055,7 +4055,8 @@ int main()
      * 
      * Coercion ? Violence ? But also begging ? and you still think you are achieving ?
      * and all you can say is what ? eheheh he did this!! (coercion), he did that!!! (violence)
-     * Isnt that the most disgust ?
+     * Isnt that the most disgust ? eheheh no evidence as to our precious allegations of really superior nature but we still would love to 
+     * say the same delusional stupid things ?
      * 
      * 
       **/    
