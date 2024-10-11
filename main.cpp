@@ -4060,6 +4060,7 @@ int main()
      * And you still allege you should make decisions and harm more ?
      * 
      * You are the most unnatural and unjustified people to do that, so eheheh funny stuff indeed
+     * Are you still begging ? when you are given 12302130 chances ? and you still proved your inferior nature ?
      * 
      * 
       **/    
