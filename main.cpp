@@ -4459,6 +4459,7 @@ int main()
      * Now is this the time where you beg like the little animal you are to save yourself from guilt ?
      * And you also say, Life short!! life short!! life illusion!!! time does not exist!! life simulation!! harm more!! 
      * 
+     * Ehehehe, you really like living life ? but you just can not get harmed ?? awww thats the problem, I see
       **/    
 
 
