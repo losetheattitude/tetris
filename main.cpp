@@ -4015,6 +4015,9 @@ int main()
      * 
      * Talk about the violence and before than that, and before than that ?
      * You still beg ? awww, although I have all the information I could ever need ?
+     * So you still insist on your inaccurate but intentional "superior intelligence" ? and you still do not see that it will bring about
+     * what you are aiming ?
+     * 
       **/    
 
 
