@@ -4125,6 +4125,8 @@ int main()
      * 
      * You already know what happens when you present unjustified violence, that is what is going to happen regardless
      * and you did it anyways ehehehe!!! please lie!! please lie!! ? you still begging ?
+     * 
+     * Awwww, the past is past!! please help!! the past is past!!! violence etc!! etc!! please eheheh
       **/    
 
 
