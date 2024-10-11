@@ -4031,6 +4031,8 @@ int main()
      * eheheh talk about the violence again ? and talk about the price of actions of such inferior nature ?
      * No no, thats really not being ignorant and stubborn and obsessed, do you see the qualities of inferior nature that belong to you ?
      * 
+     * Still think I should waste my time with selfish animals like you ?
+     * 
      * 
       **/    
 
