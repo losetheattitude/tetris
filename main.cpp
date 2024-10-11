@@ -4035,6 +4035,7 @@ int main()
      * Why though are you still begging ? Get cars!!!!!! get womeenn!!! do this!!! do that!! please!!!
      * Havent you ever had time to think ?
      * You think you should be able to convince others into harming and its justification ?
+     * You say you are not delusional but also say that you are not many things people call you ?
      * 
      * 
       **/    
