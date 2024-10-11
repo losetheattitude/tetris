@@ -4656,6 +4656,7 @@ int main()
      * 
      * USE YOUR BRAIN BETTER NEXT TIME, AND USE IT TO GREATER GOOD AND ONLY FOR YOUR OWN LIFE
      * But you see the problem right ? The ignorance it means
+     * Do you still believe I was joking about "COERCION OF MINORS AND SO ON AND SO FORTH ?"
      * 
       **/    
 
