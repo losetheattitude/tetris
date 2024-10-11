@@ -4181,6 +4181,9 @@ int main()
      * 
      * No resources!! no resources!! eheheh pls lie! lie!lie!! get women!!! get cars!! 
      * is it "its tooo late!!!!" ?
+     * 
+     * Look, do you see the pattern ? "YOU CAN NOT GO OUT!", "NO RESOURCES!!" and now you have reduced to your own disgusting nature
+     * "GET WOMEEN!!!", "LIE PLS!!" "LIE!!"
       **/    
 
 
