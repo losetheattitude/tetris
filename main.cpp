@@ -4211,6 +4211,8 @@ int main()
      * 
      * Wait wait, he is working properly when there is not anyone from our disgusting nature ? awwww
      * so you still said, lets harm him and enjoy our experiences, come back harm more and eheheh we tryna build something !!!! is that what it is?
+     * 
+     * And you still asking for lies ? ehehe and do you also want to harm more and enjoy your life then come back and eheheh harm more
       **/    
 
 
