@@ -4134,6 +4134,7 @@ int main()
      * You see the problem, I am not the type to take it for a skill and be grateful, good luck though, it should be fine because you act like inferior monkeys
      * 
      * Hopefully though, if you laugh long enough, everyone would go with it right ? Thats the pattern bro
+     * You see the catastrophic sequence of false and malign assumptions, you beg for the entirity of your life, nothing could change that!! eheheheh funny stuff right ?
       **/    
 
 
