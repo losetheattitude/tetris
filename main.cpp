@@ -4453,7 +4453,8 @@ int main()
      * 
      * I do not want anything related to any of you
      * What did you say ? You said, LIVE YOUR LIFE!!! ? life short!! life simulation!! life good!! time illusion!! what did you say ?
-     * Please do not hurt us!! life short !!! life illusion!!! ?
+     * Please do not hurt us!! life short !!! life illusion!!! ? and you still beg lies like the inferior disgusting animal you are ?
+     * Havent you learnt anything ?
       **/    
 
 
