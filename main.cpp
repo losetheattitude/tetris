@@ -4270,6 +4270,8 @@ int main()
      * Still wasting time on checking others ? When you have 30 years of evidence ? Awww how about the acts of violence ?
      * 
      * I DO NOT HAVE ANY TIME FOR DUMB ANIMALS LIKE YOU
+     * 
+     * No resources!!! no resources!!!! awwww, now we have to explain our "conduct", pls lie! pls lie! or we do some stupid shit as we always do ?
       **/    
 
 
