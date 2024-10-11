@@ -4576,6 +4576,9 @@ int main()
      * 
      * DO YOU WANT TO TALK ABOUT THE PAST, AND TELL EVERYONE ? Awwwwwww, you say be silent!! please!! be silent!!!
      * Ehehehe we found someone alone and we keep harming him!!! whats the problem ? eheheh he can not do anything because we were there!!!
+     * 
+     * You say what ? ITS YOUR TIME!!! PLEASE STAY!!! BE A COP!! HELP US!!! WE ARE GOOD PPL!!! PLEASE ? 
+     * TALK ABOUT THE PAST I SAY ? WHAT ARE YOU STILL SAYING ? You say you can not cope when you see others having fun you say ?
       **/    
 
 
