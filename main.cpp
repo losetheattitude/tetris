@@ -4040,7 +4040,7 @@ int main()
      * 
      * I have no desire to waste my time with you ? Isnt that reasonable ?
      * Bunch of clueless lost ignorant harmful intentional delusional people that have done nothing so far that they said they would ?
-     * Isnt that the definition of begging ?
+     * Isnt that the definition of begging ? Delude more on that I would suddenly feel grateful for your unseen actions indeed
      * 
      * 
       **/    
