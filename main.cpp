@@ -4313,6 +4313,9 @@ int main()
      * 
      * So you also say, please do not educate people the way we also delude what should be the definition of the education ???? TALK SENSIBLE AND PROVABLE
      * I remember but you still act like lying is a skill ? why you keep offering women ? awwww you say, its expensive!! its misuse!! pls help!!
+     * 
+     * Hey keep him out until we fool everyone into believing but the problem is, that means you are all a bunch of stupid immature monkeys right ?
+     * You avoid what you can not face ? awwwwwwwww, thats really great, get some womeeen!!! we religious ppl plsss
       **/    
 
 
