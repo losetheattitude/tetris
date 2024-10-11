@@ -4206,6 +4206,8 @@ int main()
      * Are you still offering things ? How do you think you get to ? 
      * Please further!!! further!!!! ? how come do you think you should ask for lies ?
      * btw eheheh btw bte, we good ppl, just talk about time instead of begging because of your disgusting nature and its fears ?
+     * Hmmmm, now the great people have thought and said, "LETS JUST HARM HIM MORE AND MORE THEN GET BACK TO ENJOYING OUR LIVES!!!"
+     * "AND HARM MORE AND MORE, THEN COME BACK AND BEG FOR LIES" ?
       **/    
 
 
