@@ -4599,6 +4599,8 @@ int main()
      * Do you desperately need to get yourself out of this situation ? You are the one who is causing it for you ?
      * Do you want to talk about coercion more ? or more violence ? or more begging ? what do you want to ?
      * 
+     * Are you sure about your education's effectivity ???
+     * 
       **/    
 
 
