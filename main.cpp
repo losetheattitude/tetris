@@ -4579,6 +4579,8 @@ int main()
      * 
      * You say what ? ITS YOUR TIME!!! PLEASE STAY!!! BE A COP!! HELP US!!! WE ARE GOOD PPL!!! PLEASE ? 
      * TALK ABOUT THE PAST I SAY ? WHAT ARE YOU STILL SAYING ? You say you can not cope when you see others having fun you say ?
+     * 
+     * Are you still talking about "building" ? Are you still daring to talk about "building" ?
       **/    
 
 
