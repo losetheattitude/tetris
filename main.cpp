@@ -4120,6 +4120,7 @@ int main()
      * Watch from afar like the little animal you are
      * 
      * Education btw, do you see the pattern ? The pattern of your inferiority ?
+     * Fucking dumb begger monkeys
       **/    
 
 
