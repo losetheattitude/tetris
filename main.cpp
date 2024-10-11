@@ -4316,7 +4316,10 @@ int main()
      * 
      * Hey keep him out until we fool everyone into believing but the problem is, that means you are all a bunch of stupid immature monkeys right ?
      * You avoid what you can not face ? awwwwwwwww, thats really great, get some womeeen!!! we religious ppl plsss
+     * 
+     * So you basically say, help us lie out of this situation so that we can harm and move on with our lives 
       **/    
+
 
 
 
