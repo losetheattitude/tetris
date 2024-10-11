@@ -4310,6 +4310,8 @@ int main()
      * ehehe no resources!!!
      * How about you start talking sensible instead of begging like the little worthless animal you are ? Awwww, now you say, come here !!!! please!!
      * hang with us!!!
+     * 
+     * So you also say, please do not educate people the way we also delude what should be the definition of the education ???? TALK SENSIBLE AND PROVABLE
       **/    
 
 
