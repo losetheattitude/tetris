@@ -4255,6 +4255,8 @@ int main()
      * So you are still the delusional and inferior and harmful animal who thinks they are building ? What have you built ?
      * But you still talk about life ? and time ? and being good ? yet you still delude on ?
      * Awww, you say, "no resources!!", "no resources!!!", and you still think you are building ? eheheh funny right ?
+     * 
+     * You still dare talking ?
       **/    
 
 
