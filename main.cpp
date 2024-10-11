@@ -4486,6 +4486,7 @@ int main()
      * 
      * You still say fate ? Disgusting monkeys ?
      * Are you still making excuses that I KNOW FOR SURE THAT YOU ARE INTENTIONAL ? and you still beg to me ? like the little inferior animal you are ?
+     * And when you had countless opportunities, now you are begging with women again ? Like the disgusting irrelevant illogical animal you are ?
       **/    
 
 
