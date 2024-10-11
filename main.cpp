@@ -4148,6 +4148,8 @@ int main()
      * Be the same inferior violent animal when you have people around you ? Awwwwwwwww, thats the problem right ?
      * You still offering ? eheheh funny indeed
      * Get the fuck out of my face
+     * 
+     * Do you see the delusion ? But you already know that is not called delusion rather its intentional harm ?
       **/    
 
 
