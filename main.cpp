@@ -4079,6 +4079,9 @@ int main()
      * 
      * Get cars!!!!! Get womeeennn!!! Please, help !!! 
      * Why dont you get cars!!!!!! we need lies!! lies!! lie!!! please!!
+     * 
+     * Awwwww, you were watching and there all along and you have done nothing but to harm more
+     * and you suddenly talk about being good, or what ? what did you just say ?
       **/    
 
 
