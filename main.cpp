@@ -4477,6 +4477,9 @@ int main()
      * Be silent!! please!! be silent!!!
      * 
      * And you say what ? he did this!! he did that!! please!!! please!! we need you to lie so that we can still jerk off to our inferiority ?
+     * 
+     * You dare advicing "calmness" ? TALK ABOUT THE PAST AND EXPERIENCES ? You fucking fearful disgusting monkey I say? What do you say ? You offer women ?
+     * and beg for lies ?
       **/    
 
 
