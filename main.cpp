@@ -4129,6 +4129,8 @@ int main()
      * Awwww, the past is past!! please help!! the past is past!!! violence etc!! etc!! please eheheh
      * There is no evidence!! please!! eheheh, which part do you think makes more sense to you ?
      * The pattern ? no ? eheheh fun stuff indeed
+     * 
+     * You do not see you are playing games that have no benefit to you ?
       **/    
 
 
