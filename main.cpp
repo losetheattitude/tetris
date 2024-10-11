@@ -4436,6 +4436,10 @@ int main()
      * You can not deal with the truth ? and start harming ? and begging ? you say what ? get women you say ?
      * 
      * Do you see the stupidity behind your allegations and actions and REQUESTS ? That I should overlook ?
+     * 
+     * What are you waiting for still ? I said I have no intention to waste my time with the most disgustingly uncredible people of all time
+     * which takes that for a skill also ? Arent you the little animals that have been referred everywhere ? When you have 30 years of evidence ?
+     * You still beg with the same narrative ? and also forget about your "PAST" ? How about you do not beg ?
       **/    
 
 
