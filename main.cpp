@@ -4192,6 +4192,8 @@ int main()
      * Hey!!! its too expensive!! ehehe, no resources!!! no you can not go outside!!
      * ehehehe, get women!!! pls!! get women!! get cars!! pls, pls lie!! lie!! pls lie for us!
      * we want to enjoy our experiences pls!! lie! lie!
+     * 
+     * Talk about the past and now, then correlate your behavior with that
       **/    
 
 
