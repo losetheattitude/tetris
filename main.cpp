@@ -4213,6 +4213,12 @@ int main()
      * so you still said, lets harm him and enjoy our experiences, come back harm more and eheheh we tryna build something !!!! is that what it is?
      * 
      * And you still asking for lies ? ehehe and do you also want to harm more and enjoy your life then come back and eheheh harm more
+     * 
+     * I have no time or intention to even waste another second, you solve your problems on your own ? 
+     * Does that even make sense to inferior animals like you ? You harm and beg like the inferior animal you are ? And also make so many promises
+     * then laugh about it ? as your inferior nature proves itself ?
+     * 
+     * and you also beg for lies from I ? eehehe please please, we religious, we good eheheh!! pls
       **/    
 
 
