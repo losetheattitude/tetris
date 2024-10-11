@@ -4248,6 +4248,8 @@ int main()
      * 
      * How about you explain ? Awwwww, you can not btw, because eheheh life good!!! life simulation!!!! time illusion, pls help !! lie pls!!
      * we good ppl!! plss
+     * 
+     * Are you still offering women and also threatining at the same time ? Religious people you say ?
       **/    
 
 
