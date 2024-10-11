@@ -4380,7 +4380,7 @@ int main()
      * Morality is the product of strong reasoning, better not be biased
      * so you say, you testing!!!! you testing!!! ehehehe ? what a shame you are a stupid monkey ?
      * ehehe one last time!! one last time!!!
-     * You were saying fate btw!!
+     * You were saying fate btw!! Get cars!! get women!!! is what you say ?
      * 
      * 
      * 
