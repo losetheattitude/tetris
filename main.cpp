@@ -4501,6 +4501,7 @@ int main()
      * You still delude ? Have you had the time to double check your reasoning ?
      * If thats your reasoning, that explains a lot, the proof ? You say a few days of coercion ?
      * Eheheh he a kid, we coerce no problems you say ? you also offer ?
+     * Do you now understand the responsibility ? Or would you like to act like you are right ?
       **/    
 
 
