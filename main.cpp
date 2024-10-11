@@ -4381,6 +4381,7 @@ int main()
      * so you say, you testing!!!! you testing!!! ehehehe ? what a shame you are a stupid monkey ?
      * ehehe one last time!! one last time!!! 
      * You were saying fate btw!! Get cars!! get women!!! is what you say ? and you still say you are not monkey ? and you claim you deserve ?
+     * Awww, it was about "deserving it" so you said, 30 years of irrelevant violence ?
      * 
      * 
      * 
