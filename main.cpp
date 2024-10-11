@@ -4433,6 +4433,7 @@ int main()
      * 
      * Arent you the one who said, "kick her!!" ? eheheh tell from here please!!
      * You say what ? Fresh start!!! eheheheh funny people and good citizens ?
+     * You can not deal with the truth ? and start harming ? and begging ?
      * 
      * 
      * 
