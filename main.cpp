@@ -4544,6 +4544,8 @@ int main()
      * 
      * Thats it, right ? Aww, you say it was a mistake, you say "ITS TOOO LATEE!!", you say, violence!!! you say!! womeeennn!! ?
      * THATS IT RIGHT ? Why are you still waiting ?  Inferior animals ?
+     * 
+     * You still trying to alleviate what is the most disgusting thing you can ever do ? and call it "FATE" or "DRAMA" ?
       **/    
 
 
