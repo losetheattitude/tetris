@@ -4387,7 +4387,7 @@ int main()
      * Do you believe I will recognize you when I know your nature ? I say from out of my vicinity with what you think and regard as valuable, I am not interested
      * whether you delude to be family or etc etc. 
      * 
-     * I am not interested
+     * I am not interested, still offering stupid things ? Wooomeeennn!!! but there is actually no sign ehehehe 
      * 
      * 
      * 
