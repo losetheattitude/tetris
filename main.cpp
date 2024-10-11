@@ -4265,6 +4265,8 @@ int main()
      * I have no time for stupid selfish people, thanks!
      * eheheh, we love acting like we know what we are doing!!! and still love making decisions then love enjoying our experiences!!!
      * Well, thats the job as we like to call!!!
+     * 
+     * Waste more time with supposedly "tested or bullshit" test noone is interested other than you because of your interests 
       **/    
 
 
