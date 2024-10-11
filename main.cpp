@@ -4171,6 +4171,8 @@ int main()
      * ehehehe, pls pls, we need you to lie! eheheh pls pls,eheheh
      * wait wait, great competent monkeys, explain the violence then your irrelevant noises, then start begging
      * heheh pls plspls, lie lie, good night, get sleep, pls, lie
+     * 
+     * no resources so far!! eheheheheh get cars! pls! get cars! eheheh
       **/    
 
 
