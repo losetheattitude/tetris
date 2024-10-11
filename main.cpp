@@ -4391,6 +4391,8 @@ int main()
      * Get moneeyy!!!! get money!!! Get womeen!! get women!!
      * Still offering the same things ? eheheh really funny right ?
      * And you say education also btw ? eheheh pls have women you say ?
+     * Do you follow what I am saying ? I will not even consider for a second associating myself with the kinds of animal you were demonstrating to be so far ?
+     * Whats your response ? eheheh get women you say ?
      * 
      * 
      * 
