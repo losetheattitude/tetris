@@ -4471,6 +4471,9 @@ int main()
      * 
      * ARE YOU STILL MISTAKING ME FOR YOURSELVES AND HOPING THAT I WILL NOT DO ANYTHING ABOUT THE VERY PEOPLE THAT CAN NOT ACCOUNT
      * FOR YEARS AND VIOLENCE ? Arent you also the one in this case who is deluding the most stupid and meaningless way ? 
+     * 
+     * You know what that is called right ? Being stupid afraid of the consequences of your actions ? and all you can say is what ?
+     * The same stupid things ? Womeeennn!!!! womeeeen!!!!! please!!! womeeen!!! help us lie!!! fix this!! lie!!!
       **/    
 
 
