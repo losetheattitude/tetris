@@ -4546,6 +4546,9 @@ int main()
      * THATS IT RIGHT ? Why are you still waiting ?  Inferior animals ?
      * 
      * You still trying to alleviate what is the most disgusting thing you can ever do ? and call it "FATE" or "DRAMA" ?
+     * How about the "life simulation" ? life short ? time illusion ? you all really understand the life waaaaoww impressive
+     * 
+     * You are not inclined to talking about your "intentional mistakes" ?
       **/    
 
 
