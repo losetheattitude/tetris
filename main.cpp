@@ -4613,7 +4613,7 @@ int main()
      * 
      * I said, I do not want anything related to you, are you still begging ? 
      * You are talking about "deserving" ? You, out of all those people, you get to talk about deserving ?
-     * See what happens ? You do not believe me ?
+     * See what happens ? You do not believe me ? ehehehe? you do not believe me ? Out of all, you get to think that you are right ?
      * 
       **/    
 
