@@ -4560,6 +4560,9 @@ int main()
      * Do you understand the consequences ?
      * You dare calling, its your time ?
      * Hopefully nobody gets hurt you say ? and look at the past ? I say ? Do you understand why the education that you take for a skill is not working ?
+     * 
+     * Do you understand why the violence is not working ? Because you are a stupid disgusting monkey ? Is that why ? Why are you begging now ?
+     * Do you really believe it will be okay ?
       **/    
 
 
