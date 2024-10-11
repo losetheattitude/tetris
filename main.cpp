@@ -4103,6 +4103,8 @@ int main()
      * 
      * I do not want to see no inferior monkeys around me, You still ask for lies ? You still offer what your inferior nature craves ?
      * Commit!!!! get women!!! get cars!!! TELL ME THE EXPERIENCE I HAVE HAD ? EEheehehhe intelligence! intellligence!! please lie !! lie!! we like harming!
+     * 
+     * You should be grateful to "have normal experiences"!!! please lie!!! lie!! eheheh we give you opportunity please!
       **/    
 
 
