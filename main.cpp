@@ -4068,6 +4068,9 @@ int main()
      * Awww, are you still roleplaying amazement so that you could act like "ITS WHAT IT IS SUPPOSED TO" because you are just too surprised at ?
      * But you actually do not provide any value other than harm ? Is that the great intelligence that I am missing ?
      * 
+     * You are amazed at and doing really unnatural and irregular things out of your "amazement" but you do not even provide any value and 
+     * harm physically and mentally ?
+     * 
      * 
       **/    
 
