@@ -4460,6 +4460,8 @@ int main()
      * And you also say, Life short!! life short!! life illusion!!! time does not exist!! life simulation!! harm more!! 
      * 
      * Ehehehe, you really like living life ? but you just can not get harmed ?? awww thats the problem, I see
+     * 
+     * I do not want to see any of you around me, the ignorant and selfish people of THE HISTORY right ?
       **/    
 
 
