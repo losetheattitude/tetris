@@ -4435,8 +4435,7 @@ int main()
      * You say what ? Fresh start!!! eheheheh funny people and good citizens ?
      * You can not deal with the truth ? and start harming ? and begging ? you say what ? get women you say ?
      * 
-     * 
-     * 
+     * Do you see the stupidity behind your allegations and actions and REQUESTS ? That I should overlook ?
       **/    
 
 
