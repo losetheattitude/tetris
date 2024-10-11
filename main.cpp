@@ -4521,7 +4521,7 @@ int main()
      * Do you still label the most cheap action "intelligent" ?
      * Gather some people around you say ? and you suddenly reduce to "GET WOOOMEENNN!!" ? 
      * Do you call "accusing others out of your inferior fears because you know you have done something you shouldnt have ?"
-     * And you still see yourself completely okay ?
+     * And you still see yourself completely okay ? You still consider yourself a "human" and beg ?
       **/    
 
 
