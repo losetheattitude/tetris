@@ -4153,6 +4153,9 @@ int main()
      * You still offer resources but there is no evidence to them ?
      * Eeheheh there is nothing to do, so we waste and waste more time doing the most stupid things for our precious experiences ?
      * You still dare call it mean ? How about you talk some violence ? eheheheh fearful like animals you say ?
+     * 
+     * Good parent, good citizens, good religious people, what did you now think that you have accomplished ? You can not tell anything ?
+     * Thats the pattern of stupidity that is rife in every single context, you see the problem
       **/    
 
 
