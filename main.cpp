@@ -4484,7 +4484,7 @@ int main()
      * Awww, you are so honorable you just have what it takes to accept your mistake ? awwwwwwwwwwwwwwww, thats the problem you say ? what are you saying ?
      * why are you still begging ?
      * 
-     * You still say fate ?
+     * You still say fate ? Disgusting monkeys ?
       **/    
 
 
