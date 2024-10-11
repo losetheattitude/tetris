@@ -4160,6 +4160,7 @@ int main()
      * And you demand credibility, look at the pattern!!! ?
      * Still asking for lies and offering things ? you see the stupidity ?
      * Heyy get a ticket and join the very people who harmed you !!!! have fun!!! life good!!
+     * Dumb monkeys ? You do not say ?
       **/    
 
 
