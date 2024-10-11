@@ -4358,7 +4358,7 @@ int main()
      * the nature of the perpetrator of the violence that they avoid by "making offers!!!"
      * Complete animals with no understanding of "life" or "fate" or "RELIGION!!"
      * 
-     * You do not say monkeys ?
+     * You do not say monkeys ? Are you the men who has committing so much with no reason and hide behind ?
      * 
      * 
      * 
