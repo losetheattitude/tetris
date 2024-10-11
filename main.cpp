@@ -4144,7 +4144,7 @@ int main()
      * 
      * You see the problem, and I am sure everyone will see it as funny as you do, isnt it ? its the most funny
      * You happen to like being an inferior disgusting animal who likes to harm and waste time ?
-     * The very same inferior animal who bends when people are around who can uphold him ?
+     * The very same inferior animal who bends when people are around who can uphold him ? and start offering thinking that for a skill ?
      * You still offering ? eheheh funny indeed
      * Get the fuck out of my face
       **/    
