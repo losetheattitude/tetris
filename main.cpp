@@ -4369,6 +4369,8 @@ int main()
      * be silent be silent!!! lie!! awww, also "forget about the past!!!"
      * You have proven only a little too many times what your "credibility" is, so better deal with your own lives ?
      * 
+     * You remember right ? eheheh thats kinda funny indeed
+     * 
      * 
      * 
       **/    
