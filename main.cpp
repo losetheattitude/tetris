@@ -4359,6 +4359,7 @@ int main()
      * Complete animals with no understanding of "life" or "fate" or "RELIGION!!"
      * 
      * You do not say monkeys ? Are you the men who has committing so much with no reason and hide behind ?
+     * More like a simple animal who takes violence for education because they are afraid of it as you can tell by their behavior of "hiding"
      * 
      * 
      * 
