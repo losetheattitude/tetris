@@ -4652,6 +4652,7 @@ int main()
      * Do you now see the false image ? Do you think you "deserve" ? You probably delude on that as well, good ppl
      * 
      * Do you think it makes sense to say "ITS YOUR TIME!!!!" after 30 years ? Ignorant people indeed
+     * You can not use your brain ? is that why you ignore ?
      * 
       **/    
 
