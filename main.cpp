@@ -4601,6 +4601,7 @@ int main()
      * 
      * Are you sure about your education's effectivity ???
      * Talk about the college ? talk about the violence ?
+     * You still delude on your competency ?
      * 
       **/    
 
