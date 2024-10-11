@@ -4584,7 +4584,10 @@ int main()
      * Wait wait, you say, "we found someone alone so we collectively harm him and act like intelligent ?"
      * "because there is nothing he can do ?", and you also beg with women ?
      * Aw you said no resources ? also some violence ? and you still say its education ?
-     * and you do not even mention the time ?
+     * and you do not even mention the time ? and what do you have to say then ? Just nothing ? 
+     * 
+     * What do you think I am missing ?
+     * Wait wait, you have years of evidence ? are you still the same disgusting animal ?
       **/    
 
 
