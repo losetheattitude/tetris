@@ -4373,6 +4373,7 @@ int main()
      * Still holding "conversations" over your selfish joys ?
      * I have no time to waste but you knowing that you have caused so much and "there is nothing to do" approach just allows the type people like you
      * to act with relief ? Does that sound complicated ?
+     * Talk about the violence
      * 
      * 
      * 
