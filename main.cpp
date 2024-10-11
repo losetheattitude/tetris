@@ -4084,6 +4084,8 @@ int main()
      * and you suddenly talk about being good, or what ? what did you just say ?
      * I see, you just need lies!!! lie!! lie!!!  please!! harmm and lie!!! lie!! eheheh funny stuff indeed ?
      * Aww, you also think that it should be okay to harm and waste time in such a stupid way, ?  and you also ask for lies!! lie!!! please!! lie!! help!!
+     * 
+     * Do you see the pattern in your behavior ? The stupidity ? The immaturity ? The inferiority ? The delusion ? Awwww, you just want to enjoy ? I see, thats not the problem!!
       **/    
 
 
