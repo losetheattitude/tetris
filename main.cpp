@@ -4320,6 +4320,7 @@ int main()
      * So you basically say, help us lie out of this situation so that we can harm and move on with our lives 
      * Ehehehe btw, its good life, simulation and illusion all together with incomparably intelligence people just like you
      * Good!!!
+     * Wait wait, you all are full of contradictions but you still demand credibility and beg for lies ?
       **/    
 
 
