@@ -4450,6 +4450,8 @@ int main()
      * 
      * Isnt this the stupid people of the history ? So you decided to use such a thing as this way ? and you say what ? "ITS TOOO LATEEE!!!"
      * Fucking monkeys indeed
+     * 
+     * I do not want anything related to any of you
       **/    
 
 
