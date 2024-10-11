@@ -4604,7 +4604,7 @@ int main()
      * You still delude on your competency ?
      * Do you want to know the punishment for your own actions ?
      * How about you talk more on that ?
-     * Are you also proud of that ?
+     * Are you also proud of that ? So you just like violence but also hide like the little animal you are ?
      * 
       **/    
 
