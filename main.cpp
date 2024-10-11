@@ -4049,6 +4049,7 @@ int main()
      * 
      * Are you still wasting time ? Are you still trying your hardest to make it look normal ?
      * Awww, you would rather offer things eheheheh clever indeed
+     * You still think your making decisions is most useful and directed towards a purpose ? Or its just for "we want to harm" ?
      * 
      * 
       **/    
