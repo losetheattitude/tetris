@@ -4329,6 +4329,9 @@ int main()
      * Awww, you still allege that I should listen to any of you ? Because you think violence is good ? and prescribe it as education ?
      * eheheh, btw we want to enjoy our experiences and spent a few days to harm others for years and years then offer women ? as we have always done ?
      * Eheeheheh, you still offer ? no you can not get good grades!!! you can not get out!!! no women!!!! pls pls plss!! lie!! lie!! we need help!!
+     * 
+     * Will you start asking for lies ? Get women!!! get womeeen!! plss!! you need to earn it!!! we good educated ppl!!! we take violence for education!!
+     * we make decisions!!! we make decisions ehehehe!!! pls
       **/    
 
 
