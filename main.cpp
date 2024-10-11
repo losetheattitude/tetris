@@ -4290,6 +4290,8 @@ int main()
      * Awww, its because you are so religious ?
      * Time does not exist!! life is simulation and we harm and mind our own businesses, is that what you are saying ?
      * wait wait, education does not work ? what were you saying bro ? The years of evidence ? and still your beggings guised as offers ?
+     * 
+     * Get womennn!!! awww we have forgotten, no resources for you!!
       **/    
 
 
