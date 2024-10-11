@@ -4066,6 +4066,7 @@ int main()
      * while I waste my time doing nothing. You see the problem ?
      * 
      * Awww, are you still roleplaying amazement so that you could act like "ITS WHAT IT IS SUPPOSED TO" because you are just too surprised at ?
+     * But you actually do not provide any value other than harm ? Is that the great intelligence that I am missing ?
      * 
      * 
       **/    
