@@ -4051,6 +4051,10 @@ int main()
      * Awww, you would rather offer things eheheheh clever indeed
      * You still think your making decisions is most useful and directed towards a purpose ? Or its just for "we want to harm" ?
      * 
+     * Wait, look reallly close to your qualities
+     * 
+     * Coercion ? Violence ? But also begging ?
+     * 
      * 
       **/    
 
