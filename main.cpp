@@ -4553,6 +4553,7 @@ int main()
      * Awwwww, suddenly something happens ? what happened ?? who did this ? Please lie!!! lie!!! lie!!! we good 
      * 
      * Do you want to talk about the past ? Or would you like to beg ? lie lie! lie lie! we just want to harm ?
+     * I DO NOT HAVE NO TIME FOR ANY OF YOU
       **/    
 
 
