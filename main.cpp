@@ -4621,6 +4621,8 @@ int main()
      * Wait wait, what happened suddenly ? Do you need help ? awwwwww, what a shame isnt it ?
      * Bro you will see when you get into the context of what you are causing ? And you say what ? Get womeeennnn!!!
      * 
+     * Why isnt your education working btw ?
+     * 
       **/    
 
 
