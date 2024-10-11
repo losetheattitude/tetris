@@ -4098,6 +4098,8 @@ int main()
      * You did the most disgusts though ? Noo!!! THERE ARE RULES!! YOU CAN NOT DO THAT!! WE INTELLIGENT!! WE GENTLE!!
      * Please hopefully nobody gets hurt, MEAN!!! eehhe we like harming btw
      * You offer the same as your inferior nature, there is some pattern but you already know heheh funny stuff
+     * 
+     * COMMIT MORE VOLUNTARILY, YOU WILL SEE NO PROBLEMS, thats not the problem
       **/    
 
 
