@@ -4293,6 +4293,9 @@ int main()
      * 
      * Get womennn!!! awww we have forgotten, no resources for you!!
      * eheheehehe its no resources and also get womeeenn!!! pls fix this! we need your help !! lie for our experiences!!!
+     * Get education!!! get education pls!! pls! 
+     * Life is full of sufferings!!! pls pls, what are you trying to say ? Awwwwww, its 30 years and you still take violence for education
+     * and you have no response to your disgusting behavior ?
       **/    
 
 
