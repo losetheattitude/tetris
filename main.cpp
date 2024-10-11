@@ -4559,6 +4559,7 @@ int main()
      * You make decisions out of your disgusting fear to apply random solutions instead of listening ? and you are looking for what ?
      * Do you understand the consequences ?
      * You dare calling, its your time ?
+     * Hopefully nobody gets hurt you say ? and look at the past ? I say ? Do you understand why the education that you take for a skill is not working ?
       **/    
 
 
