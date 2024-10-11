@@ -4377,6 +4377,7 @@ int main()
      * 
      * Still wasting time ?
      * Still coercing medicines ? Great people btw
+     * Morality is the product of strong reasoning, better not be biased
      * 
      * 
      * 
