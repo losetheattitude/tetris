@@ -4594,6 +4594,7 @@ int main()
      * And also present the same violence just a few years ago, now you hide like the little animal you are ?
      * 
      * Are you sure about your education's effectivity ? Do you think I will say thank you ?
+     * Are you still offering women ? Still offering cars ?
       **/    
 
 
