@@ -4382,7 +4382,7 @@ int main()
      * ehehe one last time!! one last time!!! 
      * You were saying fate btw!! Get cars!! get women!!! is what you say ? and you still say you are not monkey ? and you claim you deserve ?
      * Awww, it was about "deserving it" so you said, 30 years of irrelevant violence ? You most definitely deserve then ?
-     * Ehehehe, you should also talk about, college times ?
+     * Ehehehe, you should also talk about, college times ? Aww you say, it was not you ?
      * 
      * 
      * 
