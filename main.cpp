@@ -4667,7 +4667,7 @@ int main()
      * Do not look farther!
      * 
      * But you see the intentional exaggeration and false image ? so "its tooo late" can only come from the very same mind, anyways next time may be 
-     * you will have what it takes to realize the seriousness of "life" that you brag about so much
+     * you will have what it takes to realize the seriousness of "life" that you brag about so much but act like a complete animal
      * 
       **/    
 
