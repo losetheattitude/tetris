@@ -4417,8 +4417,16 @@ int main()
      * 
      * Aww you treat your "beloved" people like this ? and start begging ?
      * You say its too late ? wait wait, you offer women ? you present violence for education ?
+     * 
+     * 
      * Wait, is the reason for your beggings of "let it go" because you know you are disgustingly guilty and made promises that you have
      * acted completely opposite to ?
+     * 
+     * Wait, is the reason for your beggings of "let it go" because you know you are disgustingly guilty and made promises that you have
+     * acted completely opposite to ?
+     * 
+     * Is this why you are now offering women as well ? Which time is this ? ehehehhe inferior disgusting animals, you say, what ? Try again
+     * let me remind you what a stupid animal you are ?
      * 
      * 
      * 
