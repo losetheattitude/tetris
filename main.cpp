@@ -4538,6 +4538,9 @@ int main()
      * And you still beg ?
      * 
      * Will you start talking about the times that you proved to be the disgusting animal who insist on "coercion" ?
+     * 
+     * I said I have no desire to even waste another second with stupid animals like you ? What are you saying ?
+     * Awwww, you say, he is on the loop!! looop!!! heyyy!! GET THE FUCK OUT OF MY FACE ?
       **/    
 
 
