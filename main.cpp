@@ -4575,6 +4575,7 @@ int main()
      * Now talk about the violence and how religious you are ?
      * 
      * DO YOU WANT TO TALK ABOUT THE PAST, AND TELL EVERYONE ? Awwwwwww, you say be silent!! please!! be silent!!!
+     * Ehehehe we found someone alone and we keep harming him!!! whats the problem ? eheheh he can not do anything because we were there!!!
       **/    
 
 
