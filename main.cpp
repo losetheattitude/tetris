@@ -4121,6 +4121,7 @@ int main()
      * 
      * Education btw, do you see the pattern ? The pattern of your inferiority ?
      * Fucking dumb begger monkeys
+     * Still deluding on "WOMEENNNNNN!!!!", good thats good
       **/    
 
 
