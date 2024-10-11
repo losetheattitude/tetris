@@ -4272,6 +4272,7 @@ int main()
      * I DO NOT HAVE ANY TIME FOR DUMB ANIMALS LIKE YOU
      * 
      * No resources!!! no resources!!!! awwww, now we have to explain our "conduct", pls lie! pls lie! or we do some stupid shit as we always do ?
+     * ehehe its fine, its just whole life of someone, so be content
       **/    
 
 
