@@ -4625,6 +4625,8 @@ int main()
      * How about you start running away ?
      * 
      * You still say what ? Mandatory ?
+     * Which part do you think is the funniest ? Is it the one where you perform your disgusting animal feelings to single individual ?
+     * That can not do anything about it ?
      * 
       **/    
 
