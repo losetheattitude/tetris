@@ -4131,6 +4131,7 @@ int main()
      * The pattern ? no ? eheheh fun stuff indeed
      * 
      * You do not see you are playing games that have no benefit to you ? Yeahhh, thats the pattern I guess, thats why you inferior
+     * You see the problem, I am not the type to take it for a skill and be grateful, good luck though, it should be fine because you act like inferior monkeys
       **/    
 
 
