@@ -4242,7 +4242,7 @@ int main()
      * No resources!!! no resources!!! hehehe, what happened ?? pls pls, help lie!! lie!! we want to enjoy our experiences ?
      * That is exactly what you are, just a regular inferior animal that is rife everywhere ? Do you get the point ?
      * 
-     * 
+     *  
      * Just look at your disgusting behavior and your failure at explaining it, you will see why ? why are you now offering things when you had years ?
      * awww, you are in a difficult position and now you have to beg like the disgusting animal you are ? How about not do it ?
      * 
@@ -4259,6 +4259,7 @@ int main()
      * You still dare talking ?
      * Disgusting animals of earth you say ? eheheh didnt pass the test!!! eheheh pls pls help lie!! we good!!
      * Are you just the immature irresponsible kids ?
+     * Education! education! but it does not somehow work ?
       **/    
 
 
