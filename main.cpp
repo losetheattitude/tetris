@@ -4470,7 +4470,7 @@ int main()
      * Do you see the stupid people of the history ? The past you say ? You say you are not begging ?
      * 
      * ARE YOU STILL MISTAKING ME FOR YOURSELVES AND HOPING THAT I WILL NOT DO ANYTHING ABOUT THE VERY PEOPLE THAT CAN NOT ACCOUNT
-     * FOR YEARS AND VIOLENCE ?
+     * FOR YEARS AND VIOLENCE ? Arent you also the one in this case who is deluding the most stupid and meaningless way ? 
       **/    
 
 
