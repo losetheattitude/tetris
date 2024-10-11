@@ -4572,6 +4572,7 @@ int main()
      * You say you are not stupid ?
      * 
      * Do you want to talk about coercion and years of evidence that proves it ?
+     * Now talk about the violence and how religious you are ?
       **/    
 
 
