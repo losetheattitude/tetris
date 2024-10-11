@@ -4134,7 +4134,7 @@ int main()
      * You see the problem, I am not the type to take it for a skill and be grateful, good luck though, it should be fine because you act like inferior monkeys
      * 
      * Hopefully though, if you laugh long enough, everyone would go with it right ? Thats the pattern bro
-     * You see the catastrophic sequence of false and malign assumptions, you beg for the entirity of your life, nothing could change that!! eheheheh funny stuff right ?
+     * You see the catastrophic sequence of false and malign assumptions, you beg  for the entirity of your life, nothing could change that!! eheheheh funny stuff right ?
      * 
      * You still think you playing games ? What is the name of that game ? ehehhee life !! life!! fate!! simulation!!! illusion!!! please do not hurt!! lie lie !!!
      * Is that the game ? You still offer your inferior desires ?
@@ -4144,6 +4144,7 @@ int main()
      * 
      * You see the problem, and I am sure everyone will see it as funny as you do, isnt it ? its the most funny
      * You happen to like being an inferior disgusting animal who likes to harm and waste time ?
+     * The very same inferior animal who bends when people are around who can uphold him ?
      * You still offering ? eheheh funny indeed
      * Get the fuck out of my face
       **/    
