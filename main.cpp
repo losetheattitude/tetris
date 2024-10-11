@@ -4122,6 +4122,8 @@ int main()
      * Education btw, do you see the pattern ? The pattern of your inferiority ?
      * Fucking dumb begger monkeys
      * Still deluding on "WOMEENNNNNN!!!!", good thats good
+     * 
+     * You already know what happens when you present unjustified violence, that is what is going to happen regardless
       **/    
 
 
