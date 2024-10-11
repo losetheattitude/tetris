@@ -4444,7 +4444,8 @@ int main()
      * You said what ? awwwww, after violence and violence of all sorts, and your highly honorable and credible promises ? you say what ?
      * eheheh he did this!! he did that!! please get women!! get women!! do you say that ?
      * 
-     * Are you still begging ? Inferior animals ?
+     * Are you still begging ? Inferior animals ? You stil allege you know how to use things ? Is this how you use the possibly most important value ?
+     * The value that there is no comparisons ?
       **/    
 
 
