@@ -4398,6 +4398,8 @@ int main()
      * You say what ? Its throne!!!! get womeeen!!! please!!! 30 years get womeeeenn!!!! we regret!!! ehehehe it was a mistake!!!
      * its the end of the world!!! please!! we harm and accuse others to be the same disgusting animals we are ?
      * 
+     * And you still wait look around ?
+     * 
      * 
      * 
       **/    
