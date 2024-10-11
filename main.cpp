@@ -4020,6 +4020,8 @@ int main()
      * You know the definition of "etc etc" but you already a addicted of begging so nothing can change the fact that you will remain inferior
      * as you have done so, for the complete duration of your life ?
      * 
+     * Face it!! face it!!! eheheh he did it!!! wait wait wait, before you get to that, you talk about the actions then we worry about to rest ?
+     * 
       **/    
 
 
