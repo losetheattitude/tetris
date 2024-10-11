@@ -4606,6 +4606,8 @@ int main()
      * How about you talk more on that ?
      * Are you also proud of that ? So you just like violence but also hide like the little animal you are ?
      * 
+     * You dare say be silent ? disgusting animals ?
+     * 
       **/    
 
 
