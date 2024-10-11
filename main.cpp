@@ -4239,7 +4239,8 @@ int main()
      * Do you see the false image ? Awww you already enjoy that, that is why now you have to beg ?
      * Hey!! what happened!! who did this!! ??
      * 
-     * No resources!!! no resources!!! hehehe, what happened ??
+     * No resources!!! no resources!!! hehehe, what happened ?? pls pls, help lie!! lie!! we want to enjoy our experiences ?
+     * That is exactly what you are, just a regular inferior animal that is rife everywhere ? Do you get the point ?
       **/    
 
 
