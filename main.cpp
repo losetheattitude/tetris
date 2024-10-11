@@ -4144,6 +4144,8 @@ int main()
      * 
      * You see the problem, and I am sure everyone will see it as funny as you do, isnt it ? its the most funny
      * You happen to like being an inferior disgusting animal who likes to harm and waste time ?
+     * You still offering ? eheheh funny indeed
+     * Get the fuck out of my face
       **/    
 
 
