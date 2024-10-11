@@ -4245,6 +4245,9 @@ int main()
      * 
      * Just look at your disgusting behavior and your failure at explaining it, you will see why ? why are you now offering things when you had years ?
      * awww, you are in a difficult position and now you have to beg like the disgusting animal you are ? How about not do it ?
+     * 
+     * How about you explain ? Awwwww, you can not btw, because eheheh life good!!! life simulation!!!! time illusion, pls help !! lie pls!!
+     * we good ppl!! plss
       **/    
 
 
