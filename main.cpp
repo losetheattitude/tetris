@@ -4648,7 +4648,7 @@ int main()
      * Do you see the problem ? I doubt it since you are not the group that is capable of thinking properly right ?
      * Why you say, its too late!!!! ? 
      * 
-     * Is it too late ?
+     * Is it too late ? is that why you can not communicate as well ? you just can not use your brain ?
      * 
       **/    
 
