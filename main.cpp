@@ -4100,6 +4100,8 @@ int main()
      * You offer the same as your inferior nature, there is some pattern but you already know heheh funny stuff
      * 
      * COMMIT MORE VOLUNTARILY, YOU WILL SEE NO PROBLEMS, thats not the problem
+     * 
+     * I do not want to see no inferior monkeys around me, You still ask for lies ?
       **/    
 
 
