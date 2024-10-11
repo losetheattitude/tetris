@@ -4188,6 +4188,9 @@ int main()
      * are you still begging ? just talk about the previous "occurences"
      * When you had all the time you just waited and watched to see what ? and now you are begging again ?
      * Mean you say but you avoid like the little animal you are from your irrelevant actions ?
+     * 
+     * Hey!!! its too expensive!! ehehe, no resources!!! no you can not go outside!!
+     * ehehehe, get women!!! pls!! get women!! get cars!! pls, pls lie!! lie!! pls lie for us!
       **/    
 
 
