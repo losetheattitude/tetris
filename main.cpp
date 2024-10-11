@@ -4208,6 +4208,9 @@ int main()
      * btw eheheh btw bte, we good ppl, just talk about time instead of begging because of your disgusting nature and its fears ?
      * Hmmmm, now the great people have thought and said, "LETS JUST HARM HIM MORE AND MORE THEN GET BACK TO ENJOYING OUR LIVES!!!"
      * "AND HARM MORE AND MORE, THEN COME BACK AND BEG FOR LIES" ?
+     * 
+     * Wait wait, he is working properly when there is not anyone from our disgusting nature ? awwww
+     * so you still said, lets harm him and enjoy our experiences, come back harm more and eheheh we tryna build something !!!! is that what it is?
       **/    
 
 
