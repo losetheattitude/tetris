@@ -4669,6 +4669,9 @@ int main()
      * But you see the intentional exaggeration and false image ? so "its tooo late" can only come from the very same mind, anyways next time may be 
      * you will have what it takes to realize the seriousness of "life" that you brag about so much but act like a complete animal
      * 
+     * But you see the problem right ? "ITSS TOOO LATE!!!!", talk more about coercion, you may suddenly realize that you are just an animal
+     * who does not understand the "life", only some uncontrollable instincts right ? Thus you act on purely harmful terms to others
+     * 
       **/    
 
 
