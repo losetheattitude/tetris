@@ -4432,6 +4432,7 @@ int main()
      * Do you see why there are so many stupid people in the history ?
      * 
      * Arent you the one who said, "kick her!!" ? eheheh tell from here please!!
+     * You say what ? Fresh start!!! eheheheh funny people and good citizens ?
      * 
      * 
      * 
