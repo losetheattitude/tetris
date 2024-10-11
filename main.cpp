@@ -4431,6 +4431,8 @@ int main()
      * And you still do not accept "coercion" which I remember ?
      * Do you see why there are so many stupid people in the history ?
      * 
+     * Arent you the one who said, "kick her!!" ? eheheh tell from here please!!
+     * 
      * 
      * 
       **/    
