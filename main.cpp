@@ -4298,6 +4298,7 @@ int main()
      * and you have no response to your disgusting behavior ?
      * 
      * Shhhh, you say, be silent ? fucking monkeys ? I say, wait wait, it was education right ? eheheh funny stuff
+     * Go pls!! go pls!! we religious educated people!! pls!! pls!!! gogo go gog ogo g!! pls help us!!
       **/    
 
 
