@@ -4111,6 +4111,8 @@ int main()
      * you are afraid of it like the little animal you are ? and you see it as education but it does not work the way it would on you ?
      * Thats the pattern right ?
      * The pattern of stupidity, that is rife everywhere, just like your inferior self
+     * 
+     * Are you still begging like the inferior animal you are ?
       **/    
 
 
