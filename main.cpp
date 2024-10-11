@@ -4666,6 +4666,9 @@ int main()
      * But you see the coercion right ? If you were the inferior that harmed with bullshit precept, that is by itself the proof 
      * Do not look farther!
      * 
+     * But you see the intentional exaggeration and false image ? so "its tooo late" can only come from the very same mind, anyways next time may be 
+     * you will have what it takes to realize the seriousness of "life" that you brag about so much
+     * 
       **/    
 
 
