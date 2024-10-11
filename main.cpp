@@ -4554,6 +4554,7 @@ int main()
      * 
      * Do you want to talk about the past ? Or would you like to beg ? lie lie! lie lie! we just want to harm ?
      * I DO NOT HAVE NO TIME FOR ANY OF YOU
+     * Eheheheh years eheheh we good, years ehehehh also some violence heheh why are you angry ?
       **/    
 
 
