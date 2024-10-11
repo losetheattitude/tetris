@@ -4308,6 +4308,8 @@ int main()
      * 
      * We give you cars!!! we give you women!!! please!!!
      * ehehe no resources!!!
+     * How about you start talking sensible instead of begging like the little worthless animal you are ? Awwww, now you say, come here !!!! please!!
+     * hang with us!!!
       **/    
 
 
