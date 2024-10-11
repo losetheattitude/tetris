@@ -4350,6 +4350,7 @@ int main()
      * You dare still talking ? You dare claim your "maturity" when you act like a complete dumb monkey ?
      * 
      * Good ppl, some violence and we great
+     * When there is a much easier way, you still would love to "play" as if ITS THE ONLY WAY!!! Follow us!! eheheh great funny stuff
      * 
      * 
       **/    
