@@ -4564,6 +4564,8 @@ int main()
      * Do you understand why the violence is not working ? Because you are a stupid disgusting monkey ? Is that why ? Why are you begging now ?
      * Do you really believe it will be okay ? Do you see the selfish ? Do you see the immature monkey ? Who do you think that is ?
      * Just use your brain ?
+     * 
+     * Awwww, wait wait!!! please let it go!! let our disgusting crimes be forgotten you say ?
       **/    
 
 
