@@ -4364,7 +4364,7 @@ int main()
      * You still taking "games" of the most stupid nature should be okay to "coerce" ? eheheh good men right ?
      * Be this "unaccountable" and "discredible" to your vicinity, that would solve all your problems right ?
      * Because as I have said, I neither need nor want any type of simple people around me that aims to harm
-     * ehehehe you think its funny though ?
+     * ehehehe you think its funny though ? life short, life good, lie pls, help, life simulation, time illusion, ehehe wait wait 30 years eheheh funny
      * 
      * 
      * 
