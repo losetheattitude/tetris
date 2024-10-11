@@ -4118,6 +4118,8 @@ int main()
      * Talk about the "past" you avoid like the little insignificant animal you are
      * Awww you would rather waste time harming and begging for lies!!! GREAT PEOPLE!! 
      * Watch from afar like the little animal you are
+     * 
+     * Education btw, do you see the pattern ? The pattern of your inferiority ?
       **/    
 
 
