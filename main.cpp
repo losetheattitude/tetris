@@ -4159,6 +4159,7 @@ int main()
      * Offerings of same inferior nature does not even surprise me, because I am used to interacting with inferior animals, whats the pattern right ?
      * And you demand credibility, look at the pattern!!! ?
      * Still asking for lies and offering things ? you see the stupidity ?
+     * Heyy get a ticket and join the very people who harmed you !!!! have fun!!! life good!!
       **/    
 
 
