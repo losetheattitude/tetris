@@ -4395,6 +4395,9 @@ int main()
      * Whats your response ? eheheh get women you say ?
      * What a shame that you are a never learning disgusting inferior animal, I say ? What do you have to say ?
      * 
+     * You say what ? Its throne!!!! get womeeen!!! please!!! 30 years get womeeeenn!!!! we regret!!! ehehehe it was a mistake!!!
+     * its the end of the world!!! please!! we harm and accuse others to be the same disgusting animals we are ?
+     * 
      * 
      * 
       **/    
