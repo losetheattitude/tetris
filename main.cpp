@@ -4276,6 +4276,7 @@ int main()
      * but also some violence hehehe and some emotional harm, which the decision of such DOES NOT BELONG TO YOU ? Thats really clever stuff
      * 
      * Are you still after the same stupid tests ? The great narrative that you have 30 years of evidence to say that "YES WE WERE THE STUPID ONES ?"
+     * What do you think it could ever mean "your sincere actions" to someone who you have neither passion nor understanding ?
       **/    
 
 
