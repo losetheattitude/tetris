@@ -4349,6 +4349,8 @@ int main()
      * Do you see the incompetent label ? Thats what incompetency brings about you right ? So you have to beg ? interesting ?
      * You dare still talking ? You dare claim your "maturity" when you act like a complete dumb monkey ?
      * 
+     * Good ppl, some violence and we great
+     * 
      * 
       **/    
 
