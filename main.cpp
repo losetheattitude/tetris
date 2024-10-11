@@ -4251,6 +4251,8 @@ int main()
      * 
      * Are you still offering women and also threatining at the same time ? Religious people you say ?
      * Are you still "alleging" that you are building ? Are you still the same disgusting animal ?
+     * 
+     * So you are still the delusional and inferior and harmful animal who thinks they are building ? What have you built ?
       **/    
 
 
