@@ -4655,6 +4655,7 @@ int main()
      * You can not use your brain ? is that why you ignore ?
      * 
      * USE YOUR BRAIN BETTER NEXT TIME, AND USE IT TO GREATER GOOD AND ONLY FOR YOUR OWN LIFE
+     * But you see the problem right ? The ignorance it means
      * 
       **/    
 
