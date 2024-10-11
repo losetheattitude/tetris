@@ -4253,6 +4253,7 @@ int main()
      * Are you still "alleging" that you are building ? Are you still the same disgusting animal ?
      * 
      * So you are still the delusional and inferior and harmful animal who thinks they are building ? What have you built ?
+     * But you still talk about life ? and time ? and being good ? yet you still delude on ?
       **/    
 
 
