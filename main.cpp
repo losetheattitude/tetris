@@ -4512,7 +4512,7 @@ int main()
      * I am not interested in anything you could possibly form, are you still waiting looking around ? wasting your time on bullshit ?
      * Arent you proud now ? awwww, you built what ? You still rather accuse as your inferior nature allows you ? because you can not deal with the truth ?
      * 
-     * You now suddenly used your immaculate brain and say, "GET WOMEEENNN!!" ? 
+     * You now suddenly used your immaculate brain and say, "GET WOMEEENNN!!" ? Okay, now tell me the experience I had ?
       **/    
 
 
