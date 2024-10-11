@@ -4570,6 +4570,8 @@ int main()
      * You think you still making decisions ? but now you are begging to the person who you are harming ?
      * Awwwwww, you have forgotten how quickly the time has passed you say ? I say you are a disgusting animal ?
      * You say you are not stupid ?
+     * 
+     * Do you want to talk about coercion and years of evidence that proves it ?
       **/    
 
 
