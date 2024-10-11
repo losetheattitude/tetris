@@ -4568,6 +4568,7 @@ int main()
      * Awwww, wait wait!!! please let it go!! let our disgusting crimes be forgotten you say ?
      * and you also offer women ? Awwww ? Who do you think is guilty ?
      * You think you still making decisions ? but now you are begging to the person who you are harming ?
+     * Awwwwww, you have forgotten how quickly the time has passed you say ? I say you are a disgusting animal ?
       **/    
 
 
