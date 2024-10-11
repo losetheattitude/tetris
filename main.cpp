@@ -4583,6 +4583,7 @@ int main()
      * Are you still talking about "building" ? Are you still daring to talk about "building" ?
      * Wait wait, you say, "we found someone alone so we collectively harm him and act like intelligent ?"
      * "because there is nothing he can do ?", and you also beg with women ?
+     * Aw you said no resources ? also some violence ? and you still say its education ?
       **/    
 
 
