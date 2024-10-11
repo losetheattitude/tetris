@@ -4106,6 +4106,10 @@ int main()
      * 
      * You should be grateful to "have normal experiences"!!! please lie!!! lie!! eheheh we give you opportunity please!
      * Lie!!!! we need you to lie!!!! please!!!
+     * Still watching from afar like the inferior animals ? Who are afraid of violence and after all sorts of cheap "joys" ?
+     * and you also offer what your inferior nature craves "GET WOMEN!", "COMMIT CRIME!!", "GET CARS!!" but also like to present violence because
+     * you are afraid of it like the little animal you are ? and you see it as education but it does not work the way it would on you ?
+     * Thats the pattern right ?
       **/    
 
 
