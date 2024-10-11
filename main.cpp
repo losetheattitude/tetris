@@ -4195,7 +4195,8 @@ int main()
      * 
      * Talk about the past and now, then correlate your behavior with that
      * Awww, you are trying to build what ? What did you achieve now ? Where is the sign of all the work ?
-     * And where were you btw ?
+     * And where were you btw ? Awww too busy enjoying your experiences ? and you just do a few irrevelant things
+     * that you think is valuable and worry about your own experiences ?
       **/    
 
 
