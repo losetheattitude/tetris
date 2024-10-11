@@ -4468,6 +4468,9 @@ int main()
      * Are you still asking for lies ? Before than that, TELL ME THE EXPERIENCE
      * And do not even say "ITSS TOOO LATEE!!!", you know the problem right ? Do you understand the problem ?
      * Do you see the stupid people of the history ? The past you say ? You say you are not begging ?
+     * 
+     * ARE YOU STILL MISTAKING ME FOR YOURSELVES AND HOPING THAT I WILL NOT DO ANYTHING ABOUT THE VERY PEOPLE THAT CAN NOT ACCOUNT
+     * FOR YEARS AND VIOLENCE ?
       **/    
 
 
