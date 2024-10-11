@@ -4268,6 +4268,8 @@ int main()
      * 
      * Waste more time with supposedly "tested or bullshit" test noone is interested other than you because of your interests 
      * Still wasting time on checking others ? When you have 30 years of evidence ? Awww how about the acts of violence ?
+     * 
+     * I DO NOT HAVE ANY TIME FOR DUMB ANIMALS LIKE YOU
       **/    
 
 
