@@ -4130,7 +4130,7 @@ int main()
      * There is no evidence!! please!! eheheh, which part do you think makes more sense to you ?
      * The pattern ? no ? eheheh fun stuff indeed
      * 
-     * You do not see you are playing games that have no benefit to you ?
+     * You do not see you are playing games that have no benefit to you ? Yeahhh, thats the pattern I guess, thats why you inferior
       **/    
 
 
