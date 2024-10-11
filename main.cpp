@@ -4457,6 +4457,8 @@ int main()
      * Havent you learnt anything ?
      * 
      * Now is this the time where you beg like the little animal you are to save yourself from guilt ?
+     * And you also say, Life short!! life short!! life illusion!!! time does not exist!! life simulation!! harm more!! 
+     * 
       **/    
 
 
