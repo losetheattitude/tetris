@@ -4258,6 +4258,7 @@ int main()
      * 
      * You still dare talking ?
      * Disgusting animals of earth you say ? eheheh didnt pass the test!!! eheheh pls pls help lie!! we good!!
+     * Are you just the immature irresponsible kids ?
       **/    
 
 
