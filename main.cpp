@@ -4654,6 +4654,8 @@ int main()
      * Do you think it makes sense to say "ITS YOUR TIME!!!!" after 30 years ? Ignorant people indeed
      * You can not use your brain ? is that why you ignore ?
      * 
+     * USE YOUR BRAIN BETTER NEXT TIME, AND USE IT TO GREATER GOOD AND ONLY FOR YOUR OWN LIFE
+     * 
       **/    
 
 
