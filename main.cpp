@@ -4573,6 +4573,8 @@ int main()
      * 
      * Do you want to talk about coercion and years of evidence that proves it ?
      * Now talk about the violence and how religious you are ?
+     * 
+     * DO YOU WANT TO TALK ABOUT THE PAST, AND TELL EVERYONE ? Awwwwwww, you say be silent!! please!! be silent!!!
       **/    
 
 
