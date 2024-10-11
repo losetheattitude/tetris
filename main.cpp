@@ -4150,6 +4150,7 @@ int main()
      * Get the fuck out of my face
      * 
      * Do you see the delusion ? But you already know that is not called delusion rather its intentional harm ?
+     * You still offer resources but there is no evidence to them ?
       **/    
 
 
