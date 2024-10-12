@@ -4894,6 +4894,9 @@ int main()
      * Are you still offering women when I know what kind of animal you are ? From the very beginning ?
      * You know what kind of animal you are ? Standing here, saying, "you could leave!!" as if its entirely okay ? eheheh
      * its just okay, why not, we do some harm and we forget about it, time a illusion already ?
+     * 
+     * Now talk about the actions that you somehow brag within your disgusting circle when there are people around ?
+     * Whats the problem ? Do you see the pattern now ? Which side do you think the kind of people like you belong ?
       **/    
 
 
