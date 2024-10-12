@@ -4952,6 +4952,7 @@ int main()
      * I am sure you have no idea, life short 
      * 
      * ehehehe, we after the same stupid narrative even after 30 years eheheheh fun stuff, get money get cars!! pls lie!
+     * no resources, you can not go out! get money! get cars!! pls lie ?
       **/    
 
 
