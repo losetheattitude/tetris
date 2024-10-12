@@ -5021,6 +5021,7 @@ int main()
      * 
      * And you are still offering women ? Do you even know what life is ?
      * But you see what stupid animals cause right ? Do you see now why you are stupid ?
+     * How about you talk some college time ?
       **/    
 
 
