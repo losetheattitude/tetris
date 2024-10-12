@@ -4970,6 +4970,8 @@ int main()
      * 
      * ehehehe, no resources btw, ehhe now we have to act like proper humanbeings you say ?
      * Who were you btw ?
+     * But do you see why you should not make decisions ? Because you are still the same spoiled animal who does not care about others' experiences ?
+     * and still delude with untruthful approaches but also would love to harm
       **/    
 
 
