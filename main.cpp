@@ -4740,7 +4740,8 @@ int main()
      * When the footages are brought to you, and you are reminded to your irrelevant random noises that you made BACK THEN, that you avoid like the animal you are,
      * What do you have to say ?
      * 
-     * Do you think I care ?
+     * Do you think I care ? Thats the pattern I am telling you, I have seen so many animals just like you that disgustingly rife everywhere
+     * You are the problem ehehehe
      * 
       **/    
 
