@@ -4803,7 +4803,7 @@ int main()
      * So just try to tell everyone about your great nationality ? And you just decided to sacrifice someone 
      * using your brain ONLY FOR YOURSELF or its completely something else you say ?
      * 
-     * You dare calling it fate ?
+     * You dare calling it fate ? Are you still accusing ?
      * 
       **/    
 
