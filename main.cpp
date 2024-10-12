@@ -4826,6 +4826,8 @@ int main()
      * Are you enjoying your experiences ?
      * Do you want to talk about the college time ?
      * Are you still offering ?
+     * Are you still offering the same things ? Wawww, you guys are great ?
+     * The religious people ? The great religious people ?
      * 
      * 
      * 
