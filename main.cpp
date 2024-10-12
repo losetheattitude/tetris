@@ -4949,7 +4949,7 @@ int main()
      * get women get women!! get women!! eheheh 
      * 
      * thats why you are getting the "insults" that you truly deserve, and thats why I do not want to be around such detrimental people
-     * I am sure you have no idea
+     * I am sure you have no idea, life short 
       **/    
 
 
