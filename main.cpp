@@ -4715,6 +4715,9 @@ int main()
      * And what were you saying ? "You are building" ? So that you do not see people who are enjoying their life ?
      * Do you now see the ignorance ?
      * 
+     * Do you even have the slighest honor or courage to allege all that to my face or just present some violence when there are people around ?
+     * You are the inferior who will reduce to COPS!!!
+     * 
       **/    
 
 
