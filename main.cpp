@@ -4924,7 +4924,7 @@ int main()
      * The greatest who lies to literally cause irretrievable harm to those who they do not know ? Even if they are 5 months babies,
      * So are you the one who is still also begging and advicing people that they get education ?
      * 
-     * Your actions determines who you are
+     * Your actions determines who you are, do you want to talk about the past ? or time ? or brag about your knowledge on life ?
       **/    
 
 
