@@ -4804,6 +4804,7 @@ int main()
      * using your brain ONLY FOR YOURSELF or its completely something else you say ?
      * 
      * You dare calling it fate ? Are you still accusing ?
+     * But you also say you are building ?
      * 
       **/    
 
