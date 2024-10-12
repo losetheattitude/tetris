@@ -4991,7 +4991,7 @@ int main()
      * Luckily though, I still remember what is for you the "past", which you avoid like the little animal you are
      * You know what it is called but you would rather guise with stupid excuses despite the years of "evidence" as your really reasonable minds can not "comprehend"
      * Mature indeed, especially "fate!!", "life!!, "illusion", "simulation"
-     * and especially the "violence!!!"
+     * and especially the "violence!!!", ehehe education does not work for some reason ?
      * 
       **/    
 
