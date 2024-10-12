@@ -4740,6 +4740,8 @@ int main()
      * When the footages are brought to you, and you are reminded to your irrelevant random noises that you made BACK THEN, that you avoid like the animal you are,
      * What do you have to say ?
      * 
+     * Do you think I care ?
+     * 
       **/    
 
 
