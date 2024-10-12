@@ -4704,6 +4704,9 @@ int main()
      * 
      * But do you see where you are going wrong ? Do you see your incompetency at even hiding your inferiority and thus actions of such quality ?
      * Ignorance is precisely the quality that you are demonstrating while being incompetent at hiding it ?
+     * Anyways though, you would rather ignore, better use your brain next time and do not cause "entropy" like the little animal you are who pretends to understand
+     * 
+     * Time!!! time does not exist!! eheheh life illusion, simulation, its too late, please !!
      * 
       **/    
 
