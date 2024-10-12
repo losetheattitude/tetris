@@ -4988,6 +4988,8 @@ int main()
      * Awwww, thats why you can not deal with truth and start making up excuses as I can tell from all the EXPERIENCE that I had with the little animals like you
      * 
      * The little animals who take a few days of stupid game coercion over years of evidence. Ehehe fun though right ?
+     * Luckily though, I still remember what is for you the "past", which you avoid like the little animal you are
+     * 
       **/    
 
 
