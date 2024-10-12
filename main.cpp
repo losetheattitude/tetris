@@ -4978,6 +4978,7 @@ int main()
      * So you still coerce medicine also ?
      * Do you also remember the last time you said "REVENGE!!!"
      * So you still delude on your "deserving" behavior you can not account for ?
+     * And you offer women ?
       **/    
 
 
