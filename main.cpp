@@ -4847,6 +4847,7 @@ int main()
      * 
      * So you have used your immaculate brain ONLY FOR YOUR OWN INTERESTS WITHIN THE BOUNDARIES OF YOUR LIFE, and decided to harm someone else ?
      * And now you are asking for lies ?
+     * Awwww, you get money!!!! and now you are still begging ? but also would like others to lie for you ?
       **/    
 
 
