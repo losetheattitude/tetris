@@ -4980,6 +4980,7 @@ int main()
      * So you still delude on your "deserving" behavior you can not account for ?
      * And you offer women ?
      * Do you see the problem of disgusting people ?
+     * Eehhehe this is the game! this is the game! pls lie! lie lie
       **/    
 
 
