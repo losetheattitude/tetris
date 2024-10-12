@@ -5016,6 +5016,8 @@ int main()
      * 
      * And you did all these with which precept ? And you still do not beg for harm ?
      * ANd while you were doing what you wanted ? You also somehow thought that its for best ?
+     * And you still offer cars and women as you have always done ? Which part of your inferior understanding is failing to see that 
+     * you are no "human" or "good" ?
       **/    
 
 
