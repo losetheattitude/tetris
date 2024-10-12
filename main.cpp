@@ -5008,7 +5008,7 @@ int main()
      * 
      * What do you offer now ? WOMEENNNNNN!!!!!!! Do you see your animality ? Heyyyy, why dont you have some women!!!!!!
      * Now what are you offering ? How about some coercion of your disgustingly inferior low nature ?
-     * And you offer what now ? 
+     * And you offer what now ? YOU SAID, NO RESOURCES!!! and what did you end up gaining now ?
       **/    
 
 
