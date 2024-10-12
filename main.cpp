@@ -4768,6 +4768,8 @@ int main()
      * Thats the pattern I am telling you, you are afraid animals who are rife in every society but hey!! you are doing good against one individual without no protection!!!
      * You see the delusion ? Btw ?
      * 
+     * Where is your great behavior now ?
+     * 
       **/    
 
 
