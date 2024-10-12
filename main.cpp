@@ -5004,7 +5004,7 @@ int main()
      * Just like the simple animals that are rife in the history
      * 
      * So you are still the ones who are after personal "REVENGE", see the difference ? And you call that intelligence ? So that you can hide your "great intentions" ?
-     * What happened now ?
+     * What happened now ? Also try to explain your "PERSONAL REVENGE" and no resources and violence while you are claiming that you are educating. What did you receive now ?
       **/    
 
 
