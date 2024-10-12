@@ -4983,6 +4983,8 @@ int main()
      * Eehhehe this is the game! this is the game! pls lie! lie lie
      * eheheh go have some women, you also say, do you see the problem ?
      * You say "its too late!!!"
+     * 
+     * Ehehehe its education, although there is no reason, we just like to make up reasons because we are little animal who can not account for his own behavior
       **/    
 
 
