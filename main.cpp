@@ -4844,6 +4844,9 @@ int main()
      * Awww, you say "forget about the past" BECAUSE ?
      * You demand credibility ? Its toooo lateee you said ? eheheh gone gone!!! we need help, lie lie! do not cross our words!!! 
      * We give medicine!!!! please help!! lie lie so you get women!! ehehe we give medicineeee!! religious people!!! great nation eheheh
+     * 
+     * So you have used your immaculate brain ONLY FOR YOUR OWN INTERESTS WITHIN THE BOUNDARIES OF YOUR LIFE, and decided to harm someone else ?
+     * And now you are asking for lies ?
       **/    
 
 
