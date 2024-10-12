@@ -4867,7 +4867,8 @@ int main()
      * EHEHEHHE pls say you ate it! you ate it!!
      * 
      * It is most funny indeed
-     * Btw do you have more threats ?
+     * Btw do you have more threats ? Take a look at the difference between the animals like you and I, do you think I am afraid or I will remain silent 
+     * or do nothing ?
       **/    
 
 
