@@ -4797,6 +4797,8 @@ int main()
      * wait wait, do you still beg for credibility ? and you call that a game or fair game ?
      * Are you still offering the same things ?
      * 
+     * So you are saying, You have used your brain to sacrifice someone else ? and you call that fate ?
+     * 
       **/    
 
 
