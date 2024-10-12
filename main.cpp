@@ -4748,6 +4748,7 @@ int main()
      * and you dare calling it useless ? Talk about some violence ?
      * 
      * Real men you say ? What are you waiting for ?
+     * Gather more people just as the inferior illogical animal you are
      * 
       **/    
 
