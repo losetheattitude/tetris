@@ -4679,6 +4679,8 @@ int main()
      * Ehehehehe, no resources!!! no going out!!! no education!!! ehehe some violence eheheheh, now suddenly, GET WOMEN!! GET WOMEN!!
      * Are you now capable of realizing or would you rather ignore as that seems to be the only thing that belongs to you ?
      * 
+     * Do you still think, saying a few good things should solve the problem of time ? And you call yourselves not ignorant, you see the problem now
+     * 
       **/    
 
 
