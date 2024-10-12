@@ -4923,6 +4923,8 @@ int main()
      * The greatest of all the time right ?
      * The greatest who lies to literally cause irretrievable harm to those who they do not know ? Even if they are 5 months babies,
      * So are you the one who is still also begging and advicing people that they get education ?
+     * 
+     * Your actions determines who you are
       **/    
 
 
