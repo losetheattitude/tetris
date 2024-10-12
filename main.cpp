@@ -4914,7 +4914,15 @@ int main()
      * 
      * Guess which one are you from amongst the great people and the characters of the history ?
      * You have proven times and times again, which and what sort of animal you are ? Why are you still asking lies and things ?
-     * Are you still begging ?
+     * Are you still begging ? Are you the one who is still taking violence for education ? 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * The greatest of all the time right ?
+     * The greatest who lies to literally cause irretrievable harm to those who they do not know ? Even if they are 5 months babies,
+     * So are you the one who is still also begging and advicing people that they get education ?
       **/    
 
 
