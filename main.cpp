@@ -4773,6 +4773,7 @@ int main()
      * Do what you have to do, great men, thats who you are, bunch of disgusting animals who are fearful
      * 
      * Are you begging still ? Btw ? BTW BTW ?
+     * You first explain the reality that you have formed and random sounds you made, then talk about what to do ?
      * 
       **/    
 
