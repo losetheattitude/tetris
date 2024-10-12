@@ -4830,6 +4830,7 @@ int main()
      * The religious people ? The great religious people ?
      * 
      * Do you want to talk about the past ?
+     * You delude on being tough guys ?
      * 
      * 
      * 
