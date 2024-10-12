@@ -4703,6 +4703,7 @@ int main()
      * As you can guess ? Who could ever want to be around such harmful and stupid animals like you ?
      * 
      * But do you see where you are going wrong ? Do you see your incompetency at even hiding your inferiority and thus actions of such quality ?
+     * Ignorance is precisely the quality that you are demonstrating while being incompetent at hiding it ?
      * 
       **/    
 
