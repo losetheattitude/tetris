@@ -4899,7 +4899,7 @@ int main()
      * Whats the problem ? Do you see the pattern now ? Which side do you think the kind of people like you belong ?
      * 
      * Awwww, you also can not deal with the truth and start harming like an immature child ?
-     * Do you still beg ?
+     * Do you still beg ? Great people of the great nation ? Havent you learnt anything ?
       **/    
 
 
