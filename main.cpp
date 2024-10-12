@@ -5026,6 +5026,8 @@ int main()
      * 
      * So you see why you are an animal right ? Trying to prove people how clever and intelligent you can be while begging people who you harm
      * so that they lie for you ?
+     * 
+     * Talk about the past ? ehehehe please please please, lie and you get women pls!! get cars!!
       **/    
 
 
