@@ -4724,7 +4724,8 @@ int main()
      * But what you see as intelligence is merely a side of animality that is considered as inferior and disgusting ?
      * 
      * 
-     * DO YOU FUCKING SEE THE PROBLEM BRO ?
+     * DO YOU FUCKING SEE THE PROBLEM BRO ? But you see the problem that you are only assuming that life is this or that 
+     * but the reality is you are far from acting how a really wise man "would act" ?
      * 
       **/    
 
