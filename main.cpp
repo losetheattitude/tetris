@@ -4940,6 +4940,7 @@ int main()
      * And you offer what ?
      * 
      * You see the problem if you had what it takes
+     * You still after the same stupid narrative even after years, thats all I need to know about you all
       **/    
 
 
