@@ -5030,6 +5030,7 @@ int main()
      * Talk about the past ? ehehehe please please please, lie and you get women pls!! get cars!!
      * Talk about the time ? illusion!! illusion!!! simulation!!
      * You also said, "NO RESOURCES!!!!"
+     * But why is it that, you are still offering women when I have all the information ?
       **/    
 
 
