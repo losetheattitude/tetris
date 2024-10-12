@@ -4742,6 +4742,9 @@ int main()
      * 
      * Do you think I care ? Thats the pattern I am telling you, I have seen so many animals just like you that disgustingly rife everywhere
      * You are the problem ehehehe
+     * But do you now see the problem ? Do you think you are a good "men" as you would love to delude as well ?
+     * You lack every single attribute for a man, only some violence and disgusting delusions, and those do not make you a man, you are just a begger
+     * Here we are, you are begging again,
      * 
       **/    
 
