@@ -4682,6 +4682,8 @@ int main()
      * Do you still think, saying a few good things should solve the problem of time ? And you call yourselves not ignorant, you see the problem now
      * Just lost and clueless animals who operate on their most basic instincts and harm through such, "ITS TOOO LATEE!!!", eheheh education btw
      * 
+     * But do you really see the problem right ?
+     * 
       **/    
 
 
