@@ -4968,7 +4968,7 @@ int main()
      * you see the delusion ? If we say good things and give him women, he will say yes to everyything!!! including to our disgusting violence and
      * spoiled emotions
      * 
-     * ehehehe, no resources btw
+     * ehehehe, no resources btw, ehhe now we have to act like proper humanbeings you say ?
       **/    
 
 
