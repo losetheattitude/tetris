@@ -4732,6 +4732,8 @@ int main()
      * You see the problem right ? You are taking "life" too lightly because you are not experiencing anything of your disgusting mind's product ?
      * you see it ? Noo, you will probably ignore it as well, Thats the pattern I assure you, You are the ignorant one who harms for the sake of harming
      * 
+     * Why dont you gather more people ?
+     * 
       **/    
 
 
