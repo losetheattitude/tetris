@@ -5046,7 +5046,7 @@ int main()
      * You do not have anything to say ? Other than begging ? Have you realized the "SERIOUSNESS" of the situation ?
      * 
      * Wait wait, I guess you have forgotten ? Or have I forgotten ?
-     * Do you want to talk about the past ?
+     * Do you want to talk about the past ? YOU ARE GOING TO HAVE GOOD TIME!! PLEASE!! DO THIS FOR US!
       **/    
 
 
