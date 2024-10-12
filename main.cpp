@@ -4842,7 +4842,7 @@ int main()
      * 
      * But you still say what ? I am having hard time following ?
      * Awww, you say "forget about the past" BECAUSE ?
-     * You demand credibility ?
+     * You demand credibility ? Its toooo lateee you said ? eheheh gone gone!!! we need help, lie lie! do not cross our words!!! 
       **/    
 
 
