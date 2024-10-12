@@ -4950,6 +4950,8 @@ int main()
      * 
      * thats why you are getting the "insults" that you truly deserve, and thats why I do not want to be around such detrimental people
      * I am sure you have no idea, life short 
+     * 
+     * ehehehe, we after the same stupid narrative even after 30 years eheheheh fun stuff, get money get cars!! pls lie!
       **/    
 
 
