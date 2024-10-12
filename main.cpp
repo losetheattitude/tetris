@@ -4737,6 +4737,8 @@ int main()
      * 
      * But wait wait, when you are being shown to the evidences of the "PAST" that you avoid like the animal you are
      * What do you have to say ? eheheh please please, have women!! help us!! have women!!
+     * When the footages are brought to you, and you are reminded to your irrelevant random noises that you made BACK THEN, that you avoid like the animal you are,
+     * What do you have to say ?
      * 
       **/    
 
