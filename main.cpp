@@ -4772,6 +4772,8 @@ int main()
      * You still claim you a great nation ? great religion ? great men ? you still offer women as you have so far ?
      * Do what you have to do, great men, thats who you are, bunch of disgusting animals who are fearful
      * 
+     * Are you begging still ? Btw ? BTW BTW ?
+     * 
       **/    
 
 
