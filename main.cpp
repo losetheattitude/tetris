@@ -4758,6 +4758,8 @@ int main()
      * Do you see the problem ? Why are you still in the position of begging ? While I remember the every single detail ? From the very beginning ?
      * And you still do what ?
      * 
+     * How about you do not hide and GATHER PEOPLE AROUND AGAINST ONE INDIVIDUAL, and brag about your nonexistent qualities ?
+     * 
       **/    
 
 
