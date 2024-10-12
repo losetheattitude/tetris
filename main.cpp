@@ -4840,6 +4840,7 @@ int main()
      * Hmmmmm, scary stuff indeed, Heyy "YOU CAN NOT DO THAT!!!" Because you have to listen to us!! we need our experiences!!
      * ehehe, say what we say to you!! eheheh good and intelligent and helpful and nonharmful people ? Is that you ?
      * 
+     * But you still say what ? I am having hard time following ?
      * 
       **/    
 
