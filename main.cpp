@@ -4831,6 +4831,8 @@ int main()
      * 
      * Do you want to talk about the past ?
      * You delude on being tough guys ?
+     * You still delude on being tough guys ?
+     * and you still offer as your disgusting inferior nature allows you to ?
      * 
      * 
      * 
