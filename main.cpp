@@ -4993,7 +4993,7 @@ int main()
      * Mature indeed, especially "fate!!", "life!!, "illusion", "simulation"
      * and especially the "violence!!!", ehehe education does not work for some reason ?
      * 
-     * Money over everything!!! we understand life!!
+     * Money over everything!!! we understand life!! mature indeed, talk some college and childhood, and violence and coercion, then worry about your virtues dumb monkeys
      * 
       **/    
 
