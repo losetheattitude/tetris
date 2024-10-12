@@ -4927,6 +4927,8 @@ int main()
      * Your actions determines who you are, do you want to talk about the past ? or time ? or brag about your knowledge on life ?
      * DO YOU WANT TO TALK ABOUT THE PAST ? AND THE TIME ? OR WOULD YOU LIKE TO MAKE MORE OFFERS ?
      * OR WOULD YOU LIKE TO BRAG ABOUT YOUR GREAT ABILITIES ?
+     * 
+     * Are you still offering women ?
       **/    
 
 
