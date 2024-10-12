@@ -4972,6 +4972,8 @@ int main()
      * Who were you btw ?
      * But do you see why you should not make decisions ? Because you are still the same spoiled animal who does not care about others' experiences ?
      * and still delude with untruthful approaches but also would love to harm
+     * 
+     * I do not want to see any of you around me
       **/    
 
 
