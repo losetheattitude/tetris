@@ -4760,6 +4760,7 @@ int main()
      * 
      * How about you do not hide and GATHER PEOPLE AROUND AGAINST ONE INDIVIDUAL, and brag about your nonexistent qualities ?
      * Do you even remember your behavior when you were under threat ? And now look at you ?
+     * Are you still deluding ?
      * 
       **/    
 
