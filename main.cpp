@@ -4680,6 +4680,7 @@ int main()
      * Are you now capable of realizing or would you rather ignore as that seems to be the only thing that belongs to you ?
      * 
      * Do you still think, saying a few good things should solve the problem of time ? And you call yourselves not ignorant, you see the problem now
+     * Just lost and clueless animals who operate on their most basic instincts and harm through such, "ITS TOOO LATEE!!!", eheheh education btw
      * 
       **/    
 
