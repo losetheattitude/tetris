@@ -4967,6 +4967,8 @@ int main()
      * because we are spoiled! eheheheheh pls lie
      * you see the delusion ? If we say good things and give him women, he will say yes to everyything!!! including to our disgusting violence and
      * spoiled emotions
+     * 
+     * ehehehe, no resources btw
       **/    
 
 
