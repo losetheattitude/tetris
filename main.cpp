@@ -5023,6 +5023,9 @@ int main()
      * But you see what stupid animals cause right ? Do you see now why you are stupid ?
      * How about you talk some college time ? But do you now see that you are an animal right ? you say what ? fate ? 
      * ehehe you say, "YOU CAN NOT GO OUTSIDE!!", "NO RESOURCES!!!" ? You think I have forgotten ?
+     * 
+     * So you see why you are an animal right ? Trying to prove people how clever and intelligent you can be while begging people who you harm
+     * so that they lie for you ?
       **/    
 
 
