@@ -4976,6 +4976,7 @@ int main()
      * I do not want to see any of you around me, do you understand the boundaries ?
      * Do you understand the time ? aww you just think you should be right and thats it 
      * So you still coerce medicine also ?
+     * Do you also remember the last time you said "REVENGE!!!"
       **/    
 
 
