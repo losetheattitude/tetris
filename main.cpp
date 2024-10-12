@@ -4997,6 +4997,7 @@ int main()
      * No resources ehehehe btw, college eeheheh btw, no money eheheh btw, violence btw heheheh ? 
      * 
      * TALK ABOUT THE PAST EXPERIENCES, some violence etc
+     * But you see why there are "WARS", have a look at the mirror dumb animals
       **/    
 
 
