@@ -4721,6 +4721,7 @@ int main()
      * 
      * But do you see the problem right ? When you are being told what you have caused, you suddenly
      * start begging with the very same things that you have in the past ? and you have see no issue ? DO YOU SEE THE PROBLEM ?
+     * But what you see as intelligence is merely a side of animality that is considered as inferior and disgusting ?
      * 
       **/    
 
