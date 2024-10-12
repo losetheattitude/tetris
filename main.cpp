@@ -4792,6 +4792,8 @@ int main()
      * Sacrifice your own lives, aww you would rather beg for random noises ? and brag about your competency afterwards ?
      * You would rather call it a game ? its most funny, sacrifice YOUR OWN
      * 
+     * Are you still the same animal who offers things ?
+     * 
       **/    
 
 
