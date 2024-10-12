@@ -4928,7 +4928,7 @@ int main()
      * DO YOU WANT TO TALK ABOUT THE PAST ? AND THE TIME ? OR WOULD YOU LIKE TO MAKE MORE OFFERS ?
      * OR WOULD YOU LIKE TO BRAG ABOUT YOUR GREAT ABILITIES ?
      * 
-     * Are you still offering women ?
+     * Are you still offering women ? Do you still think "You should make decisions" ?
       **/    
 
 
