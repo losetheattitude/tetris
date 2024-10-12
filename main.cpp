@@ -4945,7 +4945,8 @@ int main()
      * GET THE FUCK OUT OF MY FACE is what it all means
      * 
      * Are you still the same dumb animal who keeps offering women ?
-     * Thats the sole problem in your disunderstandingi clueless lost monkeys
+     * Thats the sole problem in your disunderstanding, clueless lost monkeys
+     * get women get women!! get women!! eheheh 
       **/    
 
 
