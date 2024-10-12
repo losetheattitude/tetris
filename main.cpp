@@ -4862,6 +4862,8 @@ int main()
      * So, good luck on living your harmful stupid lives
      * I am sure you know what you are doing
      * As you know in assuming that someone would be grateful to have some car!!!! some women!!!! and start living his life
+     * When the most important times are wasted by the very animals like you
+     * Thats the pattern make no mistake
       **/    
 
 
