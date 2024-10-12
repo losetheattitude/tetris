@@ -4942,6 +4942,7 @@ int main()
      * You see the problem if you had what it takes
      * You still after the same stupid narrative even after years, thats all I need to know about you all
      * and also some selfishness and immaturity with a little inferiority and as a plus ignorancy
+     * GET THE FUCK OUT OF MY FACE is what it all means
       **/    
 
 
