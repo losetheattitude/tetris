@@ -4878,6 +4878,8 @@ int main()
      * so you offer the same ? but nobody knows ?? eheheh 
      * 
      * You say what ? shhhh be silent!!! 
+     * Are you offering women still ? Awwww, the last minute, bring girls! bring girls in, so that we can appear like we are honorable
+     * and good nation ?
       **/    
 
 
