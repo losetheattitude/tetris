@@ -5011,6 +5011,7 @@ int main()
      * And you offer what now ? YOU SAID, NO RESOURCES!!! and what did you end up gaining now ?
      * 
      * And you still ALLEGE THAT you were there and watching while the time has long gone with countless inexplicable actions were being committed ?
+     * And you ask for what ?
       **/    
 
 
