@@ -4728,6 +4728,7 @@ int main()
      * but the reality is you are far from acting how a really wise man "would act" ?
      * 
      * Still wasting time ? eheh while "NO RESOURCES!!" because you are afraid ? 
+     * And you are still saying "WE ARE BUILDING" ?
      * 
       **/    
 
