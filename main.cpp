@@ -4850,7 +4850,7 @@ int main()
      * Awwww, you get money!!!! and now you are still begging ? but also would like others to lie for you ?
      * 
      * You call it nostalgia still ? a few years ago is nostalgia ehehehe ?
-     * Are you still deluding ?
+     * Are you still deluding ? eheheh you would hate talking about EVERY LITTLE THING THAT YOU DID VOLUNTARILY ? Is that what you are saying ?
       **/    
 
 
