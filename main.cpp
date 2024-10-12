@@ -4695,6 +4695,8 @@ int main()
      * 
      * Do you see the problem ? Do you see the difference ? and rightfully so, I HAVE NO INTENTION TO EVEN WASTE A SECOND WITH DUMB PEOPLE 
      * AS I ENCOUNTER EVERYWHERE IN THE DAILY LIFE, make no mistake, you are just like them, completely same drives, so whats the pattern ?
+     * And surprisingly, you offer what you would like to ? Commit!!! womeen!!! cars!!! but nobody can ever say anything about it so far ?
+     * Is that the intelligence or animality or immaturity or discredibility or "VIOLENCE" ? What do you say ?
      * 
       **/    
 
