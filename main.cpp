@@ -4762,6 +4762,8 @@ int main()
      * Do you even remember your behavior when you were under threat ? And now look at you ?
      * Are you still deluding ?
      * 
+     * Do you even remember your behavior back then ? Awwww, you are a child thats why we are not doing anything to you ? But yessss, we have to ?
+     * 
       **/    
 
 
