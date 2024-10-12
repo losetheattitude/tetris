@@ -5041,6 +5041,8 @@ int main()
      * 
      * Are you still offering women ? And claiming that you understand life ?
      * Just talk about the previous offers you have made ? ehehehe please please, get women get women
+     * 
+     * Ehehehehe, please please, we love our experiences pls, but you have to suffer!!!!! COMPETENCY!!! that means you are uneducated as hell
       **/    
 
 
