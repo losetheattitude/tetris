@@ -4857,6 +4857,8 @@ int main()
      * Hey!! do this! say this! drink this! get medicine! lay down!! lie !! lie!!
      * ehehe get women! get women!! lie pls!! we tryna help you ?
      * and you allege you use your brain ? Look at you, stupid monkeys
+     * 
+     * I have no intention to waste my time with the so far proved to be the disgusting monkeys that they are with all sorts of stupid excuses
       **/    
 
 
