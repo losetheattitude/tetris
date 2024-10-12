@@ -4961,6 +4961,7 @@ int main()
      * I do not want to see any animal like you
      * But you see the problem right ? You think you should make decisions for others using your superior brain as an animal
      * And all you can say, "ITSS TOOO LATEEE!!!!!", get women pls!! we credible people
+     * so you still delude also on your "deserving", mhhhhh that seems like to be the selfish and spoiled kid who think he should do everything ?
       **/    
 
 
