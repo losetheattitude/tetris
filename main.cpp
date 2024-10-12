@@ -5018,6 +5018,8 @@ int main()
      * ANd while you were doing what you wanted ? You also somehow thought that its for best ?
      * And you still offer cars and women as you have always done ? Which part of your inferior understanding is failing to see that 
      * you are no "human" or "good" ?
+     * 
+     * And you are still offering women ? Do you even know what life is ?
       **/    
 
 
