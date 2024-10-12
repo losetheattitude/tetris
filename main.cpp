@@ -4829,6 +4829,8 @@ int main()
      * Are you still offering the same things ? Wawww, you guys are great ?
      * The religious people ? The great religious people ?
      * 
+     * Do you want to talk about the past ?
+     * 
      * 
      * 
       **/    
