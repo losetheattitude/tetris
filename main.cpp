@@ -4790,6 +4790,7 @@ int main()
      * I DO NOT RECOGNIZE ANY OF YOU REGARDLESS OF YOUR DELUSIONAL TITLES, such as family or cop or religion
      * 
      * Sacrifice your own lives, aww you would rather beg for random noises ? and brag about your competency afterwards ?
+     * You would rather call it a game ? its most funny, sacrifice YOUR OWN
      * 
       **/    
 
