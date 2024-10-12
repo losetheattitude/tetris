@@ -4889,6 +4889,9 @@ int main()
      * Do you follow ? I DO NOT WANT NO SIMPLE DISGUSTING ANIMALS LIKE YOU AROUND ME ?
      * Congrats!!!! you have done the impossible against one individual!!! and now, what do you think is the next for you ?
      * Awwwwww, heyy!!!! last day, bring girls eehheh so we look like honorable, trustworthy you say ?
+     * 
+     * According to you, everything could be okay right ? How about you receive same education ? eheheh funny stuff right ?
+     * Are you still offering women when I know what kind of animal you are ? From the very beginning ?
       **/    
 
 
