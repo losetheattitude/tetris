@@ -4710,6 +4710,7 @@ int main()
      * Thats the type I assure you, I have seen enough of you and the alikes
      * 
      * You entirely fit the description, eheheh really funny though, What a shame 
+     * But you still say what ? get women get cars get resources ?
      * 
       **/    
 
