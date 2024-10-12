@@ -4959,6 +4959,7 @@ int main()
      * fucking delusional from the very beginning until the end, and you still compare I with your inferior approaches ?
      * 
      * I do not want to see any animal like you
+     * But you see the problem right ? You think you should make decisions for others using your superior brain as an animal
       **/    
 
 
