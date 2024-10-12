@@ -4800,6 +4800,9 @@ int main()
      * So you are saying, You have used your brain to sacrifice someone else ? and you call that fate ?
      * And you still coerce with violence ? Do you think I will bend just like you who is a disgusting animal ?
      * 
+     * So just try to tell everyone about your great nationality ? And you just decided to sacrifice someone 
+     * using your brain ONLY FOR YOURSELF or its completely something else you say ?
+     * 
       **/    
 
 
