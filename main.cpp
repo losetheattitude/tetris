@@ -4956,6 +4956,7 @@ int main()
      * we nation, we intelligent, we achieve, great ppl etc ,pls lie btw pls lie lie
      * 
      * no no, do not talk about experiences, we only care ours! we generous eheheh
+     * fucking delusional from the very beginning until the end, and you still compare I with your inferior approaches ?
       **/    
 
 
