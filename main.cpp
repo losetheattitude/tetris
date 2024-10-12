@@ -4943,6 +4943,9 @@ int main()
      * You still after the same stupid narrative even after years, thats all I need to know about you all
      * and also some selfishness and immaturity with a little inferiority and as a plus ignorancy
      * GET THE FUCK OUT OF MY FACE is what it all means
+     * 
+     * Are you still the same dumb animal who keeps offering women ?
+     * Thats the sole problem in your disunderstanding
       **/    
 
 
