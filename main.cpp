@@ -4859,6 +4859,7 @@ int main()
      * and you allege you use your brain ? Look at you, stupid monkeys
      * 
      * I have no intention to waste my time with the so far proved to be the disgusting monkeys that they are with all sorts of stupid excuses
+     * So, good luck on living your harmful stupid lives
       **/    
 
 
