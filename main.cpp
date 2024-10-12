@@ -4999,6 +4999,8 @@ int main()
      * TALK ABOUT THE PAST EXPERIENCES, some violence etc
      * But you see why there are "WARS", have a look at the mirror dumb animals
      * Now, what did you achieve ?
+     * 
+     * You have achieved your disgusting animality while nobody has gained anything other than hatred ? Is that what you are ? 
       **/    
 
 
