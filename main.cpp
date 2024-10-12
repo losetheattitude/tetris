@@ -5044,6 +5044,8 @@ int main()
      * 
      * Ehehehehe, please please, we love our experiences pls, but you have to suffer!!!!! COMPETENCY!!! that means you are uneducated as hell
      * You do not have anything to say ? Other than begging ? Have you realized the "SERIOUSNESS" of the situation ?
+     * 
+     * Wait wait, I guess you have forgotten ? Or have I forgotten ?
       **/    
 
 
