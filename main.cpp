@@ -4833,6 +4833,7 @@ int main()
      * You delude on being tough guys ?
      * You still delude on being tough guys ?
      * and you still offer as your disgusting inferior nature allows you to ?
+     * Fake tough guys you say ? How about you talk your conduct ?
      * 
      * 
      * 
