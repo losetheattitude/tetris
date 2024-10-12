@@ -4817,6 +4817,8 @@ int main()
      * You offer cars ? Religious people where are your religion ? Good nation where are you goodness ? eheheheh
      * I laughed as much as anyone can at his own situation right ? What a shame you are a group of lost begger animals
      * 
+     * You do not remember, religious people ?
+     * 
       **/    
 
 
