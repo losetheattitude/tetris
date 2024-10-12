@@ -4727,7 +4727,7 @@ int main()
      * DO YOU FUCKING SEE THE PROBLEM BRO ? But you see the problem that you are only assuming that life is this or that 
      * but the reality is you are far from acting how a really wise man "would act" ?
      * 
-     * Still wasting time ?
+     * Still wasting time ? eheh while "NO RESOURCES!!" because you are afraid ? 
      * 
       **/    
 
