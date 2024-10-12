@@ -4770,6 +4770,7 @@ int main()
      * 
      * Where is your great behavior now ?
      * You still claim you a great nation ? great religion ? great men ? you still offer women as you have so far ?
+     * Do what you have to do, great men
      * 
       **/    
 
