@@ -4733,6 +4733,7 @@ int main()
      * you see it ? Noo, you will probably ignore it as well, Thats the pattern I assure you, You are the ignorant one who harms for the sake of harming
      * 
      * Why dont you gather more people ? Just like the inferior disgusting animal you are ?
+     * Are you still offering women ? As you have done so ?
      * 
       **/    
 
