@@ -4723,6 +4723,9 @@ int main()
      * start begging with the very same things that you have in the past ? and you have see no issue ? DO YOU SEE THE PROBLEM ?
      * But what you see as intelligence is merely a side of animality that is considered as inferior and disgusting ?
      * 
+     * 
+     * DO YOU FUCKING SEE THE PROBLEM BRO ?
+     * 
       **/    
 
 
