@@ -5035,6 +5035,8 @@ int main()
      * 
      * You just want to get rid off paying a price while you advice others to waste 30 years ? What are you saying ?
      * Good nation ? Good religion ?
+     * 
+     * Please please, we have offered so much until now, why dont you trust in us ?
       **/    
 
 
