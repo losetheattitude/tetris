@@ -4885,6 +4885,8 @@ int main()
      * Awwww, last minute bring girls!!! so that we can provide it as proof you say ? So whats the pattern ? You provide fake proofs ?
      * And waste 30 years ? and some violence ? awww, and you also say, NO RESOURCES!! ?
      * And you dare say, "forgiving" ? Who is forgiving who ?
+     * 
+     * Do you follow ? I DO NOT WANT NO SIMPLE DISGUSTING ANIMALS LIKE YOU AROUND ME ?
       **/    
 
 
