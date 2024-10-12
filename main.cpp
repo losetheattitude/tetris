@@ -4937,6 +4937,7 @@ int main()
      * Still begging silence ? and you would love to see it as "superior" because you threaten ?
      * 
      * Despite the "experience", you still threaten with violence and call it education ? as you did harmed back then as well ?
+     * And you offer what ?
       **/    
 
 
