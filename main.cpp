@@ -4811,6 +4811,8 @@ int main()
      * You had how much time ? but you have decided to not only harm but also "NO RESOURCES" while begging to me ?
      * I am sure you do not remember right ? Great nation ?
      * 
+     * How about you include me in your fake conversations ? You do not have the courage to right ? You would rather beg with threats ? Do you think I care ?
+     * 
       **/    
 
 
