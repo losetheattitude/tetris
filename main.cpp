@@ -4996,7 +4996,7 @@ int main()
      * Money over everything!!! we understand life!! mature indeed, talk some college and childhood, and violence and coercion, then worry about your virtues dumb monkeys
      * No resources ehehehe btw, college eeheheh btw, no money eheheh btw, violence btw heheheh ? 
      * 
-     * TALK ABOUT THE PAST EXPERIENCES
+     * TALK ABOUT THE PAST EXPERIENCES, some violence etc
       **/    
 
 
