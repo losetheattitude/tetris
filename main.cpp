@@ -4841,7 +4841,7 @@ int main()
      * ehehe, say what we say to you!! eheheh good and intelligent and helpful and nonharmful people ? Is that you ?
      * 
      * But you still say what ? I am having hard time following ?
-     * 
+     * Awww, you say "forget about the past" BECAUSE ?
       **/    
 
 
