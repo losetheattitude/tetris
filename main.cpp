@@ -4962,6 +4962,9 @@ int main()
      * But you see the problem right ? You think you should make decisions for others using your superior brain as an animal
      * And all you can say, "ITSS TOOO LATEEE!!!!!", get women pls!! we credible people
      * so you still delude also on your "deserving", mhhhhh that seems like to be the selfish and spoiled kid who think he should do everything ?
+     * 
+     * You have no qualities but hey its fine, eehehe we just need some help right now!! then you can get back home and do not get outside!! no money!! no resources!!!
+     * because we are spoiled! eheheheheh pls lie
       **/    
 
 
