@@ -4750,6 +4750,8 @@ int main()
      * Real men you say ? What are you waiting for ?
      * Gather more people just as the inferior illogical animal you are
      * 
+     * You get offended because of what ? How about you start talking from the very beginning ? and say that you are still "BUILDING"
+     * 
       **/    
 
 
