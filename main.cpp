@@ -5032,6 +5032,9 @@ int main()
      * You also said, "NO RESOURCES!!!!"
      * But why is it that, you are still offering women when I have all the information ? 
      * Awwww, wait wait, I see, you are just trying to avoid pain while you advice others "simulation!!", "illusion" ?
+     * 
+     * You just want to get rid off paying a price while you advice others to waste 30 years ? What are you saying ?
+     * Good nation ? Good religion ?
       **/    
 
 
