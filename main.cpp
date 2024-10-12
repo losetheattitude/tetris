@@ -4730,6 +4730,7 @@ int main()
      * Still wasting time ? eheh while "NO RESOURCES!!" because you are afraid ? 
      * And you are still saying "WE ARE BUILDING" ?
      * You see the problem right ? You are taking "life" too lightly because you are not experiencing anything of your disgusting mind's product ?
+     * you see it ? Noo, you will probably ignore it as well, Thats the pattern I assure you, You are the ignorant one who harms for the sake of harming
      * 
       **/    
 
