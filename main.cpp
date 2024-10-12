@@ -4682,7 +4682,8 @@ int main()
      * Do you still think, saying a few good things should solve the problem of time ? And you call yourselves not ignorant, you see the problem now
      * Just lost and clueless animals who operate on their most basic instincts and harm through such, "ITS TOOO LATEE!!!", eheheh education btw
      * 
-     * But do you really see the problem right ?
+     * But do you really see the problem right ? Your saying "ITSS TOOO LATE!!!" and also harming, is just really poetic, you are the people of the history ?
+     * The actions of which noone would even consider for a second to take them for someone credible yet you still ask for lies and things ?
      * 
       **/    
 
