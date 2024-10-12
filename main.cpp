@@ -4707,6 +4707,7 @@ int main()
      * Anyways though, you would rather ignore, better use your brain next time and do not cause "entropy" like the little animal you are who pretends to understand
      * 
      * Time!!! time does not exist!! eheheh life illusion, simulation, its too late, please !!
+     * Thats the type I assure you, I have seen enough of you and the alikes
      * 
       **/    
 
