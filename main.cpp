@@ -4965,6 +4965,8 @@ int main()
      * 
      * You have no qualities but hey its fine, eehehe we just need some help right now!! then you can get back home and do not get outside!! no money!! no resources!!!
      * because we are spoiled! eheheheheh pls lie
+     * you see the delusion ? If we say good things and give him women, he will say yes to everyything!!! including to our disgusting violence and
+     * spoiled emotions
       **/    
 
 
