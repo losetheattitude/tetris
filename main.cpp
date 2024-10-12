@@ -4904,7 +4904,13 @@ int main()
      * 
      * You still say "BUILDING!!", "WE ARE BUILDING!!!" ?
      * Can you just tell me my experience again ?
-     * And you offer women still ? as you have done so far ? but only when you are in the mood to ? 
+     * And you offer women still ? as you have done so far ? but only when you are in the mood to ?
+     * 
+     * You do not think I remember ? The great people of the great nation of the great world ?
+     * WHY ARE YOU STILL BEGGING ? heyyyy, you are from this land!! you are from this nation ? 
+     * We want to harm you!!! please!! we want to harm you, can you please lie for us ?
+     * When you say "please", do you really believe in your "humanity" ? 
+     * Or are you just a selfish stupid monkey ? Guess which one are you ?
       **/    
 
 
