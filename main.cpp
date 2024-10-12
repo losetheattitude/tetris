@@ -4822,6 +4822,8 @@ int main()
      * Do you remember the great religious people ? You demand credibility and that I lie for you ? How about you talk some past ?
      * You delude you command ?
      * 
+     * Heyy, are you following ? Where are all the random noises you made ? 
+     * 
      * 
      * 
       **/    
