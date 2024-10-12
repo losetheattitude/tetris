@@ -5038,6 +5038,8 @@ int main()
      * 
      * Please please, we have offered so much until now, why dont you trust in us ?
      * Is that why are you begging ?
+     * 
+     * Are you still offering women ? And claiming that you understand life ?
       **/    
 
 
