@@ -4687,6 +4687,15 @@ int main()
      * 
      * And you offer materials still, get cars!!!! get womeen!! we take everyone for our inferior selves you say ?
      * 
+     * But wait, you see the problem right ? Just follow the reasoning:
+     * 
+     * You have now all the evidence of your stupid conduct when it was told to you back then to not "use your stupid basic animal brain"
+     * for the sake of harming someone that you have no relation with, but you still went ahead and ruined the relation and also the time which you have no control over
+     * but you still are the same animal that offers materials ?
+     * 
+     * Do you see the problem ? Do you see the difference ? and rightfully so, I HAVE NO INTENTION TO EVEN WASTE A SECOND WITH DUMB PEOPLE 
+     * AS I ENCOUNTER EVERYWHERE IN THE DAILY LIFE, make no mistake, you are just like them, completely same drives, so whats the pattern ?
+     * 
       **/    
 
 
