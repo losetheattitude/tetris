@@ -4719,6 +4719,9 @@ int main()
      * You are the inferior who will reduce to COPS!!!
      * Is this the same entity who says "its toooo late" ?
      * 
+     * But do you see the problem right ? When you are being told what you have caused, you suddenly
+     * start begging with the very same things that you have in the past ? and you have see no issue ? DO YOU SEE THE PROBLEM ?
+     * 
       **/    
 
 
