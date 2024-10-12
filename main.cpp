@@ -4969,6 +4969,7 @@ int main()
      * spoiled emotions
      * 
      * ehehehe, no resources btw, ehhe now we have to act like proper humanbeings you say ?
+     * Who were you btw ?
       **/    
 
 
