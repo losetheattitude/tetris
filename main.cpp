@@ -4935,6 +4935,8 @@ int main()
      * despite all those years that you avoid speaking of, that already tells me who you are ? 
      * Do you even know who you are ? Let me help you out, tell me my experience so far ?
      * Still begging silence ? and you would love to see it as "superior" because you threaten ?
+     * 
+     * Despite the "experience", you still threaten with violence and call it education ? as you did harmed back then as well ?
       **/    
 
 
