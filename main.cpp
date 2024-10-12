@@ -4853,6 +4853,8 @@ int main()
      * Are you still deluding ? eheheh you would hate talking about EVERY LITTLE THING THAT YOU DID VOLUNTARILY ? Is that what you are saying ?
      * So you still claim that it should be your "choice" to present great violence TO BUILD AN INSURMOUNTABLE ADVERSITY ?
      * And you still insist you use your brain cleverly...
+     * 
+     * Hey!! do this! say this! drink this! get medicine! lay down!! lie !! lie!!
       **/    
 
 
