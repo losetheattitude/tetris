@@ -4752,6 +4752,8 @@ int main()
      * 
      * You get offended because of what ? How about you start talking from the very beginning ? and say that you are still "BUILDING"
      * Talk about the stupid actions that you avoid like the disgusting animal you are ?
+     * Btw, trust us!! btw!! help !! btw!! we build! btw ? we give women btw!! pls!! btw
+     * How about you take a look at the past ?
      * 
       **/    
 
