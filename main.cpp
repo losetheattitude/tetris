@@ -4814,7 +4814,8 @@ int main()
      * How about you include me in your fake conversations ? You do not have the courage to right ? You would rather beg with threats ? Do you think I care ?
      * Why though you are always in the situation of begging ? 
      * 
-     * You offer cars ?
+     * You offer cars ? Religious people where are your religion ? Good nation where are you goodness ? eheheheh
+     * I laughed as much as anyone can at his own situation right ? What a shame you are a group of lost begger animals
      * 
       **/    
 
