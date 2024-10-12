@@ -4897,6 +4897,8 @@ int main()
      * 
      * Now talk about the actions that you somehow brag within your disgusting circle when there are people around ?
      * Whats the problem ? Do you see the pattern now ? Which side do you think the kind of people like you belong ?
+     * 
+     * Awwww, you also can not deal with the truth and start harming like an immature child ?
       **/    
 
 
