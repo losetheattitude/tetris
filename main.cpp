@@ -5040,6 +5040,7 @@ int main()
      * Is that why are you begging ?
      * 
      * Are you still offering women ? And claiming that you understand life ?
+     * Just talk about the previous offers you have made ? ehehehe please please, get women get women
       **/    
 
 
