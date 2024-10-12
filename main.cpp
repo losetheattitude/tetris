@@ -4717,6 +4717,7 @@ int main()
      * 
      * Do you even have the slighest honor or courage to allege all that to my face or just present some violence when there are people around ?
      * You are the inferior who will reduce to COPS!!!
+     * Is this the same entity who says "its toooo late" ?
      * 
       **/    
 
