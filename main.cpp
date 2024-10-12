@@ -4777,6 +4777,8 @@ int main()
      * How about you explain your conduct ? You say no!!!! get women you say ?
      * 
      * Do you understand why though you are an animal right ?
+     * You understand its far from funny or operable or acceptable but you just can not cope with your inferiority and harm ?
+     * You see the problem ?
      * 
       **/    
 
