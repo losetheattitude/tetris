@@ -4874,7 +4874,8 @@ int main()
      * And you say what ? its toooo late!!! get education!! awwww, we good!! please help us lie once more!!
      * 
      * Ehehee you do not care ? eeheheeh funny right ? and you are the one who is taking violence for education ?
-     * Can you talk more about the time ?
+     * Can you talk more about the time ? Do you want to offer more ? because you are after the same disgusting materials 
+     * so you offer the same ? but nobody knows ?? eheheh 
       **/    
 
 
