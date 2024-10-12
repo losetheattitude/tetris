@@ -4985,6 +4985,7 @@ int main()
      * You say "its too late!!!"
      * 
      * Ehehehe its education, although there is no reason, we just like to make up reasons because we are little animal who can not account for his own behavior
+     * Awwww, thats why you can not deal with truth and start making up excuses as I can tell from all the EXPERIENCE that I had with the little animals like you
       **/    
 
 
