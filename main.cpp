@@ -5007,6 +5007,7 @@ int main()
      * What happened now ? Also try to explain your "PERSONAL REVENGE" and no resources and violence while you are claiming that you are educating. What did you receive now ?
      * 
      * What do you offer now ? WOMEENNNNNN!!!!!!! Do you see your animality ? Heyyyy, why dont you have some women!!!!!!
+     * Now what are you offering ?
       **/    
 
 
