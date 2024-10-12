@@ -4925,6 +4925,7 @@ int main()
      * So are you the one who is still also begging and advicing people that they get education ?
      * 
      * Your actions determines who you are, do you want to talk about the past ? or time ? or brag about your knowledge on life ?
+     * DO YOU WANT TO TALK ABOUT THE PAST ? AND THE TIME ? OR WOULD YOU LIKE TO MAKE MORE OFFERS ?
       **/    
 
 
