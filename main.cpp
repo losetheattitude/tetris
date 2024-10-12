@@ -4673,6 +4673,8 @@ int main()
      * who does not understand the "life", only some uncontrollable instincts right ? Thus you act on purely harmful terms to others
      * 
      * But do you see the problem right ? You act on purily harmful terms ? Do you see it bro ?
+     * But do you now realize the concept of "time" ? Awwwwwww, its tooo late!!! we should have used our brains only for our own selfish purposes 
+     * instead of acting on harmful instincts ? You see that right ? You only harmed and felt good about it ?
      * 
       **/    
 
