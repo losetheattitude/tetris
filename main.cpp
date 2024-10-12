@@ -5002,6 +5002,9 @@ int main()
      * 
      * You have achieved your disgusting animality while nobody has gained anything other than hatred ? Is that what you are ? 
      * Just like the simple animals that are rife in the history
+     * 
+     * So you are still the ones who are after personal "REVENGE", see the difference ? And you call that intelligence ? So that you can hide your "great intentions" ?
+     * What happened now ?
       **/    
 
 
