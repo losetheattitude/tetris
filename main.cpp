@@ -4795,6 +4795,7 @@ int main()
      * Are you still the same animal who offers things ?
      * What is the problem ?
      * wait wait, do you still beg for credibility ? and you call that a game or fair game ?
+     * Are you still offering the same things ?
      * 
       **/    
 
