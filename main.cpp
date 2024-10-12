@@ -5015,6 +5015,7 @@ int main()
      * received is also "unattainable" ?
      * 
      * And you did all these with which precept ? And you still do not beg for harm ?
+     * ANd while you were doing what you wanted ? You also somehow thought that its for best ?
       **/    
 
 
