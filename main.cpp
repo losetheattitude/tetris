@@ -4954,6 +4954,8 @@ int main()
      * ehehehe, we after the same stupid narrative even after 30 years eheheheh fun stuff, get money get cars!! pls lie!
      * no resources, you can not go out! get money! get cars!! pls lie ?
      * we nation, we intelligent, we achieve, great ppl etc ,pls lie btw pls lie lie
+     * 
+     * no no, do not talk about experiences, we only care ours! we generous eheheh
       **/    
 
 
