@@ -4851,6 +4851,7 @@ int main()
      * 
      * You call it nostalgia still ? a few years ago is nostalgia ehehehe ?
      * Are you still deluding ? eheheh you would hate talking about EVERY LITTLE THING THAT YOU DID VOLUNTARILY ? Is that what you are saying ?
+     * So you still claim that it should be your "choice" to present great violence TO BUILD AN INSURMOUNTABLE ADVERSITY ?
       **/    
 
 
