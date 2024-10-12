@@ -5001,6 +5001,7 @@ int main()
      * Now, what did you achieve ?
      * 
      * You have achieved your disgusting animality while nobody has gained anything other than hatred ? Is that what you are ? 
+     * Just like the simple animals that are rife in the history
       **/    
 
 
