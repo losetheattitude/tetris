@@ -4931,6 +4931,9 @@ int main()
      * Are you still offering women ? Do you still think "You should make decisions" ?
      * Awwwwww, how about the experience ? Its fate ? I am sure you are right, good ppl etc 
      * 
+     * If you are still the same animal who threatens someone with the same stupid approach
+     * despite all those years that you avoid speaking of, that already tells me who you are ? 
+     * Do you even know who you are ? 
       **/    
 
 
