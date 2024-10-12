@@ -4798,6 +4798,7 @@ int main()
      * Are you still offering the same things ?
      * 
      * So you are saying, You have used your brain to sacrifice someone else ? and you call that fate ?
+     * And you still coerce with violence ? Do you think I will bend just like you who is a disgusting animal ?
      * 
       **/    
 
