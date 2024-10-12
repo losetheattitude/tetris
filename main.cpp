@@ -4676,6 +4676,9 @@ int main()
      * But do you now realize the concept of "time" ? Awwwwwww, its tooo late!!! we should have used our brains only for our own selfish purposes 
      * instead of acting on harmful instincts ? You see that right ? You only harmed and felt good about it ?
      * 
+     * Ehehehehe, no resources!!! no going out!!! no education!!! ehehe some violence eheheheh, now suddenly, GET WOMEN!! GET WOMEN!!
+     * Are you now capable of realizing or would you rather ignore as that seems to be the only thing that belongs to you ?
+     * 
       **/    
 
 
