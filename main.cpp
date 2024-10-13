@@ -5075,6 +5075,7 @@ int main()
      * But you see the failing predictions of your immature nature ? what do you think the problem is then ?
      * But you still allege that you understand life or time ? But you still play games over stupid shit ?
      * And you still hope that I do not remember but also beg for me to be silent ?
+     * Get yourselves the footage of 30 years, that you somehow one day will face, so thats for sure right ?
       **/    
 
 
