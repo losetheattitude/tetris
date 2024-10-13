@@ -5063,7 +5063,7 @@ int main()
      * suffer though
      * Who asked you ?
      * 
-     * Act like its fine, it should be fine
+     * Act like its fine, it should be fine, eheheh time does not exist, just feel okay, we want to enjoy but also time illusion!!!
       **/    
 
 
