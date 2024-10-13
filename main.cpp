@@ -5085,6 +5085,8 @@ int main()
      * While you were the one who was advicing and taking violence for education ? while you arrived to the conclusion through coercion ?
      * And while everytime you were in this position, you begged with offers such as your nature allows, "WOMENN", "CARSS"
      * Here you are again ?
+     * 
+     * When you had all the opportunity of "performing" what you now are alleging that you will ? Are you fucking dumb ?
       **/    
 
 
