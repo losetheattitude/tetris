@@ -5101,6 +5101,8 @@ int main()
      * and expect nothing ? You say you are not inferior and immature and selfish and disgusting animal but you still offer what ?
      * You offer women ? and beg like the little animal you are ? shhhhhhhh please be silent !!!!
      * Talk about the violence and you will see why ?
+     * 
+     * Awwww, you have forgotten that death exists!! and you just want to enjoy your life including harming people ?
       **/    
 
 
