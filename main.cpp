@@ -5078,8 +5078,13 @@ int main()
      * Get yourselves the footage of 30 years, that you somehow one day will face, so thats for sure right ?
      * 
      * But do you see the immaturity right ? still after childish games nobody was down to ?
+     * 
+     * 
      * And you still allege that I do not know what was my experience like ?
      * So you still allege that I do not know the amount of time I wasted indoors and with pointless violence ?
+     * While you were the one who was advicing and taking violence for education ? while you arrived to the conclusion through coercion ?
+     * And while everytime you were in this position, you begged with offers such as your nature allows, "WOMENN", "CARSS"
+     * Here you are again ?
       **/    
 
 
