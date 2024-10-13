@@ -5131,6 +5131,7 @@ int main()
      * Are you still trying to correlate brands with what that individual would choose ?
      * 
      * You dare talking about nations or religion still ?
+     * What do you say ? start from the beginning!!! forget about everything!!
       **/     
 
 
