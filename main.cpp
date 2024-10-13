@@ -5115,6 +5115,7 @@ int main()
      * You do not remember ? eheheh funny stuff right ?
      * 
      * WHAT DID YOU SAY ? Awwww, god forgive!!! ?
+     * You want to talk about time ? or past ? or history ? or religion ?
       **/     
 
 
