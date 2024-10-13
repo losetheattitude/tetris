@@ -5128,6 +5128,7 @@ int main()
      * 
      * You still talk about religion and honor ? The two virtues insignificant people always delude about, ehehe!! fun stuff right ? Are you offering women yet ?
      * The honorable and religious and good people ? ehehehehe 
+     * Are you still trying to correlate brands with what that individual would choose ?
       **/     
 
 
