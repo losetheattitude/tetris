@@ -5125,6 +5125,8 @@ int main()
      * Just the most simple question yet you know you are wrong ? Do you see the problem ?
      * You have proved for too many times that you do not deserve to be treated the way you want I guess
      * That means you have lost the opportunity by voluntary actions, and there is no kidding for that by "vile" pretendings so
+     * 
+     * You still talk about religion and honor ? The two virtues insignificant people always delude about, ehehe!! fun stuff right ? Are you offering women yet ?
       **/     
 
 
