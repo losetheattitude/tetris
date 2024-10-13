@@ -5103,6 +5103,7 @@ int main()
      * Talk about the violence and you will see why ?
      * 
      * Awwww, you have forgotten that death exists!! and you just want to enjoy your life including harming people ?
+     * That is the only "conclusion" that anyone can draw ?
       **/    
 
 
