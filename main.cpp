@@ -5116,6 +5116,8 @@ int main()
      * 
      * WHAT DID YOU SAY ? Awwww, god forgive!!! ?
      * You want to talk about time ? or past ? or history ? or religion ?
+     * You do not have anything else to with your lives other than cause hatred ?
+     * and offer women to substitute entire experiences with a few minutes of physical one ?
       **/     
 
 
