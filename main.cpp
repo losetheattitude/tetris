@@ -5133,6 +5133,7 @@ int main()
      * You dare talking about nations or religion still ?
      * What do you say ? start from the beginning!!! forget about everything!!
      * Are you still offering women ? after years ? eheh honor!!! virtue!!! delusion!! pls do not mention!! pls lie!! 
+     * life short!! life simulation! time illusion!! I said I remember everything you still say "YOU DID IT!!!!"
       **/     
 
 
