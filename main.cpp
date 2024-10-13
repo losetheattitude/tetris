@@ -5065,6 +5065,7 @@ int main()
      * 
      * Act like its fine, it should be fine, eheheh time does not exist, just feel okay, we want to enjoy but also time illusion!!!
      * So you still delude on my being scared and you also count on that it should be fine ?
+     * Thats the reason you should and probably will suffer ? You see the problem right ? Its most basic reasoning
       **/    
 
 
