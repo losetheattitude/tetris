@@ -5099,7 +5099,7 @@ int main()
      * You take that for being powerful ? How about you do not beg ?
      * And you also predict with your unseen intelligence that it should cause no problems ? but you just like to harm more and more ?
      * and expect nothing ? You say you are not inferior and immature and selfish and disgusting animal but you still offer what ?
-     * You offer women ?
+     * You offer women ? and beg like the little animal you are ? shhhhhhhh please be silent !!!!
       **/    
 
 
