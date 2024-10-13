@@ -5098,7 +5098,8 @@ int main()
      * You say no monkeys ? Wait wait, you say, GET WOMEN ? BUT ALSO SAY, STAY HOME!! GET COPS!! GET HIM INTO JAIL!!!
      * You take that for being powerful ? How about you do not beg ?
      * And you also predict with your unseen intelligence that it should cause no problems ? but you just like to harm more and more ?
-     * and expect nothing ?
+     * and expect nothing ? You say you are not inferior and immature and selfish and disgusting animal but you still offer what ?
+     * You offer women ?
       **/    
 
 
