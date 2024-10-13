@@ -5109,6 +5109,8 @@ int main()
      * 
      * You were saying "building" ? Is it "personality", "friendships" ? What do you think one could build other than violence at its worst ?
      * You know you just get that
+     * 
+     * What are you saying ? You making offers still ?
       **/     
 
 
