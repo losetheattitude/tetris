@@ -5103,8 +5103,8 @@ int main()
      * Talk about the violence and you will see why ?
      * 
      * Awwww, you have forgotten that death exists!! and you just want to enjoy your life including harming people ?
-     * That is the only "conclusion" that anyone can draw ?
-      **/    
+     * That is the only "conclusion" that anyone can draw ? and you still say, its education ? Do you see the problem ?
+      **/     
 
 
 
