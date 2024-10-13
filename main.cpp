@@ -5052,7 +5052,7 @@ int main()
      * You still offering ? No surprise you say and do everything with that relief compared to I
      * Uneducated people still offering ?
      * 
-     * Just tell me the experience
+     * Just tell me the experience, and try not to avoid the feeling of joy that you get from harming right ?
       **/    
 
 
