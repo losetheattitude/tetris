@@ -5106,6 +5106,8 @@ int main()
      * That is the only "conclusion" that anyone can draw ? and you still say, its education ? Do you see the problem ?
      * TOOOO LATEEE!!! anyway, we can even bring back the time!!! BY OFFERING MATERIAL THAT ANYONE HAS ACCESS TO
      * WHILE I HAD TO WASTE TIME DOING NOTHING BUILDING NOTHING ?
+     * 
+     * You were saying "building" ? Is it "personality", "friendships" ? What do you think one could build other than violence at its worst ?
       **/     
 
 
