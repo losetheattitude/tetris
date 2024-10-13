@@ -5096,7 +5096,7 @@ int main()
      * Womeeeen!!! cars!!!! love!!!! money!!!!! YOU CANNOT GO OUTSIDE ? Is that what you say ?
      * Awwwwwww, you say violence education and you say please lie, this time!!! this time!! please!!
      * You say no monkeys ? Wait wait, you say, GET WOMEN ? BUT ALSO SAY, STAY HOME!! GET COPS!! GET HIM INTO JAIL!!!
-     * You take that for being powerful ?
+     * You take that for being powerful ? How about you do not beg ?
       **/    
 
 
