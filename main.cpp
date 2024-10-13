@@ -5112,6 +5112,7 @@ int main()
      * 
      * What are you saying ? You making offers still ? I am saying "time" and "experiences" ? What are you saying ? I JUST WANT TO HARM!!!!
      * ehehe please say this for us!! do this for us!! Please we religious people!!! you say ?
+     * You do not remember ? eheheh funny stuff right ?
       **/     
 
 
