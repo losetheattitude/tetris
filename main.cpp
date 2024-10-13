@@ -5049,7 +5049,7 @@ int main()
      * Do you want to talk about the past ? YOU ARE GOING TO HAVE GOOD TIME!! PLEASE!! DO THIS FOR US!
      * 
      * Shhhh please be silent!!! be silent!! please!
-     * You still offering ?
+     * You still offering ? No surprise you say and do everything with that relief compared to I
       **/    
 
 
