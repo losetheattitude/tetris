@@ -5139,6 +5139,7 @@ int main()
      * Life good!!! life short!! life simulation!! life illusion!! lie!!! grow up and wake up ehehe
      * 
      * No hard feelings but we just wasted 30 years ehehe with entirely artificial and unnecessary approaches!! we take it back pls!!!
+     * And are you still after the same obviously false narrative ? NO RESOURCES!!!
       **/     
 
 
