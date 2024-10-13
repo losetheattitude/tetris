@@ -5056,7 +5056,7 @@ int main()
      * Were you the one who was talking wise about life ? You still offering medicines ?
      * Suffer ehehe suffer ehehe please, we educated as hell, suffer eheheh 
      * 
-     * I do not want to see no animal like that around me
+     * I do not want to see no animal like that around me, no resources!!! we the sacred animals we offer advices and do the opposite!!
       **/    
 
 
