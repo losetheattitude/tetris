@@ -5050,6 +5050,7 @@ int main()
      * 
      * Shhhh please be silent!!! be silent!! please!
      * You still offering ? No surprise you say and do everything with that relief compared to I
+     * Uneducated people still offering ?
       **/    
 
 
