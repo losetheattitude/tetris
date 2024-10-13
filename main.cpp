@@ -5055,6 +5055,8 @@ int main()
      * Just tell me the experience, and try not to avoid the feeling of joy that you get from harming right ?
      * Were you the one who was talking wise about life ? You still offering medicines ?
      * Suffer ehehe suffer ehehe please, we educated as hell, suffer eheheh 
+     * 
+     * I do not want to see no animal like that around me
       **/    
 
 
