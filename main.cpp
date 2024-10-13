@@ -5145,7 +5145,9 @@ int main()
      * Its illegal!!! its illegal!!! what do you say ? which is illegal ? 
      * heheh get some medicine!! Of course it will be the inferiors who will say forget about the past, eheheh funny stuff
      * Do you really think that it should be done this way or are you just giving in to your inferior desires ? I am sure eheheh
-     * Get women ! get women! forget about the past! get women! pls! lie!! help! its illegal!! 
+     * Get women ! get women! forget about the past! get women! pls! lie!! help! its illegal!!
+     * 
+     * eheheh, its the only way! please help us lie and make money!!!
       **/     
 
 
