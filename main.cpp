@@ -5108,6 +5108,7 @@ int main()
      * WHILE I HAD TO WASTE TIME DOING NOTHING BUILDING NOTHING ?
      * 
      * You were saying "building" ? Is it "personality", "friendships" ? What do you think one could build other than violence at its worst ?
+     * You know you just get that
       **/     
 
 
