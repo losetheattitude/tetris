@@ -5087,6 +5087,8 @@ int main()
      * Here you are again ?
      * 
      * When you had all the opportunity of "performing" what you now are alleging that you will ? Are you fucking dumb ?
+     * Just talk about the past times and try not to remind yourselves that "ITS TOO LATEE!!!!" because I already know and remember every single detail
+     * and will make you remember as well ?
       **/    
 
 
