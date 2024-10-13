@@ -5134,6 +5134,7 @@ int main()
      * What do you say ? start from the beginning!!! forget about everything!!
      * Are you still offering women ? after years ? eheh honor!!! virtue!!! delusion!! pls do not mention!! pls lie!! 
      * life short!! life simulation! time illusion!! I said I remember everything you still say "YOU DID IT!!!!"
+     * You have to do this!! you have no option!! violence!!! as your great honor and virtues can prove that you are the type, delude as you will
       **/     
 
 
