@@ -5150,6 +5150,8 @@ int main()
      * eheheh, its the only way! please help us lie and make money!!!
      * Is this the time where you say, "we need think something for this or that ?" and you come up with "womeennn" as you have done so ? Very very clever
      * And you still delude you should make decisions
+     * 
+     * You still suggest as if it is a rule ?
       **/     
 
 
