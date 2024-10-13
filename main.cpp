@@ -5104,6 +5104,8 @@ int main()
      * 
      * Awwww, you have forgotten that death exists!! and you just want to enjoy your life including harming people ?
      * That is the only "conclusion" that anyone can draw ? and you still say, its education ? Do you see the problem ?
+     * TOOOO LATEEE!!! anyway, we can even bring back the time!!! BY OFFERING MATERIAL THAT ANYONE HAS ACCESS TO
+     * WHILE I HAD TO WASTE TIME DOING NOTHING BUILDING NOTHING ?
       **/     
 
 
