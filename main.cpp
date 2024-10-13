@@ -5148,6 +5148,7 @@ int main()
      * Get women ! get women! forget about the past! get women! pls! lie!! help! its illegal!!
      * 
      * eheheh, its the only way! please help us lie and make money!!!
+     * Is this the time where you say, "we need think something for this or that ?" and you come up with "womeennn" as you have done so ? Very very clever
       **/     
 
 
