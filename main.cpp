@@ -5053,6 +5053,7 @@ int main()
      * Uneducated people still offering ?
      * 
      * Just tell me the experience, and try not to avoid the feeling of joy that you get from harming right ?
+     * Were you the one who was talking wise about life ?
       **/    
 
 
