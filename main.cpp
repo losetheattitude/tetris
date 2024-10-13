@@ -5058,6 +5058,8 @@ int main()
      * 
      * I do not want to see no animal like that around me, no resources!!! we the sacred animals we offer advices and do the opposite!!
      * Awwww, you offer women I have forgotten thats my mistake for sure
+     * 
+     * good nation ?
       **/    
 
 
