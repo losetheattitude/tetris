@@ -5073,6 +5073,7 @@ int main()
      * Ehehehe, get money!!! get womennn!!! btw this is the 1010101010 time we beg with the same things you say ?
      * Not immature you say ? and you also beg for lies ?
      * But you see the failing predictions of your immature nature ? what do you think the problem is then ?
+     * But you still allege that you understand life or time ?
       **/    
 
 
