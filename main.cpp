@@ -5303,6 +5303,7 @@ int main()
      * Now wouldnt your inferior nature takes random lying for a skill ? And you are there to demand that you be taken into consideration ?
      * 
      * Disgusting people I say ? What do you say ? Eheheheh we good we right we proud eheheh pls lie ? I say inferior, what do you say ?
+     * And you still ask for lies ? Do you want to talk about the prior "promises" ? ehehe ? Good luck people ? eheheh
       **/     
 
 
