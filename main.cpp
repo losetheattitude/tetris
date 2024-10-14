@@ -5257,7 +5257,7 @@ int main()
      * Forget about the past!! forget about it please!! please!! lie!! lie!! we need to harm you once more!! eeheheh funny stuff!! please!!
      * 
      * Are you still providing the same excuses ? How about the time ?  eheheh you just like to harm people and beg them to lie ?
-     * Or you would love to threaten people then beg with women ?
+     * Or you would love to threaten people then beg with women ? Disgusting monkeys ?
       **/     
 
 
