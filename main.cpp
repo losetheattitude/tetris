@@ -5234,6 +5234,7 @@ int main()
      * Whose sole purpose is to harm ? Start answering some question, you will see that we are arriving to the conclusions reallly fast
      * And you think the solution is "OFFERING WOMEN" as you have done so ? Without looking around for more reasonable explanations and approaches ?
      * And you still think its fine ? and all you can say is what ? "ITSSS TOOO LATE!!!"
+     * Isnt it because of you that all these people have to think stupid shit ?
       **/     
 
 
