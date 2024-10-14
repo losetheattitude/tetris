@@ -5194,6 +5194,7 @@ int main()
      * You would rather not talk right ? eheheh
      * Say this for us! and you get women! please!! please! get women! dont be too emotional! dont be too dramatic but we would love to waste your time 
      * without a doubt ? Is that what you are saying ?
+     * Are you following what I am saying ? I DO NOT ACCEPT ANY WHATSOEVER CONCLUSIONS THAT YOU MAKE WITH YOUR BIASED BRAINS ?
       **/     
 
 
