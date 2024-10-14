@@ -5225,6 +5225,8 @@ int main()
      * Isnt that delusion ? Or you would love to avoid which makes you ignorant ? Good qualities indeed
      * So you would love to delude on your "testing" while you are the one who is causing through coercion ? and I am the one who knows that ?
      * and you are still the one who is offering women ? WHAT IS YOUR PROBLEM ? Do you want to talk about time ?
+     * 
+     * DO YOU WANT TO TALK ABOUT THE WASTED TIME ? OR ARE YOU TOO SUPERIOR TO EVEN SEE THAT ?
       **/     
 
 
