@@ -5222,7 +5222,7 @@ int main()
      * What do you think I am missing ? awww you just delude on your skillfulness, indeed
      * Awww you just would love to see others who you have no relation with suffer or live a bad life because ? Because you are superior ?
      * Or what ? what did you say ? And you just would love to avoid talking about my experience because you are superior ?
-     * Isnt that delusion ? Or you would love to avoid which makes you ignorant ?
+     * Isnt that delusion ? Or you would love to avoid which makes you ignorant ? Good qualities indeed
       **/     
 
 
