@@ -5301,6 +5301,8 @@ int main()
      * Ehehehe good luck, eehehe good ppl, ehehehe 
      * Now wouldnt you like to talk about the past ? You offer cars ? as your inferior and disgusting nature allows you ?
      * Now wouldnt your inferior nature takes random lying for a skill ? And you are there to demand that you be taken into consideration ?
+     * 
+     * Disgusting people I say ? What do you say ? Eheheheh we good we right we proud eheheh pls lie ? I say inferior, what do you say ?
       **/     
 
 
