@@ -5178,6 +5178,8 @@ int main()
      * So now tell me again who is illegal ? and who was and has always been begging just like the little animal they are ? Are you now still soliciting lies ?
      * Are you still offering consistently ? but you can not say anything ?
      * Can you talk more about my experiences ? or you would rather forget and instantly go back to your life because you know you are guilty ?
+     * You are still alleging with what you have desperately coerced kids into when you have 30 years of evidence ? and you still beg ?
+     * Or would you like to ask for lies ? shhhhhhh be silent please!!!
       **/     
 
 
