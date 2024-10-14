@@ -5239,6 +5239,7 @@ int main()
      * Life is gone, no friends ? no time ? no resources ? what do you say ? ITS TOOO LATEE!!! No possessions ? You say its too late!!!
      * 
      * What you call superior skills I call being inferior liars ? What do you say ? ITS TOO LATE!!! we achieved!!! eheheh ? 
+     * WHAT DID YOU ACHIEVE BRO ?
       **/     
 
 
