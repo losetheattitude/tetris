@@ -5167,6 +5167,8 @@ int main()
      * Are you still producing lies ? talk more about, NO RESOURCES!!!! ehehehe we need help, pls lie!!
      * Its the past!! its the past!! although we are the still same disgusting animal who was begging and now begging is as well ? Do you see the pattern ?
      * Fucking stupid monkeys ?
+     * Are you still pretending to be sad or you havent done nothing about it ? Talk about the reality and your intentional actions then start begging ?
+     * Isnt that what you are doing already ?
       **/     
 
 
