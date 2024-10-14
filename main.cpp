@@ -5215,6 +5215,8 @@ int main()
      * Talk about the experience ? awwww, you just can not cope with what a stupid animal you are ?
      * 
      * Awwww, you have forgotten I guess ?
+     * No money!!!! no resources!!! bring more people to harm!!! heeheh its called education!!! we take everyone to be as fearful monkeys as we are 
+     * so we offer VIOLENCE, call it intelligence indeed
       **/     
 
 
