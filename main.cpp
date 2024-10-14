@@ -5169,6 +5169,7 @@ int main()
      * Fucking stupid monkeys ?
      * Are you still pretending to be sad or you havent done nothing about it ? Talk about the reality and your intentional actions then start begging ?
      * Isnt that what you are doing already ?
+     * You still act like you are sad and do nothing about it other than harming more and "making really credible offers with your most credible identity" ?
       **/     
 
 
