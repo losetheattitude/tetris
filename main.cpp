@@ -5197,6 +5197,7 @@ int main()
      * Are you following what I am saying ? I DO NOT ACCEPT ANY WHATSOEVER CONCLUSIONS THAT YOU MAKE WITH YOUR BIASED BRAINS ?
      * While you have years of proof, you still say the same stupid disgusting narrative which proves your inferior nature ?
      * 
+     * Do you still think you should make decisions or offer advices or make really credible offers ? TALK ABOUT 30 years you will see why you are wrong
       **/     
 
 
