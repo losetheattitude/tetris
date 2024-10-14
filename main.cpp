@@ -5300,6 +5300,7 @@ int main()
      * as you would call it "punishment or education" but you still claim that you are right in your actions of random and irrelevent nature ?
      * Ehehehe good luck, eehehe good ppl, ehehehe 
      * Now wouldnt you like to talk about the past ? You offer cars ? as your inferior and disgusting nature allows you ?
+     * Now wouldnt your inferior nature takes random lying for a skill ? And you are there to demand that you be taken into consideration ?
       **/     
 
 
