@@ -5237,6 +5237,8 @@ int main()
      * Isnt it because of you that all these people have to think stupid shit ?
      * Do you not understand the life or you just do not care about others ? eheheh whats the life ? eheheh life simulation ? 
      * Life is gone, no friends ? no time ? no resources ? what do you say ? ITS TOOO LATEE!!! No possessions ? You say its too late!!!
+     * 
+     * What you call superior skills I call being inferior liars ? What do you say ?
       **/     
 
 
