@@ -5209,6 +5209,7 @@ int main()
      * Are you still offering what is ample, is that why you are the rife disgusting animal who hates to bare responsibility ?
      * Yess, thats the same animal who coerces eheheh, good religious credible etc etc, you are not monkeys I am sure indeed
      * Awww, thats why you hate to talk about "history" ? because you think you are guilty or you think you are skillful ?
+     * Now tell me the experience I had before you make another "OFFER", stupid monkeys
       **/     
 
 
