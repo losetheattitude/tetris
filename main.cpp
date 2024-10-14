@@ -5230,7 +5230,7 @@ int main()
      * Aw you would love to just accuse with most inappropriate and disgusting things nobody would ever waste one second going against you,
      * and hope that it should be okay ? Or you would love to waste time!! The sole indication that you neither understand life nor care about others
      * 
-     * The sole proof of your unjustified "position" of delusional decision making
+     * The sole proof of your unjustified "position" of delusional decision making, do you think anyone would want people like you around ?
       **/     
 
 
