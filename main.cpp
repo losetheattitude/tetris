@@ -5259,6 +5259,7 @@ int main()
      * Are you still providing the same excuses ? How about the time ?  eheheh you just like to harm people and beg them to lie ?
      * Or you would love to threaten people then beg with women ? Disgusting monkeys ?
      * Are you taking life lightly when its for others ? and you offer women still ?
+     * So you also would think that it should be funny because you feel like a disgusting animal when you see others being hurt ?
       **/     
 
 
