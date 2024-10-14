@@ -5177,6 +5177,7 @@ int main()
      * Are you still offering ? Do what you have to do, that only proves you are a disgusting stupid animal ? Do you follow ?
      * So now tell me again who is illegal ? and who was and has always been begging just like the little animal they are ? Are you now still soliciting lies ?
      * Are you still offering consistently ? but you can not say anything ?
+     * Can you talk more about my experiences ? or you would rather forget and instantly go back to your life because you know you are guilty ?
       **/     
 
 
