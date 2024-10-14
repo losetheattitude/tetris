@@ -5210,6 +5210,8 @@ int main()
      * Yess, thats the same animal who coerces eheheh, good religious credible etc etc, you are not monkeys I am sure indeed
      * Awww, thats why you hate to talk about "history" ? because you think you are guilty or you think you are skillful ?
      * Now tell me the experience I had before you make another "OFFER", stupid monkeys
+     * 
+     * Welcome to this, welcome that place!! we own it! eheheh pls help us lie, we need to cover our disgusting nature!!
       **/     
 
 
