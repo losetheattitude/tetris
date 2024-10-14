@@ -5271,6 +5271,7 @@ int main()
      * You think you should make decisions ? and you still offer things you have not delivered ?
      * 
      * YOU DISRUPTED THE WHOLE PROCESS AND YOU LOOK AROUND FOR SOLUTIONS OR ASK LIES ? ITS TOO LATE!! ITS TOO LATE!!! please please
+     * You like harming with false precept ? but also ignore the evidence ?
       **/     
 
 
