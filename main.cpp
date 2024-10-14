@@ -5154,10 +5154,11 @@ int main()
      * You still suggest as if it is a rule ?
      * Talk about life ehehe time etc
      * Are you still producing bullshit excuses to cover for your inferior nature ?
-     * You know you can only go so far with the type of personalities you have, eheheh fun stuff though
+     * You   know you can only go so far with the type of personalities you have, eheheh fun stuff though
      * Offering women ? eheheh funny ?
      * 
      * Are you still begging for your own experiences ?
+     * How about you start talking about my experience first and tell me your beggings beforehand
       **/     
 
 
