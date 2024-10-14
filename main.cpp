@@ -5309,7 +5309,7 @@ int main()
      * As you can tell that I will under no circumstance would even consider for a second to allow you make decisions that YOU ARE NOT CONCERNED WITH,
      * you just delude you do, I do not want no animals around me who thinks in patterns of inferior natures
      * 
-     * Pay close attention, I DO NOT WANT TO SEE ANYONE LIKE YOU AROUND ME
+     * Pay close attention, I DO NOT WANT TO SEE ANYONE LIKE YOU AROUND ME, are you still offering women ?
       **/     
 
 
