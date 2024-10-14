@@ -5173,6 +5173,7 @@ int main()
      * 
      * Talk more about the experiences, dumb monkeys
      * I am sure you have no "guilt" and you are sad and you are good people
+     * You do not get the decide I say, what do you say ? you say, "No such a thing ever happened!!!" ? Are you superior or just a regular disgusting animal ?
       **/     
 
 
