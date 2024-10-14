@@ -5163,6 +5163,7 @@ int main()
      * Are you still offerings things ?
      * Awwww, you would rather act like you are sad ?
      * Please please lie lie!! lie!!! do you say ?
+     * Awwww you say, NO RESOURCES!!!! eheheh wait wait, you say get women ? eheheh get womeeenn!!!!! please lie!!!!
       **/     
 
 
