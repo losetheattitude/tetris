@@ -5306,6 +5306,8 @@ int main()
      * And you still ask for lies ? Do you want to talk about the prior "promises" ? ehehe ? Good luck people ? eheheh
      * 
      * Aww you just want that people would forget your "crimes" and you just like to keep harming while also making promises ? Good luck people ?
+     * As you can tell that I will under no circumstance would even consider for a second to allow you make decisions that YOU ARE NOT CONCERNED WITH,
+     * you just delude you do, I do not want no animals around me who thinks in patterns of inferior natures
       **/     
 
 
