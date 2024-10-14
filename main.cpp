@@ -5268,7 +5268,7 @@ int main()
      * Are you still misguessing I would behave really good as you have done so ? Is that what you call education ?
      * 
      * You still accuse when you have years of evidence ? You accuse with what you have coerced so that you could jerk off more ?
-     * You think you should make decisions ? 
+     * You think you should make decisions ? and you still offer things you have not delivered ?
       **/     
 
 
