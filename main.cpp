@@ -5286,7 +5286,8 @@ int main()
      * And you all there as if offering what is usual should be a remedy or solution to "time" as you would like to call it, "fate!!", "religion!!"
      * Clueless monkeys I say
      * 
-     * Do you really want to talk about who deserves a punishment in this story ?
+     * Do you really want to talk about who deserves a punishment in this story ? Or would you like to harm
+     * and beg at the same time, as your weak nature can not identify anything else to do ?
       **/     
 
 
