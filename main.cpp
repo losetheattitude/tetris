@@ -5165,6 +5165,8 @@ int main()
      * Please please lie lie!! lie!!! do you say ?
      * Awwww you say, NO RESOURCES!!!! eheheh wait wait, you say get women ? eheheh get womeeenn!!!!! please lie!!!!
      * Are you still producing lies ? talk more about, NO RESOURCES!!!! ehehehe we need help, pls lie!!
+     * Its the past!! its the past!! although we are the still same disgusting animal who was begging and now begging is as well ? Do you see the pattern ?
+     * Fucking stupid monkeys ?
       **/     
 
 
