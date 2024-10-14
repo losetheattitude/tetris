@@ -5242,7 +5242,8 @@ int main()
      * WHAT DID YOU ACHIEVE BRO ? You say "please be silent" ?
      * 
      * Awww, you would hate to take lightly when its your life ? But its entirely fine when it comes to others ?
-     * That sounds like a major problem
+     * That sounds like a major problem, do you want to talk about no resources or no going out!! or some cops ? some violence ?
+     * Do you dare say "ITS TOO LATE!!!" ?
       **/     
 
 
