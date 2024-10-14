@@ -5270,7 +5270,7 @@ int main()
      * You still accuse when you have years of evidence ? You accuse with what you have coerced so that you could jerk off more ?
      * You think you should make decisions ? and you still offer things you have not delivered ?
      * 
-     * YOU DISRUPTED THE WHOLE PROCESS AND YOU LOOK AROUND FOR SOLUTIONS OR ASK LIES ?
+     * YOU DISRUPTED THE WHOLE PROCESS AND YOU LOOK AROUND FOR SOLUTIONS OR ASK LIES ? ITS TOO LATE!! ITS TOO LATE!!! please please
       **/     
 
 
