@@ -5190,6 +5190,10 @@ int main()
      * You say what ? GET MONEY!!! GET WOMEN!!!
      * Can you tell me my experience before you provide all sorts of bullshit excuse ?
      * And be proud btw for what you have ACHIEVED!!!! 
+     * 
+     * You would rather not talk right ? eheheh
+     * Say this for us! and you get women! please!! please! get women! dont be too emotional! dont be too dramatic but we would love to waste your time 
+     * without a doubt ? Is that what you are saying ?
       **/     
 
 
