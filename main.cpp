@@ -5205,6 +5205,7 @@ int main()
      * You do not see how stupid you are when you are offering "CITIES", COME HERE!!! as if you are not the same animal ?
      * Talk more about violence good people, wouldnt you like acting "sad" now ?
      * I do not want to see no similar animals who would love to call what their voluntary "educated decisions" HISTORY
+     * Thats not being irresponsible at all, so what do you think should happen though ? HAVE SOME WOMEENNNN!!!! please!!!
       **/     
 
 
