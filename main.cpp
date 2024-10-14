@@ -5248,6 +5248,9 @@ int main()
      * Did you just say ? free flow!! ehehe please!! lie!!! help!!! lie!!! good people!! ?
      * Do you even look for "RETURN" ? Isnt that obvious ? Awww you just would love to waste more and more time, because you think you are right 
      * although you have all the "evidence" but you still would love to harm because you are eheheh animal
+     * 
+     * What you call drama is the life that you brag to know about, so is the proof of your mispositioned "judgment" "rights" ? Just pretend everyone
+     * that you do deserve your life. Ehehehe because why not eheheh
       **/     
 
 
