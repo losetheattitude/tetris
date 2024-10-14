@@ -5188,6 +5188,7 @@ int main()
      * You were the disgusting one back then who sees 5 months children as enemies, and you are still the same disgusting animal who offers things ?
      * Why are you still offering ? I do not see your nonexistent disgusting "claims" as to your great virtues or qualities ?
      * You say what ? GET MONEY!!! GET WOMEN!!!
+     * Can you tell me my experience before you provide all sorts of bullshit excuse ?
       **/     
 
 
