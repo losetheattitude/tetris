@@ -5299,7 +5299,7 @@ int main()
      * But you still beg ? And you also would like to harm because you have done something you shouldnt have and received the proper response
      * as you would call it "punishment or education" but you still claim that you are right in your actions of random and irrelevent nature ?
      * Ehehehe good luck, eehehe good ppl, ehehehe 
-     * Now wouldnt you like to talk about the past ?
+     * Now wouldnt you like to talk about the past ? You offer cars ? as your inferior and disgusting nature allows you ?
       **/     
 
 
