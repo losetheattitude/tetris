@@ -5274,6 +5274,7 @@ int main()
      * You like harming with false precept ? but also ignore the evidence ?
      * And you are still looking around to see if anything changed or your stupid education worked ? what a disgusting animal you are, fun stuff
      * Awww, you also add to your education "NO RESOURCES!!!" and you see why you are a disgusting monkey who likes to harm guising it with all sorts of bullshit
+     * Talk more about violence and correlate your "excuses" 
       **/     
 
 
