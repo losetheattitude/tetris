@@ -5251,7 +5251,10 @@ int main()
      * 
      * What you call drama is the life that you brag to know about, so is the proof of your mispositioned "judgment" "rights" ? Just pretend everyone
      * that you do deserve your life. Ehehehe because why not eheheh
+     * 
+     * Goo!!! go there!! do this!! ehehe bring cops!!! violence!! please!! have some women!!! get cars!!! ehehe intelligence eheheh
       **/     
+
 
 
  
