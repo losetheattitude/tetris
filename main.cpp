@@ -5272,6 +5272,7 @@ int main()
      * 
      * YOU DISRUPTED THE WHOLE PROCESS AND YOU LOOK AROUND FOR SOLUTIONS OR ASK LIES ? ITS TOO LATE!! ITS TOO LATE!!! please please
      * You like harming with false precept ? but also ignore the evidence ?
+     * And you are still looking around to see if anything changed or your stupid education worked ? what a disgusting animal you are, fun stuff
       **/     
 
 
