@@ -5172,6 +5172,7 @@ int main()
      * You still act like you are sad and do nothing about it other than harming more and "making really credible offers with your most credible identity" ?
      * 
      * Talk more about the experiences, dumb monkeys
+     * I am sure you have no "guilt" and you are sad and you are good people
       **/     
 
 
