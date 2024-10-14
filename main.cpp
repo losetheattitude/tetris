@@ -5281,6 +5281,8 @@ int main()
      * Guess who deserves a punishment in this context ?
      * 
      * As you can tell, who has been here with me for years and done nothing good for me other than harming, the good nation etc
+     * You have been here all along and have all the opportunities of "helping" instead you made offers and done nothing about it,
+     * So, I would choose anywhere other than where you are
       **/     
 
 
