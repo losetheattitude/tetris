@@ -5266,6 +5266,9 @@ int main()
      * So you distruped the whole natural process of an individual and you still ask lies so that you could DO MORE ?
      * And are you still asking for lies ? and you offer women instead ? As you have offered like 10 times ?
      * Are you still misguessing I would behave really good as you have done so ? Is that what you call education ?
+     * 
+     * You still accuse when you have years of evidence ? You accuse with what you have coerced so that you could jerk off more ?
+     * You think you should make decisions ? 
       **/     
 
 
