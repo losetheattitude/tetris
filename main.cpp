@@ -5279,6 +5279,8 @@ int main()
      * And you still delude on most disgusting things to be fine ? eheheh time illusion indeed
      * Do you want to be reminded to your actions ? Or you would rather see that for superior and skillful and good ?
      * Guess who deserves a punishment in this context ?
+     * 
+     * As you can tell, who has been here with me for years and done nothing good for me other than harming, the good nation etc
       **/     
 
 
