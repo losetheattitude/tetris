@@ -5208,6 +5208,7 @@ int main()
      * Thats not being irresponsible at all, so what do you think should happen though ? HAVE SOME WOMEENNNN!!!! please!!!
      * Are you still offering what is ample, is that why you are the rife disgusting animal who hates to bare responsibility ?
      * Yess, thats the same animal who coerces eheheh, good religious credible etc etc, you are not monkeys I am sure indeed
+     * Awww, thats why you hate to talk about "history" ? because you think you are guilty or you think you are skillful ?
       **/     
 
 
