@@ -5206,6 +5206,8 @@ int main()
      * Talk more about violence good people, wouldnt you like acting "sad" now ?
      * I do not want to see no similar animals who would love to call what their voluntary "educated decisions" HISTORY
      * Thats not being irresponsible at all, so what do you think should happen though ? HAVE SOME WOMEENNNN!!!! please!!!
+     * Are you still offering what is ample, is that why you are the rife disgusting animal who hates to bare responsibility ?
+     * Yess, thats the same animal who coerces eheheh, good religious credible etc etc, you are not monkeys I am sure indeed
       **/     
 
 
