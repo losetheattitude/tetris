@@ -5255,6 +5255,8 @@ int main()
      * Goo!!! go there!! do this!! ehehe bring cops!!! violence!! please!! have some women!!! get cars!!! ehehe intelligence eheheh
      * You need to deserve!! ehehe But you are still offering women ? Isnt that funny ? ehehe better use your brain next time stupid monkeys
      * Forget about the past!! forget about it please!! please!! lie!! lie!! we need to harm you once more!! eeheheh funny stuff!! please!!
+     * 
+     * Are you still providing the same excuses ?
       **/     
 
 
