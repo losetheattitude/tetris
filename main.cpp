@@ -5277,6 +5277,7 @@ int main()
      * Talk more about violence and correlate your "excuses", ehehehe please please lie, please we know we guilty,pls
      * 
      * And you still delude on most disgusting things to be fine ? eheheh time illusion indeed
+     * Do you want to be reminded to your actions ? Or you would rather see that for superior and skillful and good ?
       **/     
 
 
