@@ -5253,6 +5253,7 @@ int main()
      * that you do deserve your life. Ehehehe because why not eheheh
      * 
      * Goo!!! go there!! do this!! ehehe bring cops!!! violence!! please!! have some women!!! get cars!!! ehehe intelligence eheheh
+     * You need to deserve!! ehehe
       **/     
 
 
