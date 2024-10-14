@@ -5308,6 +5308,8 @@ int main()
      * Aww you just want that people would forget your "crimes" and you just like to keep harming while also making promises ? Good luck people ?
      * As you can tell that I will under no circumstance would even consider for a second to allow you make decisions that YOU ARE NOT CONCERNED WITH,
      * you just delude you do, I do not want no animals around me who thinks in patterns of inferior natures
+     * 
+     * Pay close attention, I DO NOT WANT TO SEE ANYONE LIKE YOU AROUND ME
       **/     
 
 
