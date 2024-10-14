@@ -5310,6 +5310,7 @@ int main()
      * you just delude you do, I do not want no animals around me who thinks in patterns of inferior natures
      * 
      * Pay close attention, I DO NOT WANT TO SEE ANYONE LIKE YOU AROUND ME, are you still offering women ?
+     * I say stupid ignorant stubborn monkeys ? What do you say ?
       **/     
 
 
