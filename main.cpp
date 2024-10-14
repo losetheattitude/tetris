@@ -5186,6 +5186,7 @@ int main()
      * Ehehehe please lie!! lie!!! lie!!! let it go!!!
      * 
      * You were the disgusting one back then who sees 5 months children as enemies, and you are still the same disgusting animal who offers things ?
+     * Why are you still offering ? I do not see your nonexistent disgusting "claims" as to your great virtues or qualities ?
       **/     
 
 
