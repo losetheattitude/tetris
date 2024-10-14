@@ -5289,10 +5289,15 @@ int main()
      * Do you really want to talk about who deserves a punishment in this story ? Or would you like to harm
      * and beg at the same time, as your weak nature can not identify anything else to do ?
      * 
+     * 
      * But you see who is inferior or the problem right ? You would love to harm and beg at the same time ?
      * And you call that intelligence ? because your nature can not identify anything other than "inferior" actions ?
      * Do you want to know what you it is supposed to do in such a situation that you have formed for yourselves for years ?
      * You have no idea ? Thats what I thought, inferior thinking patterns always prevails with inferiors
+     * 
+     * 
+     * But you still beg ? And you also would like to harm because you have done something you shouldnt have and received the proper response
+     * as you would call it "punishment or education" but you still claim that you are right in your actions of random and irrelevent nature ?
       **/     
 
 
