@@ -5204,6 +5204,7 @@ int main()
      * 
      * You do not see how stupid you are when you are offering "CITIES", COME HERE!!! as if you are not the same animal ?
      * Talk more about violence good people, wouldnt you like acting "sad" now ?
+     * I do not want to see no similar animals 
       **/     
 
 
