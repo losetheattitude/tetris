@@ -5235,6 +5235,8 @@ int main()
      * And you think the solution is "OFFERING WOMEN" as you have done so ? Without looking around for more reasonable explanations and approaches ?
      * And you still think its fine ? and all you can say is what ? "ITSSS TOOO LATE!!!"
      * Isnt it because of you that all these people have to think stupid shit ?
+     * Do you not understand the life or you just do not care about others ? eheheh whats the life ? eheheh life simulation ? 
+     * Life is gone, no friends ? no time ? no resources ? what do you say ? ITS TOOO LATEE!!!
       **/     
 
 
