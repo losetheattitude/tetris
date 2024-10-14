@@ -5219,6 +5219,7 @@ int main()
      * so we offer VIOLENCE, call it intelligence indeed
      * You must be proud as well, ITS A PRODUCT!!! WHO SAID YOU COULD EVEN DO THAT ? Still offering women ?
      * Arent you the stupid one who is still offering instead of acting on his credible offers ?
+     * What do you think I am missing ? awww you just delude on your skillfulness, indeed
       **/     
 
 
