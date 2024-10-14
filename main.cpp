@@ -5220,6 +5220,8 @@ int main()
      * You must be proud as well, ITS A PRODUCT!!! WHO SAID YOU COULD EVEN DO THAT ? Still offering women ?
      * Arent you the stupid one who is still offering instead of acting on his credible offers ?
      * What do you think I am missing ? awww you just delude on your skillfulness, indeed
+     * Awww you just would love to see others who you have no relation with suffer or live a bad life because ? Because you are superior ?
+     * Or what ? what did you say ?
       **/     
 
 
