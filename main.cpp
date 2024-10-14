@@ -5231,6 +5231,7 @@ int main()
      * and hope that it should be okay ? Or you would love to waste time!! The sole indication that you neither understand life nor care about others
      * 
      * The sole proof of your unjustified "position" of delusional decision making, do you think anyone would want people like you around ?
+     * Whose sole purpose is to harm ? Start answering some question, you will see that we are arriving to the conclusions reallly fast
       **/     
 
 
