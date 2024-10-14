@@ -5304,6 +5304,8 @@ int main()
      * 
      * Disgusting people I say ? What do you say ? Eheheheh we good we right we proud eheheh pls lie ? I say inferior, what do you say ?
      * And you still ask for lies ? Do you want to talk about the prior "promises" ? ehehe ? Good luck people ? eheheh
+     * 
+     * Aww you just want that people would forget your "crimes" and you just like to keep harming while also making promises ? Good luck people ?
       **/     
 
 
