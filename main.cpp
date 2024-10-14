@@ -5201,6 +5201,8 @@ int main()
      * Are you still offering women ?
      * Most disgusting indeed, but you see the problem right ? You are having fun with your stupid exchanges over WHAT YOU HAVE NO CONTROL
      * While thinking that someone should waste his time during your really generous and mature "conversations" ? Do you see the problem ? Are you still alleging the same bullshit ?
+     * 
+     * You do not see how stupid you are when you are offering "CITIES", COME HERE!!! as if you are not the same animal ?
       **/     
 
 
