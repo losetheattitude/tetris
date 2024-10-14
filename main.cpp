@@ -5182,7 +5182,7 @@ int main()
      * Or would you like to ask for lies ? shhhhhhh be silent please!!!
      * 
      * Would you rather talk more about what you will give out and beg ? or you just want to live your disgusting life ? Is that what you are saying ?
-     * Eheheh get cars!! get women!!
+     * Eheheh get cars!! get women!! Awwww, time flies.... time has gone!!! awwww, we feel really sad!!! we want to avoid talking that and harm and harm more!!! pls!!
       **/     
 
 
