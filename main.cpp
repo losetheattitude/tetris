@@ -5260,6 +5260,7 @@ int main()
      * Or you would love to threaten people then beg with women ? Disgusting monkeys ?
      * Are you taking life lightly when its for others ? and you offer women still ?
      * So you also would think that it should be funny because you feel like a disgusting animal when you see others being hurt ?
+     * Ehehe or you just coerce medicine and some harm ? and coerce medicine ? and offer women ? heeheheh fun stuff right ?
       **/     
 
 
