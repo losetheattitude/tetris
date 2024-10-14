@@ -5283,6 +5283,7 @@ int main()
      * As you can tell, who has been here with me for years and done nothing good for me other than harming, the good nation etc
      * You have been here all along and have all the opportunities of "helping" instead you made offers and done nothing about it,
      * So, I would choose anywhere other than where you are, you still ask things ?
+     * And you all there as if offering what is usual should be a remedy or solution to "time" as you would like to call it, "fate!!", "religion!!"
       **/     
 
 
