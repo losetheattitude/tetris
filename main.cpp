@@ -5284,6 +5284,7 @@ int main()
      * You have been here all along and have all the opportunities of "helping" instead you made offers and done nothing about it,
      * So, I would choose anywhere other than where you are, you still ask things ?
      * And you all there as if offering what is usual should be a remedy or solution to "time" as you would like to call it, "fate!!", "religion!!"
+     * Clueless monkeys I say
       **/     
 
 
