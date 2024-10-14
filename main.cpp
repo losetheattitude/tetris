@@ -5318,6 +5318,7 @@ int main()
      * And you still offer people that they waste their time, and you do it with relief ? You see the problem ?
      * AWww you delude that for being "strong" or "authoritative" or "education" ?
      * And also you delude on that people should be thankful ? what a shame though
+     * Wasting time still ?
       **/     
 
 
