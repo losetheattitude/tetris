@@ -5195,6 +5195,8 @@ int main()
      * Say this for us! and you get women! please!! please! get women! dont be too emotional! dont be too dramatic but we would love to waste your time 
      * without a doubt ? Is that what you are saying ?
      * Are you following what I am saying ? I DO NOT ACCEPT ANY WHATSOEVER CONCLUSIONS THAT YOU MAKE WITH YOUR BIASED BRAINS ?
+     * While you have years of proof, you still say the same stupid disgusting narrative which proves your inferior nature ?
+     * 
       **/     
 
 
