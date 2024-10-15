@@ -5358,6 +5358,8 @@ int main()
      * Delusion is your number one skill you say ? I see eheheh
      * and you still would love to waste your time watching and harming and doing nothing about it while also begging and taking that for a skill
      * against someone without resources ?
+     * 
+     * Thats what I call a disgusting underdeveloped monkey, what do you say ?
       **/     
 
 
