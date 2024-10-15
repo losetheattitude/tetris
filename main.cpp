@@ -5430,6 +5430,8 @@ int main()
      * Go get it!!! ehehe violence as education! shhhh be silent!!! "You were saying education" ? Why you saying shhh be silent now ?
      * awwww alright alright, I guess I am the one who is deluding, AWWWWWW wasted times!!! please lie!! ehehe we wasted eheheh but please lie 
      * so we can enjoy our experiences!!! please!! awww you were saying, education etc ehehe violence ehehheeh lie lie !! please lie!!
+     * 
+     * And you were there but you just chose to harm and watch with relief ? and suddenly you are in the position of offering women ?
       **/     
 
 
