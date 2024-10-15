@@ -5367,7 +5367,7 @@ int main()
      * and guising your disgusting nature through "promises" or "begging" which entirely proves your inferior nature ?
      * 
      * So you still are not inclined to see that you CAN NOT ENFORCE anything on nobody, but you would just like to hide that you have done so ?
-     * that you have such and such inclanations ?
+     * that you have such and such inclanations ? Despite the evidence of 30 years and the  accompanying great and skillful actions of yours ?
       **/     
 
 
