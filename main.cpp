@@ -5410,6 +5410,9 @@ int main()
      * Still after violence ? and think that you should make "sane" decisions ? Itss tooo lateee!!! Education!! education as violence!!
      * we understand life! afterlife!! you live in afterlife!! we know what time is!! its too late!!! education !!
      * More like immature selfish spoiled children I say, what do you say ?
+     * 
+     * Ehehe, you just think you should make decisions even though you are entirely false and malign in every little actions you have taken so far
+     * as I do remember in contrast to your voluntary forgetfulness of your disgusting nature, what do you say ?
       **/     
 
 
