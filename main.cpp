@@ -5342,7 +5342,7 @@ int main()
      * Are you still telling the same narrative ? I do not accept no animals like you
      * But do you see the problem right ? Okay okay, now talk about the "past" and "violence" and correlation between your inferiority seeing it as education ?
      * I say irrelevant immature irresponsible ignorant monkeys, what do you say ?
-     * You still say, get some women ?
+     * You still say, get some women ? and you suck at your job miserably ?
       **/     
 
 
