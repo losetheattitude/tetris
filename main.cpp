@@ -5427,7 +5427,8 @@ int main()
      * But you see the problem right ?
      * 
      * Do you understand why you deserve the animal ? eheheh fun stuff indeed
-     * Go get it!!! ehehe violence as education!
+     * Go get it!!! ehehe violence as education! shhhh be silent!!! "You were saying education" ? Why you saying shhh be silent now ?
+     * awwww alright alright, I guess I am the one who is deluding
       **/     
 
 
