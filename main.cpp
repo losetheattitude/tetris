@@ -5414,7 +5414,7 @@ int main()
      * Ehehe, you just think you should make decisions even though you are entirely false and malign in every little actions you have taken so far
      * as I do remember in contrast to your voluntary forgetfulness of your disgusting nature, what do you say ?
      * 
-     * You still delude ? Awwww, its rather "TOOOO LATEEE" for you to say ?
+     * You still delude ? Awwww, its rather "TOOOO LATEEE" for you to say ? Instead of saying "we like harming intentionally ?"
       **/     
 
 
