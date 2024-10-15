@@ -5395,6 +5395,9 @@ int main()
      * Awww, time does not matter, its fine we waste more, nobody can actually say anything about our irrelevant violence ehehehe!!!!!!! 
      * 
      * But you see the audacity in your "WASTING TIME IS GOOD" ? also accept no responsibility ? and you find all sorts of false bullshit to cover
+     * 
+     * Wait wait, you have 30 years of proof but it should be fine to just act like an animal and accuse right ? Because you are the one
+     * who understands the reality, time and life etc etc, I highly doubt that
       **/     
 
 
