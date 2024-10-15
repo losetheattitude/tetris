@@ -5354,6 +5354,8 @@ int main()
      * And you still think saying a few good things and offering what is most normal thing on earth should be enough ?
      * But you also think that offering is just enough eheheh ? Thats the pattern right ?
      * You also take coercion and violence for a skill, yes yes yes, thanks but I will pass the kinds of animals like you
+     * 
+     * Delusion is your number one skill you say ? I see eheheh
       **/     
 
 
