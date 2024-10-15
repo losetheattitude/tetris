@@ -5388,11 +5388,13 @@ int main()
      * I am talking about time and what are you saying ? And now you think offering what would be okay ? ehehe education!! education!!! women!! women!!!
      * cars!! cars!!! eheheh please!!
      * 
-     * I am sure you do not see the problem, eheheh 
+     * I am sure you do not see the problem, eheheh  
      * But you see why its called irresponsibility right ? Its exactly this reason that is your avoidance of what you know and understand innately
      * So there is not even a single thing to talk about especially with the likes of you who have no idea what they are doing
      * "I DO NOT WANT TO GET HARMED!!!", now its more than clear what is the problem
      * Awww, time does not matter, its fine we waste more, nobody can actually say anything about our irrelevant violence ehehehe!!!!!!! 
+     * 
+     * But you see the audacity in your "WASTING TIME IS GOOD" ? also accept no responsibility ? and you find all sorts of false bullshit to cover
       **/     
 
 
