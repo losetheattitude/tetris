@@ -5428,7 +5428,8 @@ int main()
      * 
      * Do you understand why you deserve the animal ? eheheh fun stuff indeed
      * Go get it!!! ehehe violence as education! shhhh be silent!!! "You were saying education" ? Why you saying shhh be silent now ?
-     * awwww alright alright, I guess I am the one who is deluding
+     * awwww alright alright, I guess I am the one who is deluding, AWWWWWW wasted times!!! please lie!! ehehe we wasted eheheh but please lie 
+     * so we can enjoy our experiences!!! please!!
       **/     
 
 
