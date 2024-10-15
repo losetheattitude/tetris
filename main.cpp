@@ -5324,6 +5324,8 @@ int main()
      * 
      * But you see the problem right ? Fucking stupid monkeys I say ? What do you say ? Education!!! but you are the one who lacks it
      * in the first place because you put your stupid selves into this position and lost it to a 5 months old children ?
+     * And instead of fixing it as a proper human being, you have again referred to the "violence or hatred" that you brag ?
+     * But you see the problem right ?
       **/     
 
 
