@@ -5416,6 +5416,7 @@ int main()
      * 
      * You still delude ? Awwww, its rather "TOOOO LATEEE" for you to say ? Instead of saying "we like harming intentionally ?"
      * You still wanna talk about your rightness in such a job ?
+     * You would rather say "GET CARS!!! GET WOMEN!!!" please!! ?
       **/     
 
 
