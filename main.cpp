@@ -5422,7 +5422,8 @@ int main()
      * But you see the sorts of things you enjoy right ? Your acting of "its job!!", "its obligatory!" does not change the fact
      * that you are intentional in all of your doings so far, so but do you see the problem now ?
      * 
-     * Or you would rather beg for lies and take that for a win ?
+     * Or you would rather beg for lies and take that for a win ? And you still delude on your
+     * "GO GET IT!!" would suddenly render one's abilities that so far they have not had the chance to build will emerge perfectly ?
       **/     
 
 
