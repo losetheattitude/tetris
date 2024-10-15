@@ -5372,6 +5372,9 @@ int main()
      * 
      * are you still begging ? Itsss tooo late!!!!
      * Still seeing violence for education inferior monkeys ?
+     * 
+     * Still thinking that what you would love to have would be a "present" for who you can not understand or would hate to
+     * see it what it is for ?
       **/     
 
 
