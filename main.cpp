@@ -5332,6 +5332,8 @@ int main()
      * Please please lie!! we good ppl!! please!! is that what you say ? and you still offer what ?
      * 
      * But do you see the stupid animals who get themselves into needless problems ?
+     * Arent you the selfish immature irresponsible monkeys ? What do you have to say other than, "EHEHEH we just do it!!!", "violence!! hatred!!" ?
+     * To a kid that you do not know ? and afterwards of which you can not even begin to elaborate ?
       **/     
 
 
