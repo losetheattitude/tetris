@@ -5378,6 +5378,8 @@ int main()
      * 
      * awww, I see why you do not want to talk about the past because you were begging as always without actually delivering anything ?
      * Its for his own good we violence !!!!!! please lie!! its for his own good we waste!!!
+     * Its for his own good, we coerce 10yo kids!!! its for his own good we try to trick 5months kids ? Is that what you say ?
+     * Talk about the latter of those times eheheh right ? Its funny right ? eeheh 
       **/     
 
 
