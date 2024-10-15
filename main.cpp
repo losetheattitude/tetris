@@ -5400,6 +5400,7 @@ int main()
      * who understands the reality, time and life etc etc, I highly doubt that
      * 
      * And "YOU CAN BEGIN!!!" eheheheh, please do not seek for harm as we have always done with you!
+     * Funny though, you still sure you know what you are doing
       **/     
 
 
