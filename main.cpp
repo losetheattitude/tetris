@@ -5347,6 +5347,7 @@ int main()
      * 
      * Still calling it what you want it to be ? awww nevermind 30 years of evidence eheheh we still like to coerce medicine and harm
      * Wait wait, whats the correlation then between "offering women" and "seeing violence as education" ? You see the vulgarity now?
+     * But do you see the vulgarity and inferiority when you are confronted with your "lies" ? Or I should say "begging" ?
       **/     
 
 
