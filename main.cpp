@@ -5326,6 +5326,8 @@ int main()
      * in the first place because you put your stupid selves into this position and lost it to a 5 months old children ?
      * And instead of fixing it as a proper human being, you have again referred to the "violence or hatred" that you brag ?
      * But you see the problem right ?
+     * 
+     * Do you see the problem inferior animals ?
       **/     
 
 
