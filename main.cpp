@@ -5356,6 +5356,8 @@ int main()
      * You also take coercion and violence for a skill, yes yes yes, thanks but I will pass the kinds of animals like you
      * 
      * Delusion is your number one skill you say ? I see eheheh
+     * and you still would love to waste your time watching and harming and doing nothing about it while also begging and taking that for a skill
+     * against someone without resources ?
       **/     
 
 
