@@ -5438,7 +5438,7 @@ int main()
      * Do you still believe you should make decisions ? Or you would rather beg with women taking that for a skill as you do with violence ?
      * Wait wait, you were saying education ehehehe ? funny right ? Still claim you are who should make decisions ?
      * But also can not explain WHAT YOU HAVE ACHIEVED WITH YOUR ENTIRELY RANDOM AND IRRELEVANT ACTIONS, but still you should make decisions
-     * and people should somehow listen ?
+     * and people should somehow listen ? ITS FUN ITS FUN! ITS FUN!! please we want harm!! ehehe poem poem!! monster! animal!! please!! get women!!
       **/     
 
 
