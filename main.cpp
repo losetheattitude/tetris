@@ -5377,6 +5377,7 @@ int main()
      * see it what it is for ?
      * 
      * awww, I see why you do not want to talk about the past because you were begging as always without actually delivering anything ?
+     * Its for his own good we violence !!!!!! please lie!! its for his own good we waste!!!
       **/     
 
 
