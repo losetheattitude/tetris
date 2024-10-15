@@ -5322,7 +5322,8 @@ int main()
      * And you also think that years of bullshit should be punishment or education but nothing other than hatred which is what is
      * making you a stupid animal can be produced ?
      * 
-     * But you see the problem right ?
+     * But you see the problem right ? Fucking stupid monkeys I say ? What do you say ? Education!!! but you are the one who lacks it
+     * in the first place because you put your stupid selves into this position and lost it to a 5 months old children ?
       **/     
 
 
