@@ -5383,6 +5383,8 @@ int main()
      * 
      * Do you want to offer more ? Or would you like enjoy your boring lives since you have no occupation to do ? And you say,
      * why not waste our time on single bullshit approach one by one, so that he can lose ? Lose what ? Time ? and you take that for a win ?
+     * 
+     * And the sole "remedy" your incompetency can produce is, "have some women" which is the most normal interaction but ? Hey, it should be fine ?
       **/     
 
 
