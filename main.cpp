@@ -5343,7 +5343,7 @@ int main()
      * But do you see the problem right ? Okay okay, now talk about the "past" and "violence" and correlation between your inferiority seeing it as education ?
      * I say irrelevant immature irresponsible ignorant monkeys, what do you say ?
      * You still say, get some women ? and you suck at your job miserably ? ehehe I guess you have forgotten to beg more ? 
-     * Now is this the time where you beg ?
+     * Now is this the time where you beg ? And guess who sees this as an achievement ? The likes of disgusting animals as you
       **/     
 
 
