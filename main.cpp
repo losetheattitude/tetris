@@ -5365,6 +5365,9 @@ int main()
      * 
      * And according to the best monkeys, its also fine to waste years and years without a reason while also presenting violence as an education
      * and guising your disgusting nature through "promises" or "begging" which entirely proves your inferior nature ?
+     * 
+     * So you still are not inclined to see that you CAN NOT ENFORCE anything on nobody, but you would just like to hide that you have done so ?
+     * that you have such and such inclanations ?
       **/     
 
 
