@@ -5432,6 +5432,8 @@ int main()
      * so we can enjoy our experiences!!! please!! awww you were saying, education etc ehehe violence ehehheeh lie lie !! please lie!!
      * 
      * And you were there but you just chose to harm and watch with relief ? and suddenly you are in the position of offering women ?
+     * So you still delude on your capable "leadership" although every single decisions you have made so far, is only detrimental and false
+     * and malign and caused only mayhem ?
       **/     
 
 
