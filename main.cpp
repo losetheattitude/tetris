@@ -5385,6 +5385,7 @@ int main()
      * why not waste our time on single bullshit approach one by one, so that he can lose ? Lose what ? Time ? and you take that for a win ?
      * 
      * And the sole "remedy" your incompetency can produce is, "have some women" which is the most normal interaction but ? Hey, it should be fine ?
+     * I am talking about time and what are you saying ?
       **/     
 
 
