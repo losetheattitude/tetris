@@ -5436,7 +5436,7 @@ int main()
      * and malign and caused only mayhem ?
      * 
      * Do you still believe you should make decisions ? Or you would rather beg with women taking that for a skill as you do with violence ?
-     * Wait wait, you were saying education ehehehe ? funny right ?
+     * Wait wait, you were saying education ehehehe ? funny right ? Still claim you are who should make decisions ?
       **/     
 
 
