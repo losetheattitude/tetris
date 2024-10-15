@@ -5407,6 +5407,7 @@ int main()
      * and begged some to guise it ?
      * 
      * Eheheh closed, closed!! no reason but its just closed!!
+     * Still after violence ? and think that you should make "sane" decisions ?
       **/     
 
 
