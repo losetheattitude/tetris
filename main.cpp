@@ -5448,6 +5448,8 @@ int main()
      * 
      * I do not want to waste my time with the kinds of animals like you who has been here so far and done nothing but harm and 
      * still delude on their virtues and be proud without a problem
+     * 
+     * Ehehehehehe please please lie lie! help! get women!! get women!! do this for us!!! you make decisions ?
       **/     
 
 
