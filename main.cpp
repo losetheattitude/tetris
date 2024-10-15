@@ -5409,6 +5409,7 @@ int main()
      * Eheheh closed, closed!! no reason but its just closed!!
      * Still after violence ? and think that you should make "sane" decisions ? Itss tooo lateee!!! Education!! education as violence!!
      * we understand life! afterlife!! you live in afterlife!! we know what time is!! its too late!!! education !!
+     * More like immature selfish spoiled children I say, what do you say ?
       **/     
 
 
