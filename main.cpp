@@ -5435,7 +5435,7 @@ int main()
      * So you still delude on your capable "leadership" although every single decisions you have made so far, is only detrimental and false
      * and malign and caused only mayhem ?
      * 
-     * Do you still believe you should make decisions ?
+     * Do you still believe you should make decisions ? Or you would rather beg with women taking that for a skill as you do with violence ?
       **/     
 
 
