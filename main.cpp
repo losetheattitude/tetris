@@ -5340,6 +5340,7 @@ int main()
      * Or you just offer as you always have done like the little inferior animal you are ?
      * 
      * Are you still telling the same narrative ? I do not accept no animals like you
+     * But do you see the problem right ? Okay okay, now talk about the "past" and "violence" and correlation between your inferiority seeing it as education ?
       **/     
 
 
