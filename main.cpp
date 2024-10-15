@@ -5380,6 +5380,9 @@ int main()
      * Its for his own good we violence !!!!!! please lie!! its for his own good we waste!!!
      * Its for his own good, we coerce 10yo kids!!! its for his own good we try to trick 5months kids ? Is that what you say ?
      * Talk about the latter of those times eheheh right ? Its funny right ? eeheh 
+     * 
+     * Do you want to offer more ? Or would you like enjoy your boring lives since you have no occupation to do ? And you say,
+     * why not waste our time on single bullshit approach one by one, so that he can lose ? Lose what ? Time ? and you take that for a win ?
       **/     
 
 
