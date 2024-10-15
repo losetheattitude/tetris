@@ -5434,6 +5434,8 @@ int main()
      * And you were there but you just chose to harm and watch with relief ? and suddenly you are in the position of offering women ?
      * So you still delude on your capable "leadership" although every single decisions you have made so far, is only detrimental and false
      * and malign and caused only mayhem ?
+     * 
+     * Do you still believe you should make decisions ?
       **/     
 
 
