@@ -5445,6 +5445,9 @@ int main()
      * 
      * No resources as the superior reasoning capability people are still asking for lies and deluding that they should decide
      * But you see the problem right ? Ehehehe violence!!! violence!!! no resources!!! what happened!!??
+     * 
+     * I do not want to waste my time with the kinds of animals like you who has been here so far and done nothing but harm and 
+     * still delude on their virtues and be proud without a problem
       **/     
 
 
