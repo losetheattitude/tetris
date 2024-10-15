@@ -5346,6 +5346,7 @@ int main()
      * Now is this the time where you beg ? And guess who sees this as an achievement ? The likes of disgusting animals as you
      * 
      * Still calling it what you want it to be ? awww nevermind 30 years of evidence eheheh we still like to coerce medicine and harm
+     * Wait wait, whats the correlation then between "offering women" and "seeing violence as education" ? You see the vulgarity now?
       **/     
 
 
