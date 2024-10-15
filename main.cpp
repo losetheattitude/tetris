@@ -5319,6 +5319,8 @@ int main()
      * AWww you delude that for being "strong" or "authoritative" or "education" ?
      * And also you delude on that people should be thankful ? what a shame though
      * Wasting time still ? Why you tend to take life lightly ? aww because you think so
+     * And you also think that years of bullshit should be punishment or education but nothing other than hatred which is what is
+     * making you a stupid animal can be produced ?
       **/     
 
 
