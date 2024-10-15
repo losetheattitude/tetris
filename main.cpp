@@ -5439,6 +5439,9 @@ int main()
      * Wait wait, you were saying education ehehehe ? funny right ? Still claim you are who should make decisions ?
      * But also can not explain WHAT YOU HAVE ACHIEVED WITH YOUR ENTIRELY RANDOM AND IRRELEVANT ACTIONS, but still you should make decisions
      * and people should somehow listen ? ITS FUN ITS FUN! ITS FUN!! please we want harm!! ehehe poem poem!! monster! animal!! please!! get women!!
+     * 
+     * I do not allow random irrelevant animals whose sole intention is to harm make any sort of assumptions or thus decisions of false nature,
+     * you just delude all as you wish
       **/     
 
 
