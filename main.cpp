@@ -5330,6 +5330,8 @@ int main()
      * Do you see the problem inferior animals ?
      * And upon losing to a kid, you have just decided to build hatred towards him and wasted so many years ? and you offer what ?
      * Please please lie!! we good ppl!! please!! is that what you say ? and you still offer what ?
+     * 
+     * But do you see the stupid animals who get themselves into needless problems ?
       **/     
 
 
