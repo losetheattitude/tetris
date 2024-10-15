@@ -5338,6 +5338,8 @@ int main()
      * And you still offer materials as you have do so for the past 30 years ?
      * Do you want to talk more about your virtues or your competency or what you like to delude ?
      * Or you just offer as you always have done like the little inferior animal you are ?
+     * 
+     * Are you still telling the same narrative ?
       **/     
 
 
