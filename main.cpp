@@ -5475,6 +5475,7 @@ int main()
      * Because if you have resources, then .... ehehehe good and funny and intelligent indeed
      * 
      * Selfish people ? I seek no relations with, especially the those who guise behind virtues incompetently
+     * you proud as well, eheheh funny indeed
       **/     
 
 
