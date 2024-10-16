@@ -5481,7 +5481,7 @@ int main()
      * You still solicit from people "sacrifice" after years ? Isnt that the stupid people of the history you think ?
      * And act like you care ?
      * 
-     * Do you even know whats the "punishment" of what you are doing ?
+     * Do you even know whats the "punishment" of what you are doing ? You would rather talk what ? eheheh sacrifice pls!!
       **/     
 
 
