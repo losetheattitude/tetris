@@ -5478,7 +5478,7 @@ int main()
      * you proud as well, eheheh funny indeed, isnt this the time you "sacrifice" your really precious experiences that you beg for with such audacity ?
      * 
      * Are you still playing games over others' lives and trying to prove everyone your competency ?
-     * You still solicit from people "sacrifice" after years ?
+     * You still solicit from people "sacrifice" after years ? Isnt that the stupid people of the history you think ?
       **/     
 
 
