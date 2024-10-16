@@ -5486,6 +5486,7 @@ int main()
      * You still call it life ? and ask for sacrifices still ? eheheh
      * 
      * I ask no biased dumb people around me, especially the ones who think they should make decisions through coercion
+     * especially the ones who think harming should solve the "extremely difficult problem" ? What was the problem ? eheheh fun indeed
       **/     
 
 
