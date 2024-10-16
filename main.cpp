@@ -5474,7 +5474,7 @@ int main()
      * Now you correlate your "highly righteous accusation" with "what I have had to" ? No resources btw!!
      * Because if you have resources, then .... ehehehe good and funny and intelligent indeed
      * 
-     * Selfish people ? I seek no relations with
+     * Selfish people ? I seek no relations with, especially the those who guise behind virtues incompetently
       **/     
 
 
