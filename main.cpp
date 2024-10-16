@@ -5487,7 +5487,7 @@ int main()
      * 
      * I ask no biased dumb people around me, especially the ones who think they should make decisions through coercion
      * especially the ones who think harming should solve the "extremely difficult problem" ? What was the problem ? eheheh fun indeed
-     * Disgusting selfish immature people
+     * Disgusting selfish immature people, who still deludes that they play games and can play over what is not their problem
       **/     
 
 
