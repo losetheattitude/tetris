@@ -5485,7 +5485,7 @@ int main()
      * Still offering ?
      * You still call it life ? and ask for sacrifices still ? eheheh
      * 
-     * I ask no biased dumb people around me
+     * I ask no biased dumb people around me, especially the ones who think they should make decisions through coercion
       **/     
 
 
