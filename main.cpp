@@ -5489,7 +5489,7 @@ int main()
      * especially the ones who think harming should solve the "extremely difficult problem" ? What was the problem ? eheheh fun indeed
      * Disgusting selfish immature people, who still deludes that they play games and can play over what is not their problem
      * 
-     * You continue deluding, do it away from my vicinity stupid monkeys
+     * You continue deluding, do it away from my vicinity stupid monkeys, especially those who think they know what they are doing
       **/     
 
 
