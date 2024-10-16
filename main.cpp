@@ -5476,6 +5476,8 @@ int main()
      * 
      * Selfish people ? I seek no relations with, especially the those who guise behind virtues incompetently
      * you proud as well, eheheh funny indeed, isnt this the time you "sacrifice" your really precious experiences that you beg for with such audacity ?
+     * 
+     * Are you still playing games over others' lives and trying to prove everyone your competency ?
       **/     
 
 
