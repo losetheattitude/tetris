@@ -5484,6 +5484,8 @@ int main()
      * Do you even know whats the "punishment" of what you are doing ? You would rather talk what ? eheheh sacrifice pls!!
      * Still offering ?
      * You still call it life ? and ask for sacrifices still ? eheheh
+     * 
+     * I ask no biased dumb people around me
       **/     
 
 
