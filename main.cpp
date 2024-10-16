@@ -5490,6 +5490,7 @@ int main()
      * Disgusting selfish immature people, who still deludes that they play games and can play over what is not their problem
      * 
      * You continue deluding, do it away from my vicinity stupid monkeys, especially those who think they know what they are doing
+     * while also being the one who can not say anything other than "BECAUSE..."
       **/     
 
 
