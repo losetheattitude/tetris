@@ -5479,6 +5479,7 @@ int main()
      * 
      * Are you still playing games over others' lives and trying to prove everyone your competency ?
      * You still solicit from people "sacrifice" after years ? Isnt that the stupid people of the history you think ?
+     * And act like you care ?
       **/     
 
 
