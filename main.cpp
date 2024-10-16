@@ -5467,7 +5467,7 @@ int main()
      * TIME IS STILL RUNNING AND YOU WOULD LOVE TO WASTE MORE ? What are you waiting for ? awwwww, its a job!! its a job!!! ?
      * Can you correlate your "excuses" with the experience I have had ? and still claim reason ?
      * 
-     * Are you still wasting time ?
+     * Are you still wasting time ? Thats the type I do not want around me, unaccountable stubborn irresponsible immature people
       **/     
 
 
