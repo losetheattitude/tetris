@@ -5470,6 +5470,8 @@ int main()
      * Are you still wasting time ? Thats the type I do not want around me, unaccountable stubborn irresponsible immature people
      * As expected from the likes of you, that you fail to use YOUR STUPID BRAINS, next time use it for better
      * All you can do is to threaten ? Thats what I thought of little people
+     * 
+     * Now you correlate your "highly righteous accusation" with "what I have had to" ? No resources btw!!
       **/     
 
 
