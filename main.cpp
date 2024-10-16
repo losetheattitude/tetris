@@ -5482,6 +5482,7 @@ int main()
      * And act like you care ?
      * 
      * Do you even know whats the "punishment" of what you are doing ? You would rather talk what ? eheheh sacrifice pls!!
+     * Still offering ?
       **/     
 
 
