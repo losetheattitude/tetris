@@ -5493,7 +5493,7 @@ int main()
      * while also being the one who can not say anything other than "BECAUSE..."
      * 
      * Still offering cars ? talk more about irrelevant violence you will see why you receive the reaction you see
-     * still think you are the go to for decisions that are not yours ?
+     * still think you are the go to for decisions that are not yours ? but you see the problem now ?
       **/     
 
 
