@@ -5491,6 +5491,8 @@ int main()
      * 
      * You continue deluding, do it away from my vicinity stupid monkeys, especially those who think they know what they are doing
      * while also being the one who can not say anything other than "BECAUSE..."
+     * 
+     * Still offering cars ?
       **/     
 
 
