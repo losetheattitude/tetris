@@ -5508,6 +5508,7 @@ int main()
      * And you are still here claiming that you should make decisions, try to explain my experience and correlate your irrelevant existence with such life
      * You still think you are teaching ? 
      * Irrelevant ppl eheheh, still wasting time with supposedly right excuses ? and talk about your greatness 
+     * Still looking for lies through begging or offers! 
       **/     
 
 
