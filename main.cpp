@@ -5514,6 +5514,7 @@ int main()
      * Also add to your "will be explained" lists the "no resources" genius approach, fucking monkeys
      * 
      * Are you still enjoying your irrelevant experiences through "conversation" that you have no relation with ?
+     * Are you still talking about "afterlife" and enjoying your experiences ?
       **/     
 
 
