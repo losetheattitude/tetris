@@ -5526,6 +5526,7 @@ int main()
      * 
      * Do you want to talk about your credibility ?
      * Ehhehe, he does not need anything because he does not do anything because we violent disgusting animals ?
+     * Who does not respect to "human rights" while taking "acting the most stupid way" for being intelligent and beg with offers ?
      * 
       **/     
 
