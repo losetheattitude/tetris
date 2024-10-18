@@ -5528,6 +5528,8 @@ int main()
      * Ehhehe, he does not need anything because he does not do anything because we violent disgusting animals ?
      * Who does not respect to "human rights" while taking "acting the most stupid way" for being intelligent and beg with offers ?
      * 
+     * Still claiming sanity and allege that you be taken serious ? While you are the sole entity who can not account for its behavior
+     * other than saying "ITS LIFE!!!" ? Thats why you should not make any decisions that you do not pay for right ?
       **/     
 
 
