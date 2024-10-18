@@ -5510,6 +5510,7 @@ int main()
      * Irrelevant ppl eheheh, still wasting time with supposedly right excuses ? and talk about your greatness 
      * Still looking for lies through begging or offers! Talk about the time hehh
      * Are you still begging with the "time does not exist", "afterlife will be good!!!", "he goes to heaven ?", you start to do the same things dumb animal
+     * instead of advicing and secure your well deserved spot on the heaven ? Aww you too clever for that arent you
       **/     
 
 
