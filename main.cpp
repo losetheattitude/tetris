@@ -5517,6 +5517,7 @@ int main()
      * Are you still talking about "afterlife" and enjoying your experiences ? Ehehehehe what is the pattern ?
      * Still offering women ? eheheh whats the pattern dumb animals ? ehehehehe afterlife 
      * Though you would still see no problem asking for lies and say afterlife and also beg through women or offers ?
+     * Do you want to talk about time ? or violence ? or how you avoid responsibility through bullshit that only works with inferior such as yourselves ?
      * 
       **/     
 
