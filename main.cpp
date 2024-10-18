@@ -5522,6 +5522,7 @@ int main()
      * Whats the pattern do you say ? You say get women and tell lies for us ?
      * You still offer women ignoring what it means to entertain such a thing ?
      * Are you still hiding behind your insufficient intelligence ?
+     * You call bullying a lesson ? eheheh whats the pattern insufficient people ?
      * 
       **/     
 
