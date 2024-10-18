@@ -5524,6 +5524,8 @@ int main()
      * Are you still hiding behind your insufficient intelligence ?
      * You call bullying a lesson ? eheheh whats the pattern insufficient people ? Who do you think needs education in this context insufficient people ?
      * 
+     * Do you want to talk about your credibility ?
+     * 
       **/     
 
 
