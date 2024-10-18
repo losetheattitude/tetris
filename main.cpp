@@ -5506,7 +5506,8 @@ int main()
      * 
      * Life does not work like you would love to delude about as you do with other things as well, lets forget about our past!!! ehhe because we done bad and we guilty!! pls lie!!
      * And you are still here claiming that you should make decisions, try to explain my experience and correlate your irrelevant existence with such life
-     * You still think you are teaching ?
+     * You still think you are teaching ? 
+     * Irrelevant ppl eheheh
       **/     
 
 
