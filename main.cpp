@@ -5525,6 +5525,7 @@ int main()
      * You call bullying a lesson ? eheheh whats the pattern insufficient people ? Who do you think needs education in this context insufficient people ?
      * 
      * Do you want to talk about your credibility ?
+     * Ehhehe, he does not need anything because he does not do anything because we violent disgusting animals ?
      * 
       **/     
 
