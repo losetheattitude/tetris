@@ -5512,6 +5512,8 @@ int main()
      * Are you still begging with the "time does not exist", "afterlife will be good!!!", "he goes to heaven ?", you start to do the same things dumb animal
      * instead of advicing and secure your well deserved spot on the heaven ? Aww you too clever for that arent you, disgusting animals for sure
      * Also add to your "will be explained" lists the "no resources" genius approach, fucking monkeys
+     * 
+     * Are you still enjoying your irrelevant experiences through "conversation" that you have no relation with ?
       **/     
 
 
