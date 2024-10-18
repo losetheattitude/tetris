@@ -5511,6 +5511,7 @@ int main()
      * Still looking for lies through begging or offers! Talk about the time hehh
      * Are you still begging with the "time does not exist", "afterlife will be good!!!", "he goes to heaven ?", you start to do the same things dumb animal
      * instead of advicing and secure your well deserved spot on the heaven ? Aww you too clever for that arent you, disgusting animals for sure
+     * Also add to your "will be explained" lists the "no resources" genius approach, fucking monkeys
       **/     
 
 
