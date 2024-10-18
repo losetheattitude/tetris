@@ -5521,6 +5521,7 @@ int main()
      * Did you just say, afterlife and get women and ask for lies ?
      * Whats the pattern do you say ? You say get women and tell lies for us ?
      * You still offer women ignoring what it means to entertain such a thing ?
+     * Are you still hiding behind your insufficient intelligence ?
      * 
       **/     
 
