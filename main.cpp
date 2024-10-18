@@ -5509,6 +5509,7 @@ int main()
      * You still think you are teaching ? 
      * Irrelevant ppl eheheh, still wasting time with supposedly right excuses ? and talk about your greatness 
      * Still looking for lies through begging or offers! Talk about the time hehh
+     * Are you still begging with the "time does not exist", "afterlife will be good!!!", "he goes to heaven ?", you start to do the same things dumb animal
       **/     
 
 
