@@ -5519,6 +5519,7 @@ int main()
      * Though you would still see no problem asking for lies and say afterlife and also beg through women or offers ?
      * Do you want to talk about time ? or violence ? or how you avoid responsibility through bullshit that only works with inferior such as yourselves ?
      * Did you just say, afterlife and get women and ask for lies ?
+     * Whats the pattern do you say ?
      * 
       **/     
 
