@@ -5532,6 +5532,7 @@ int main()
      * other than saying "ITS LIFE!!!" ? Thats why you should not make any decisions that you do not pay for right ?
      * Awwww, you would hate talking about what makes you the most disgusting criminal ?
      * And you also delude on my "understanding" of your intentions while you are the quite opposite of anything of honorable nature ?
+     * And you would love to overlook the time that has passed with your stupid excuses and delude also that it be okay regardless of its lack of reasonable explanations
       **/     
 
 
