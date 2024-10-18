@@ -5520,6 +5520,7 @@ int main()
      * Do you want to talk about time ? or violence ? or how you avoid responsibility through bullshit that only works with inferior such as yourselves ?
      * Did you just say, afterlife and get women and ask for lies ?
      * Whats the pattern do you say ? You say get women and tell lies for us ?
+     * You still offer women ignoring what it means to entertain such a thing ?
      * 
       **/     
 
