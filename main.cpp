@@ -5501,6 +5501,7 @@ int main()
      * FALSE IMAGES AND WHAT THEY CAN LEAD TO
      * scarry stuff indeed, do what you have to do other than begging inferiorly through threats or offers as you would like to call them
      * with your disgustingly inferior nature, awwww itss tooo latee!!! get cars! get women!! do this or you get hurt!! ?
+     * What changed btw ? What did you gain ?
       **/     
 
 
