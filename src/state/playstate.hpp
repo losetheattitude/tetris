@@ -21,7 +21,7 @@ public:
         if(game.level->ShouldLevelUp()){
             game.level->AdjustLevel();
         }
-
+ 
         if(game.level->ShouldTick()){
             this->factory->MakeSingleton(CommandType::TICK)
                 ->Execute();
