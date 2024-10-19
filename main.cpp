@@ -30,7 +30,8 @@ int main()
      * IsState queries in the game class dont comply with Open-Closed principle 
      * 
      * 
-     * What happened ?
+     * What happened ? Can you now only beg for silence ? Why is that ? Its the same group of stupid animals who get themselves into the very same situation
+     * but they made it into a habit harming others and getting away with because they are facing "superior" unlike the disgusting entities that commit ?
       **/     
 
 
