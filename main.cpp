@@ -62,6 +62,8 @@ int main()
      * Talk a little bit more about VIOLENCE I say, what do you say ? forget about the past!! please!! please!!! forget about the past!!
      * I say irresponsible immature monkeys ? What do you say ?
      * Awww you offer womenn ? you say ? and what happened back then ? eheheheh please please!! lie lie!!
+     * 
+     * What was the experience btw ? ehehe no resources!!! please!!! no resources!!! lie!! lie!!! pls!!! ehehe violence!!! pls!!
       **/     
      
 
