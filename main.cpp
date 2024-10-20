@@ -47,6 +47,7 @@ int main()
      * Did you just say "afterlife" ? But you still would like to enjoy your experience ? and harm people who you neither have relation nor any rights whatsoever ?
      * and you still think that its funny
      * Disgustingly immature and selfish and greedy I say, what do you say ? Awww you are only begging ?
+     * Please assault people so that we can prove our honorable conduct!!!! hehehe
       **/     
      
 
