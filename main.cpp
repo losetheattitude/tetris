@@ -80,6 +80,9 @@ int main()
      * And go on to brag about your nonexistent what ? eheheh extremely fun stuff indeed, especially the part where you delude that you are entitled to make decisions
      * that are not related to you and hope that it be okay
      * as you can guess though with your unseen intelligence, I want no animal around me like that
+     * 
+     * Especially the part where you delude on your justification of irrelevant decisions of malign nature and "still making offers" ? ehehehe 30 years eheheh fun stuff
+     * pls no harm, pls we want live!!! no harm ehehe 
       **/     
      
 
