@@ -101,6 +101,7 @@ int main()
      * Awwwwww itsss toooo laaatee!!!! please!!! its a lot easier to make some offers btw ehehehe its kinda of life and fate at the same time heheheheh pls pls
      * lie lie!! lie!!lie!!
      * Ehehehe we made lying into a huge habit that we take for intelligence!!!! is what you say ? I say animals ?
+     * I say animals who like harming, what do you say ? eheheh pls lie!! lie! lie!!lie!! we like insulting!! lie!!
      * 
       **/     
      
