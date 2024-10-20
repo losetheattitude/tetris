@@ -109,6 +109,7 @@ int main()
      * calm down!! calm down!! we want to harm pls!! lie!! eheheh great nation ehehehe please!
      * 
      * Do you want to talk about what ? ehehe honor!! religious!! family!!! justice!!! which one do you think you possess ? eheheheh fun right ?
+     * Lie!! lie!! please!!! lie!!! we enemy!! lie!!!
       **/     
      
 
