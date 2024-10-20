@@ -61,6 +61,7 @@ int main()
      * Talk more about violence and religion and virtue eheheh also some intelligence then proceed with your beggings
      * Talk a little bit more about VIOLENCE I say, what do you say ? forget about the past!! please!! please!!! forget about the past!!
      * I say irresponsible immature monkeys ? What do you say ?
+     * Awww you offer womenn ? you say ? and what happened back then ? eheheheh please please!! lie lie!!
       **/     
      
 
