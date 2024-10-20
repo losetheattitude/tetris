@@ -32,6 +32,8 @@ int main()
      * 
      * What happened ? Can you now only beg for silence ? Why is that ? Its the same group of stupid animals who get themselves into the very same situation
      * but they made it into a habit harming others and getting away with because they are facing "superior" unlike the disgusting entities that commit ?
+     * 
+     * So you say you would rather beg for preserving what you do not deserve ? and some violence and threats and etc
       **/     
 
 
