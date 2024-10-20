@@ -92,6 +92,8 @@ int main()
      * and when the time comes, provides no reasonable explanations other than trivial irrelevant immature excuses ? and still demand that they be taken serious ?
      * eheheh forget about the past please!!!!!!! time does not exist! we take ourselves to be the single creature that understand the life!!! and we still call it fate!
      * 
+     * Still after the same narrative that even your inferior nature knows that its insubstantial ?
+     * 
       **/     
      
 
