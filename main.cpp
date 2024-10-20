@@ -79,6 +79,7 @@ int main()
      * So you still claim that you understand life ? Isnt that cute ? Eheheh I call that being a simple stupid animal, you still offering ?
      * And go on to brag about your nonexistent what ? eheheh extremely fun stuff indeed, especially the part where you delude that you are entitled to make decisions
      * that are not related to you and hope that it be okay
+     * as you can guess though with your unseen intelligence, I want no animal around me like that
       **/     
      
 
