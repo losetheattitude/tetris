@@ -45,7 +45,8 @@ int main()
      * Its fate btw help btw!! help lie!! lie!! I say selfish immature irresponsible conceited animal, what do you say ?
      * pls pls we do not want to get harmed lie!! lie!! help lie!!, what do you say ? awww you say intelligence hehehehh
      * Did you just say "afterlife" ? But you still would like to enjoy your experience ? and harm people who you neither have relation nor any rights whatsoever ?
-     * and you still think that its funny 
+     * and you still think that its funny
+     * Disgustingly immature and selfish and greedy I say, what do you say ? Awww you are only begging ?
       **/     
      
 
