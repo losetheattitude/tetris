@@ -50,6 +50,7 @@ int main()
      * Please assault people so that we can prove our honorable conduct!!!! hehehe
      * 
      * Please lie!! lie!! lie!!!eheheh assault!! harm!! pls!!! we need our precious experiences!!
+     * try to explain your conduct eheheh I say, what do you say ?ehehehe please please lie !! lie!!! we intelligent!!
       **/     
      
 
