@@ -113,7 +113,9 @@ int main()
      * 
      * Please please forget about the past, do not mention pls!!! eheheheh
      * hehe you havent achieved anything other than causing mayhem ehehehhe pls pls lie!! get women!!! lie!!
+     * you like harming ? but also "forget about the past" ?
       **/     
+
      
 
 
