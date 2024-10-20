@@ -103,6 +103,8 @@ int main()
      * Ehehehe we made lying into a huge habit that we take for intelligence!!!! is what you say ? I say animals ?
      * I say animals who like harming, what do you say ? eheheh pls lie!! lie! lie!!lie!! we like insulting!! lie!!
      * 
+     * Itss too late!!! eheheh we informed educated immature animals still think we should make decisions!! please!!! get women!!!
+     * 
       **/     
      
 
