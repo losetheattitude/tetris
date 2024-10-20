@@ -93,6 +93,7 @@ int main()
      * eheheh forget about the past please!!!!!!! time does not exist! we take ourselves to be the single creature that understand the life!!! and we still call it fate!
      * 
      * Still after the same narrative that even your inferior nature knows that its insubstantial ?
+     * And you demand credibility also ? ehehehehhe what a shame 
      * 
       **/     
      
