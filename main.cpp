@@ -43,7 +43,7 @@ int main()
      * and you still there demanding to be taken into consideration ?
      * and you still think you should play stupid games over someone else's life and ignore the truth ? 
      * Its fate btw help btw!! help lie!! lie!! I say selfish immature irresponsible conceited animal, what do you say ?
-     * pls pls we do not want to get harmed lie!! lie!! help lie!!, what do you say ?
+     * pls pls we do not want to get harmed lie!! lie!! help lie!!, what do you say ? awww you say intelligence hehehehh
       **/     
      
 
