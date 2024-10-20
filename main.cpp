@@ -110,6 +110,8 @@ int main()
      * 
      * Do you want to talk about what ? ehehe honor!! religious!! family!!! justice!!! which one do you think you possess ? eheheheh fun right ?
      * Lie!! lie!! please!!! lie!!! we enemy!! lie!!!
+     * 
+     * Please please forget about the past, do not mention pls!!! eheheheh
       **/     
      
 
