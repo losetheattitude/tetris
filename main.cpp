@@ -28,7 +28,7 @@ int main()
      * Stateful joystick (indeterminate due to current command and future observer pattern implementation) to grant player 
      * limited reversing ability (checkpoints to connotate). Requires mapping of opposite commands
      * IsState queries in the game class dont comply with Open-Closed principle 
-     * 
+     *  
      * 
      * What happened ? Can you now only beg for silence ? Why is that ? Its the same group of stupid animals who get themselves into the very same situation
      * but they made it into a habit harming others and getting away with because they are facing "superior" unlike the disgusting entities that commit ?
@@ -42,7 +42,7 @@ int main()
      * and you would also like to ignore what has been told to you multiple times that "YOU ARE NOT RELEVANT AND I DO NOT WANT TO HEAR ANYTHING YOU COULD SAY ?"
      * and you still there demanding to be taken into consideration ?
      * and you still think you should play stupid games over someone else's life and ignore the truth ? 
-     * Its fate btw
+     * Its fate btw help btw!! help lie!! lie!!
       **/     
      
 
