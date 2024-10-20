@@ -100,6 +100,7 @@ int main()
      * I say I do not accept your stupid excuses to delude on your entitlement of what is not your concern ? What do you say ?
      * Awwwwww itsss toooo laaatee!!!! please!!! its a lot easier to make some offers btw ehehehe its kinda of life and fate at the same time heheheheh pls pls
      * lie lie!! lie!!lie!!
+     * Ehehehe we made lying into a huge habit that we take for intelligence!!!! is what you say ? I say animals ?
      * 
       **/     
      
