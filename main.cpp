@@ -98,7 +98,8 @@ int main()
      * 
      * Are you still begging so that your disgusting nature would stay hidden ?
      * I say I do not accept your stupid excuses to delude on your entitlement of what is not your concern ? What do you say ?
-     * Awwwwww itsss toooo laaatee!!!! please!!! its a lot easier to make some offers btw ehehehe
+     * Awwwwww itsss toooo laaatee!!!! please!!! its a lot easier to make some offers btw ehehehe its kinda of life and fate at the same time heheheheh pls pls
+     * lie lie!! lie!!lie!!
      * 
       **/     
      
