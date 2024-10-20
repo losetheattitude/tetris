@@ -73,6 +73,7 @@ int main()
      * Say this for us!! do this and you get this!! ehehe intelligence!! intelligence!!! we try to prove points to you, is what you say ? 
      * Be silent!!!! eehe lie lie lie!!! get women!! get violence!!
      * Awww you just say you are irrelevant immature people who have nothing to do other than harming and being proud of such ?
+     * You take that for a job and call it a good aim ? and start asking for lies immediately ? you see the pattern ?
       **/     
      
 
