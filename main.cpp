@@ -34,6 +34,7 @@ int main()
      * but they made it into a habit harming others and getting away with because they are facing "superior" unlike the disgusting entities that commit ?
      * 
      * So you say you would rather beg for preserving what you do not deserve ? and some violence and threats and etc
+     * and also some offers and promises and religion etc you say
       **/     
 
 
