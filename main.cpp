@@ -70,6 +70,7 @@ int main()
      * Eheheh have some woooomeeeennnn!!!!! Forget about the past!!! ehehehe have some womeeen!!
      * 
      * Talk more about resources and their correlation to your honorable aim 
+     * Say this for us!! do this and you get this!! ehehe intelligence!! intelligence!!! we try to prove points to you, is what you say ? 
       **/     
      
 
