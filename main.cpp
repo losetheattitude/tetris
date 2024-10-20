@@ -64,6 +64,7 @@ int main()
      * Awww you offer womenn ? you say ? and what happened back then ? eheheheh please please!! lie lie!!
      * 
      * What was the experience btw ? ehehe no resources!!! please!!! no resources!!! lie!! lie!!! pls!!! ehehe violence!!! pls!!
+     * Everytime though you reduce to your own nature somehow ? talk more aobut violence instead of asking for lies, you can then understand ehehhe fun right ?
       **/     
      
 
