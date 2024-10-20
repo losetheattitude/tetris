@@ -44,7 +44,7 @@ int main()
      * and you still think you should play stupid games over someone else's life and ignore the truth ? 
      * Its fate btw help btw!! help lie!! lie!! I say selfish immature irresponsible conceited animal, what do you say ?
      * pls pls we do not want to get harmed lie!! lie!! help lie!!, what do you say ? awww you say intelligence hehehehh
-     * Did you just say "afterlife" ? But you still would like to enjoy your experience ?
+     * Did you just say "afterlife" ? But you still would like to enjoy your experience ? and harm people who you neither have relation nor any rights whatsoever ?
       **/     
      
 
