@@ -71,6 +71,7 @@ int main()
      * 
      * Talk more about resources and their correlation to your honorable aim 
      * Say this for us!! do this and you get this!! ehehe intelligence!! intelligence!!! we try to prove points to you, is what you say ? 
+     * Be silent!!!! eehe lie lie lie!!! get women!! get violence!!
       **/     
      
 
