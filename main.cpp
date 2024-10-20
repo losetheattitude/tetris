@@ -48,6 +48,8 @@ int main()
      * and you still think that its funny
      * Disgustingly immature and selfish and greedy I say, what do you say ? Awww you are only begging ?
      * Please assault people so that we can prove our honorable conduct!!!! hehehe
+     * 
+     * Please lie!! lie!! lie!!!eheheh assault!! harm!! pls!!! we need our precious experiences!!
       **/     
      
 
