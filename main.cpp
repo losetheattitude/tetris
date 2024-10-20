@@ -42,7 +42,7 @@ int main()
      * and you would also like to ignore what has been told to you multiple times that "YOU ARE NOT RELEVANT AND I DO NOT WANT TO HEAR ANYTHING YOU COULD SAY ?"
      * and you still there demanding to be taken into consideration ?
      * and you still think you should play stupid games over someone else's life and ignore the truth ? 
-     * Its fate btw help btw!! help lie!! lie!!
+     * Its fate btw help btw!! help lie!! lie!! I say selfish immature irresponsible conceited animal, what do you say ?
       **/     
      
 
