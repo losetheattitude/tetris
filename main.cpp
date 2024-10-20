@@ -105,6 +105,7 @@ int main()
      * 
      * Itss too late!!! eheheh we informed educated immature animals still think we should make decisions!! please!!! get women!!!
      * Lie!! lie!!! we want to enjoy!! lie!! please!! we good ppl!!
+     * eheheh its your time!! please!! do not hurt!! no harm!! forget the past! please!!! lie!!!
       **/     
      
 
