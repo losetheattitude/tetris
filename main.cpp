@@ -76,7 +76,7 @@ int main()
      * You take that for a job and call it a good aim ? and start asking for lies immediately ? you see the pattern ?
      * and you even go as far as calling your irrelevant actions "purposeful ?"
      * and suddenly you become the most stupid animal by thinking that "forget about the past" should solve everything, is that the great understanding of life ?
-     * So you still claim that you understand life ? Isnt that cute ? Eheheh I call that being a simple stupid animal
+     * So you still claim that you understand life ? Isnt that cute ? Eheheh I call that being a simple stupid animal, you still offering ?
       **/     
      
 
