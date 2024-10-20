@@ -104,7 +104,7 @@ int main()
      * I say animals who like harming, what do you say ? eheheh pls lie!! lie! lie!!lie!! we like insulting!! lie!!
      * 
      * Itss too late!!! eheheh we informed educated immature animals still think we should make decisions!! please!!! get women!!!
-     * 
+     * Lie!! lie!!! we want to enjoy!! lie!! please!! we good ppl!!
       **/     
      
 
