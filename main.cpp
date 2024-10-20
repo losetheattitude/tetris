@@ -67,7 +67,7 @@ int main()
      * Everytime though you reduce to your own nature somehow ? talk more aobut violence instead of asking for lies, you can then understand ehehhe fun right ?
      * You feel like you are doing something very useful you say ? ehehe that may be the problem
      * and you solicit lies after years and years of evidence both proving your inferiority and lies ?
-     * Eheheh have some woooomeeeennnn!!!!!
+     * Eheheh have some woooomeeeennnn!!!!! Forget about the past!!! ehehehe have some womeeen!!
       **/     
      
 
