@@ -112,6 +112,7 @@ int main()
      * Lie!! lie!! please!!! lie!!! we enemy!! lie!!!
      * 
      * Please please forget about the past, do not mention pls!!! eheheheh
+     * hehe you havent achieved anything other than causing mayhem ehehehhe pls pls lie!! get women!!! lie!!
       **/     
      
 
