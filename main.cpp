@@ -48,7 +48,7 @@ int main()
      * talk more about your prior actions before you start talking as if you are a sane honorable individual who needs to be taken serious
      * also remember not to beg more next time
      * beg more to keep it on the low and do not include anyone who can fuck up your incompetent lies, fucking stupid monkeys, religion btw indeed 
-     * talk more about the life ehehehe
+     * talk more about the life ehehehe beg with materials as thats who you are, most religious
       **/     
 
      
