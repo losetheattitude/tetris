@@ -46,6 +46,7 @@ int main()
      * like you value religion and honest as well
      * 
      * talk more about your prior actions before you start talking as if you are a sane honorable individual who needs to be taken serious
+     * also remember not to beg more next time
       **/     
 
      
