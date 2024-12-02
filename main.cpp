@@ -41,6 +41,7 @@ int main()
      * and still think you should make decisions because you have this or you are right because etc etc
      * 
      * You would hate to remember your beggings to little children eheheh lifes over lifes good we fair we good we just
+     * remind yourselves the "skillful coercions as well" eheheh
       **/     
 
      
