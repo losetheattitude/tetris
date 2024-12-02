@@ -44,6 +44,8 @@ int main()
      * remind yourselves the "skillful coercions as well" eheheh, may be you should not ask for lies "FROM ME" eehehe, fun stuff right, I would say disgusting cheap animals
      * eheh, may be you should first talk about coercions to which you later on provide as "proof" for your violence ? not cheap btw, and definitely the family is important
      * like you value religion and honest as well
+     * 
+     * talk more about your prior actions before you start talking as if you are a sane honorable individual who needs to be taken serious
       **/     
 
      
