@@ -51,6 +51,7 @@ int main()
      * talk more about the life ehehehe beg with materials as thats who you are, most religious
      * 
      * Most skillful indeed, we re your family!!!! plss family!!!! eheheh, we represent god!! we good religion ehhehehe pls pls 
+     * most skillful indeed you can decide to harm, fucking dumb animals
       **/     
 
      
