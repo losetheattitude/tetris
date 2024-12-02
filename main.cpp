@@ -31,6 +31,8 @@ int main()
      * 
      * There is no such a thing as memory reboot, you pay for your own actions and things that you said you will but you havent, then you continue living your
      * own disgusting life and do not engage ever with thing you are not even closely alike
+     * You lose your really precious limbs "that you religiously promised to" eheheh funny religious people who is afraid of violence and so wield it as leverage
+     * 
       **/     
 
      
