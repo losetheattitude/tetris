@@ -35,6 +35,7 @@ int main()
      * 
      * As you can guess, it will be %10000000000000000000000 chance violence for dumb religious people
      * eheheh we talk like this, we good efficient professional doctors eheheheh pls pls money pls life we want live eheheh
+     * fucking worthless beggars
       **/     
 
      
