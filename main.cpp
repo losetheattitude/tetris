@@ -42,7 +42,8 @@ int main()
      * 
      * You would hate to remember your beggings to little children eheheh lifes over lifes good we fair we good we just
      * remind yourselves the "skillful coercions as well" eheheh, may be you should not ask for lies "FROM ME" eehehe, fun stuff right, I would say disgusting cheap animals
-     * eheh, may be you should first talk about coercions to which you later on provide as "proof" for your violence ?
+     * eheh, may be you should first talk about coercions to which you later on provide as "proof" for your violence ? not cheap btw, and definitely the family is important
+     * like you value religion and honest as well
       **/     
 
      
