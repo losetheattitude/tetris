@@ -33,6 +33,7 @@ int main()
      * own disgusting life and do not engage ever with thing you are not even closely alike
      * You lose your really precious limbs "that you religiously promised to" eheheh funny religious people who is afraid of violence and so wield it as leverage
      * 
+     * As you can guess, it will be %10000000000000000000000 chance violence for dumb religious people
       **/     
 
      
