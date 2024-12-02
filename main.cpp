@@ -38,6 +38,7 @@ int main()
      * fucking worthless beggars
      * 
      * Remind yourselves the begging promises you make to a child and teen and adult, then start talking about why you are so right etc
+     * and still think you should make decisions because you have this or you are right because etc etc
       **/     
 
      
