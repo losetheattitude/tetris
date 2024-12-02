@@ -39,6 +39,8 @@ int main()
      * 
      * Remind yourselves the begging promises you make to a child and teen and adult, then start talking about why you are so right etc
      * and still think you should make decisions because you have this or you are right because etc etc
+     * 
+     * You would hate to remember your beggings to little children eheheh lifes over lifes good we fair we good we just
       **/     
 
      
