@@ -66,6 +66,7 @@ int main()
      * ehehhehe
      * 
      * not the homo sapiens who think they play games until they are told somehow THEY ARE WRONG
+     * not the homo sapiens who think playing nonexistent stupid games over others lifes is "badass" and people are afraid because of it, guess what ?
       **/      
 
      
