@@ -95,7 +95,7 @@ int main()
      * women and cars ehehehe time an illusion !!!! no emotions, "WE DO NOT EMOTION!!!"
      * life so simple!!!! eheheh we not emotional we see everything!!!
      * 
-     * You delude on others stupidity and DO NOT SURPRISE AT THE OUTCOME EVENTUALLY ONE WAY OR OTHER
+     * You delude on others stupidity and DO NOT SURPRISE AT THE OUTCOME EVENTUALLY ONE WAY OR OTHER, you will wish it was a joke
       **/      
 
      
