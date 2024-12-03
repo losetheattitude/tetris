@@ -91,6 +91,7 @@ int main()
      * Its just for the sake of "ehehehehe", violence good, threats nice!! we like harm!!
      * regrets ehehehehehhe
      * 
+     * The most simple thing yet we still wait and expect some other to do "WHAT" ?
       **/      
 
      
