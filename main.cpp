@@ -103,7 +103,7 @@ int main()
      * still threat, "YOU ATE IT!! YOU ATE IT!!!" Collect more untruthful "evidences" and hope that you do not get hurt while doing your stupidity to people
      * who you do not understand,
      * 
-     * Were you the good people ?
+     * Were you the good people ? Were you the sane group who had what it takes to "DECIDE" ?
       **/      
 
      
