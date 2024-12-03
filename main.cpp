@@ -74,6 +74,8 @@ int main()
      * the very same sapiens who their superior would not even consider wasting one second with them, take a look at the history assess your stupidity
      * simplicity is definitely the way to go ehehhe, chase more simple emotions ehehhehe violence we like harm eheheh pls pls lie forget ehheh
      * eheheheh look how clever we are !!! ehehhehe we think nobody gets it heheheheheh pls pls hhehe
+     * 
+     * This is as far as it could even go in engagement wise, you are just insignificant people to me
       **/      
 
      
