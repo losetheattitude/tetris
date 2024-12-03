@@ -96,6 +96,8 @@ int main()
      * life so simple!!!! eheheh we not emotional we see everything!!!
      * 
      * You delude on others stupidity and DO NOT SURPRISE AT THE OUTCOME EVENTUALLY ONE WAY OR OTHER, you will wish it was a joke
+     * Talk more about time think more on violence and try to foresee what would one do under your stupid disgusting directionless behavior, I do not even care
+     * about your lives or your believes or your opinions, until you are in the same position. There can be no remedy
       **/      
 
      
