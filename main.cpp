@@ -87,6 +87,7 @@ int main()
      * most fearful indeed! disgusting beggers
      * you communicate human language or ITS A PARTY!!! ehehehehhe pls pls pls, thats the sapiens part of yours
      * eheheh take life for game more, dumb animals, threats btw
+     * wasting something we do not even know!!!!!! sapiens not INDEED!!
      * 
       **/      
 
