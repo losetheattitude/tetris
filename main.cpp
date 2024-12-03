@@ -110,6 +110,7 @@ int main()
      * 
      * 
      * I HAVE NO INTENTION TO WASTE MY TIME WITH WHATEVER YOU COULD POSSIBlY FORM ? Do you even follow great religion and great nation and great people ?
+     * May be you can actually notice what a stupid animal you are this way
       **/      
 
      
