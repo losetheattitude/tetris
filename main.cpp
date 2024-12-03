@@ -120,6 +120,7 @@ int main()
      * OBLIVIOUS STUBBORN ANIMALS WHO CAN NOT GET THAT THEY WONT ARRIVE TO ANYWHERE WITH THAT "BEHAVIOUR", only stupid outcomes as you have right now
      * The sapiens who take animations for what they do not mean, you see what you have achieved ? NOTHING, but you are still the one offering materials
      * Thats success indeed, begging success, begging to children eheheh religious most indeed
+     * Arent you disgusted and afraid ? Aww thats why you take violence for precaution ? eheheh fun stuff religious people
       **/      
 
      
