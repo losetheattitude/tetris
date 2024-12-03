@@ -101,7 +101,9 @@ int main()
      * 
      * You understand whatever you have done so far HAVE ACHIEVED NOTHING BUT ANIMOSITY, so really really congrats
      * still threat, "YOU ATE IT!! YOU ATE IT!!!" Collect more untruthful "evidences" and hope that you do not get hurt while doing your stupidity to people
-     * who you do not understand
+     * who you do not understand,
+     * 
+     * Were you the good people ?
       **/      
 
      
