@@ -112,7 +112,7 @@ int main()
      * I HAVE NO INTENTION TO WASTE MY TIME WITH WHATEVER YOU COULD POSSIBlY FORM ? Do you even follow great religion and great nation and great people ?
      * May be you can actually notice what a stupid animal you are this way, still offering women and smiling expecting no problems at all ?
      * The very simple people who anyone would love to repel as the lack of understanding is on the nonexistent level
-     * You still do not understand the part where what you would not consider baring IS GOING TO HAPPEN ?
+     * You still do not understand the part where what you would not consider baring IS GOING TO HAPPEN ? Awww, that would be too bad for you all ? Why anyone should care ?
       **/      
 
      
