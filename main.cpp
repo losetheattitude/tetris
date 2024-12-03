@@ -64,6 +64,7 @@ int main()
      * as we are like the inferior homo sapiens we are ?) not the homo sapiens that think they can compensate everything heheheh
      * eheheh not the homo sapiens who think they are doing something, they can not even explain other than saying irrelevant things ehehhehe pls pls pls pls ehehhe
      * ehehhehe
+     * not the homo sapiens who think they play games
       **/      
 
      
