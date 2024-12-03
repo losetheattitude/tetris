@@ -93,6 +93,7 @@ int main()
      * 
      * The most simple thing yet we still wait and expect some other to do "WHAT" ?
      * women and cars ehehehe time an illusion !!!! no emotions, "WE DO NOT EMOTION!!!"
+     * life so simple!!!! eheheh we not emotional we see everything!!!
       **/      
 
      
