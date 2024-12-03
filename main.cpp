@@ -71,6 +71,7 @@ int main()
      * not the homo sapiens who can not predict what their actions would entail, the sapiens who delude on what they have caused is "GOOD", whats my experience like ? eheheh
      * Thats most useful for everyone, the same sapiens who take everyone for themselves
      * the sapiens who appear and act entirely childish ehhehehe, pls pls pls 
+     * the very same sapiens who their superior would not even consider wasting one second with them, take a look at the history assess your stupidity
       **/      
 
      
