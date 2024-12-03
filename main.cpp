@@ -104,7 +104,7 @@ int main()
      * who you do not understand,
      * 
      * Were you the good people ? Were you the sane group who had what it takes to "DECIDE" ? Look at your stupid decisions and their outcomes and what they have produced
-     * Were you what ? 
+     * Were you what ?  Eheheheh we take it baack!!! ehehhe pls pls 
       **/      
 
      
