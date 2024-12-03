@@ -54,6 +54,8 @@ int main()
      * most skillful indeed you can decide to harm, fucking dumb animals
      * most skillful as well that you think you should make irrelevant decisions because you are some sort of religious entity ehehehhe 
      * eheheh do you love your life ? just as I thought what you are, you are a desperate fearful animal who takes violence for threat or education, what a correlation eheh
+     * 
+     * Try to lie to people before me, who knows what is what
       **/     
 
      
