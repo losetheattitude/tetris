@@ -62,6 +62,8 @@ int main()
      * not the never learning homo sapiens who chases emotional disgust without even knowing it ehehheheheh pls pls pls we like harm ehhehe
      * eheh forget about the past heheh pls pls heheheh, ehehehe violence violence hehehe stay silent heheh forget about the past, (wait!! he is not as afraid
      * as we are like the inferior homo sapiens we are ?) not the homo sapiens that think they can compensate everything heheheh
+     * eheheh not the homo sapiens who think they are doing something, they can not even explain other than saying irrelevant things ehehhehe pls pls pls pls ehehhe
+     * ehehhehe
       **/      
 
      
