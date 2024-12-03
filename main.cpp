@@ -89,6 +89,7 @@ int main()
      * eheheh take life for game more, dumb animals, threats btw
      * wasting something we do not even know!!!!!! sapiens not INDEED!!
      * Its just for the sake of "ehehehehe", violence good, threats nice!! we like harm!!
+     * regrets ehehehehehhe
      * 
       **/      
 
