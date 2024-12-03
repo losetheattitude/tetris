@@ -56,6 +56,8 @@ int main()
      * eheheh do you love your life ? just as I thought what you are, you are a desperate fearful animal who takes violence for threat or education, what a correlation eheh
      * 
      * Try to lie to people before me, who knows what is what
+     * That is indeed most skillful that you fool entirely average people and gather 100 people against one individual you have not
+     * even the most irrelevant understanding with, eheheh life btw eheheh
       **/     
 
      
