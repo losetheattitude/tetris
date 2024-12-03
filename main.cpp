@@ -72,6 +72,7 @@ int main()
      * Thats most useful for everyone, the same sapiens who take everyone for themselves
      * the sapiens who appear and act entirely childish ehhehehe, pls pls pls 
      * the very same sapiens who their superior would not even consider wasting one second with them, take a look at the history assess your stupidity
+     * simplicity is definitely the way to go ehehhe, chase more simple emotions ehehhehe violence we like harm eheheh pls pls lie forget ehheh
       **/      
 
      
