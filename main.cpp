@@ -77,6 +77,9 @@ int main()
      * 
      * This is as far as it could even go in engagement wise, you are just insignificant people to me
      * eheheh women btw
+     * 
+     * the dare eheheh, we good, we friend, we doing good, eheheheh
+     * the disgusting dare though
       **/      
 
      
