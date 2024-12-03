@@ -61,8 +61,8 @@ int main()
      * eheheh it must feel really great hehehehe, not homo sapiens eheheh
      * not the never learning homo sapiens who chases emotional disgust without even knowing it ehehheheheh pls pls pls we like harm ehhehe
      * eheh forget about the past heheh pls pls heheheh, ehehehe violence violence hehehe stay silent heheh forget about the past, (wait!! he is not as afraid
-     * as we are like the inferior homo sapiens we are ?)
-      **/     
+     * as we are like the inferior homo sapiens we are ?) not the homo sapiens that think they can compensate everything heheheh
+      **/      
 
      
 
