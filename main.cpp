@@ -111,6 +111,7 @@ int main()
      * 
      * I HAVE NO INTENTION TO WASTE MY TIME WITH WHATEVER YOU COULD POSSIBlY FORM ? Do you even follow great religion and great nation and great people ?
      * May be you can actually notice what a stupid animal you are this way, still offering women and smiling expecting no problems at all ?
+     * The very simple people who anyone would love to repel as the lack of understanding is on the nonexistent level
       **/      
 
      
