@@ -58,6 +58,7 @@ int main()
      * Try to lie to people before me, who knows what is what
      * That is indeed most skillful that you fool entirely average people and gather 100 people against one individual you have not
      * even the most irrelevant understanding with, eheheh life btw eheheh
+     * eheheh it must feel really great hehehehe, not homo sapiens eheheh
       **/     
 
      
