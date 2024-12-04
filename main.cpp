@@ -262,6 +262,8 @@ int main()
      * 
      * And you are still, "YOU ARE GOING TO THIS PLACE BECAUSE WE MADE YOU A THREAT ehehehhe through pointless harm and we can not let you go
      * because you are better than us ? hheehhe please pleasee, we like harm you say ?"
+     * 
+     * and you are still offering material with your inferiority ?
       **/      
 
      
