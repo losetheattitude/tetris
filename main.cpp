@@ -121,6 +121,147 @@ int main()
      * The sapiens who take animations for what they do not mean, you see what you have achieved ? NOTHING, but you are still the one offering materials
      * Thats success indeed, begging success, begging to children eheheh religious most indeed
      * Arent you disgusted and afraid ? Aww thats why you take violence for precaution ? eheheh fun stuff religious people
+     * 
+     * So you fucking provide excuses for what a 5yo kid done and choose not to trust ? WHO IS THE KID ?
+     * You do not trust but request trust ? ehehhehe ? we just want to keep everything communicated thats why you can not live on your own eheh,
+     * we like harming etc ? as you have done so ?
+     * 
+     * You got no better idea then root fear to who they have failed ?
+     * Bro you keep saying return go do this that, you have no idea how the world works ? no money no resources no tools no cars no relation no trust ?
+     * You advise being conservative over hobbies and do talk about trust ?
+     * 
+     * to engage with life you need the basic resources, if your job is to convince to bullshit that nobody buys, we all can not get along at all
+     * Is this the way to fool fucking dumb monkeys ? RESOURCE TO FUCKING GO OUT eheheh
+     * I understand but why not just let them do it as a simple transaction and get it done with, I do not like soliciting anything from anyone
+     * 
+     * excuses excusessssssss all I have heard, what do you think that tells you ?
+     * Have a look at 30 years of evidence you can attain THROUGH EVERYWHERE, its called fucking footage
+     * You already know I remember all the bullshit you already just have told and I also remember the great fucking life I have had, thanks to all the people around me so far ?
+     * 
+     * Do you even understand what I am saying ? The fucking computer I have used was 10 years old ? Do you even begin to understand or is this a specific kink ?
+     * we like seeing people fail ? or do not like what they are doing ? are you the ones who were cooking bad food ?  Thats not how to be foe if you were the one
+     * 
+     * Bro the problem you have given is, "I NEED TO MAKE MYSELF BELIEVE THAT I CAN NOT DO CERTAIN THINGS WhILE KNOWING THAT I FUCKING DESTROY EVERYONE ON EVERYTHING
+     * BUT I SHOULD NOT HAVE A PROPER COMPUTER" ? You do not see the inaccuracy in your thinkings ?
+     * 
+     * Stop with your delusions you will see nobody will receive anything other than benefit, I already told you you have 30 years of proof but somehow
+     * you just can not deal with your egos ?
+     * 
+     * I am telling you this is how you fabricate problems, nobody WANTS THAT, just as an opinion
+     * 
+     * I kindly request from you all to see what you have failed fucking many decades ago and waste so much time that you can not even acknowledge anymore
+     * because that puts you into such a position that Its entirely unreasonable inexplicable 
+     * 
+     * so far they have behaved like the very childs they are and came 1230213921 people against one with "drugged" ehehehhehehehehehheehheheheehehh
+     * fucking dumb monkeys, I could not care less 
+     * 
+     * Just reverse all that bullshit back then and they have also fucking promised to lose a limb!!!
+     * Thats what I have promised I remember it 
+     * 
+     * I see it as transaction because it was introduced like one to me but guess what I have received so far ? bullshit ?
+     * so why not gather people and ask them what they have done and what they have promised etc etc
+     * 
+     * You know they have forced everything and more than once I have not eaten what they have offered and guess what ? they have eheheh violently forced ?
+     * so is it also a kink to watch someone alone go against dumb monkeys ? how about some tools ?
+     * 
+     * Eating things in hospital, so that I could "save" myself from ? What you all doing ?
+     * Eheheh, you had all the chances and you think this is winning ?
+     * 
+     * You see I DO NOT CARE WHAT THEY THINK, some violence as offers because they are afraid as the little animal they are ?eheheh 
+     * 
+     * Btw, we have forcefully brought someone into a house and try to save our asses ? through what ? "THEY DO NOT WANT YOU TO DO THAT!!!!"
+     * 
+     * Could not care less, bring more medicines ehehehhe pls pl sp slps lspl
+     * 
+     * No I am pissed thats why, I am not letting my brain think when I want to think over other things
+     * 
+     * Yeah thats what you call skillful ? Continue with your life until you get some random harm and eheheheheh what ? 
+     * Do not make offers bro, I have heard how many ? Do you want to know ? And what is the realityy ? 
+     * 
+     * There is no way before people explain what they have done so far while they were begging to a 5 yo kid to lie for their religion
+     * 
+     * The most great religion and nation of all the world, ? lets see what they have to say
+     * 
+     * You know you have allowed it then provide as "reason" ? you do not trust ME ?
+     * 
+     * Bro I remember everything about what you have said, and you still chase through religion ?
+     * 
+     * You know that I know you are talking with someone who has no options, it does not how it works
+     * Can you just tell me the very simple reason of not having a proper computer then you can request trust and do not lend trust despite all the
+     * cheap violence so far 
+     * 
+     * 
+     * Can you just tell me the very simple reason of not having a proper computerCan you just tell me the very simple reason of not having a proper computerCan you just tell me the very simple reason of not having a proper computerCan you just tell me the very simple reason of not having a proper computerCan you just tell me the very simple reason of not having a proper computerCan you just tell me the very simple reason of not having a proper computerCan you just tell me the very simple reason of not having a proper computerCan you just tell me the very simple reason of not having a proper computer
+     * Can you just tell me the very simple reason of not having a proper computer
+     * Can you just tell me the very simple reason of not having a proper computer
+     * 
+     * Do you see the flaw in your conduct ?
+     * You pay thousands for hoes ? And I have used 10 years the same computer ?
+     * How come does that make sense if I break everything ? 10 years of usage ? and nothing significant can be done with the fucking compputer ?
+     * 
+     * I DO NOT LIKE BEGGING, IN ANY SHAPE OR FORM WHETHER THAT BE LYING OR ADVICING,
+     * 
+     * Its not so difficult to do all those things you see ?
+     * Its just a simple motion, you go buy it or get money and buy it, its fucking a few thousands and you provide for excuse what you have brought around me ?
+     * 
+     * THE PAPER IS ALL YOU NEED ? WHAT DO YOU THINK COULD HAPPEN ?
+     * LIKE ?
+     * A CHUNK THAT PREVENTS YOU FROM GETTING A PROPER PC ?
+     * YOU DO BAD THINGS WITH PC ? WHAT ? YOU JUST SAID YOU BROKE ? What was the problem ?
+     * 
+     * Why dont you grow up guys ?
+     * Do you even want to have a relation ? no such a thing on earth can repair what you have caused intentionally so far 
+     * How quick do you think I will forget, Your medicines DO NOT AFFECT ME THE WAY YOU WANT THEM
+     * 
+     * You know this is probably the 10. time you just say you would do things ? may be it was them etc etc, but I know the life I had, its just great bro
+     * 
+     * Do you even understand the position I am in ? Or is it just what you want ?
+     * 
+     * Last time I havent even touched my nose in the hospital they have again gathered with the utmost skillful behavior and guess what ? forcefully "made me taste" ?
+     * Do you not see the problem yet ?
+     * 
+     * So it has taken 30 years and unaccountable many actions that you or they will surely regret ?
+     * TO DETERMINE WHAT WHILE YOU HAD 30 YEARS OF EVIDENCE ? Do you all like beating children and surprising at the equal outcome ?
+     * While also forcing that children stay in the same room and attack each other ? Is that the great reason and noble aim etc ? how about 30 years of evidence ?
+     * 
+     * 30 years and you still delude and fail and fail over and over again ? Do you call it success ? Thats the point I am making ? IT IS DEFINITELY THE FAILURE OF
+     * WHOEVER IS PERPETRUATING Because it has achieved literally nothing but hey ? You all just great or what ?
+     * 
+     * They have been told at least 100000000000000000 times and what do you think I should want now ?
+     * Wouldnt you also consider the very same harm, like loosing a limb or some shit as THEY HAVE HONORABLY AND RELIGIOUSLY PROMISED TO DO SO
+     *  
+     * Going literally no where!!!
+     * Begging you do not say ?
+     * Talk more on your actions not what would you do, talk more on what you deserve with your violent actions
+     * Talk more on what you have "achieved"
+     * and you still "promise" when there is 30 years of evidence of your disgusting nature ?
+     * Do you still think you are family ? There is 30 years of evidence I say, what do you say ? eheheh no resources you say ?
+     * Why now suddenly there are so much money!!!! ehehehehh get money!!! plsss!!!
+     * 
+     * You have 30 years of evidence each of which I REMEMBER, what are you asking now ?
+     * Tell me now whats the equivalent of 30 years, AND TELL ME WHAT YOU HAVE ACHIEVED
+     * 
+     * There can be no even the most insignificant connection, so instead of begging like the little animals you are, live your own life
+     * Talk more on VIOLENCE AND THE GREAT LIFE YOU HAVE BEGGED WITH PROMISES ? You do not remember because its your disgusting act ?
+     * Because it tells on your disgusting nature ?
+     * 
+     * Please restart!!!! we good, the best parents ever we will be ehhehehe thats how we do our jobs as well, pplease!!!! eheheh
+     * How about you start thinking about how to change "the past" ? or whats the problem in all your thinking ? Do you still delude I would have even the slighest
+     * thing with any of you ?
+     * 
+     * There is not a single thing you can do to fix it
+     * 
+     * you know thats just fear ? You are fearful just like the little animal you are ?
+     * Just like the disgusting animal who takes fooling children for skill ? Like the disgusting little animal who takes violence for skill ?
+     * Violence with 1000000 people against one ?
+     * 
+     * And the only way is to "Offer" eheheh offer because we are disgusting, you say ?
+     * 
+     * With which disgusting dare YOU ARE STILL TALKING ? 
+     * Say some good stuff!! say some good stuff!!!! and he will feel fine!! 
+     * 
+     * And you are still, "YOU ARE GOING TO THIS PLACE BECAUSE WE MADE YOU A THREAT ehehehhe through pointless harm and we can not let you go
+     * because you are better than us ? hheehhe please pleasee, we like harm you say ?"
       **/      
 
      
