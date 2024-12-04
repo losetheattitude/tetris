@@ -264,7 +264,7 @@ int main()
      * because you are better than us ? hheehhe please pleasee, we like harm you say ?"
      * 
      * and you are still offering material with your inferiority ?
-     * Tell me my experience,
+     * Tell me my experience instead of still offering materials, do you see the problem ? The disgusting inferior monkey who does not understand anything ?
       **/      
 
      
