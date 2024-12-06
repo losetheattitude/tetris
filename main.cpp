@@ -115,6 +115,7 @@ int main()
      * The genius animals indeed
      * 
      * What do you think is going to happen ? Awwwwwww, you already know you have dug yourselves a pit ? eheheh please please!!!
+     * Pay for your own actions and most surprisingly you say, "WOMENNNNN!!!!", thats the understanding I have always avoided
       **/      
 
 
