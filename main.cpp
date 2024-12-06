@@ -75,6 +75,9 @@ int main()
      * Disgusting you are not you say ? You see the thief in the room ?
      * You have got enough proof but you just want to avoid and harm, hoping that you get a war ?
      * Do you want to talk about your credibility and the prior promises of "GOOD EDUCATION" ? and still want to be taken serious ?
+     * 
+     * You now offer what exactly ? awwww you are the most credible and honorable people of all time that I would not even waste another second considering ?
+     * Is that why you also delude ?
       **/      
 
      
