@@ -34,6 +34,13 @@ int main()
      * you have to really incentivize like you all always do, ehehehe VIOLENCE!!!! the life !!!!
      * 
      * Remind yourselves the past you avoid like the disgusting animals you are
+     * The education that you have beggingly promised ? The really honorable promises that you begged ?
+     * and you still here to be taken serious ? ehehheh memory reboot, forget the past heehehheh please eheheheh
+     * get women!!!! get womeen!!! we still delude on what the other person is valuing ?
+     * And you still want to be taken into consideration ? You still have not waken up ? I DO NOT CARE
+     * I DO NOT WANT TO SEE ANY DISGUSTING ANIMALS WHO TAKE THEMSELVES TO BE SOMETHING THEY ARE NOT
+     * 
+     * Thats all
       **/      
 
      
