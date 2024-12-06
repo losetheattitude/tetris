@@ -92,6 +92,8 @@ int main()
      * 
      * Ehehehe ? Still laughing or deluding on women ?
      * Is that why you are so simple that I am disgusted with your minds ?
+     * Awww havent you dig yourselves a disgusting situation ? eheheh some violence would solve it ? WHY ISNT IT SOLVING IT ?
+     * May be you are the problem right ?
       **/      
 
      
