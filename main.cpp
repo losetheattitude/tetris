@@ -31,7 +31,9 @@ int main()
      * 
      * 
      * There is no possible reality in which I could ever waste another second with any of you, 
-     * you have to really incentivize like you all always do
+     * you have to really incentivize like you all always do, ehehehe VIOLENCE!!!! the life !!!!
+     * 
+     * Remind yourselves the past you avoid like the disgusting animals you are
       **/      
 
      
