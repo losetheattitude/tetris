@@ -94,6 +94,9 @@ int main()
      * Is that why you are so simple that I am disgusted with your minds ?
      * Awww havent you dig yourselves a disgusting situation ? eheheh some violence would solve it ? WHY ISNT IT SOLVING IT ?
      * May be you are the problem right ?
+     * 
+     * Awwwww, the reason you are the disgusting animal you are is because you already noticed the disgusting situation
+     * you wantingly dig yourselves ?
       **/      
 
      
