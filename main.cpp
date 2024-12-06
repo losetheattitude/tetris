@@ -47,6 +47,8 @@ int main()
      * thats how you get yourself into trouble by being the disgusting animal that you are and were 
      * Beg more eheheh, he craves womennn!!!! he craves women!!!! offer women!!!!! heheheheheheh
      * we seek no trouble!!! eheheheheh please!!!
+     * 
+     * You still mistake the person before you and offer still women for physical disgust ?
       **/      
 
      
