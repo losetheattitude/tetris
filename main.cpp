@@ -102,6 +102,7 @@ int main()
      * Do you even understand that YOU CAN NOT COERCE ME ? You can only negotiate with grace ? You still offer women ?
      * 
      * The most basic right to harm someone because you do not understand or you are afraid ?
+     * Are you the ones who see the bigger picture now ? Are you sure ?
       **/      
 
      
