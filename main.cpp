@@ -43,6 +43,10 @@ int main()
      * Thats all
      * Life you take so easy, hopefully one day you also realize what a mistake "THAT WAS" eheheheh
      * 
+     * Hopefully you one day realize that every one borns like you do and does not know any prior information
+     * thats how you get yourself into trouble by being the disgusting animal that you are and were 
+     * Beg more eheheh, he craves womennn!!!! he craves women!!!! offer women!!!!! heheheheheheh
+     * we seek no trouble!!! eheheheheh please!!!
       **/      
 
      
