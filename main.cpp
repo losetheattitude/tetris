@@ -51,6 +51,9 @@ int main()
      * You still mistake the person before you and offer still women for physical disgust ?
      * Do what you have to do, I WILL NOT EVEN MOVE MY FINGER FOR AN INCH
      * eheheheh fun life and fate life eheheh and ehehehhe good ppl, be sure thats the only thing I want to be around
+     * 
+     * eheheh bring more people please!!! this woman or that one should definitely solve A PROBLEM THAT ALREADY DOES NOT EXIST
+     * A PROBLEM FABRICATED BY COERCION OF 5 MONTHS BABIES, you still think I do not remember the promises ?
       **/      
 
      
