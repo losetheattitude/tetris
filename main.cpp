@@ -67,6 +67,7 @@ int main()
      * Still offering women for your disgusting existence around me ?
      * 
      * Do you need more proof ? Have a look at the footage that is available for years 
+     * You see the reason why you put people into depression or harm physically and emotionally ? You still delude on offering women ?
       **/      
 
      
