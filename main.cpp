@@ -104,7 +104,8 @@ int main()
      * The most basic right to harm someone because you do not understand or you are afraid ?
      * Are you the ones who see the bigger picture now ? Are you sure ?
      * 
-     * How low are you going to dig ?
+     * How low are you going to dig ? You still deluding because you are a disgusting animal and everything you have done so far proves it ?
+     * Against my trying to stay alive ?
       **/      
 
 
