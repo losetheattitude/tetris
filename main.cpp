@@ -108,6 +108,7 @@ int main()
      * Against my trying to stay alive ?
      * 
      * Find more children and force them to eat their own shit ? why not honorable and great genius nation ?
+     * Do you want to talk more about the past ? The genius nation ? 
       **/      
 
 
