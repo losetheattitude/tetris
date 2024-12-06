@@ -56,6 +56,8 @@ int main()
      * A PROBLEM FABRICATED BY COERCION OF 5 MONTHS BABIES, you still think I do not remember the promises ?
      * 
      * Good nation you say ? I say I even remember the most insignificant detail ?
+     * Do you want to talk more about your competencies ? or offer some woman who you also delude to be a solution ?
+     * You see the problem now ?
       **/      
 
      
