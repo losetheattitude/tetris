@@ -82,6 +82,10 @@ int main()
      * 
      * Why do you still waste time on not acting your greatness ? The great nation ?
      * What are you exactly waiting for ? Eheheh the good education we provide!!! please choose us! we good family!!!
+     * 
+     * still deluding on harming should change things for the good ?
+     * eheheh ? harming increases IQ!!!!! DUMBEST PEOPLE OF ALL THE TIME
+     * Hence the disgusting animal I WOULD NOT EVEN CONSIDER WASTING ONE SECOND
       **/      
 
      
