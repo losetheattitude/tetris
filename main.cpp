@@ -70,6 +70,8 @@ int main()
      * You see the reason why you put people into depression or harm physically and emotionally ? You still delude on offering women ?
      * Do you even use your brain when interacting with me ? You say what ? You say crazy ? I say desperate disgusting monkeys ?
      * Like the average animal ?
+     * 
+     * Is your really really genius idea is to offer women ? Hoping that it would entirely solve a fabricated problem from the beginning ?
       **/      
 
      
