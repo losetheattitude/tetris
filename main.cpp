@@ -116,6 +116,8 @@ int main()
      * 
      * What do you think is going to happen ? Awwwwwww, you already know you have dug yourselves a pit ? eheheh please please!!!
      * Pay for your own actions and most surprisingly you say, "WOMENNNNN!!!!", thats the understanding I have always avoided
+     * You lose things you can not afford to, and we are all good, or just live your life!!!! ehehheheh
+     * With the little understanding you have built, that could be the only thing I want around 
       **/      
 
 
