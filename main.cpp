@@ -49,6 +49,8 @@ int main()
      * we seek no trouble!!! eheheheheh please!!!
      * 
      * You still mistake the person before you and offer still women for physical disgust ?
+     * Do what you have to do, I WILL NOT EVEN MOVE MY FINGER FOR AN INCH
+     * eheheheh fun life and fate life eheheh and ehehehhe good ppl, be sure thats the only thing I want to be around
       **/      
 
      
