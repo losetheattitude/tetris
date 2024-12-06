@@ -99,6 +99,7 @@ int main()
      * you wantingly dig yourselves ?
      * 
      * Do you even have anything to say other than "IT DID NOT HAPPEN" ?
+     * Do you even understand that YOU CAN NOT COERCE ME ? You can only negotiate with grace ? You still offer women ?
       **/      
 
      
