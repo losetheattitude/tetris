@@ -103,7 +103,10 @@ int main()
      * 
      * The most basic right to harm someone because you do not understand or you are afraid ?
      * Are you the ones who see the bigger picture now ? Are you sure ?
+     * 
+     * How low are you going to dig ?
       **/      
+
 
      
 
