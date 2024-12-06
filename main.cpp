@@ -74,6 +74,7 @@ int main()
      * Is your really really genius idea is to offer women ? Hoping that it would entirely solve a fabricated problem from the beginning ?
      * Disgusting you are not you say ? You see the thief in the room ?
      * You have got enough proof but you just want to avoid and harm, hoping that you get a war ?
+     * Do you want to talk about your credibility and the prior promises of "GOOD EDUCATION" ? and still want to be taken serious ?
       **/      
 
      
