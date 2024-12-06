@@ -58,6 +58,8 @@ int main()
      * Good nation you say ? I say I even remember the most insignificant detail ?
      * Do you want to talk more about your competencies ? or offer some woman who you also delude to be a solution ?
      * You see the problem now ?
+     * 
+     * Do you want to remember the past ? I EVEN REMEMBER THE MOST INSIGNIFICANT PART I SAY, WHAT DO YOU SAY ?
       **/      
 
      
