@@ -77,7 +77,8 @@ int main()
      * Do you want to talk about your credibility and the prior promises of "GOOD EDUCATION" ? and still want to be taken serious ?
      * 
      * You now offer what exactly ? awwww you are the most credible and honorable people of all time that I would not even waste another second considering ?
-     * Is that why you also delude ?
+     * Is that why you also delude on women or your competency or your humanity ? 
+     * Do you even know what that means ? Luckily I remember so you do not have to delude on your humanity as well
       **/      
 
      
