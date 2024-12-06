@@ -111,6 +111,8 @@ int main()
      * Do you want to talk more about the past ? The genius nation ? 
      * 
      * I do not even a second to waste with the simple animals who do not understand anything, THATS YOU IN THIS STORY
+     * Stupid animals who think violence against anyone should increase their ability and hide behind the most disgusting ideas JUST LIKE THE ANIMAL THEY ARE
+     * The genius animals indeed
       **/      
 
 
