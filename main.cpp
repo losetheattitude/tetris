@@ -41,6 +41,8 @@ int main()
      * I DO NOT WANT TO SEE ANY DISGUSTING ANIMALS WHO TAKE THEMSELVES TO BE SOMETHING THEY ARE NOT
      * 
      * Thats all
+     * Life you take so easy, hopefully one day you also realize what a mistake "THAT WAS" eheheheh
+     * 
       **/      
 
      
