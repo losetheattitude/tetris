@@ -113,6 +113,8 @@ int main()
      * I do not even a second to waste with the simple animals who do not understand anything, THATS YOU IN THIS STORY
      * Stupid animals who think violence against anyone should increase their ability and hide behind the most disgusting ideas JUST LIKE THE ANIMAL THEY ARE
      * The genius animals indeed
+     * 
+     * What do you think is going to happen ? Awwwwwww, you already know you have dug yourselves a pit ? eheheh please please!!!
       **/      
 
 
