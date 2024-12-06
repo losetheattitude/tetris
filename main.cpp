@@ -89,6 +89,9 @@ int main()
      * 
      * Do what you have to do, make yourselves more drama, thats why your life is boring and you make others' worse
      * Thats the reason I WOULD NOT EVEN CONSIDER YOU FOR A SECOND
+     * 
+     * Ehehehe ? Still laughing or deluding on women ?
+     * Is that why you are so simple that I am disgusted with your minds ?
       **/      
 
      
