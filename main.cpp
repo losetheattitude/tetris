@@ -118,6 +118,9 @@ int main()
      * Pay for your own actions and most surprisingly you say, "WOMENNNNN!!!!", thats the understanding I have always avoided
      * You lose things you can not afford to, and we are all good, or just live your life!!!! ehehheheh
      * With the little understanding you have built, that could be the only thing I want around 
+     * 
+     * 
+     * TRY TO THINK FOR WAYS TO CONVINCE THE VERY INDIVIDUAL YOU HAVE HARMED CONTINUOUSLY THROUGH LIES AND ACTIONS, Guess who remembers ?
       **/      
 
 
