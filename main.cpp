@@ -60,6 +60,7 @@ int main()
      * You see the problem now ?
      * 
      * Do you want to remember the past ? I EVEN REMEMBER THE MOST INSIGNIFICANT PART I SAY, WHAT DO YOU SAY ?
+     * YOU STILL DELUDE ON YOUR NATION ? YOUR PROFICIENCY ? YOUR USEFULNESS ? YOUR REASON ?
       **/      
 
      
