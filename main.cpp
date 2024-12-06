@@ -86,6 +86,8 @@ int main()
      * still deluding on harming should change things for the good ?
      * eheheh ? harming increases IQ!!!!! DUMBEST PEOPLE OF ALL THE TIME
      * Hence the disgusting animal I WOULD NOT EVEN CONSIDER WASTING ONE SECOND
+     * 
+     * Do what you have to do
       **/      
 
      
