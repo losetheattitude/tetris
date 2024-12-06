@@ -121,6 +121,9 @@ int main()
      * 
      * 
      * TRY TO THINK FOR WAYS TO CONVINCE THE VERY INDIVIDUAL YOU HAVE HARMED CONTINUOUSLY THROUGH LIES AND ACTIONS, Guess who remembers ?
+     * Guess who takes himself for a tough guy by harming defenseless kids then adults ?
+     * 
+     * 
       **/      
 
 
