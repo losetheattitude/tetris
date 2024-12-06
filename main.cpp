@@ -124,6 +124,9 @@ int main()
      * Guess who takes himself for a tough guy by harming defenseless kids then adults ?
      * You think you are right because you bring out "WAR TIME" decisions ? and you call yourself what ?
      * 
+     * TALK MORE ON YEARS THAT HAVE PASSED, awwww you would rather employ your immaculate minds and say "womeennnnn!!!!!!"
+     * Do you even follow ?
+     * 
      * 
       **/      
 
