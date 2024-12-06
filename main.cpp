@@ -81,7 +81,7 @@ int main()
      * Do you even know what that means ? Luckily I remember so you do not have to delude on your humanity as well
      * 
      * Why do you still waste time on not acting your greatness ? The great nation ?
-     * What are you exactly waiting for ?
+     * What are you exactly waiting for ? Eheheh the good education we provide!!! please choose us! we good family!!!
       **/      
 
      
