@@ -87,7 +87,8 @@ int main()
      * eheheh ? harming increases IQ!!!!! DUMBEST PEOPLE OF ALL THE TIME
      * Hence the disgusting animal I WOULD NOT EVEN CONSIDER WASTING ONE SECOND
      * 
-     * Do what you have to do
+     * Do what you have to do, make yourselves more drama, thats why your life is boring and you make others' worse
+     * Thats the reason I WOULD NOT EVEN CONSIDER YOU FOR A SECOND
       **/      
 
      
