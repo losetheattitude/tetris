@@ -165,6 +165,7 @@ int main()
      * You still ask things from someone you have harmed ?
      * 
      * Tell all your bullshit to my face, who knows everything you have perpetrated so far ?
+     * Genius nation ? Who offers women for 30 years of unjust violence ?
      * 
       **/      
 
