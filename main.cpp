@@ -229,6 +229,7 @@ int main()
      * The same disgusting animal who thinks they should make the decisions THAT ARE NOT THEIR CONCERN, the genius nation
      * 
      * The genius nation who brags when they harm children
+     * The genius nation who harms children through doctors
       **/      
 
 
