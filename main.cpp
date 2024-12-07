@@ -142,6 +142,7 @@ int main()
      * Guess the 500 prior disgusting average animal of your kind, dont you alike ?
      * Just the proof I have indicated  
      * Still think you are making decisions ? ehehhehe you should make decisions genius nation 
+     * Disgusting people are still hiding behind excuses of 100 years ? The war time decisions ? 
       **/      
 
 
