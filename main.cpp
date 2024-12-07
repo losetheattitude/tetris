@@ -191,6 +191,8 @@ int main()
      * Get women please!! just like the animals who have been described in the books, GET WOMENNNNNN yet ehehhe fun stuff
      * 
      * You still believe you should make decisions on behalf of others BECAUSE YOU ARE GIVEN SOME SORT OF GOD POWERS ?
+     * Do you also want to remember the past ? In which you have performed really really genius things against 5 months babies and later on adults ?
+     * Like the disgusting homo sapiens ?
      * 
       **/      
 
