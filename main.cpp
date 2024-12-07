@@ -166,6 +166,7 @@ int main()
      * 
      * Tell all your bullshit to my face, who knows everything you have perpetrated so far ?
      * Genius nation ? Who offers women for 30 years of unjust violence ?
+     * Like the disgusting animal that everyone has been referring to so far ?
      * 
       **/      
 
