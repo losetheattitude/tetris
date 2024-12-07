@@ -192,7 +192,8 @@ int main()
      * 
      * You still believe you should make decisions on behalf of others BECAUSE YOU ARE GIVEN SOME SORT OF GOD POWERS ?
      * Do you also want to remember the past ? In which you have performed really really genius things against 5 months babies and later on adults ?
-     * Like the disgusting homo sapiens ?
+     * Like the disgusting homo sapiens ? Fear more on your disgusting incompetency, tomorrow it will be someone else but today its you who is going to cause everyone
+     * pain
      * 
       **/      
 
