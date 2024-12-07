@@ -258,6 +258,7 @@ int main()
      * The animals who do not listen therefore failing to perceive the problem, I do not have the slighest intention to waste my time around you
      * 
      * Do you still request credibility ? Do you still compare violence with "WOOOMEENNNNNNN" ? The genius people ?
+     * Ehehehe find more children, you are only good at that
       **/       
 
 
