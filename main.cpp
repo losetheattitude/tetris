@@ -273,7 +273,11 @@ int main()
      * Accountability is somehow made to be forgotten by you ? The understanding of "responsibility" ? The decision making of one's own ?
      * The oppression you dare to say ? To what you can not even talk openly ?
      * Thats the type I do not want to nor consider to waste my time with, continue blaming and ignoring
-     * Who got the education now ? Who lacks the education ?
+     * 
+     * Who got the education now ? Who lacks the education ? 
+     * 
+     * Do you still receive the same answers while you can not answer the very simple questions ?
+     * Who got the education now ?
       **/       
 
 
