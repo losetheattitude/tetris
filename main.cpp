@@ -250,6 +250,7 @@ int main()
      * Like a 5 months old love to do many things you did to him ?
      * 
      * Eheheh he loves to explain the situation you are perpetrating 
+     * Are you still deluding that I should want to be around the inferior animals who do not understand anything ?
       **/       
 
 
