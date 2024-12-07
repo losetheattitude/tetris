@@ -148,6 +148,7 @@ int main()
      * Do you want to know what things could have been achieved when you were not there to harm people starting from when they are 5 months ?
      * 
      * I am sure you also would love to avoid your "past promises" as you have proven countless times what a disgusting animal you are
+     * You still think you should make decisions for adults ?
       **/      
 
 
