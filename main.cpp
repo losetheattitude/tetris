@@ -224,6 +224,8 @@ int main()
      * 
      * I will not even consider even for a second to involve myself amongst the disgusting inferior animals like yourselves, the genius nation 
      * The genius nation who begs to children, who harms pointlessly and offers materials like the little disgusting animal they are 
+     * 
+     * The disgusting animal who begs for materials and offers the same when they know they are disgustingly related
       **/      
 
 
