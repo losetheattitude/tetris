@@ -269,6 +269,8 @@ int main()
      * That is not called past, that is called who you are
      * 
      * I do not care even if you think you own the world, I have no intention to waste my time with disgusting animals such as yourselves
+     * 
+     * Accountability is somehow made to be forgotten by you ?
       **/       
 
 
