@@ -201,6 +201,7 @@ int main()
      * 
      * Awww, you would rather offer women and hope that it solves the violence problem, the problem of life that you have zero understanding
      * eheheh call it a game, life a game!!! life a simulation!!! 
+     * You never learn ? You as the disgusting homo sapiens ?
       **/      
 
 
