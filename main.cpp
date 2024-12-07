@@ -190,6 +190,8 @@ int main()
      * Genius nation must be proud of their disgusting animality ehehhehe
      * Get women please!! just like the animals who have been described in the books, GET WOMENNNNNN yet ehehhe fun stuff
      * 
+     * You still believe you should make decisions on behalf of others BECAUSE YOU ARE GIVEN SOME SORT OF GOD POWERS ?
+     * 
       **/      
 
 
