@@ -236,7 +236,7 @@ int main()
      * Gather more people to display your great skills, indeed its most perplexing, you all are the most intelligent group I have ever interacted !!! yes!!!
      * Ehehe we do not care!!! we threat and gather and harm!!!!! thats who we are!!
      * 
-     * What are you waiting for ?
+     * What are you waiting for ? Are you sure you know how to use things ?
       **/      
 
 
