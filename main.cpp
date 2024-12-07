@@ -218,6 +218,8 @@ int main()
      * gather more people
      * 
      * Whose iq do you think is lacking ? You are the one who can not answer for any of your behavior ? I am the one who is asking the questions ?
+     * 
+     * Do you still think you are sane enough to make decisions ? or you just are getting yourselves into unnecessary problems ?
       **/      
 
 
