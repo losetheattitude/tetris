@@ -134,6 +134,8 @@ int main()
      * 
      * Hey you all look reallly reallly clever when you sit behind a screen and try to interpret someone else workflow eheheh
      * Just not the disgusted average animal behavior, no need for proofs
+     * 
+     * Do you even understand what could have been accomplished within such a long time frame ? and have a look at your genius nation, I guess you are not one
       **/      
 
 
