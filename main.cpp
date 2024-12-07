@@ -162,6 +162,7 @@ int main()
      * You lack "impressive" amount of credibility and I avoid them like a disease
      * 
      * Its too funny ? You have got 30 years of evidence and you still do what ?
+     * You still ask things from someone you have harmed ?
      * 
       **/      
 
