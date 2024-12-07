@@ -251,6 +251,8 @@ int main()
      * 
      * Eheheh he loves to explain the situation you are perpetrating 
      * Are you still deluding that I should want to be around the inferior animals who do not understand anything ?
+     * Just like you have not done it in the past, you are still the disgusting animal who would only love to harm and hopefully nobody says anything ?
+     * While you are harming physically ?
       **/       
 
 
