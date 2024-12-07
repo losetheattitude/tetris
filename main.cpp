@@ -221,6 +221,8 @@ int main()
      * 
      * Do you still think you are sane enough to make decisions ? or you just are getting yourselves into unnecessary problems ?
      * Are you still begging people that they should say something or another ?
+     * 
+     * I will not even consider even for a second to involve myself amongst the disgusting inferior animals like yourselves, the genius nation 
       **/      
 
 
