@@ -150,7 +150,8 @@ int main()
      * I am sure you also would love to avoid your "past promises" as you have proven countless times what a disgusting animal you are
      * You still think you should make decisions for adults ?
      * The disgusting average animals WHO I WILL UNDER NO CIRCUMSTANCE EVER ASSOCIATE MYSELF WITH
-     * You still delude on my being around people who coerce medicine ? rape children ?
+     * You still delude on my being around people who coerce medicine ? rape children ? 
+     * You are going to say "FORGET ABOUT THE PAST!!!!!", guess who is what again 
       **/      
 
 
