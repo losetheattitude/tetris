@@ -181,7 +181,9 @@ int main()
      * 
      * Do you want to talk more about my experience and the past ? or you would rather beg like the little animal you are ? aawwww you say genius indeed
      * AWww wait wait, do you want to talk more about the honorable promises ?
-     * Or would you want to talk more about violence ?
+     * Or would you want to talk more about violence ? 
+     * 
+     * IQ, IQ!!! yet look at your behavior
      * 
       **/      
 
