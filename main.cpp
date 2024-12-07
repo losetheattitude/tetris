@@ -203,6 +203,8 @@ int main()
      * eheheh call it a game, life a game!!! life a simulation!!! 
      * You never learn ? You as the disgusting homo sapiens ?
      * You still offer women and just wish that it should work ?
+     * 
+     * Dont you think you are the one missing information ? Awww you havent learnt anything ?
       **/      
 
 
