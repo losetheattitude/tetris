@@ -195,7 +195,7 @@ int main()
      * Like the disgusting homo sapiens ? Fear more on your disgusting incompetency, tomorrow it will be someone else but today its you who is going to cause everyone
      * pain
      * 
-     * Like the disgusting homo sapiens who still coerce medicine ? coerce disgusting things ?
+     * Like the disgusting homo sapiens who still coerce medicine ? coerce disgusting things ? You call it fo ?
      * 
       **/      
 
