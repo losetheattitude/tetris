@@ -230,6 +230,8 @@ int main()
      * 
      * The genius nation who brags when they harm children
      * The genius nation who harms children through doctors
+     * 
+     * You are still talking about IQ while hiding behind every possible little thing ?
       **/      
 
 
