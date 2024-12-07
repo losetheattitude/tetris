@@ -265,7 +265,7 @@ int main()
      * Still trying to look around for more bullshit ? Start from the very beginning you will see, you are just an average animal who takes himself for something
      * they are not
      * 
-     * Are you still offering women ?
+     * Are you still offering women ? Start from the very beginning of your disgusting behaviors
       **/       
 
 
