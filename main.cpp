@@ -145,6 +145,7 @@ int main()
      * Disgusting people are still hiding behind excuses of 100 years ? The war time decisions ? 
      * Do you think I want any part of that ?
      * Do you think I want any part of disgusting people that I know what they are ?
+     * Do you want to know what things could have been achieved when you were not there to harm people starting from when they are 5 months ?
       **/      
 
 
