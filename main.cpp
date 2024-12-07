@@ -281,6 +281,7 @@ int main()
      * Are you still deluding on things ? ahhh I am not surprised 
      * 
      * I am not surprised because I also know the years prior disgusting behavior of yours, the genius people indeed
+     * Are you still after the same narrative ? Violence solves everything ? What did it solve so far ? Who got the education ?
       **/       
 
 
