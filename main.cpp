@@ -234,6 +234,7 @@ int main()
      * You are still talking about IQ while hiding behind every possible little thing ?
      * 
      * Gather more people to display your great skills, indeed its most perplexing, you all are the most intelligent group I have ever interacted !!! yes!!!
+     * Ehehe we do not care!!! we threat and gather and harm!!!!! thats who we are!!
       **/      
 
 
