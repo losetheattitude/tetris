@@ -216,6 +216,8 @@ int main()
      * 
      * Get yourselves more children thats who you are, what you deserve, what you can achieve
      * gather more people
+     * 
+     * Whose iq do you think is lacking ? You are the one who can not answer for any of your behavior ? I am the one who is asking the questions ?
       **/      
 
 
