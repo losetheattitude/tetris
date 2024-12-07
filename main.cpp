@@ -184,6 +184,8 @@ int main()
      * Or would you want to talk more about violence ? 
      * 
      * IQ, IQ!!! yet look at your behavior
+     * Ehehe promise yet look at you!!!!
+     * Violence!!! IQ!!!! genius nation!!! LOOK AT YOU
      * 
       **/      
 
