@@ -227,6 +227,8 @@ int main()
      * 
      * The disgusting animal who begs for materials and offers the same when they know they are disgustingly related
      * The same disgusting animal who thinks they should make the decisions THAT ARE NOT THEIR CONCERN, the genius nation
+     * 
+     * The genius nation who brags when they harm children
       **/      
 
 
