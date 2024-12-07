@@ -168,6 +168,8 @@ int main()
      * Genius nation ? Who offers women for 30 years of unjust violence ?
      * Like the disgusting animal that everyone has been referring to so far ?
      * 
+     * The genius nation who still insists on his disgusting violent behavior towards then 5 months old babies now "adults" ?
+     * 
       **/      
 
 
