@@ -210,6 +210,9 @@ int main()
      * 
      * You still think you are fighting ? Fighting with who ?
      * How about you explain things first ?
+     * 
+     * Have you forgotten or havent you ever experienced death before ?
+     * Awwwwww, you think everyone should bow ehehehehhe
       **/      
 
 
