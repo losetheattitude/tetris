@@ -212,7 +212,10 @@ int main()
      * How about you explain things first ?
      * 
      * Have you forgotten or havent you ever experienced death before ?
-     * Awwwwww, you think everyone should bow ehehehehhe
+     * Awwwwww, you think everyone should bow ehehehehhe, please beg mores
+     * 
+     * Get yourselves more children thats who you are, what you deserve, what you can achieve
+     * gather more people
       **/      
 
 
