@@ -172,6 +172,9 @@ int main()
      * and guess what they offer ? Ehehehe commit violence please!!!! get womeenn genius nation we are!!!
      * The disgusting homo sapiens ? Where is your great violent attitude ?
      * 
+     * Are you going to start begging when you know you are guilty as you have done before ?
+     * Or you, the genius nation, will start offering things as you have done before ?
+     * 
       **/      
 
 
