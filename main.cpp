@@ -158,6 +158,8 @@ int main()
      * Now what do you feel like you have gained ? The geniuses ?
      * The never learning disgusting monkeys who enjoy their cheap emotions, thats the only group I will ever want to be around, so simple and elegant
      * Think for a second so simple an individual as such he would instantly say "YESSSSS" to changing locations or womeeen!! over violence
+     * 
+     * You lack "impressive" amount of credibility and I avoid them like a disease 
       **/      
 
 
