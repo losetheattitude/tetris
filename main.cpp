@@ -245,6 +245,7 @@ int main()
      * You still bring up fate ? I am telling you that I will not even step inside the same room with any of you, you still offer women ? 
      * 
      * DO YOU EVEN KNOW HOW TO LISTEN AND LEARN AND CHANGE ?
+     * Do you even understand what you are doing or you would love to avoid and harm anything that could be a threat to you ?
       **/      
 
 
