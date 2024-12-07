@@ -199,6 +199,8 @@ int main()
      * Now I am sure you also take notes on your "successful outcomes" by doing great violence
      * Are you still digging yourselves a good grave ? Ehehehe everyone should bow!!!!!!
      * 
+     * Awww, you would rather offer women and hope that it solves the violence problem, the problem of life that you have zero understanding
+     * eheheh call it a game, life a game!!! life a simulation!!! 
       **/      
 
 
