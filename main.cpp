@@ -170,6 +170,7 @@ int main()
      * 
      * The genius nation who still insists on his disgusting violent behavior towards then 5 months old babies now "adults" ?
      * and guess what they offer ? Ehehehe commit violence please!!!! get womeenn genius nation we are!!!
+     * The disgusting homo sapiens ? Where is your great violent attitude ?
      * 
       **/      
 
