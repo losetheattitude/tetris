@@ -187,6 +187,9 @@ int main()
      * Ehehe promise yet look at you!!!!
      * Violence!!! IQ!!!! genius nation!!! LOOK AT YOU
      * 
+     * Genius nation must be proud of their disgusting animality ehehhehe
+     * Get women please!! just like the animals who have been described in the books, GET WOMENNNNNN yet ehehhe fun stuff
+     * 
       **/      
 
 
