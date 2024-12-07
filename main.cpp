@@ -207,6 +207,8 @@ int main()
      * Dont you think you are the one missing information ? Awww you havent learnt anything ?
      * You account for your own actions and we are done, There is not a single thing I could ever want from the disgusting animals like you
      * who have done so much good that I can not even picture what a disgusting animal you must be
+     * 
+     * You still think you are fighting ? Fighting with who ?
       **/      
 
 
