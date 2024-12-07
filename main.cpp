@@ -271,6 +271,7 @@ int main()
      * I do not care even if you think you own the world, I have no intention to waste my time with disgusting animals such as yourselves
      * 
      * Accountability is somehow made to be forgotten by you ? The understanding of "responsibility" ? The decision making of one's own ?
+     * The oppression you dare to say ? To what you can not even talk openly ?
       **/       
 
 
