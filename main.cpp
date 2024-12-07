@@ -196,6 +196,7 @@ int main()
      * pain
      * 
      * Like the disgusting homo sapiens who still coerce medicine ? coerce disgusting things ? You call it fo ?
+     * Now I am sure you also take notes on your "successful outcomes" by doing great violence
      * 
       **/      
 
