@@ -246,7 +246,7 @@ int main()
      * 
      * DO YOU EVEN KNOW HOW TO LISTEN AND LEARN AND CHANGE ?
      * Do you even understand what you are doing or you would love to avoid and harm anything that could be a threat to you ?
-     * Do you even follow ?
+     * Do you even follow ? Ehehehe he does this everytime!!! eheheh because he really loves to do it!!
       **/      
 
 
