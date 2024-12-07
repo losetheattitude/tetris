@@ -278,6 +278,7 @@ int main()
      * 
      * Do you still receive the same answers while you can not answer the very simple questions ?
      * Who got the education now ? Do you believe I am as low as you that I will start bending because you can present some stupid violence ?
+     * Are you still deluding on things ? ahhh I am not surprised 
       **/       
 
 
