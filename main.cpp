@@ -282,6 +282,7 @@ int main()
      * 
      * I am not surprised because I also know the years prior disgusting behavior of yours, the genius people indeed
      * Are you still after the same narrative ? Violence solves everything ? What did it solve so far ? Who got the education ?
+     * Still looking around for proof ? When you are the one who is causing all the harm and seek for the responsible ?
       **/       
 
 
