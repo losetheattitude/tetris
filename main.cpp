@@ -155,6 +155,7 @@ int main()
      * Talk more on the authority that has "given you by the GODS" and the way you misuse them
      * 
      * Fucking disgusting monkeys who think they live forever
+     * Now what do you feel like you have gained ? The geniuses ?
       **/      
 
 
