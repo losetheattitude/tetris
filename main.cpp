@@ -153,6 +153,8 @@ int main()
      * You still delude on my being around people who coerce medicine ? rape children ? 
      * You are going to say "FORGET ABOUT THE PAST!!!!!", guess who is what again 
      * Talk more on the authority that has "given you by the GODS" and the way you misuse them
+     * 
+     * Fucking disgusting monkeys who think they live forever
       **/      
 
 
