@@ -259,6 +259,8 @@ int main()
      * 
      * Do you still request credibility ? Do you still compare violence with "WOOOMEENNNNNNN" ? The genius people ?
      * Ehehehe find more children, you are only good at that
+     * 
+     * Find some time for physics as well, read your stupid history
       **/       
 
 
