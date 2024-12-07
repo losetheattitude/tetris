@@ -267,6 +267,8 @@ int main()
      * 
      * Are you still offering women ? Start from the very beginning of your disgusting behaviors
      * That is not called past, that is called who you are
+     * 
+     * I do not care even if you think you own the world, I have no intention to waste my time with disgusting animals such as yourselves
       **/       
 
 
