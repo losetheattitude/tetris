@@ -232,6 +232,8 @@ int main()
      * The genius nation who harms children through doctors
      * 
      * You are still talking about IQ while hiding behind every possible little thing ?
+     * 
+     * Gather more people to display your great skills, indeed its most perplexing, you all are the most intelligent group I have ever interacted !!! yes!!!
       **/      
 
 
