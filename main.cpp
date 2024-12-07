@@ -226,6 +226,7 @@ int main()
      * The genius nation who begs to children, who harms pointlessly and offers materials like the little disgusting animal they are 
      * 
      * The disgusting animal who begs for materials and offers the same when they know they are disgustingly related
+     * The same disgusting animal who thinks they should make the decisions THAT ARE NOT THEIR CONCERN, the genius nation
       **/      
 
 
