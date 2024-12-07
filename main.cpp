@@ -242,7 +242,7 @@ int main()
      * You have got 100000000 questions you can not answer thats your problem, and thats why you avoid including me into your disgusting conversations
      * because you will get destroyed, you did something you should not have and you are still begging through offers as you have done countless times
      * 
-     * You still bring up fate ?
+     * You still bring up fate ? I am telling you that I will not even step inside the same room with any of you, you still offer women ?
       **/      
 
 
