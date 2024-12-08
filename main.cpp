@@ -492,6 +492,7 @@ int main()
      * Only offers that you do not deliver or take for something they are not ?
      * 
      * Why are you still the same animal ?
+     * Still wasting time while you are free doing whatever you want ?
       **/       
 
 
