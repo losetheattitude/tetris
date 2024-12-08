@@ -468,7 +468,9 @@ int main()
      * The life THAT IS NOT GIVEN TO YOU ?
      * 
      * Talk more about your promises you made to 5 months children and request them to remain calm while
-     * the time you wasted CAN NOT BE RECOVERED
+     * the time you wasted CAN NOT BE RECOVERED 
+     * 
+     * Tough and genius guys
       **/       
 
 
