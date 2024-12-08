@@ -527,6 +527,8 @@ int main()
      * How do you compensate disgusting time ? awwww you say women ? Awww you also say good education ?
      * Eheheheh you still making promises ? The genius disgusting people ?
      * Still trying your best to portray children as disgusting ?
+     * 
+     * Still after "saying good things temporarily and making reallly reallly good offers that you do not deliver" ?
       **/       
 
 
