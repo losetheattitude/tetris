@@ -439,6 +439,8 @@ int main()
      * 
      * What are you waiting for ? The geniuses ? Do you recognize yourselves as ?
      * Guess what happens if you fail ? you also fail on your other delusions, I am sure you are proudly living
+     * 
+     * You are also proudly dealing with a single individual ehehehehehhe, thats really scary stuff
       **/       
 
 
