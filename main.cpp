@@ -409,6 +409,8 @@ int main()
      * 
      * Are you still after disrupting the peace ? The proud genius nation ?
      * Still offering materials over lost time ? The genius nation ?
+     * 
+     * Are you still offering what you would like ? The violence over violence ? The genius ?
       **/       
 
 
