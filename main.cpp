@@ -483,6 +483,7 @@ int main()
      * Start using your own approach for your precious lifes the genius people
      * 
      * What are you waiting for ? Eheheheheh please please ?
+     * You are offering the most absolute disgusting life style ? and looking around for guilty ?
       **/       
 
 
