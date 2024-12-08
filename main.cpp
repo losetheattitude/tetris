@@ -572,6 +572,8 @@ int main()
      * 
      * Go jerk off to years of footage that you can use for evidence and ask yourselves all sorts of questions
      * GET MORE CHILDREN YOU CAN FOOL, the rightfully deserving disgusting animals, are you still offering women ? The genius people you say ?
+     * 
+     * You got 30 years of evidence and you are still jerking off to harming people you have no relation ? Thats the definition of genius
       **/       
 
 
