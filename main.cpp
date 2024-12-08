@@ -336,7 +336,7 @@ int main()
      * 
      * Do you even know the corresponding actions when you commit such a thing ? What makes you think you are entitled to do that ? ehehhe "get women ?"
      * 
-     * Who told you I accept women over violence ?
+     * Who told you I accept women over violence ? Keep in your disgusting mind
       **/       
 
 
