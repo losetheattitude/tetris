@@ -437,7 +437,7 @@ int main()
      * Fucking disgusting still homo sapiens that I will not consider for a second to waste my time with ?
      * I do not care whether you think yourselves for a genius or you own the world
      * 
-     * What are you waiting for ? The geniuses ?
+     * What are you waiting for ? The geniuses ? Do you recognize yourselves as ?
       **/       
 
 
