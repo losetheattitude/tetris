@@ -386,7 +386,7 @@ int main()
      * 
      * 
      * The sole evidence to your disgusting unfair animality, the evidence of 30 years proves both of us what we are
-     * The genius nation you say ?
+     * The genius nation you say ? eheheh education you say ?
       **/       
 
 
