@@ -371,6 +371,7 @@ int main()
      * THE GENIUS PEOPLE hiding what they have perpetrated!!!! hide more!!! harm more!!! lie more!! solicit and beg more!!!
      * 
      * All the qualities of really nice and good and etc "human beings"
+     * Eheheh I would love to waste my time as I have done so with all of you, all of you who does not have what it takes to understand
       **/       
 
 
