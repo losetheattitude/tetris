@@ -355,6 +355,7 @@ int main()
      * Do you follow THE GENIUS PEOPLE ? THE GENIUSES who are afraid of things and run away from them like the disgusting animal they are
      * 
      * Eheheh harm more THE GENIUS PEOPLE
+     * THE GENIUS PEOPLE THAT HAS ACHIEVED NOTHING but still love to allege, allege against 30 years of evidence
       **/       
 
 
