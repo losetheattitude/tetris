@@ -359,6 +359,7 @@ int main()
      * Get yourselves more children, you deserve that!!! Beg more to harm others
      * 
      * Now its the time you look back and tell everyone what you achieved with your disgusting ignorance
+     * Tell others how you dealt with children, thats one of the qualities of THE GENIUSES
       **/       
 
 
