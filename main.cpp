@@ -341,7 +341,8 @@ int main()
      * You just need yourselves more kids to shout and torture then beg them to lie for you, what a great group of animals!!!  eheheh leave here!!!
      * Awww I see, you just feel reallly reallly powerful when you behave in this way ? ehehehehhehe reallly funny stuff
      * 
-     * Get yourselves more children eheheh, I have got 30 years of evidence 
+     * Get yourselves more children eheheh, I have got 30 years of evidence,
+     * The same simple animals who take "fooling children" for a skill and brag about others as though they have achieved something
       **/       
 
 
