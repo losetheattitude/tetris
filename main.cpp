@@ -428,7 +428,7 @@ int main()
      * Who does not even comprehend that women and violence does not correlate, TIME AND WOMEN DOES NOT CORRELATE!
      * VIOLENCE AND TIME DOES NOT CORRELATE, DELUSIONS AND REALITY DOES NOT CORRELATE
      * 
-     * Look at your delusions and what they have achieved, only some proud nothing else
+     * Look at your delusions and what they have achieved, only some proud nothing else, get yourselves some children proud geniuses
       **/       
 
 
