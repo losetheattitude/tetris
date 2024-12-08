@@ -301,7 +301,7 @@ int main()
      * Dont you still understand that you are chasing money because you are doing what you want ? Do you think I care slighest about the money ?
      * You disgusting animals ? Will you start accounting for your disgusting behavior ? or start learning how to listen to people ?
      * 
-     * Awwww, you are so deep in your disgusting animality you say ?
+     * Awwww, you are so deep in your disgusting animality you say ? Awwww you say its too funny ?
       **/       
 
 
