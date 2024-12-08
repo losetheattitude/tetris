@@ -563,6 +563,8 @@ int main()
      * Play games that you do not suck and ruin others' lives such as "ITS NOT YOUR FUCKING DECISION and I do not care whether you are upset
      * because of your own natural stupidity" There is nothing I could do to change your stupidity
      * Grow up and get the fuck out of my face, do your own thing and ruin your OWN LIFE, its not your decisions, Do you even follow ?
+     * 
+     * PAY FOR YOUR OWN ACTIONS THAT YOU COMMIT TO HARM, AND START RUINING YOUR OWN LIFE
       **/       
 
 
