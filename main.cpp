@@ -298,6 +298,8 @@ int main()
      * Have a look at what you are, ehehe you would rather "enjoy" your disgusting inferiority by excuses as you have done so in the "past"
      * 
      * Need more disgusting excuses that only your minds can produce and believe at the same time ?
+     * Dont you still understand that you are chasing money because you are doing what you want ? Do you think I care slighest about the money ?
+     * You disgusting animals ?
       **/       
 
 
