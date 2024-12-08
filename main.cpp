@@ -422,6 +422,7 @@ int main()
      * The same geniuses who can not see that I DO NOT BEG NOR BOW, who does need the education ?
      * 
      * Proud yet can not talk openly about their actions, genius but can not act like one ? where is the problem ?
+     * Genius but can not see that they are avoiding what THEY HAVE PERPETRATED because it awakens you from your delusions ?
       **/       
 
 
