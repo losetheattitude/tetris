@@ -558,6 +558,7 @@ int main()
      * Still deluding ? STILL DELUDING AND ASKING THINGS FROM PEOPLE ?
      * 
      * Why are you waiting for ? LETS FUCKING GO ? what is so difficult ?
+     * I have no intention to waste my time even further with the monkeys that harm for the sake of harming
       **/       
 
 
