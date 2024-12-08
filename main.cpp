@@ -472,6 +472,7 @@ int main()
      * 
      * Tough and genius guys, you sure you are not only aiming to that but actually failing ? How about you watch and learn ?
      * How about you learn how to listen ?
+     * How about you start accounting for your own behavior then we talk about how to solve the rest ?
       **/       
 
 
