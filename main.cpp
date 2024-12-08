@@ -306,6 +306,7 @@ int main()
      * we do not understand shit about life!! get money!!!! get women!! GENIUS PEOPLE!!
      * 
      * The level of genius that I would not even consider one piece of material from them, you are at that disgusting level
+     * Do you understand killing innocent children is bad ? The genius nation ?
       **/       
 
 
