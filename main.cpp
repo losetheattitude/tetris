@@ -319,6 +319,8 @@ int main()
      * You are indeed one of the rare genius ehehehehe, such a decision nobody can ever argue
      * 
      * What do you think you are waiting for ? What am I waiting for ?
+     * I have already told you that even if you were the god himself, I would not consider any of you around me who has been here for too long
+     * and have inflicted only pain
       **/       
 
 
