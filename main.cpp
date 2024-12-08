@@ -537,7 +537,7 @@ int main()
      * 
      * Where are the great credible promises of great people ? eheheh this is the disgusting part where you take in
      * 
-     * I AM NOT INTERESTED IN WASTING MY TIME WITH DELUSION STUPID MONKEYS
+     * I AM NOT INTERESTED IN WASTING MY TIME WITH DELUSION STUPID MONKEYS, DO WHAT YOU HAVE TO DO
       **/       
 
 
