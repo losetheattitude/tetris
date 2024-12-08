@@ -431,6 +431,8 @@ int main()
      * Look at your delusions and what they have achieved, only some proud nothing else, get yourselves some children proud geniuses
      * Still offer women over time ? Offering materials over violence ? Proud geniuses!!
      * Tricking with women you say genius ? Cheap monkeys ?
+     * 
+     * Whatever you have acquired is not legal, thats all
       **/       
 
 
