@@ -478,6 +478,7 @@ int main()
      * Listen how to learn then learn how to listen ?
      * 
      * How about you stop advicing people about what happens after death and instead FOLLOW YOUR OWN ADVICES ?
+     * Get educated with the same disgusting approach as I do ? awwww you are too special for that fucking monkeys
       **/       
 
 
