@@ -505,7 +505,8 @@ int main()
      * 
      * You have been here all along and the great life I have had is the sole evidence to your disgusting animality
      * Have whatever you think you have valuable into your asses, I am not interested in anything you could offer
-     * You still believe in your "teachings" ? How come you are so blind ?
+     * 
+     * You still believe in your "teachings" ? How come you are so blind ? You taught a lesson to whom ? ehehehe
       **/       
 
 
