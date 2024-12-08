@@ -315,7 +315,7 @@ int main()
      * Eheheheh, first learn some physics then delude on your competency at decision making
      * you are disgusting inferior animals that I would not consider wasting my time, you do what you have to do
      * 
-     * Do it from out of my vicinity
+     * Do it from out of my vicinity, pay close attention to begging to children that you harm unfairly
       **/       
 
 
