@@ -530,6 +530,8 @@ int main()
      * 
      * Still after "saying good things temporarily and making reallly reallly good offers that you do not deliver" ?
      * Eheheheh you call that intelligence ? I call that being a disgusting monkey 
+     * 
+     * And you have done what ? ITS NOT EVEN YOUR DECISION YET you have "chosen" to do what ? Awwwwww, you are supposed to be able to say that ?
       **/       
 
 
