@@ -444,7 +444,8 @@ int main()
      * Get more people around, ehehehhe gather 10000 you are probably going to need with your stupid attitude, aww I was going to say genius
      * Still attributing your own failure to other children ? Delusion ? Who is what ?
      * 
-     * Cheap violence not working and the genius people are wondering why ?
+     * Cheap violence not working and the genius people are wondering why ? The genius people who are afraid of violence and
+     * trying to solve nonexistent problems with it ?
       **/       
 
 
