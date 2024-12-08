@@ -454,7 +454,7 @@ int main()
      * The great minds of genius people who have brought everything into this state and they have no options
      * to continue being the disgusting animal they are 
      * 
-     * Do you understand that the life is not given to you ?
+     * Do you understand that the life is not given to you ? The genius understanding of boundaries you say ?
       **/       
 
 
