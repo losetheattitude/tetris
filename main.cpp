@@ -356,7 +356,7 @@ int main()
      * 
      * Eheheh harm more THE GENIUS PEOPLE
      * THE GENIUS PEOPLE THAT HAS ACHIEVED NOTHING but still love to allege, allege against 30 years of evidence
-     * Get yourselves more children, you deserve that!!!
+     * Get yourselves more children, you deserve that!!! Beg more to harm others
       **/       
 
 
