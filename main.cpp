@@ -332,6 +332,7 @@ int main()
      * You are too deep in your own behavior starting from years ago and keeping your disgusting animality consistent, YOU HAVE ARRIVED TO NOWHERE
      * 
      * But anyways, lets be the consistent disgusting animal we are so far, that get us to nowhere!!!
+     * Ehehehehe MORE VIOLENCE!!!!!!! please we developed eheheh life simulation life not fair!!!
       **/       
 
 
