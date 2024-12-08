@@ -534,6 +534,8 @@ int main()
      * And you have done what ? ITS NOT EVEN YOUR DECISION YET you have "chosen" to do what ? Awwwwww, you are supposed to be able to say that ?
      * I am telling you the great noble and good intentioned people ?
      * Still after harming people you have no relation with ? No reason with ?
+     * 
+     * Where are the great credible promises of great people ? eheheh this is the disgusting part where you take in
       **/       
 
 
