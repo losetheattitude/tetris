@@ -323,6 +323,7 @@ int main()
      * and have inflicted only pain
      * 
      * Do not even think about engaging in any shape or form, I am simply not interested in your stupid behavior
+     * Talk more on violence instead of hiding like the disgusting animal you are that I will not consider wasting my time neither helping nor lying for
       **/       
 
 
