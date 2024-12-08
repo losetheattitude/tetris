@@ -311,6 +311,8 @@ int main()
      * 
      * Do the genius nation understand innocent unrelated children can not be made to serve your disgusting purpose ?
      * A few months of feeling that you won ? The genius nation ? ehehehhe your geniuses must be really proud of you
+     * 
+     * Eheheheh, first learn some physics then delude on your competency at decision making
       **/       
 
 
