@@ -363,6 +363,9 @@ int main()
      * 
      * I am sure you are also a genius who understands "RESPONSIBILITIES" and "ACCOUNTABILITY"
      * What a disgusting group I say, you say what ? "ILLEGAL!!!!" eheheheh 30 years eheheheheh
+     * 
+     * And you also delude on your "reallly precious self" that even I would consider wasting my time with you ?
+     * Because you have something valuable ? What a disgusting animal I say
       **/       
 
 
