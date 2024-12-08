@@ -285,6 +285,7 @@ int main()
      * Still looking around for proof ? When you are the one who is causing all the harm and seek for the responsible ?
      * 
      * Are you still on the same narrative ? Eheheh he is not aware ?
+     * Are you still chasing the same stupid inefficient thinking pattern ?
       **/       
 
 
