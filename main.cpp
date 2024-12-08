@@ -470,7 +470,7 @@ int main()
      * Talk more about your promises you made to 5 months children and request them to remain calm while
      * the time you wasted CAN NOT BE RECOVERED 
      * 
-     * Tough and genius guys
+     * Tough and genius guys, you sure you are not only aiming to that but actually failing ? How about you watch and learn ?
       **/       
 
 
