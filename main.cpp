@@ -568,6 +568,7 @@ int main()
      * around me for a second
      * 
      * What are you waiting for ? Is this how you deal with your incompetency ?
+     * Are you still wasting time with unrelated bullshit excuses of your disgusting minds ?
       **/       
 
 
