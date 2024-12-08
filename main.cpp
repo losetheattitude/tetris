@@ -427,6 +427,8 @@ int main()
      * That is the reason I will not consider any of you around me and, I and other would love to see such people pay a price
      * Who does not even comprehend that women and violence does not correlate, TIME AND WOMEN DOES NOT CORRELATE!
      * VIOLENCE AND TIME DOES NOT CORRELATE, DELUSIONS AND REALITY DOES NOT CORRELATE
+     * 
+     * Look at your delusions and what they have achieved, only some proud nothing else
       **/       
 
 
