@@ -497,6 +497,8 @@ int main()
      * Disgusting monkeys that I will not under any circumstance accept to work together
      * How come do you think I would accept to work together with a group that only offers women ?
      * Whats the problem do you think, incapable people ?
+     * 
+     * So you still believe, "hiding" is equal to disgusting life style ? eheheh offer more you do not deliver already ?
       **/       
 
 
