@@ -381,7 +381,9 @@ int main()
      * You made it into a decades problem that will bubble up in every possible chance, even when you are gone people will know about this 
      * and you will appear like the disgusting animal that you are, even after the "forget about the past" words you say
      * 
-     * You are legitimately a licensed stupid monkey
+     * You are legitimately a licensed stupid monkey that aims for pure harm and everyone can see that even the people around you who begs for their life
+     * through accepting "you are right!!!!"
+     * 
       **/       
 
 
