@@ -434,6 +434,8 @@ int main()
      * 
      * Whatever you have acquired is not legal, thats all
      * Is this your genius move with what IS NOT GIVEN TO YOU ? eheheheheh
+     * Fucking disgusting still homo sapiens that I will not consider for a second to waste my time with ?
+     * I do not care whether you think yourselves for a genius or you own the world
       **/       
 
 
