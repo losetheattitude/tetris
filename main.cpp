@@ -540,6 +540,9 @@ int main()
      * I AM NOT INTERESTED IN WASTING MY TIME WITH DELUSION STUPID MONKEYS, DO WHAT YOU HAVE TO DO
      * Do you want to talk about not having resources ? eheheheh ? Thats the precise reason I wont accept any of you around me
      * Stupid monkeys
+     * 
+     * Are you saying forgive me ? apologies ? making offers ? compensating time with what ?
+     * are you still offering good education ?
       **/       
 
 
