@@ -485,6 +485,8 @@ int main()
      * What are you waiting for ? Eheheheheh please please ?
      * You are offering the most absolute disgusting life style ? and looking around for guilty ?
      * It is not your decisions where I go, I do not accept any disgusting animals so far with me
+     * 
+     * Deluding on still ?
       **/       
 
 
