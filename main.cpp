@@ -451,6 +451,8 @@ int main()
      * acting on their disgusting violent emotions over others and continue hiding 
      * 
      * Still on the sapiens phase ? Do you see the problem ? I am sure you see no problems
+     * The great minds of genius people who have brought everything into this state and they have no options
+     * to continue being the disgusting animal they are 
       **/       
 
 
