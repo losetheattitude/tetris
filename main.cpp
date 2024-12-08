@@ -438,7 +438,7 @@ int main()
      * I do not care whether you think yourselves for a genius or you own the world
      * 
      * What are you waiting for ? The geniuses ? Do you recognize yourselves as ?
-     * Guess what happens if you fail ? you also fail on your other delusions 
+     * Guess what happens if you fail ? you also fail on your other delusions, I am sure you are proudly living
       **/       
 
 
