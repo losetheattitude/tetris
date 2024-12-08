@@ -308,6 +308,9 @@ int main()
      * The level of genius that I would not even consider one piece of material from them, you are at that disgusting level
      * Do you understand killing innocent children is bad ? The genius nation ?
      * How about 30 years of evidence ? eheheheh please please!!!!
+     * 
+     * Do the genius nation understand innocent unrelated children can not be made to serve your disgusting purpose ?
+     * A few months of feeling that you won ? The genius nation ? ehehehhe your geniuses must be really proud of you
       **/       
 
 
