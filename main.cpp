@@ -442,6 +442,7 @@ int main()
      * 
      * You are also proudly dealing with a single individual ehehehehehhe, thats really scary stuff
      * Get more people around, ehehehhe gather 10000 you are probably going to need with your stupid attitude, aww I was going to say genius
+     * Still attributing your own failure to other children ?
       **/       
 
 
