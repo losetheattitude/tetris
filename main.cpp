@@ -395,6 +395,8 @@ int main()
      * 
      * ITS YOUR PAST THAT YOU ARE ASHAMED OF THEREFORE DO HARM TO HIDE BEHIND YOUR DISGUSTING ANIMALITY. You see the problem ?
      * I am not even slightest afraid so you still get the same output because ITS YOUR WRONG
+     * 
+     * Taking being the cheapest form of animal for a skill, ITS YOUR PAST AND YOUR WRONG, I do not care
       **/       
 
 
