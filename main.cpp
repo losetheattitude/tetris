@@ -500,6 +500,7 @@ int main()
      * 
      * So you still believe, "hiding" is equal to disgusting life style ? eheheh offer more you do not deliver already ?
      * Still offering education ? Still promising good education to 5months old babies ?
+     * Still offering material yet you never deliver ?
       **/       
 
 
