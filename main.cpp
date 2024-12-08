@@ -499,6 +499,7 @@ int main()
      * Whats the problem do you think, incapable people ?
      * 
      * So you still believe, "hiding" is equal to disgusting life style ? eheheh offer more you do not deliver already ?
+     * Still offering education ? Still promising good education to 5months old babies ?
       **/       
 
 
