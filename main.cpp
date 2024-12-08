@@ -286,6 +286,8 @@ int main()
      * 
      * Are you still on the same narrative ? Eheheh he is not aware ?
      * Are you still chasing the same stupid inefficient thinking pattern ?
+     * 
+     * IT DOES NOT WORK and I do not want to waste my time with irresponsible people, make no mistake, you are the one who is irresponsible
       **/       
 
 
