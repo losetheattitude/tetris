@@ -447,7 +447,8 @@ int main()
      * Cheap violence not working and the genius people are wondering why ? The genius people who are afraid of violence and
      * trying to solve nonexistent problems with it ? More like a inferior homo sapiens who thinks everyone for themselves 
      * 
-     * You expose your nature through your actions geniusly delusional people,
+     * You expose your nature through your actions geniusly delusional people, the nature that is the precise reflection of cheap animals
+     * acting on their disgusting violent emotions over others and continue hiding 
       **/       
 
 
