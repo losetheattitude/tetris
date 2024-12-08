@@ -375,6 +375,7 @@ int main()
      * Genius indeed
      * 
      * Is this what you call success ? Offering women over years and violence ? The genius ?
+     * Or are you just a bunch of crying babies who like to deal with children and takes fooling them for a skill ?
       **/       
 
 
