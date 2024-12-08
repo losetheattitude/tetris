@@ -457,7 +457,7 @@ int main()
      * Do you understand that the life is not given to you ? The genius understanding of boundaries you say ?
      * Still trying to produce bullshit for your irrelevant "decisions", THE LIFE THAT IS NOT GIVEN TO YOU ?
      * 
-     * What did you choose to do ? 
+     * What did you choose to do ? Are you still offering women over time ?
       **/       
 
 
