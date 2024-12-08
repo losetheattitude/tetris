@@ -429,6 +429,7 @@ int main()
      * VIOLENCE AND TIME DOES NOT CORRELATE, DELUSIONS AND REALITY DOES NOT CORRELATE
      * 
      * Look at your delusions and what they have achieved, only some proud nothing else, get yourselves some children proud geniuses
+     * Still offer women over time ? Offering materials over violence ? Proud geniuses!!
       **/       
 
 
