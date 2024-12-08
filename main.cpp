@@ -368,6 +368,9 @@ int main()
      * Because you have something valuable ? What a disgusting animal I say
      * 
      * You say what ? ITS TOOO LATEEE!!!! eheheheh you are still you, THE GENIUS PEOPLE
+     * THE GENIUS PEOPLE hiding what they have perpetrated!!!! hide more!!! harm more!!! lie more!! solicit and beg more!!!
+     * 
+     * All the qualities of really nice and good and etc "human beings"
       **/       
 
 
