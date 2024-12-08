@@ -335,6 +335,8 @@ int main()
      * Ehehehehe MORE VIOLENCE!!!!!!! please we developed eheheh life simulation life not fair!!!
      * 
      * Do you even know the corresponding actions when you commit such a thing ? What makes you think you are entitled to do that ? ehehhe "get women ?"
+     * 
+     * Who told you I accept women over violence ?
       **/       
 
 
