@@ -495,6 +495,7 @@ int main()
      * Still wasting time while you are free doing whatever you want ?
      * And you still dare to think anyone would be okay to hang with you ? Within your country ? How come ?
      * Disgusting monkeys that I will not under any circumstance accept to work together
+     * How come do you think I would accept to work together with a group that only offers women ?
       **/       
 
 
