@@ -401,6 +401,8 @@ int main()
      * 
      * Leading by great mistake!! ehehhe great etc great and great ehehehhe make sure I would love to be around you all
      * Proud people btw
+     * You have gambled and gambled with what you do not have and look at where you are ? You are in the deepest shit that nobody wants to be ?
+     * But you still shout and try to intimidate people who you CAN NOT ?
       **/       
 
 
