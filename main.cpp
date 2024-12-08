@@ -343,6 +343,7 @@ int main()
      * 
      * Get yourselves more children eheheh, I have got 30 years of evidence,
      * The same simple animals who take "fooling children" for a skill and brag about others as though they have achieved something
+     * And beg like the disgusting animal they are afterwards
       **/       
 
 
