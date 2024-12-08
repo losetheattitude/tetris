@@ -493,6 +493,7 @@ int main()
      * 
      * Why are you still the same animal ?
      * Still wasting time while you are free doing whatever you want ?
+     * And you still dare to think anyone would be okay to hang with you ? Within your country ? How come ?
       **/       
 
 
