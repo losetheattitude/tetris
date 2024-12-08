@@ -475,6 +475,7 @@ int main()
      * How about you start accounting for your own behavior then we talk about how to solve the rest ?
      * How about you realize you do not make that decision and pay for your own actions ?
      * How about you talk about your credibility before you ask things from someone who you harm intentionally ?
+     * Listen how to learn then learn how to listen ?
       **/       
 
 
