@@ -543,6 +543,7 @@ int main()
      * 
      * Are you saying forgive me ? apologies ? making offers ? compensating time with what ?
      * are you still offering good education ? ARE YOU STILL OFFERING ? With the disgusting existence of your mind ?
+     * Like you offered to children so that they do stupid stuff for your interests ?
       **/       
 
 
