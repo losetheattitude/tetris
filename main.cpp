@@ -374,7 +374,7 @@ int main()
      * Eheheh I would love to waste my time as I have done so with all of you, all of you who does not have what it takes to understand
      * Genius indeed
      * 
-     * Is this what you call success ?
+     * Is this what you call success ? Offering women over years and violence ? The genius ?
       **/       
 
 
