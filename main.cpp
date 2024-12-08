@@ -344,6 +344,9 @@ int main()
      * Get yourselves more children eheheh, I have got 30 years of evidence,
      * The same simple animals who take "fooling children" for a skill and brag about others as though they have achieved something
      * And beg like the disgusting animal they are afterwards
+     * 
+     * What do you think the price is ? You still dare saying "WOMEENNNNNN" because you also lack understanding in that part ?
+     * You lack all the crucial understandings but you are still there demanding to be taken serious ?
       **/       
 
 
