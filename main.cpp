@@ -463,6 +463,9 @@ int main()
      * Are you still offering what you would love ? "The violence" ? Committ crimes!!!
      * Are you after people who can not defend themselves against 10000 people with tools ?
      * You were saying genius ?
+     * 
+     * You are still after the narrative that "ITS A STORYY, ITS A GAME, LIFE SIMULATION ?" 
+     * The life THAT IS NOT GIVEN TO YOU ?
       **/       
 
 
