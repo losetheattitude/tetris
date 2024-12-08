@@ -419,7 +419,7 @@ int main()
      * Like the immature kid that you are, still deluding on your nonexistent qualities ?
      * 
      * You are proud of being unreasonable and you still call yourselves genius ?
-     * The same geniuses who can not see that I DO NOT BEG NOR BOW
+     * The same geniuses who can not see that I DO NOT BEG NOR BOW, who does need the education ?
       **/       
 
 
