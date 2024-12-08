@@ -529,6 +529,7 @@ int main()
      * Still trying your best to portray children as disgusting ?
      * 
      * Still after "saying good things temporarily and making reallly reallly good offers that you do not deliver" ?
+     * Eheheheh you call that intelligence ? I call that being a disgusting monkey 
       **/       
 
 
