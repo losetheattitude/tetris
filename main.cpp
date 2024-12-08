@@ -360,6 +360,9 @@ int main()
      * 
      * Now its the time you look back and tell everyone what you achieved with your disgusting ignorance
      * Tell others how you dealt with children, thats one of the qualities of THE GENIUSES
+     * 
+     * I am sure you are also a genius who understands "RESPONSIBILITIES" and "ACCOUNTABILITY"
+     * What a disgusting group I say, you say what ? "ILLEGAL!!!!" eheheheh 30 years eheheheheh
       **/       
 
 
