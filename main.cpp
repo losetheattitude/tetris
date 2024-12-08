@@ -524,6 +524,7 @@ int main()
      * Disgusting monkeys ? What are you waiting for ?
      * Who is burden to who ? Are you still offering good education ?
      * Are you the disgusting animals still daring to offer things ? Start paying for your own actions and the decisions THAT WERE NOT YOURS 
+     * How do you compensate disgusting time ? awwww you say women ? Awww you also say good education ?
       **/       
 
 
