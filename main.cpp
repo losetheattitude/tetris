@@ -327,6 +327,8 @@ int main()
      * 
      * Talk more on "racing" with children
      * Do you even know how to listen and watch ? Watch the evidence of 30 years ? Listen to the person who is telling the truth all the time ?
+     * 
+     * Awww you can not do that!!! because you are so deep in your own disgusting shit that you would all have to disappear from earth ehehehhhe
       **/       
 
 
