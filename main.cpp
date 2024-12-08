@@ -390,6 +390,8 @@ int main()
      * 
      * Eheheh the sole indication of what you are and what I am, you do not have to look further
      * Look elsewhere to not see what you have done!!! eheheh education btw
+     * 
+     * I do not want to see any disgusting animals like you around me, do what you have to do, think more about your past, not mine
       **/       
 
 
