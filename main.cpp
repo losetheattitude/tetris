@@ -553,6 +553,9 @@ int main()
      * Have you ruined enough things or are you still content with your disgusting minds ?
      * Why are you still waiting disgusting people who hides behind stupid excuses ?
      * 
+     * Have you ruined enough while enjoying your own precious experiences ? Where are the excuses ?
+     * Awww you just want to enjoy your experiences without any interruption ?
+     * 
       **/       
 
 
