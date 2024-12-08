@@ -303,7 +303,7 @@ int main()
      * 
      * Awwww, you are so deep in your disgusting animality you say ? Awwww you say its too funny ?
      * Awwww, its too late!! we are too deep being the disgusting animals we claim others to be!!!! please!! get money!!! ehehe
-     * we do not understand shit about life!! get money!!!! get women!!
+     * we do not understand shit about life!! get money!!!! get women!! GENIUS PEOPLE!!
       **/       
 
 
