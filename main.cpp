@@ -567,7 +567,7 @@ int main()
      * PAY FOR YOUR OWN ACTIONS THAT YOU COMMIT TO HARM, AND START RUINING YOUR OWN LIFE, fucking stupid monkeys that I will not welcome
      * around me for a second
      * 
-     * What are you waiting for ?
+     * What are you waiting for ? Is this how you deal with your incompetency ?
       **/       
 
 
