@@ -542,7 +542,7 @@ int main()
      * Stupid monkeys
      * 
      * Are you saying forgive me ? apologies ? making offers ? compensating time with what ?
-     * are you still offering good education ?
+     * are you still offering good education ? ARE YOU STILL OFFERING ? With the disgusting existence of your mind ?
       **/       
 
 
