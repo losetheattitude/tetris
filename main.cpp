@@ -377,6 +377,9 @@ int main()
      * Is this what you call success ? Offering women over years and violence ? The genius ?
      * Or are you just a bunch of crying babies who like to deal with children and takes fooling them for a skill ?
      * What do you think that makes you ?
+     * 
+     * You made it into a decades problem that will bubble up in every possible chance, even when you are gone people will know about this 
+     * and you will appear like the disgusting animal that you are, even after the "forget about the past" words you say
       **/       
 
 
