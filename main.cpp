@@ -291,6 +291,7 @@ int main()
      * Look what you have done with what is NOT GIVEN TO YOU, indeed the most genius nation
      * 
      * Need more excuses for doing something you would love to ?
+     * You do not realize you havent done anything other than just saying a few things, what a pattern
       **/       
 
 
