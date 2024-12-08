@@ -420,6 +420,8 @@ int main()
      * 
      * You are proud of being unreasonable and you still call yourselves genius ?
      * The same geniuses who can not see that I DO NOT BEG NOR BOW, who does need the education ?
+     * 
+     * Proud yet can not talk openly about their actions, genius but can not act like one ? where is the problem ?
       **/       
 
 
