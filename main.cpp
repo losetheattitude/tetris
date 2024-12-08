@@ -313,6 +313,9 @@ int main()
      * A few months of feeling that you won ? The genius nation ? ehehehhe your geniuses must be really proud of you
      * 
      * Eheheheh, first learn some physics then delude on your competency at decision making
+     * you are disgusting inferior animals that I would not consider wasting my time, you do what you have to do
+     * 
+     * Do it from out of my vicinity
       **/       
 
 
