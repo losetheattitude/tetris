@@ -449,6 +449,8 @@ int main()
      * 
      * You expose your nature through your actions geniusly delusional people, the nature that is the precise reflection of cheap animals
      * acting on their disgusting violent emotions over others and continue hiding 
+     * 
+     * Still on the sapiens phase ? Do you see the problem ? I am sure you see no problems
       **/       
 
 
