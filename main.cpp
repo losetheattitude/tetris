@@ -476,6 +476,8 @@ int main()
      * How about you realize you do not make that decision and pay for your own actions ?
      * How about you talk about your credibility before you ask things from someone who you harm intentionally ?
      * Listen how to learn then learn how to listen ?
+     * 
+     * How about you stop advicing people about what happens after death and instead FOLLOW YOUR OWN ADVICES ?
       **/       
 
 
