@@ -510,7 +510,7 @@ int main()
      * And you still withholding material because you think so ? eheheh do not do anything!!! ehehehhe life life life!!
      * 
      * I AM NOT INTERESTED IN YOUR STUPID EXCUSES, wake up
-     * Awwwwww, such an unimportant mistake
+     * Awwwwww, such an unimportant mistake, a mistake that was not even your decision in the first place! the life THAT IS NOT GIVEN TO YOU, and what have you done with it ?
       **/       
 
 
