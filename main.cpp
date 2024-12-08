@@ -403,6 +403,8 @@ int main()
      * Proud people btw
      * You have gambled and gambled with what you do not have and look at where you are ? You are in the deepest shit that nobody wants to be ?
      * But you still shout and try to intimidate people who you CAN NOT ? Proud BTW ?
+     * 
+     * Proud to harm children and defenseless people ? ehehehehe past its past!!! please!!! Like the inferiors
       **/       
 
 
