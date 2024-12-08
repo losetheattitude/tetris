@@ -473,6 +473,7 @@ int main()
      * Tough and genius guys, you sure you are not only aiming to that but actually failing ? How about you watch and learn ?
      * How about you learn how to listen ?
      * How about you start accounting for your own behavior then we talk about how to solve the rest ?
+     * How about you realize you do not make that decision and pay for your own actions ?
       **/       
 
 
