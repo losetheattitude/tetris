@@ -480,6 +480,7 @@ int main()
      * How about you stop advicing people about what happens after death and instead FOLLOW YOUR OWN ADVICES ?
      * Get educated with the same disgusting approach as I do ? awwww you are too special for that fucking monkeys
      * Are you still offering material ? What a special disgusting sapien
+     * Start using your own approach for your precious lifes the genius people
       **/       
 
 
