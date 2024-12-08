@@ -295,7 +295,7 @@ int main()
      * Still looking for excuses when you have years of proof ? eheheh like the real genius you are
      * 
      * Still daring to hide your disgusting animality ?
-     * Have a look at what you are
+     * Have a look at what you are, ehehe you would rather "enjoy" your disgusting inferiority by excuses as you have done so in the "past"
       **/       
 
 
