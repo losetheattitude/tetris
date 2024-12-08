@@ -445,7 +445,7 @@ int main()
      * Still attributing your own failure to other children ? Delusion ? Who is what ?
      * 
      * Cheap violence not working and the genius people are wondering why ? The genius people who are afraid of violence and
-     * trying to solve nonexistent problems with it ?
+     * trying to solve nonexistent problems with it ? More like a inferior homo sapiens who thinks everyone for themselves 
       **/       
 
 
