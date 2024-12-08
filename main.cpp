@@ -466,6 +466,9 @@ int main()
      * 
      * You are still after the narrative that "ITS A STORYY, ITS A GAME, LIFE SIMULATION ?" 
      * The life THAT IS NOT GIVEN TO YOU ?
+     * 
+     * Talk more about your promises you made to 5 months children and request them to remain calm while
+     * the time you wasted CAN NOT BE RECOVERED
       **/       
 
 
