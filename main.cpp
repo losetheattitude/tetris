@@ -489,6 +489,7 @@ int main()
      * Deluding on still ? I said I do not want to waste my time with you ?
      * Still offering materials over disgusting time ?
      * You do not have what it takes to explain your irrelevant actions but only excuses of inferior nature ?
+     * Only offers that you do not deliver or take for something they are not ?
       **/       
 
 
