@@ -441,6 +441,7 @@ int main()
      * Guess what happens if you fail ? you also fail on your other delusions, I am sure you are proudly living
      * 
      * You are also proudly dealing with a single individual ehehehehehhe, thats really scary stuff
+     * Get more people around, ehehehhe gather 10000 you are probably going to need with your stupid attitude
       **/       
 
 
