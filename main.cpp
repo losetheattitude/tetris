@@ -557,7 +557,7 @@ int main()
      * Awww you just want to enjoy your experiences without any interruption ?
      * Still deluding ? STILL DELUDING AND ASKING THINGS FROM PEOPLE ?
      * 
-     * Why are you waiting for ?
+     * Why are you waiting for ? LETS FUCKING GO ? what is so difficult ?
       **/       
 
 
