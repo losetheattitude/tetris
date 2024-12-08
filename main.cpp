@@ -423,6 +423,8 @@ int main()
      * 
      * Proud yet can not talk openly about their actions, genius but can not act like one ? where is the problem ?
      * Genius but can not see that they are avoiding what THEY HAVE PERPETRATED because it awakens you from your delusions ?
+     * 
+     * That is the reason I will not consider any of you around me and, I and other would love to see such people pay a price
       **/       
 
 
