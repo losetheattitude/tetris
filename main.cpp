@@ -339,6 +339,7 @@ int main()
      * Who told you I accept women over violence ? Keep in your disgusting mind
      * Awwww I know now, you just need to torture kids, you need more kids ehehhehe you just like begging and torturing kids then "leave here!!" 
      * You just need yourselves more kids to shout and torture then beg them to lie for you, what a great group of animals!!!  eheheh leave here!!!
+     * Awww I see, you just feel reallly reallly powerful when you behave in this way ? ehehehehhehe reallly funny stuff
       **/       
 
 
