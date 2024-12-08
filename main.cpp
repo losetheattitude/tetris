@@ -413,6 +413,9 @@ int main()
      * Are you still offering what you would like ? The violence over violence ? The genius ?
      * 
      * Do you want to talk about your reasons ? I remember ? even the most unrelated things you asked from a kid ?
+     * 
+     * Talking about changing locations ? you say you genius ? you do not understand that you are the one who needs to change his mind ?
+     * eheheh ITSSS TOOOO LATEEEEEE!!!!!!!!!! 30 years!!!! eheheheh life!!! life!!! fate!!!
       **/       
 
 
