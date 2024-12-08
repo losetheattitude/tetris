@@ -455,6 +455,7 @@ int main()
      * to continue being the disgusting animal they are 
      * 
      * Do you understand that the life is not given to you ? The genius understanding of boundaries you say ?
+     * Still trying to produce bullshit for your irrelevant "decisions", THE LIFE THAT IS NOT GIVEN TO YOU ?
       **/       
 
 
