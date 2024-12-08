@@ -507,6 +507,7 @@ int main()
      * Have whatever you think you have valuable into your asses, I am not interested in anything you could offer
      * 
      * You still believe in your "teachings" ? How come you are so blind ? You taught a lesson to whom ? ehehehe
+     * And you still withholding material because you think so ? eheheh do not do anything!!! ehehehhe life life life!!
       **/       
 
 
