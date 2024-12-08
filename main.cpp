@@ -411,6 +411,7 @@ int main()
      * Still offering materials over lost time ? The genius nation ?
      * 
      * Are you still offering what you would like ? The violence over violence ? The genius ?
+     * Do you want to talk about your reasons ?
       **/       
 
 
