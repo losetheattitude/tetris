@@ -536,6 +536,8 @@ int main()
      * Still after harming people you have no relation with ? No reason with ?
      * 
      * Where are the great credible promises of great people ? eheheh this is the disgusting part where you take in
+     * 
+     * I AM NOT INTERESTED IN WASTING MY TIME WITH DELUSION STUPID MONKEYS
       **/       
 
 
