@@ -551,6 +551,7 @@ int main()
      * AROUND ME ? HARMING WITHOUT A DIRECTION ?
      * 
      * Have you ruined enough things or are you still content with your disgusting minds ?
+     * Why are you still waiting disgusting people who hides behind stupid excuses ?
      * 
       **/       
 
