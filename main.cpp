@@ -406,6 +406,8 @@ int main()
      * 
      * Proud to harm children and defenseless people ? ehehehehe past its past!!! please!!! Like the inferiors
      * Who still offers materials over time, what a genius understanding of the world
+     * 
+     * Are you still after disrupting the peace ? The proud genius nation ?
       **/       
 
 
