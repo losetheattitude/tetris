@@ -405,6 +405,7 @@ int main()
      * But you still shout and try to intimidate people who you CAN NOT ? Proud BTW ?
      * 
      * Proud to harm children and defenseless people ? ehehehehe past its past!!! please!!! Like the inferiors
+     * Who still offers materials over time, what a genius understanding of the world
       **/       
 
 
