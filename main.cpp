@@ -461,6 +461,8 @@ int main()
      * 
      * Why are you still waiting for what you have done so far ? The genius nation ?
      * Are you still offering what you would love ? "The violence" ? Committ crimes!!!
+     * Are you after people who can not defend themselves against 10000 people with tools ?
+     * You were saying genius ?
       **/       
 
 
