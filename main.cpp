@@ -550,6 +550,8 @@ int main()
      * You do not understand the "life" ? That you brag so much about knowing it ? DO YOU THINK I SHOULD CARE ABOUT MONEY WHEN YOU THE DISGUSTING ANIMALS ARE
      * AROUND ME ? HARMING WITHOUT A DIRECTION ?
      * 
+     * Have you ruined enough things or are you still content with your disgusting minds ?
+     * 
       **/       
 
 
