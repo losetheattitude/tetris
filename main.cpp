@@ -511,6 +511,7 @@ int main()
      * 
      * I AM NOT INTERESTED IN YOUR STUPID EXCUSES, wake up
      * Awwwwww, such an unimportant mistake, a mistake that was not even your decision in the first place! the life THAT IS NOT GIVEN TO YOU, and what have you done with it ?
+     * The 30 years of bullshit conduct and your sole response is WHAT ? Do you say what ? ehehehe life ?
       **/       
 
 
