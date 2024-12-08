@@ -546,7 +546,7 @@ int main()
      * Like you offered to children so that they do stupid stuff for your interests ?
      * 
      * Are you still making decisions ? The great genius people ? Are you still talking about "afterlife" ? "Education" ?
-     * Where is yours ?
+     * Where is yours ? ITS NOT YOUR FUCKING DECISION
      * 
       **/       
 
