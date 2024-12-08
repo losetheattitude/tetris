@@ -458,6 +458,8 @@ int main()
      * Still trying to produce bullshit for your irrelevant "decisions", THE LIFE THAT IS NOT GIVEN TO YOU ?
      * 
      * What did you choose to do ? Are you still offering women over time ?
+     * 
+     * Why are you still waiting for what you have done so far ? The genius nation ?
       **/       
 
 
