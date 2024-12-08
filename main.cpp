@@ -350,6 +350,8 @@ int main()
      * 
      * I call you simple disgusting animals ? Because what you have done with what is NOT GIVEN TO YOU ?
      * That simply explains all you need to know about your disgusting animality 
+     * 
+     * I call that sheer fear of what they do not understand which makes you the very underdeveloped homo sapiens as they existed in 100000 years ago
       **/       
 
 
