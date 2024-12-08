@@ -326,6 +326,7 @@ int main()
      * Talk more on violence instead of hiding like the disgusting animal you are that I will not consider wasting my time neither helping nor lying for
      * 
      * Talk more on "racing" with children
+     * Do you even know how to listen and watch ? Watch the evidence of 30 years ? Listen to the person who is telling the truth all the time ?
       **/       
 
 
