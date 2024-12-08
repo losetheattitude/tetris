@@ -538,7 +538,8 @@ int main()
      * Where are the great credible promises of great people ? eheheh this is the disgusting part where you take in
      * 
      * I AM NOT INTERESTED IN WASTING MY TIME WITH DELUSION STUPID MONKEYS, DO WHAT YOU HAVE TO DO
-     * Do you want to talk about not having resources ? eheheheh ?
+     * Do you want to talk about not having resources ? eheheheh ? Thats the precise reason I wont accept any of you around me
+     * Stupid monkeys
       **/       
 
 
