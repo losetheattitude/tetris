@@ -392,6 +392,8 @@ int main()
      * Look elsewhere to not see what you have done!!! eheheh education btw
      * 
      * I do not want to see any disgusting animals like you around me, do what you have to do, think more about your past, not mine
+     * 
+     * ITS YOUR PAST THAT YOU ARE ASHAMED OF THEREFORE DO HARM TO HIDE BEHIND YOUR DISGUSTING ANIMALITY. You see the problem ?
       **/       
 
 
