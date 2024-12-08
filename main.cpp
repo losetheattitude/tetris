@@ -471,6 +471,7 @@ int main()
      * the time you wasted CAN NOT BE RECOVERED 
      * 
      * Tough and genius guys, you sure you are not only aiming to that but actually failing ? How about you watch and learn ?
+     * How about you learn how to listen ?
       **/       
 
 
