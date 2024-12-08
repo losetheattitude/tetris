@@ -373,6 +373,8 @@ int main()
      * All the qualities of really nice and good and etc "human beings"
      * Eheheh I would love to waste my time as I have done so with all of you, all of you who does not have what it takes to understand
      * Genius indeed
+     * 
+     * Is this what you call success ?
       **/       
 
 
