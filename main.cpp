@@ -508,6 +508,8 @@ int main()
      * 
      * You still believe in your "teachings" ? How come you are so blind ? You taught a lesson to whom ? ehehehe
      * And you still withholding material because you think so ? eheheh do not do anything!!! ehehehhe life life life!!
+     * 
+     * I AM NOT INTERESTED IN YOUR STUPID EXCUSES, wake up
       **/       
 
 
