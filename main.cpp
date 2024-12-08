@@ -569,6 +569,8 @@ int main()
      * 
      * What are you waiting for ? Is this how you deal with your incompetency ?
      * Are you still wasting time with unrelated bullshit excuses of your disgusting minds ?
+     * 
+     * Go jerk off to years of footage that you can use for evidence and ask yourselves all sorts of questions
       **/       
 
 
