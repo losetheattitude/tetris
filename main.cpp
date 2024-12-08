@@ -526,6 +526,7 @@ int main()
      * Are you the disgusting animals still daring to offer things ? Start paying for your own actions and the decisions THAT WERE NOT YOURS 
      * How do you compensate disgusting time ? awwww you say women ? Awww you also say good education ?
      * Eheheheh you still making promises ? The genius disgusting people ?
+     * Still trying your best to portray children as disgusting ?
       **/       
 
 
