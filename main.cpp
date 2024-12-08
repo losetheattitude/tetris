@@ -547,6 +547,8 @@ int main()
      * 
      * Are you still making decisions ? The great genius people ? Are you still talking about "afterlife" ? "Education" ?
      * Where is yours ? ITS NOT YOUR FUCKING DECISION
+     * You do not understand the "life" ? That you brag so much about knowing it ? DO YOU THINK I SHOULD CARE ABOUT MONEY WHEN YOU THE DISGUSTING ANIMALS ARE
+     * AROUND ME ? HARMING WITHOUT A DIRECTION ?
      * 
       **/       
 
