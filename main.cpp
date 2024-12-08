@@ -522,7 +522,7 @@ int main()
      * Still wasting my time ?
      * 
      * Disgusting monkeys ? What are you waiting for ?
-     * Who is burden to who ? 
+     * Who is burden to who ? Are you still offering good education ?
       **/       
 
 
