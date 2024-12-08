@@ -559,6 +559,8 @@ int main()
      * 
      * Why are you waiting for ? LETS FUCKING GO ? what is so difficult ?
      * I have no intention to waste my time even further with the monkeys that harm for the sake of harming
+     * 
+     * Play games that you do not suck and ruin others' lives
       **/       
 
 
