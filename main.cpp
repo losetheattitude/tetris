@@ -384,6 +384,7 @@ int main()
      * You are legitimately a licensed stupid monkey that aims for pure harm and everyone can see that even the people around you who begs for their life
      * through accepting "you are right!!!!"
      * 
+     * The sole evidence to your disgusting unfair animality, the evidence of 30 years proves both of us what we are
       **/       
 
 
