@@ -348,7 +348,8 @@ int main()
      * What do you think the price is ? You still dare saying "WOMEENNNNNN" because you also lack understanding in that part ?
      * You lack all the crucial understandings but you are still there demanding to be taken serious ?
      * 
-     * I call you simple disgusting animals ?
+     * I call you simple disgusting animals ? Because what you have done with what is NOT GIVEN TO YOU ?
+     * That simply explains all you need to know about your disgusting animality 
       **/       
 
 
