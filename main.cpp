@@ -606,6 +606,7 @@ int main()
      * Or you just stop lying to yourselves and you will have no problems ?
      * 
      * Coping with reality ? Get yourselves more children the genius nation
+     * Account your behavior to others who can uphold your disgusting nature to some sort of measure 
       **/       
 
 
