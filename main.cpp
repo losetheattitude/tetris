@@ -732,6 +732,7 @@ int main()
      * who takes cheap lies for "catfishing", try harder
      * 
      * Now how about you tell me my experience first then take back your begging offers and pay the price for your disgusting actions
+     * Still offering women to someone who has nothing ? Awwwwwwwww, the genius people ?
       **/       
 
 
