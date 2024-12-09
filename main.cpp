@@ -643,7 +643,7 @@ int main()
      * Thats why we can not compare
      * 
      * Still deluding on your qualities ? Thats what I hate be around and as you have seen, I will choose not to be around such
-     * Delude on it being your decision
+     * Delude on it being your decision, I neither want to hear anything from such animals nor do I want to communicate
       **/       
 
 
