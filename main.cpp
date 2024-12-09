@@ -760,6 +760,7 @@ int main()
      * Still seeking for ways to explain your disgusting animality ? Thats what I will not accept around me ? Do you understand ?
      * 
      * How about you gather more people and try your hardest to harm ? You offer disgusting life style ? 
+     * Wait, you offer good education ? You offer women ? You offer cars ? The disgusting delusional genius people ?
       **/       
 
 
