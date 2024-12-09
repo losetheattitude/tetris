@@ -692,6 +692,7 @@ int main()
      * You do not have any reasonable things to say ? Other than what ? ehehehhe we like harming !!!! letss go!!!
      * You will notice only when people get hurt that its not a game and THE LIFE IS NOT GIVEN TO YOU ?
      * What have you done with it ? With a 5 months old kid then to adulthood ? Coerce violence and medicine ?
+     * When you had millions of chances ?
       **/       
 
 
