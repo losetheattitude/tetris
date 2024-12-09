@@ -637,6 +637,8 @@ int main()
      * 
      * Do you understand why I do not want inferior natured people around me ? Look what you have achieved,
      * nothing you can talk openly, that is what I call an achievement indeed
+     * 
+     * YOU HAVE ACHIEVED NOTHING FOR THE PAST 30 YEARS FOR WHAT YOU HAVE BEGGED, thats what I call an achievement
       **/       
 
 
