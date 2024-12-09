@@ -710,10 +710,12 @@ int main()
      * 
      * Do you feel gratified winning over such a thing ? Do you want to talk more about the latter ?
      * Do you still think you are playing games ? Wait a little harm falls upon you
-     * 
+     *  
      * WHAT ARE YOU WAITING FOR ? Still telling lies ? soliciting lies ?
      * "HE ATE IT!!!!!", I HAVE NEVER DONE SUCH A THING, you have only coerced as its your only quality that you brag about
      * You call that a skill ? You call begging to children a skill ? later on you brag about it ?
+     * 
+     * Do you pay for what you promised then get the fuck out of my face ? I have no intention to be associated with disgusting animals ?
       **/       
 
 
