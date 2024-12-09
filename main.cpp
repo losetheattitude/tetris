@@ -665,6 +665,8 @@ int main()
      * 
      * Bunch of dumb animals without a direction ? Who ruins things from an early age when they had so many other things to do ?
      * Still avoiding reasonable arguments and jerking off to your inferior sapien emotions ?
+     * 
+     * Life over!!! eheheh life simulation!!! we like coming up with excuses for our emotions!!!!
       **/       
 
 
