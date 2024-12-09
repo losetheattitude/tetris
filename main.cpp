@@ -684,7 +684,7 @@ int main()
      * 
      * 
      * WHAT ARE YOU WAITING FOR ? You do not even remember how the things were when you commit the worst crimes ?
-     * You love begging or something ?
+     * You love begging or something ? Awww you already know you have committed too much that you have to start a war now ?
       **/       
 
 
