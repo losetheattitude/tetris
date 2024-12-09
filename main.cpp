@@ -708,7 +708,7 @@ int main()
      * Which part exactly is the funniest for you ? The part where you make offers because you know you are disgusting ?
      * Do you like teaching lessons to 5 months old people ? Is that also the most funny part ?
      * 
-     * Do you feel gratified winning over such a thing ?
+     * Do you feel gratified winning over such a thing ? Do you want to talk more about the latter ?
       **/       
 
 
