@@ -716,6 +716,7 @@ int main()
      * You call that a skill ? You call begging to children a skill ? later on you brag about it ?
      * 
      * Do you pay for what you promised then get the fuck out of my face ? I have no intention to be associated with disgusting animals ?
+     * Are you still deluding on it being you decision and also calling yourself all sorts of qualities ? "HE ATE IT!!!"
       **/       
 
 
