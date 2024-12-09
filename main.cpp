@@ -670,6 +670,7 @@ int main()
      * Stay away and ruin your own life doing stupid bullshit as you do with me ? How does that sound ?
      * 
      * How about you ruin your lives with stupid actions as you do with me ?
+     * Deluding on it being your decision still ?
       **/       
 
 
