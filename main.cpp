@@ -646,6 +646,7 @@ int main()
      * Delude on it being your decision, I neither want to hear anything from such animals nor do I want to communicate
      * 
      * Still begging through disgusting life style while also promising "material" ?
+     * Still listening like a stupid monkey ?
       **/       
 
 
