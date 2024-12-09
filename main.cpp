@@ -752,6 +752,7 @@ int main()
      * ARE YOU STILL PROUDLY BEGGING TO HARM PEOPLE ?
      * 
      * ARE YOU STILL BEGGING ? Are you still offering normal things to people who is 30 ?
+     * Start behaving properly
       **/       
 
 
