@@ -781,6 +781,8 @@ int main()
      * whether you think you own the world or thinking that offering women for the wasted time would solve a fabricated problem, I DO NOT CARE
      * 
      * This is the life style you were begging ? THATS ALL genius people
+     * 
+     * The real geniuses who expect nothing from their disgusting conduct, thats all delusional people, do seek for more children
       **/       
 
 
