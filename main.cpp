@@ -700,6 +700,8 @@ int main()
      * You enjoy harming irrelevant people ? and call it what ?
      * Why dont you start talking instead of hiding like the disgusting animal you are ?
      * Have you wasted enough time ? WHAT ARE YOU WAITING FOR ?
+     * 
+     * Are you still making offers ?
       **/       
 
 
