@@ -577,6 +577,7 @@ int main()
      * Fucking monkeys
      * 
      * Do you still delude on my desire to even waste one second listening to you ?
+     * Are you still making the same offers as you have done in the past ? WHERE ARE THE PROOFS ? eheheheh geniuses!!!
       **/       
 
 
