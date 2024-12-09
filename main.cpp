@@ -591,6 +591,7 @@ int main()
      * you intentionally harm and you talk about genius ?
      * 
      * I do not want to see no average sapiens around me, get yourselves more children eheheh fun and genius stuff
+     * As though you are the authority to make such decisions!!!
       **/       
 
 
