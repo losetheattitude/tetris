@@ -632,6 +632,7 @@ int main()
      * The genius nation ehehehe, on such a high level that they can not even distinguish what is a human and harm people from their childhood and brag about it,
      * that is indeed genius, fucking monkeys
      *  
+     * Still considering to make promises ? Awwwww, how are you going to fix your position on this ?
       **/       
 
 
