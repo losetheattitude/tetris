@@ -651,6 +651,7 @@ int main()
      * 
      * Enjoying your disgusting emotions well ?
      * Fuck your country ? Do you think I care about some obscure quality ?
+     * Proud people you say ?
       **/       
 
 
