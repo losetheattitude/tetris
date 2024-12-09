@@ -705,7 +705,7 @@ int main()
      * Do you even understand what you are doing or you just want to harm people ?
      * still hiding behind your disgusting excuses ?
      * 
-     * Which part exactly is the funniest for you ? 
+     * Which part exactly is the funniest for you ? The part where you make offers because you know you are disgusting ?
       **/       
 
 
