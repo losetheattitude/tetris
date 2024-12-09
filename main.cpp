@@ -745,7 +745,8 @@ int main()
      * 
      * 
      * Talk about the past now, I do not want to have no disgusting animals like you around me 
-     * Still offering women ? Are you still asking for forgiveness ?
+     * Still offering women ? Are you still asking for forgiveness ? How about you talk more about your disgusting past ?
+     * Would you now love to beg more ?
       **/       
 
 
