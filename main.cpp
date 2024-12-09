@@ -586,6 +586,9 @@ int main()
      * What are you waiting for ?
      * Awwww, your disgusting boring desperate life is out of fun ? so you say why not ruin others ?
      * WASTE YOUR OWN TIME
+     * 
+     * Still ignoring the truth because you want to make "some gains" ? You got evidence but you would rather GAIN THINGS from others 
+     * you intentionally harm and you talk about genius ?
       **/       
 
 
