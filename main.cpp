@@ -779,6 +779,8 @@ int main()
      * You think you are against a disgusting stupid animal as you ? Do you think this will work ? Awwwwwwww, we didnt know ?
      * I WILL NOT MOVE A FINGER FOR SUCH INFERIORS WHO HIDE BEHIND THEIR STUPIDITY, that is all, that is all you can hear from me
      * whether you think you own the world or thinking that offering women for the wasted time would solve a fabricated problem, I DO NOT CARE
+     * 
+     * This is the life style you were begging ? THATS ALL genius people
       **/       
 
 
