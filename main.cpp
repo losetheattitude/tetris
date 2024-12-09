@@ -641,6 +641,9 @@ int main()
      * YOU HAVE ACHIEVED NOTHING FOR THE PAST 30 YEARS FOR WHAT YOU HAVE BEGGED, thats what I call an achievement
      * You are just content like the inferior natured animal you are that you have attained some form of damage even to the children or adults
      * Thats why we can not compare
+     * 
+     * Still deluding on your qualities ? Thats what I hate be around and as you have seen, I will choose not to be around such
+     * Delude on it being your decision
       **/       
 
 
