@@ -611,6 +611,9 @@ int main()
      * 
      * eheheh foing with children!!! begging to children so we can harm later on !!!
      * Delusional disgusting nation, genius btw, still offering women ?
+     * 
+     * Are you still talking about how fair your nation is ? How genius your nation ? How hardworking ?
+     * How good ? ehehehhe ?
       **/       
 
 
