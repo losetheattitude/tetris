@@ -599,6 +599,7 @@ int main()
      * possibly attain, fucking dumb monkeys
      * 
      * You all first explain your actions to impartial multitudes and you get the fuck out of my face with your unreasonable behavior
+     * You account for your "prior beggings to children" then gathering 1000 people to harm him at the same time, then you see why you are inferior sapien
       **/       
 
 
