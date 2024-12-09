@@ -766,6 +766,8 @@ int main()
      * and you also jerk off to other's work ? 
      * 
      * I do not want to see you around me, thats all
+     * 
+     * THAT IS ALL, do what you have to do
       **/       
 
 
