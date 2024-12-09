@@ -688,6 +688,8 @@ int main()
      * 
      * As you have done in the past multiple times ? Is that why you take begging for a skill ? You need to look at yourself not FURTHER
      * Still trying to harm irrelevant people ? ehehehheh genius nation ? Why dont you find more children for your own disgusting purposes ?
+     * 
+     * You do not have any reasonable things to say ? Other than what ? ehehehhe we like harming !!!! letss go!!!
       **/       
 
 
