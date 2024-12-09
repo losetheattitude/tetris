@@ -694,7 +694,7 @@ int main()
      * What have you done with it ? With a 5 months old kid then to adulthood ? Coerce violence and medicine ?
      * When you had millions of chances ? Do you now feel achieved ?
      * 
-     * ACHIEVED EXACTLY WHAT ?
+     * ACHIEVED EXACTLY WHAT ? Just say it out loud you fucking disgusting animals ? What did you now achieve ?
       **/       
 
 
