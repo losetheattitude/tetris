@@ -712,6 +712,7 @@ int main()
      * Do you still think you are playing games ? Wait a little harm falls upon you
      * 
      * WHAT ARE YOU WAITING FOR ? Still telling lies ? soliciting lies ?
+     * "HE ATE IT!!!!!", I HAVE NEVER DONE SUCH A THING, you have only coerced as its your only quality that you brag about
       **/       
 
 
