@@ -608,6 +608,8 @@ int main()
      * Coping with reality ? Get yourselves more children the genius nation
      * Account your behavior to others who can uphold your disgusting nature to some sort of measure 
      * instead of begging to children or gathering 10000 people to harm one person
+     * 
+     * eheheh foing with children!!! begging to children so we can harm later on !!!
       **/       
 
 
