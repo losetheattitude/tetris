@@ -803,6 +803,8 @@ int main()
      * I do not accept anything from the so called "family" or "genius people", that is it
      * 
      * The geniuses who do not understand what they are aiming at, or what they achieved, that is the type 
+     * 
+     * Are you still making decisions ? ehehehe really really powerful people ehehheh 
       **/       
 
 
