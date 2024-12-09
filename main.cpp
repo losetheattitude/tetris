@@ -620,6 +620,8 @@ int main()
      * You are making promises so that you do nothing with people ? Entirely waste their time and be glad about your win ?
      * 
      * So you take making children look mad for a skill ? And somehow start begging at the same time ? Ehehehe he ate it!!!! ehehhehe please please!!
+     * Start accounting for your own actions, as you call them "genius promises" then we are done 
+     *  
       **/       
 
 
