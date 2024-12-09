@@ -775,6 +775,8 @@ int main()
      * 
      * Find someone else you can offer women to, tough guys ? who is fake and who is disgusting ?
      * The fake tough guys who are jerking off to what ? Thats all
+     * 
+     * You think you are against a disgusting stupid animal as you ? Do you think this will work ? Awwwwwwww, we didnt know ?
       **/       
 
 
