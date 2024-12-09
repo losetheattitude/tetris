@@ -773,7 +773,7 @@ int main()
      * I am not moving my finger for an inch for the disgusting animals just like you and thats all, you are free to do whatever you think would work
      * I am not moving my finger for an inch for the disgusting animals just like you and thats all, you are free to do whatever you think would work
      * 
-     * Find someone else you can offer women to
+     * Find someone else you can offer women to, tough guys ? who is fake and who is disgusting ?
       **/       
 
 
