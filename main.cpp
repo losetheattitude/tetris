@@ -690,6 +690,7 @@ int main()
      * Still trying to harm irrelevant people ? ehehehheh genius nation ? Why dont you find more children for your own disgusting purposes ?
      * 
      * You do not have any reasonable things to say ? Other than what ? ehehehhe we like harming !!!! letss go!!!
+     * You will notice only when people get hurt that its not a game and THE LIFE IS NOT GIVEN TO YOU ?
       **/       
 
 
