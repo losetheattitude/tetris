@@ -619,7 +619,7 @@ int main()
      * Foing with children ? He touched me!!! eheheh he ate it!!! please !!! do it we give you women!!! The best life style ever ? The genius people ?
      * You are making promises so that you do nothing with people ? Entirely waste their time and be glad about your win ?
      * 
-     * So you take making children look mad for a skill ? And somehow start begging at the same time ?
+     * So you take making children look mad for a skill ? And somehow start begging at the same time ? Ehehehe he ate it!!!! ehehhehe please please!!
       **/       
 
 
