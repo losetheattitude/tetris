@@ -738,7 +738,7 @@ int main()
      * Are you still making offers ? 
      * 
      * Are you still fabricating problems so that you can present them as proof ?
-     * SAY SOMETHING REASONABLE ?
+     * SAY SOMETHING REASONABLE ? ehehe warfare ? Are you 10yo kids who play call of duty all day ? You fucking disgusting animals ?
       **/       
 
 
