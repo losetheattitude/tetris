@@ -696,6 +696,8 @@ int main()
      * 
      * ACHIEVED EXACTLY WHAT ? Just say it out loud you fucking disgusting animals ? What did you now achieve ?
      * Talk more on the past, you will see why people is angry with your disgusting behavior
+     * 
+     * You enjoy harming irrelevant people ? and call it what ?
       **/       
 
 
