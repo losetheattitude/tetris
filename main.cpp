@@ -675,8 +675,9 @@ int main()
      * 
      * You do not understand I am trying to live my life ? ehehehehheheheh FUN STUFF!!! GET THE FUCK OUT OF MY FACE
      * 
-     * Start explaining your disgusting actions 
+     * Start explaining your disgusting actions along with the "lifestyle" I had ?
       **/       
+
 
 
 
