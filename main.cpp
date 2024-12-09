@@ -617,7 +617,7 @@ int main()
      * Still talking about justice ? How about you accept that you are the least of your nation ? The disgusting group of your nation ?
      * 
      * Foing with children ? He touched me!!! eheheh he ate it!!! please !!! do it we give you women!!! The best life style ever ? The genius people ?
-     * You are making promises so that you do nothing with people ? 
+     * You are making promises so that you do nothing with people ? Entirely waste their time and be glad about your win ?
       **/       
 
 
