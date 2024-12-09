@@ -723,6 +723,8 @@ int main()
      * 
      * I do not want to waste my time with simple animals, thats all I have to say, you enjoy your genius lives without me, I do not care who you think you are
      * Do you want to be reminded to last time of your saying "DO WHAT YOU WANT" ? "GET CAR!!", "GET WOMEN!!!" ? Do you remember the last time you said these ?
+     * 
+     * Thats the only thing I will say, I do not want to see no animal around me 
       **/       
 
 
