@@ -602,6 +602,7 @@ int main()
      * You account for your "prior beggings to children" then gathering 1000 people to harm him at the same time, then you see why you are inferior sapien
      * 
      * You are an uncredible disgusting street animal nobody can count on ? And you asking me things ?
+     * Grow up and find your match in the sewers or how about you understand the life then play accordingly ?
       **/       
 
 
