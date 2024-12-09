@@ -594,6 +594,9 @@ int main()
      * As though you are the authority to make such decisions!!!
      * You all are just a group of kids who can not deal with losing ? and still soliciting things from someone you harm like an average sapien
      * Consider that for a win, like the average sapien you are
+     * 
+     * Make sure everyone is as afraid as you from the disgusting unfair violence then start living your life with the most grace you can
+     * possibly attain, fucking dumb monkeys
       **/       
 
 
