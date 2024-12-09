@@ -795,6 +795,9 @@ int main()
      * 
      * Do you have anything other than to say "eheheh we do not care ?"
      * I DO NOT WANT TO SEE AVERAGE ANIMALS LIKE YOU AROUND ME ? THAT IS IT
+     * 
+     * How about you get yourselves more children you can fuck with then ruin your own lives ? And call that a skill ?
+     * That is it right ? where is your beggings genius people ?
       **/       
 
 
