@@ -605,7 +605,7 @@ int main()
      * Grow up and find your match in the sewers or how about you understand the life then play accordingly ?
      * Or you just stop lying to yourselves and you will have no problems ?
      * 
-     * Coping with reality ?
+     * Coping with reality ? Get yourselves more children the genius nation
       **/       
 
 
