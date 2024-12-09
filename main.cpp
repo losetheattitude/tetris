@@ -720,6 +720,8 @@ int main()
      * 
      * I DO NOT WANT TO SEE ANY AVERAGE ANIMAL WHO HARMS FOR THE SAKE OF HARMING, thats all you can hear from me the genius nation
      * You do not know how to listen ? YOU DO NOT UNDERSTAND THAT THERE IS A PRICE FOR YOUR DISGUSTING ACTIONS ? and its not what you would like ?
+     * 
+     * I do not want to waste my time with simple animals, thats all I have to say, you enjoy your genius lives without me, I do not care who you think you are
       **/       
 
 
