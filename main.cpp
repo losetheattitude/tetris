@@ -753,6 +753,7 @@ int main()
      * 
      * ARE YOU STILL BEGGING ? Are you still offering normal things to people who is 30 ?
      * Start behaving properly ? Or do you just want to enjoy your precious experiences at others' expense ?
+     * Still offering women ? DISGUSTING ANIMALS THAT I WILL NOT, UNDER NO CIRCUMSTANCE, WILL ACCEPT ? Do you even know how to read ? How to listen ?
       **/       
 
 
