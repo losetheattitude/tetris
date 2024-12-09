@@ -589,6 +589,8 @@ int main()
      * 
      * Still ignoring the truth because you want to make "some gains" ? You got evidence but you would rather GAIN THINGS from others 
      * you intentionally harm and you talk about genius ?
+     * 
+     * I do not want to see no average sapiens around me
       **/       
 
 
