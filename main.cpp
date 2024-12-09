@@ -659,6 +659,8 @@ int main()
      * Havent you given a really good education to a complete impartial entity ? from as early as 5 months ? Is that the genius ?
      * You still think you make decisions ? Let people know your actions and see what you will be labeled as
      * that is the least of your delusions, seek the more disgusting ones
+     * 
+     * Do you want to account for your own actions ? awwww you would hate to do that as well, thats the most significant qualities of genius people
       **/       
 
 
