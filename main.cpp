@@ -799,7 +799,8 @@ int main()
      * How about you get yourselves more children you can fuck with then ruin your own lives ? And call that a skill ?
      * That is it right ? where is your beggings genius people ?
      * 
-     * What have you achieved ?
+     * What have you achieved ? The nonachievers I hate to be around, so good luck with your next children who you would beg to fool
+     * I do not accept anything from the so called "family" or "genius people", that is it
       **/       
 
 
