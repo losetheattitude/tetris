@@ -733,6 +733,9 @@ int main()
      * 
      * Now how about you tell me my experience first then take back your begging offers and pay the price for your disgusting actions
      * Still offering women to someone who has nothing ? Awwwwwwwww, the genius people ? You still call it "fate" ?
+     * 
+     * ARE YOU STILL DELUDING ? ARE YOU STILL WAITING ? WHAT ARE YOU WAITING FOR, I DO NOT WANT TO SEE NO ANIMAL LIKE YOU AROUND ME ?
+     * Are you still making offers ?
       **/       
 
 
