@@ -639,6 +639,8 @@ int main()
      * nothing you can talk openly, that is what I call an achievement indeed
      * 
      * YOU HAVE ACHIEVED NOTHING FOR THE PAST 30 YEARS FOR WHAT YOU HAVE BEGGED, thats what I call an achievement
+     * You are just content like the inferior natured animal you are that you have attained some form of damage even to the children or adults
+     * Thats why we can not compare
       **/       
 
 
