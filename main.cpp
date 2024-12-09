@@ -597,6 +597,8 @@ int main()
      * 
      * Make sure everyone is as afraid as you from the disgusting unfair violence then start living your life with the most grace you can
      * possibly attain, fucking dumb monkeys
+     * 
+     * You all first explain your actions to impartial multitudes and you get the fuck out of my face with your unreasonable behavior
       **/       
 
 
