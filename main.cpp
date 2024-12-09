@@ -741,6 +741,7 @@ int main()
      * SAY SOMETHING REASONABLE ? ehehe warfare ? Are you 10yo kids who play call of duty all day ? You fucking disgusting animals ?
      * 
      * Are you still trying your best to fabricate problems ?
+     * What are you waiting for now ? Do you see the extent of your disgust now ? What are you waiting for ? Because there is nothing to do ?
       **/       
 
 
