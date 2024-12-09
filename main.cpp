@@ -592,7 +592,7 @@ int main()
      * 
      * I do not want to see no average sapiens around me, get yourselves more children eheheh fun and genius stuff
      * As though you are the authority to make such decisions!!!
-     * You all are just a group of kids who can not deal with losing ?
+     * You all are just a group of kids who can not deal with losing ? and still soliciting things from someone you harm like an average sapien
       **/       
 
 
