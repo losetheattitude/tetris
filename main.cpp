@@ -623,6 +623,7 @@ int main()
      * Start accounting for your own actions, as you call them "genius promises" then we are done 
      * 
      * Find someone else you can beg, ehehe find some children you can scam then notice that you are a disgusting animal and say why not more be like one ?
+     * Still offering women ? I DO NOT WANT TO SEE ANY OF YOU AROUND ME
      *  
       **/       
 
