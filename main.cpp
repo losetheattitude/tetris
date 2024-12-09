@@ -801,6 +801,8 @@ int main()
      * 
      * What have you achieved ? The nonachievers I hate to be around, so good luck with your next children who you would beg to fool
      * I do not accept anything from the so called "family" or "genius people", that is it
+     * 
+     * The geniuses who do not understand what they are aiming at, or what they achieved, that is the type 
       **/       
 
 
