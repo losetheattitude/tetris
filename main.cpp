@@ -701,7 +701,7 @@ int main()
      * Why dont you start talking instead of hiding like the disgusting animal you are ?
      * Have you wasted enough time ? WHAT ARE YOU WAITING FOR ?
      * 
-     * Are you still making offers ?
+     * Are you still making offers ? WHAT ARE YOU WAITING FOR ?
       **/       
 
 
