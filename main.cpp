@@ -585,6 +585,7 @@ int main()
      * STILL MAKING DECISIONS THAT ARE NOT YOURS ? I DO NOT WANT TO SEE ANY OF YOU AROUND ME ? DO YOU FOLLOW ?
      * What are you waiting for ?
      * Awwww, your disgusting boring desperate life is out of fun ? so you say why not ruin others ?
+     * WASTE YOUR OWN TIME
       **/       
 
 
