@@ -674,6 +674,8 @@ int main()
      * Get the fuck out of my face with your irrelevant "offers" of disgusting life style
      * 
      * You do not understand I am trying to live my life ? ehehehehheheheh FUN STUFF!!! GET THE FUCK OUT OF MY FACE
+     * 
+     * Start explaining your disgusting actions 
       **/       
 
 
