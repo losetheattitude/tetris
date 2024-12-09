@@ -785,6 +785,7 @@ int main()
      * The real geniuses who expect nothing from their disgusting conduct, thats all delusional people, do seek for more children
      * 
      * I have not the most insignificant mental attention for you, THAT IS ALL
+     * The disgustingly unaware genius people who thinks that others' life should be their decision, I HAVE NOT A SECOND FOR ANY OF YOU, that is all
       **/       
 
 
