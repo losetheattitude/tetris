@@ -614,6 +614,7 @@ int main()
      * 
      * Are you still talking about how fair your nation is ? How genius your nation ? How hardworking ?
      * How good ? ehehehhe ?
+     * Still talking about justice ?
       **/       
 
 
