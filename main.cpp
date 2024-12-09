@@ -622,7 +622,7 @@ int main()
      * So you take making children look mad for a skill ? And somehow start begging at the same time ? Ehehehe he ate it!!!! ehehhehe please please!!
      * Start accounting for your own actions, as you call them "genius promises" then we are done 
      * 
-     * Find someone else you can beg
+     * Find someone else you can beg, ehehe find some children you can scam then notice that you are a disgusting animal and say why not more be like one ?
      *  
       **/       
 
