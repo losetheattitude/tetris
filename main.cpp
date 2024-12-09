@@ -650,7 +650,7 @@ int main()
      * Still taking "making random sounds" for a skill ? How about you explain your disgusting nature ?
      * 
      * Enjoying your disgusting emotions well ?
-     * Fuck your country ?
+     * Fuck your country ? Do you think I care about some obscure quality ?
       **/       
 
 
