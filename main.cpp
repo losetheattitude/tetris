@@ -717,6 +717,8 @@ int main()
      * 
      * Do you pay for what you promised then get the fuck out of my face ? I have no intention to be associated with disgusting animals ?
      * Are you still deluding on it being you decision and also calling yourself all sorts of qualities ? "HE ATE IT!!!"
+     * 
+     * I DO NOT WANT TO SEE ANY AVERAGE ANIMAL WHO HARMS FOR THE SAKE OF HARMING, thats all you can hear from me the genius nation
       **/       
 
 
