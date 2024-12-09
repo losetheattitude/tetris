@@ -624,6 +624,8 @@ int main()
      * 
      * Find someone else you can beg, ehehe find some children you can scam then notice that you are a disgusting animal and say why not more be like one ?
      * Still offering women ? I DO NOT WANT TO SEE ANY OF YOU AROUND ME
+     * 
+     * The genius nation who can not even deal with children without begging 
      *  
       **/       
 
