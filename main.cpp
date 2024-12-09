@@ -788,6 +788,7 @@ int main()
      * The disgustingly unaware genius people who thinks that others' life should be their decision, I HAVE NOT A SECOND FOR ANY OF YOU, that is all
      * 
      * Get yourselves more children and that is it
+     * Enjoying your disgusting animal feelings on people who can not defend himself ? THAT IS IT
       **/       
 
 
