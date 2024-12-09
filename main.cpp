@@ -713,6 +713,7 @@ int main()
      * 
      * WHAT ARE YOU WAITING FOR ? Still telling lies ? soliciting lies ?
      * "HE ATE IT!!!!!", I HAVE NEVER DONE SUCH A THING, you have only coerced as its your only quality that you brag about
+     * You call that a skill ?
       **/       
 
 
