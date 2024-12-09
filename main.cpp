@@ -758,6 +758,8 @@ int main()
      * 
      * DO YOU OFFER NORMAL LIFE TO PEOPLE WHO YOU HAVE WASTED 30 YEARS OF ? You dare calling it women ?
      * Still seeking for ways to explain your disgusting animality ? Thats what I will not accept around me ? Do you understand ?
+     * 
+     * How about you gather more people and try your hardest to harm ?
       **/       
 
 
