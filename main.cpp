@@ -575,6 +575,8 @@ int main()
      * 
      * You got 30 years of evidence and you are still jerking off to harming people you have no relation ? Thats the definition of genius
      * Fucking monkeys
+     * 
+     * Do you still delude on my desire to even waste one second listening to you ?
       **/       
 
 
