@@ -728,7 +728,8 @@ int main()
      * The disgusting animals who take cheap lying for a skill, that is you
      * Look at what you take for a job! Stupid monkeys that I will not consider under no circumstances to be around
      * 
-     * The warfare you name is to deal with children and fuck up real bad
+     * The warfare you name is to deal with children and fuck up real bad, thats who you are, a begging uncredible disgusting monkey
+     * who takes cheap lies for "catfishing", try harder
       **/       
 
 
