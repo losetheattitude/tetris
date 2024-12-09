@@ -661,7 +661,7 @@ int main()
      * that is the least of your delusions, seek the more disgusting ones
      * 
      * Do you want to account for your own actions ? awwww you would hate to do that as well, thats the most significant qualities of genius people
-     * Awwww you would love to beg etc ?
+     * Awwww you would love to beg etc ? Life a simulation!!! life unfair!!! life this!! life that!!! please!!! what do you think you look like ?
       **/       
 
 
