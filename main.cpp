@@ -735,7 +735,10 @@ int main()
      * Still offering women to someone who has nothing ? Awwwwwwwww, the genius people ? You still call it "fate" ?
      * 
      * ARE YOU STILL DELUDING ? ARE YOU STILL WAITING ? WHAT ARE YOU WAITING FOR, I DO NOT WANT TO SEE NO ANIMAL LIKE YOU AROUND ME ?
-     * Are you still making offers ?
+     * Are you still making offers ? 
+     * 
+     * Are you still fabricating problems so that you can present them as proof ?
+     * SAY SOMETHING REASONABLE ?
       **/       
 
 
