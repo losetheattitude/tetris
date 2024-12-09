@@ -604,6 +604,8 @@ int main()
      * You are an uncredible disgusting street animal nobody can count on ? And you asking me things ?
      * Grow up and find your match in the sewers or how about you understand the life then play accordingly ?
      * Or you just stop lying to yourselves and you will have no problems ?
+     * 
+     * Coping with reality ?
       **/       
 
 
