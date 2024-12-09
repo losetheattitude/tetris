@@ -614,7 +614,7 @@ int main()
      * 
      * Are you still talking about how fair your nation is ? How genius your nation ? How hardworking ?
      * How good ? ehehehhe ?
-     * Still talking about justice ?
+     * Still talking about justice ? How about you accept that you are the least of your nation ? The disgusting group of your nation ?
       **/       
 
 
