@@ -720,7 +720,7 @@ int main()
      * 
      * I DO NOT WANT TO SEE ANY AVERAGE ANIMAL WHO HARMS FOR THE SAKE OF HARMING, thats all you can hear from me the genius nation
      * You do not know how to listen ? YOU DO NOT UNDERSTAND THAT THERE IS A PRICE FOR YOUR DISGUSTING ACTIONS ? and its not what you would like ?
-     * 
+     *  
      * I do not want to waste my time with simple animals, thats all I have to say, you enjoy your genius lives without me, I do not care who you think you are
      * Do you want to be reminded to last time of your saying "DO WHAT YOU WANT" ? "GET CAR!!", "GET WOMEN!!!" ? Do you remember the last time you said these ?
      * 
@@ -732,7 +732,7 @@ int main()
      * who takes cheap lies for "catfishing", try harder
      * 
      * Now how about you tell me my experience first then take back your begging offers and pay the price for your disgusting actions
-     * Still offering women to someone who has nothing ? Awwwwwwwww, the genius people ?
+     * Still offering women to someone who has nothing ? Awwwwwwwww, the genius people ? You still call it "fate" ?
       **/       
 
 
