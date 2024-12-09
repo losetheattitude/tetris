@@ -582,7 +582,7 @@ int main()
      * I do not want to see any of you around me, whether you think you are saving the world or you fucking own the world
      * I HAVE THE ZERO CARE FOR ANY OF YOUR INTENTIONS
      * 
-     * STILL MAKING DECISIONS THAT ARE NOT YOURS ?
+     * STILL MAKING DECISIONS THAT ARE NOT YOURS ? I DO NOT WANT TO SEE ANY OF YOU AROUND ME ? DO YOU FOLLOW ?
       **/       
 
 
