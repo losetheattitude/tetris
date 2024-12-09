@@ -662,6 +662,8 @@ int main()
      * 
      * Do you want to account for your own actions ? awwww you would hate to do that as well, thats the most significant qualities of genius people
      * Awwww you would love to beg etc ? Life a simulation!!! life unfair!!! life this!! life that!!! please!!! what do you think you look like ?
+     * 
+     * Bunch of dumb animals without a direction ? Who ruins things from an early age when they had so many other things to do ?
       **/       
 
 
