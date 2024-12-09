@@ -677,7 +677,7 @@ int main()
      * 
      * Start explaining your disgusting actions along with the "lifestyle" I had ?
      * 
-     * You call that intelligence ?
+     * You call that intelligence ? Still making offers ? how about you explain my experience first despite your beggings to children ?
       **/       
 
 
