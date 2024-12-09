@@ -685,6 +685,8 @@ int main()
      * 
      * WHAT ARE YOU WAITING FOR ? You do not even remember how the things were when you commit the worst crimes ?
      * You love begging or something ? Awww you already know you have committed too much that you have to start a war now ?
+     * 
+     * As you have done in the past multiple times ? Is that why you take begging for a skill ? You need to look at yourself not FURTHER
       **/       
 
 
