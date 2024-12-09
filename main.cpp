@@ -664,6 +664,7 @@ int main()
      * Awwww you would love to beg etc ? Life a simulation!!! life unfair!!! life this!! life that!!! please!!! what do you think you look like ?
      * 
      * Bunch of dumb animals without a direction ? Who ruins things from an early age when they had so many other things to do ?
+     * Still avoiding reasonable arguments and jerking off to your inferior sapien emotions ?
       **/       
 
 
