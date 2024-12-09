@@ -698,6 +698,7 @@ int main()
      * Talk more on the past, you will see why people is angry with your disgusting behavior
      * 
      * You enjoy harming irrelevant people ? and call it what ?
+     * Why dont you start talking instead of hiding like the disgusting animal you are ?
       **/       
 
 
