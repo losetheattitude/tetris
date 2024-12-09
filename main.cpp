@@ -667,6 +667,7 @@ int main()
      * Still avoiding reasonable arguments and jerking off to your inferior sapien emotions ?
      * 
      * Life over!!! eheheh life simulation!!! we like coming up with excuses for our emotions!!!!
+     * Stay away and ruin your own life doing stupid bullshit as you do with me ? How does that sound ?
       **/       
 
 
