@@ -610,6 +610,7 @@ int main()
      * instead of begging to children or gathering 10000 people to harm one person
      * 
      * eheheh foing with children!!! begging to children so we can harm later on !!!
+     * Delusional disgusting nation, genius btw 
       **/       
 
 
