@@ -798,6 +798,8 @@ int main()
      * 
      * How about you get yourselves more children you can fuck with then ruin your own lives ? And call that a skill ?
      * That is it right ? where is your beggings genius people ?
+     * 
+     * What have you achieved ?
       **/       
 
 
