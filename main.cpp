@@ -654,6 +654,7 @@ int main()
      * Proud people you say ? Underdeveloped immature irresponsible people ? You say genius!!!!!! That sounds like a precise definition
      * 
      * What are you waiting for ? you still think you are playing some game really greatly ?
+     * Playing stupid games with others' lives ? and seeking to harm further ?
       **/       
 
 
