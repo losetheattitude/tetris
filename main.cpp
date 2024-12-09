@@ -751,7 +751,7 @@ int main()
      * How about you pay for your own actions AND WE ARE DONE!
      * ARE YOU STILL PROUDLY BEGGING TO HARM PEOPLE ?
      * 
-     * ARE YOU STILL BEGGING ?
+     * ARE YOU STILL BEGGING ? Are you still offering normal things to people who is 30 ?
       **/       
 
 
