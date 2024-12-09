@@ -794,6 +794,7 @@ int main()
      * The crowd that offers individuals for the time that is full of waste and violence, YOU CAN GET THE FUCK OUT oF MY FACE ? I have zero intention to waste my time with you
      * 
      * Do you have anything other than to say "eheheh we do not care ?"
+     * I DO NOT WANT TO SEE AVERAGE ANIMALS LIKE YOU AROUND ME ? THAT IS IT
       **/       
 
 
