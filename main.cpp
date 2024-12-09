@@ -704,6 +704,8 @@ int main()
      * Are you still making offers ? WHAT ARE YOU WAITING FOR ?
      * Do you even understand what you are doing or you just want to harm people ?
      * still hiding behind your disgusting excuses ?
+     * 
+     * Which part exactly is the funniest for you ? 
       **/       
 
 
