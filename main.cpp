@@ -687,7 +687,7 @@ int main()
      * You love begging or something ? Awww you already know you have committed too much that you have to start a war now ?
      * 
      * As you have done in the past multiple times ? Is that why you take begging for a skill ? You need to look at yourself not FURTHER
-     * Still trying to harm irrelevant people ? ehehehheh genius nation ?
+     * Still trying to harm irrelevant people ? ehehehheh genius nation ? Why dont you find more children for your own disgusting purposes ?
       **/       
 
 
