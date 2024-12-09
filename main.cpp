@@ -671,7 +671,7 @@ int main()
      * 
      * How about you ruin your lives with stupid actions as you do with me ?
      * Deluding on it being your decision still ?
-     * Get the fuck out of my face
+     * Get the fuck out of my face with your irrelevant "offers" of disgusting life style
       **/       
 
 
