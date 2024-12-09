@@ -683,7 +683,7 @@ int main()
      * Despite your promises ? Awwwwwww, you have dug yourself a really nice pit ? And only thing you can do is to offer materials that YOU DO NOT DELIVER ?
      * 
      * 
-     * WHAT ARE YOU WAITING FOR ?
+     * WHAT ARE YOU WAITING FOR ? You do not even remember how the things were when you commit the worst crimes ?
       **/       
 
 
