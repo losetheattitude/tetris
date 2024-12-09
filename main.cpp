@@ -764,6 +764,8 @@ int main()
      * 
      * Do you understand how things happen ? Things happen instantaneous ? Awwwwwwww, you still offering things you do not deliver
      * and you also jerk off to other's work ? 
+     * 
+     * I do not want to see you around me, thats all
       **/       
 
 
