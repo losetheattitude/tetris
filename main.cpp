@@ -655,6 +655,8 @@ int main()
      * 
      * What are you waiting for ? you still think you are playing some game really greatly ?
      * Playing stupid games with others' lives ? and seeking to harm further ?
+     * 
+     * Havent you given a really good education to a complete impartial entity ? from as early as 5 months ? Is that the genius ?
       **/       
 
 
