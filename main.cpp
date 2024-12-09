@@ -668,6 +668,8 @@ int main()
      * 
      * Life over!!! eheheh life simulation!!! we like coming up with excuses for our emotions!!!!
      * Stay away and ruin your own life doing stupid bullshit as you do with me ? How does that sound ?
+     * 
+     * How about you ruin your lives with stupid actions as you do with me ?
       **/       
 
 
