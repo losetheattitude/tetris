@@ -727,6 +727,8 @@ int main()
      * Thats the only thing I will say, I do not want to see no animal around me,
      * The disgusting animals who take cheap lying for a skill, that is you
      * Look at what you take for a job! Stupid monkeys that I will not consider under no circumstances to be around
+     * 
+     * The warfare you name is to deal with children and fuck up real bad
       **/       
 
 
