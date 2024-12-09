@@ -647,7 +647,9 @@ int main()
      * 
      * Still begging through disgusting life style while also promising "material" ?
      * Still listening like a stupid monkey ?
+     * Still taking "making random sounds" for a skill ? How about you explain your disgusting nature ?
       **/       
+
 
 
      
