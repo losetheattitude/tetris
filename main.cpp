@@ -634,6 +634,9 @@ int main()
      *  
      * Still considering to make promises ? Awwwww, how are you going to fix your position on this ?
      * Get some womeeenn!!!! please!!!
+     * 
+     * Do you understand why I do not want inferior natured people around me ? Look what you have achieved,
+     * nothing you can talk openly, that is what I call an achievement indeed
       **/       
 
 
