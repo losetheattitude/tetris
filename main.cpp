@@ -814,6 +814,8 @@ int main()
      * Still jerking off to your "great abilities" as you can harm defenseless people ?
      * Still believe in your prowess at decision making ?
      * Still deluding on your right to ruin others' lives ? eheheheh ?
+     * 
+     * How about pay for your own irrelevant decisions and get the fuck out of my face indefinitely ?
       **/       
 
 
