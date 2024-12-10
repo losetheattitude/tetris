@@ -887,6 +887,7 @@ int main()
      * How about you get yourselves more children ? because your reason can only match with dumb monkeys ? How about you start talking about facts ?
      * 
      * Do you see the disgusting part ? awwwww, it must be so fun!!! Ehehehe its obligatory!!!! please you do not be like us!!!
+     * How about you pay for your own actions first ? then talk about being reasonable or creative ? Or just ?
       **/       
 
 
