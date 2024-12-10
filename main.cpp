@@ -883,7 +883,7 @@ int main()
      * Ruining someone life HAD TO BE DONE!!!! Please be merciful!!! be reasonable!!! Is that who you are ?
      * Or you are just a group of immature kids who would rather not deal with reality and ignore ?
      * 
-     * Still entertaining your disgusting existence ?
+     * Still entertaining your disgusting existence ? Offering materials ? because you are after as your inferior nature allows all sorts of things ?
       **/       
 
 
