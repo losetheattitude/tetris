@@ -842,6 +842,7 @@ int main()
      * have done so far
      * 
      * The great achievements that everyone avoids eheehhehehehehhehe most funny indeed
+     * Pay for your own actions and ruin your own life
       **/       
 
 
