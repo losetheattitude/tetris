@@ -875,7 +875,7 @@ int main()
      * like the average animal you are ehehehhehe please help!!! lie!!!
      * 
      * You still delude on its being and will being good ? eheheh it just does not matter so long we are content ? Ignore and ignore then what do you get ?
-     * awwwwww, who knows ???
+     * awwwwww, who knows ??? Still after illegal activies you take for being badass ?
       **/       
 
 
