@@ -808,6 +808,7 @@ int main()
      * 
      * 
      * I do not accept any disgusting selfish animals around me including but not limited to "family"
+     * You pay for your own actions with what you can not, as you advice others to do so
       **/       
 
 
