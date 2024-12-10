@@ -819,6 +819,7 @@ int main()
      * Still claiming rights over others' lives ? You are literally claiming rights to someone YOU HAVE NO RELATION ?
      * 
      * And you are still offering women ? Do you see the problem ? The disgusting people that I will never accept around me ?
+     * Are you claiming rights over decisions THAT ARE NOT YOUR CONCERN ? THAT ARE NOT GIVEN TO YOU ?
       **/       
 
 
