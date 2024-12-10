@@ -863,6 +863,7 @@ int main()
      * resort to violence ? as your inferior nature allows you to ?
      * 
      * You see where inferior comes from right ? You are the precise definition I am afraid
+     * and I do not let inferiors around me
       **/       
 
 
