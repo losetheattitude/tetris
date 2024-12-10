@@ -804,7 +804,10 @@ int main()
      * 
      * The geniuses who do not understand what they are aiming at, or what they achieved, that is the type 
      * 
-     * Are you still making decisions ? ehehehe really really powerful people ehehheh 
+     * Are you still making decisions ? ehehehe really really powerful people ehehheh
+     * 
+     * 
+     * I do not accept any disgusting selfish animals around me including but not limited to "family"
       **/       
 
 
