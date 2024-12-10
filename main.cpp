@@ -865,7 +865,7 @@ int main()
      * You see where inferior comes from right ? You are the precise definition I am afraid
      * and I do not let inferiors around me
      * 
-     * Still hiding behind children ?
+     * Still hiding behind children ? Still hiding ? awww thats one of the great attributes of sapiens!!! congrats
       **/       
 
 
