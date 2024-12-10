@@ -867,6 +867,8 @@ int main()
      * 
      * Still hiding behind children ? Still hiding ? awww thats one of the great attributes of sapiens!!! congrats
      * How about you articulate my experience ? The life that you have no rights over yet you still take that violence is a skill ?
+     * 
+     * Awwwwwww, you were the most credible of them all ? What am I missing ? 
       **/       
 
 
