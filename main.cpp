@@ -850,7 +850,8 @@ int main()
      * Still looking around for guilty parties ? Or do you just want to offer things and get yourself out of the pit you have dug ?
      * 
      * Guess who is not alike ? Guess who would hate to be around such animals ?
-     * Guess what my experience has been like ?
+     * Guess what my experience has been like ? Are you still offering women ? ehehe how about some philosophy of your own ?
+     * Eheheheh, ?? pain over joy ? ehehheh
       **/       
 
 
