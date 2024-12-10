@@ -820,6 +820,7 @@ int main()
      * 
      * And you are still offering women ? Do you see the problem ? The disgusting people that I will never accept around me ?
      * Are you claiming rights over decisions THAT ARE NOT YOUR CONCERN ? THAT ARE NOT GIVEN TO YOU ?
+     * And you offer what is your disgusting nature ? As anyone can prove from the past ? The past that you still can not answer ?
       **/       
 
 
