@@ -811,6 +811,7 @@ int main()
      * You pay for your own actions with what you can not, as you advice others to do so, those who take life lightly when it comes to others
      * 
      * Do you even follow what I am saying ? Or you just want your experiences not ruined ?
+     * Still jerking off to your "great abilities" as you can harm defenseless people ?
       **/       
 
 
