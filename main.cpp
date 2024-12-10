@@ -829,6 +829,8 @@ int main()
      * Who told you, you will walk away with your disgusting existence to be having done so many things you can not speak about ?
      * I do not accept anything from you other than a price you would not consider paying, not women, that is for sure
      * Still offering good education to children ? Thats a win!! Still offering women ?
+     * 
+     * Dont you think you are missing some huge steps ? Still offering women to who you can not comprehend and therefore ruin ?
       **/       
 
 
