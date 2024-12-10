@@ -833,6 +833,9 @@ int main()
      * Dont you think you are missing some huge steps ? Still offering women to who you can not comprehend and therefore ruin ?
      * Thats the type I will not consider around me, the type that is most unjust and blind to the point that it disgusts me to interact with them.
      * You are just that
+     * 
+     * You are the type that thinks he has achieved something or has something to offer and try to negotiate with their worthless disgusting existence
+     * That I will pass for the eternity
       **/       
 
 
