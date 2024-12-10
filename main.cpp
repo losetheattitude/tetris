@@ -823,6 +823,7 @@ int main()
      * And you offer what is your disgusting nature ? As anyone can prove from the past ? The past that you still can not answer ?
      * 
      * Who told you that I will accept women over time ? Yet you still ask for what ?
+     * I want you to pay for your own actions and we are done, not even a single thing I want from any of you
       **/       
 
 
