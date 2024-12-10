@@ -859,6 +859,8 @@ int main()
      * 
      * Do you still think its sustainable or ? Eheheh why not harm people, you are already doing it anyways ?
      * Whether you want it or not!!!! we are going to do it because we are afraid as average animals can be ?
+     * Still hiding behind unreason ? how about you tell your excuses to my face while surrounded with impartial people so that you can not
+     * resort to violence ? as your inferior nature allows you to ?
       **/       
 
 
