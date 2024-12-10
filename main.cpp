@@ -884,6 +884,7 @@ int main()
      * Or you are just a group of immature kids who would rather not deal with reality and ignore ?
      * 
      * Still entertaining your disgusting existence ? Offering materials ? because you are after as your inferior nature allows all sorts of things ?
+     * How about you get yourselves more children ? because your reason can only match with dumb monkeys ? How about you start talking about facts ?
       **/       
 
 
