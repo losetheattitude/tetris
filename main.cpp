@@ -858,6 +858,7 @@ int main()
      * Eheehehhe just like the average animals ? Whose opinion did you get ? awwww you did not do such a thing, you just abused ? Do you think I do not understand ?
      * 
      * Do you still think its sustainable or ? Eheheh why not harm people, you are already doing it anyways ?
+     * Whether you want it or not!!!! we are going to do it because we are afraid as average animals can be ?
       **/       
 
 
