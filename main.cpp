@@ -847,6 +847,7 @@ int main()
      * Ehehehehhe, please please!!!!! get women over time as if its a gift!! 
      * Get womeeennn because we are good!!!! we offer what is ample!!! eheheh your time ? IT DOES NOT MATTER!!!
      * That is it, dont you think ?
+     * Still looking around for guilty parties ? Or do you just want to offer things and get yourself out of the pit you have dug ?
       **/       
 
 
