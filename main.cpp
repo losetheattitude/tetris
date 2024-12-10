@@ -855,6 +855,7 @@ int main()
      * Still making irrelevant decisions ? THAT ARE NOT YOURS ?
      * 
      * Do you understand what "stop" means ? The last time ? the time before that ? awwww you are now in the mood of acting "developed" ?
+     * Eheehehhe just like the average animals ?
       **/       
 
 
