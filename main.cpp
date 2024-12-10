@@ -888,7 +888,9 @@ int main()
      * 
      * Do you see the disgusting part ? awwwww, it must be so fun!!! Ehehehe its obligatory!!!! please you do not be like us!!!
      * How about you pay for your own actions first ? then talk about being reasonable or creative ? Or just ? Or would you rather hide behind your
-     * disgusting excuses ?
+     * disgusting excuses ? 
+     * 
+     * PAY FOR YOUR OWN ACTIONS AND GET THE FUCK OUT OF MY FACE
       **/       
 
 
