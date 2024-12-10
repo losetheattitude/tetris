@@ -873,6 +873,9 @@ int main()
      * 
      * You have been wrong for too many times, how about that ? Awwwwwww, you would just ignore and avoid that eheheheheheh
      * like the average animal you are ehehehhehe please help!!! lie!!!
+     * 
+     * You still delude on its being and will being good ? eheheh it just does not matter so long we are content ? Ignore and ignore then what do you get ?
+     * awwwwww, who knows ???
       **/       
 
 
