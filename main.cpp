@@ -853,6 +853,8 @@ int main()
      * Guess what my experience has been like ? Are you still offering women ? ehehe how about some philosophy of your own ?
      * Eheheheh, ?? pain over joy ? ehehheh, you still offering education ?
      * Still making irrelevant decisions ? THAT ARE NOT YOURS ?
+     * 
+     * Do you understand what "stop" means ? The last time ? the time before that ? awwww you are now in the mood of acting "developed" ?
       **/       
 
 
