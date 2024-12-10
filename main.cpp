@@ -852,6 +852,7 @@ int main()
      * Guess who is not alike ? Guess who would hate to be around such animals ?
      * Guess what my experience has been like ? Are you still offering women ? ehehe how about some philosophy of your own ?
      * Eheheheh, ?? pain over joy ? ehehheh, you still offering education ?
+     * Still making irrelevant decisions ? THAT ARE NOT YOURS ?
       **/       
 
 
