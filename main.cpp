@@ -831,6 +831,7 @@ int main()
      * Still offering good education to children ? Thats a win!! Still offering women ?
      * 
      * Dont you think you are missing some huge steps ? Still offering women to who you can not comprehend and therefore ruin ?
+     * Thats the type I will not consider around me
       **/       
 
 
