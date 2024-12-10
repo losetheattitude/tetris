@@ -879,6 +879,8 @@ int main()
      * Still after offering materials over time with violence ? Now isnt that the great ignorance of the century ?
      * Are you the one who is talking about consensuality ? Do you understand what competency indicates ?
      * The opposite of what you are is called competency and here you are without anything other than "eheheh have women!!"
+     * 
+     * Ruining someone life HAD TO BE DONE!!!! Please be merciful!!! be reasonable!!! Is that who you are ?
       **/       
 
 
