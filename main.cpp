@@ -837,7 +837,7 @@ int main()
      * You are the type that thinks he has achieved something or has something to offer and try to negotiate with their worthless disgusting existence
      * That I will pass for the eternity
      * The types that take themselves for something they are not, disgusting indeed
-     * The types that do not recognize their boundaries
+     * The types that do not recognize their boundaries, talk more about your actions not others preferences, you will see why you are a disgusting monkey
       **/       
 
 
