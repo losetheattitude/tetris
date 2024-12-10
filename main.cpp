@@ -824,6 +824,8 @@ int main()
      * 
      * Who told you that I will accept women over time ? Yet you still ask for what ?
      * I want you to pay for your own actions and we are done, not even a single thing I want from any of you
+     * 
+     * Who told you I will accept women over time ?
       **/       
 
 
