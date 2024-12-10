@@ -818,7 +818,7 @@ int main()
      * How about pay for your own irrelevant decisions and get the fuck out of my face indefinitely ?
      * Still claiming rights over others' lives ? You are literally claiming rights to someone YOU HAVE NO RELATION ?
      * 
-     * And you are still offering women ?
+     * And you are still offering women ? Do you see the problem ? The disgusting people that I will never accept around me ?
       **/       
 
 
