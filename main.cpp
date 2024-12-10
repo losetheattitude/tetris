@@ -890,7 +890,8 @@ int main()
      * How about you pay for your own actions first ? then talk about being reasonable or creative ? Or just ? Or would you rather hide behind your
      * disgusting excuses ? 
      * 
-     * PAY FOR YOUR OWN ACTIONS AND GET THE FUCK OUT OF MY FACE
+     * PAY FOR YOUR OWN ACTIONS AND GET THE FUCK OUT OF MY FACE or you just offer good education to children that has no understanding of your nation
+     * Thats who you are, the disgusting part 
       **/       
 
 
