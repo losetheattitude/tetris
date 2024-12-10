@@ -828,6 +828,7 @@ int main()
      * Who told you I will accept women over time ? Yet you are still behind your illegal activies that you can not even talk openly ?
      * Who told you, you will walk away with your disgusting existence to be having done so many things you can not speak about ?
      * I do not accept anything from you other than a price you would not consider paying, not women, that is for sure
+     * Still offering good education to children ? Thats a win!!
       **/       
 
 
