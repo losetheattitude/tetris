@@ -892,6 +892,8 @@ int main()
      * 
      * PAY FOR YOUR OWN ACTIONS AND GET THE FUCK OUT OF MY FACE or you just offer good education to children that has no understanding of your nation
      * Thats who you are, the disgusting part 
+     * 
+     * BRO LETS GO!!!
       **/       
 
 
