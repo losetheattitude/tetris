@@ -831,7 +831,8 @@ int main()
      * Still offering good education to children ? Thats a win!! Still offering women ?
      * 
      * Dont you think you are missing some huge steps ? Still offering women to who you can not comprehend and therefore ruin ?
-     * Thats the type I will not consider around me
+     * Thats the type I will not consider around me, the type that is most unjust and blind to the point that it disgusts me to interact with them.
+     * You are just that
       **/       
 
 
