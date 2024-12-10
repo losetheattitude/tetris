@@ -813,6 +813,7 @@ int main()
      * Do you even follow what I am saying ? Or you just want your experiences not ruined ?
      * Still jerking off to your "great abilities" as you can harm defenseless people ?
      * Still believe in your prowess at decision making ?
+     * Still deluding on your right to ruin others' lives ? eheheheh ?
       **/       
 
 
