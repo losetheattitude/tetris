@@ -816,6 +816,7 @@ int main()
      * Still deluding on your right to ruin others' lives ? eheheheh ?
      * 
      * How about pay for your own irrelevant decisions and get the fuck out of my face indefinitely ?
+     * Still claiming rights over others' lives ? You are literally claiming rights to someone YOU HAVE NO RELATION ?
       **/       
 
 
