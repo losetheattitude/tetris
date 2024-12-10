@@ -845,6 +845,7 @@ int main()
      * Pay for your own actions and ruin your own life instead of offering things that you do not deliver nor does the person you are interacting with wants
      * 
      * Ehehehehhe, please please!!!!! get women over time as if its a gift!! 
+     * Get womeeennn because we are good!!!! we offer what is ample!!! eheheh your time ? IT DOES NOT MATTER!!!
       **/       
 
 
