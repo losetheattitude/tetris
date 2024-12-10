@@ -881,6 +881,7 @@ int main()
      * The opposite of what you are is called competency and here you are without anything other than "eheheh have women!!"
      * 
      * Ruining someone life HAD TO BE DONE!!!! Please be merciful!!! be reasonable!!! Is that who you are ?
+     * Or you are just a group of immature kids who would rather not deal with reality and ignore ?
       **/       
 
 
