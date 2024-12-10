@@ -870,6 +870,9 @@ int main()
      * 
      * Awwwwwww, you were the most credible of them all ? What am I missing ? 
      * How about you pay for your own actions instead of "pretending to be entitled to make decisions" ?
+     * 
+     * You have been wrong for too many times, how about that ? Awwwwwww, you would just ignore and avoid that eheheheheheh
+     * like the average animal you are ehehehhehe please help!!! lie!!!
       **/       
 
 
