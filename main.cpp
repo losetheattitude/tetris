@@ -898,6 +898,8 @@ int main()
      * 
      * Great people ? what have you done with "what is not given to you" ? Eeheheh still after educating the education that is not given to you ?
      * Or are you just lost inside your stupidity and do not know what to do so you resort to your disgusting nature through violence ?
+     * 
+     * How about you talk more about the time and its value ? eheheheh you are too noble for that ?
       **/       
 
 
