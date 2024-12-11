@@ -903,6 +903,8 @@ int main()
      * Still offering material ? How come you are such a simple average animal that you fail to perceive ?
      * 
      * So again, tell me what you have achieved ? The great minds of the century you say ? eheheh ?
+     * The great minds of the century indeed, you stay within your own boundaries, especially for things that you are not concerned therefore
+     * no rights to make decisions for
       **/       
 
 
