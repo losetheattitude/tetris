@@ -907,6 +907,7 @@ int main()
      * no rights to make decisions for
      * 
      * ITS NOT YOUR CONCERN TO MAKE SUCH A DECISION, I WANT NONE OF THAT AROUND ME
+     * Still trying to hide your selfish emotions ? eheheh
       **/       
 
 
