@@ -893,7 +893,7 @@ int main()
      * PAY FOR YOUR OWN ACTIONS AND GET THE FUCK OUT OF MY FACE or you just offer good education to children that has no understanding of your nation
      * Thats who you are, the disgusting part 
      * 
-     * BRO LETS GO!!! ?? What are you exactly producing ? eheheh nothing ?
+     * BRO LETS GO!!! ?? What are you exactly producing ? eheheh nothing ? so why not waste more time doing harm while achieveing nothing!!!! the reason!!!
       **/       
 
 
