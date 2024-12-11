@@ -895,6 +895,8 @@ int main()
      * 
      * BRO LETS GO!!! ?? What are you exactly producing ? eheheh nothing ? so why not waste more time doing harm while achieveing nothing!!!! the reason!!!
      * Bunch of sapiens who can not explain their aim, only the part where they harm and dissipate some horror THAT DOES NOT WORK ON ME, waaaawwww impressive
+     * 
+     * Great people ? what have you done with "what is not given to you" ? Eeheheh still after educating the education that is not given to you ?
       **/       
 
 
