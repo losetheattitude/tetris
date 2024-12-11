@@ -897,6 +897,7 @@ int main()
      * Bunch of sapiens who can not explain their aim, only the part where they harm and dissipate some horror THAT DOES NOT WORK ON ME, waaaawwww impressive
      * 
      * Great people ? what have you done with "what is not given to you" ? Eeheheh still after educating the education that is not given to you ?
+     * Or are you just lost inside your stupidity and do not know what to do so you resort to your disgusting nature through violence ?
       **/       
 
 
