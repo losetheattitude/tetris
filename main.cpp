@@ -900,6 +900,7 @@ int main()
      * Or are you just lost inside your stupidity and do not know what to do so you resort to your disgusting nature through violence ?
      * 
      * How about you talk more about the time and its value ? eheheheh you are too noble for that ?
+     * Still offering material ? How come you are such a simple average animal that you fail to perceive ?
       **/       
 
 
