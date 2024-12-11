@@ -908,6 +908,8 @@ int main()
      * 
      * ITS NOT YOUR CONCERN TO MAKE SUCH A DECISION, I WANT NONE OF THAT AROUND ME
      * Still trying to hide your selfish emotions ? eheheh, scary stuff indeed especially when you are a kid!!!
+     * 
+     * Do you want to try the same shit to 30 years adults ?
       **/       
 
 
