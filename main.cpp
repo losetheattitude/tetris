@@ -905,6 +905,8 @@ int main()
      * So again, tell me what you have achieved ? The great minds of the century you say ? eheheh ?
      * The great minds of the century indeed, you stay within your own boundaries, especially for things that you are not concerned therefore
      * no rights to make decisions for
+     * 
+     * ITS NOT YOUR CONCERN TO MAKE SUCH A DECISION, I WANT NONE OF THAT AROUND ME
       **/       
 
 
