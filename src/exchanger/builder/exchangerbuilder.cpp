@@ -21,10 +21,11 @@ ExchangerBuilder::ExchangerBuilder()
 //     if(flags & (int)FormatType::RAW)
 //     {
 //         formatter = new RawTransformer();
-//     }
+//      }
 
 //     return new Exchanger(storage, formatter);
 // }
+
 
 void ExchangerBuilder::Reset()
 {
@@ -40,6 +41,9 @@ void ExchangerBuilder::Reset()
 // }
 
 // ExchangerBuilder* ExchangerBuilder::UseRemote()
+// {
+//     this->storage = makeStorage(StorageType::REMOTE);
+
 // {
 //     this->storage = makeStorage(StorageType::REMOTE);
 

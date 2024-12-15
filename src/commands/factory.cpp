@@ -4,12 +4,6 @@ CommandFactory* CommandFactory::instance_;
 
 void CommandFactory::Init(Game& game)
 {
-    /**
-     * 
-     * TODO: Thread safe
-     * 
-    */
-
     if(CommandFactory::instance_ != nullptr){
         return;
     }
