@@ -55,7 +55,7 @@ int main()
      * Do you think you are mature enough to make "that decision" or are you just trying to show off ? Guess what ?
      * 
      * WHAT DO YOU HAVE IN YOUR HANDS NOW ? Are you still begging ?
-     * Thats a great skill, now you can get the fuck out of my face
+     * Thats a great skill, now you can get the fuck out of my face with your really good offers as "WOMEENNNNN!!!"
       **/       
 
 
