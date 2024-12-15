@@ -32,6 +32,8 @@ int main()
      * 
      * I do not want to see people like you around me, its just that and also your disgusting delusions
      * that are causing you to believe into stupid approaches
+     * 
+     * You know how to listen ? ehehe
       **/       
 
 
