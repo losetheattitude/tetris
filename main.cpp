@@ -51,6 +51,7 @@ int main()
      * Are you so delusional to the extent that I will ever consider wasting my time with such a group that has caused so much ? eheheh its fun!!!
      * 
      * You see when you "decide" whats not within your boundaries, you always get this result, which is I do not want to see any simple animal around me, DO WHAT YOU HAVE TO DO
+     * still jerking off to your inferiority ?
       **/       
 
 
