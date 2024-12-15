@@ -38,6 +38,7 @@ int main()
      * Simple afraid animals, do what you have to do
      * The never learning animals who do not know how to listen, make sure I would be willing to waste another second with you
      * You are officially nobody and there is nothing you could do to change that
+     * Do delude on your inexplicable behaviors being acceptable and people would die to be around you and your disgusting actions
       **/       
 
 
