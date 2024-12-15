@@ -67,6 +67,8 @@ int main()
      * Awwww what do we do now ?? Still deluding on your actions being okay because you will "grant" people to do things ?
      * Arent you the simple disgusting animals ? Do you still delude on my relief on the "freedom" ?
      * 
+     * Do you understand what is being told to you ? or you are just a simple disgusting animal ?
+     * 
       **/       
 
 
