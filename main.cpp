@@ -43,6 +43,8 @@ int main()
      * Find more stupid people as you who will consider coercing medicine and lacking of every single resource as a precaution. fucking disgusting monkeys
      * delusional monkeys, guess what ? eheheh do what you have to do with your delusions, I am not interested in your disgusting behavior you can not account
      * still offering the most disgusting lifestyle and jerking off to your competency ? Get the fuck out of my face 
+     * 
+     * Literally do what you have to and get the fuck out of my face, dumb animals
       **/       
 
 
