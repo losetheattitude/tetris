@@ -68,7 +68,7 @@ int main()
      * Arent you the simple disgusting animals ? Do you still delude on my relief on the "freedom" ?
      * 
      * Do you understand what is being told to you ? or you are just a simple disgusting animal ?
-     * I am not interested in anything you could possibly form
+     * I am not interested in anything you could possibly form hence your credibility
      * 
       **/       
 
