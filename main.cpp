@@ -56,6 +56,8 @@ int main()
      * 
      * WHAT DO YOU HAVE IN YOUR HANDS NOW ? Are you still begging ?
      * Thats a great skill, now you can get the fuck out of my face with your really good offers as "WOMEENNNNN!!!"
+     * 
+     * Do you even know how to listen ? Still wondering whether this is a mistake or not ?
       **/       
 
 
