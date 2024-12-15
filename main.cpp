@@ -48,6 +48,7 @@ int main()
      * You have nothing in your hands ? still looking around waiting for help ?
      * You feel like you have achieved something ? eheheh thats the problem
      * The problem of you being a stupid directionless stubborn disgusting animal, and whether you think you own the world, I do not want any of that around me
+     * Are you so delusional to the extent that I will ever consider wasting my time with such a group that has caused so much ? eheheh its fun!!!
       **/       
 
 
