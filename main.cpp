@@ -45,6 +45,7 @@ int main()
      * still offering the most disgusting lifestyle and jerking off to your competency ? Get the fuck out of my face 
      * 
      * Literally do what you have to and get the fuck out of my face, dumb animals
+     * You have nothing in your hands ? still looking around waiting for help ?
       **/       
 
 
