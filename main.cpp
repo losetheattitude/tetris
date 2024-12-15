@@ -53,6 +53,8 @@ int main()
      * You see when you "decide" whats not within your boundaries, you always get this result, which is I do not want to see any simple animal around me, DO WHAT YOU HAVE TO DO
      * still jerking off to your inferiority ?
      * Do you think you are mature enough to make "that decision" or are you just trying to show off ? Guess what ?
+     * 
+     * WHAT DO YOU HAVE IN YOUR HANDS NOW ?
       **/       
 
 
