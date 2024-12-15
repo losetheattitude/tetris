@@ -46,6 +46,7 @@ int main()
      * 
      * Literally do what you have to and get the fuck out of my face, dumb animals
      * You have nothing in your hands ? still looking around waiting for help ?
+     * You feel like you have achieved something ? eheheh thats the problem
       **/       
 
 
