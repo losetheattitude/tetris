@@ -65,7 +65,7 @@ int main()
      * we like making decisions that are not our place and look around for responsible people!! ehehhe fo!!!
      * 
      * Awwww what do we do now ?? Still deluding on your actions being okay because you will "grant" people to do things ?
-     * Arent you the simple disgusting animals ?
+     * Arent you the simple disgusting animals ? Do you still delude on my relief on the "freedom" ?
      * 
       **/       
 
