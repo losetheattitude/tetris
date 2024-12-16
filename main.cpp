@@ -76,6 +76,8 @@ int main()
      * You avoid to explain what you have enjoyingly committed ? 
      * 
      * I am telling you, you have no credibility to negotiate with, thats all for me
+     * Eheehheheheheh 30 years and now you can have some things, BE GRATEFULLL!!!!! eheheh its that easy, hopefully everything goes really well
+     * 
      * 
       **/       
 
