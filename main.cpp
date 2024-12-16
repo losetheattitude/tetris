@@ -116,6 +116,8 @@ int main()
      * 
      * The disgusting animals who still think that I would even consider to waste my time with such abominations
      * The disgusting animals who still talk about afterlife and offer materials still
+     * 
+     * Who can not explain anything that they have perpetrated so far, only the avoidance that merely works with its own kind
       **/       
 
 
