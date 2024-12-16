@@ -144,6 +144,8 @@ int main()
      * 
      * I do not accept anything that comes from any of you, make everything harder see who is losing
      * I have no intention to waste my entire life with selfish people like you, I do not care whether you delude you provide something valuable 
+     * 
+     * You are providing nothing, and still asking for incomparable things from people you have only selfish interests over
       **/       
 
 
