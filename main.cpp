@@ -140,6 +140,7 @@ int main()
      * 
      * Do you still think you are fooling or do you realize what you got into ?
      * Like the inferior animal who knows only to hope for the best ? How about you get more children and jerk off to your own experiences ?
+     * Still after offering the most normal things after years of stupid conduct of your own nature ?
       **/       
 
 
