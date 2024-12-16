@@ -121,6 +121,8 @@ int main()
      * Who takes his actions to be funny when the reality is the quite opposite of that, what a miserable animal right ?
      * Who still offers what their inferior nature craves for, when the time they have wasted is incomparable to basic materials yet eheheh fun stuff
      * Who still hides behind his disgusting guise instead of accounting for his own behavior just like the "responsible" humanbeing that they delude to be
+     * 
+     * Who takes life for a game when its not his own, very good
       **/       
 
 
