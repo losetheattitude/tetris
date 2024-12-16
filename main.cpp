@@ -112,6 +112,7 @@ int main()
      * Still the same disgusting animals who can not see that THEY HAVE ARRIVED TO NOWHERE yet what a pride they have
      * 
      * Still the disgusting same animals who provides the worst examples to cover their disgusting nature
+     * Who can not see that they have arrived to nowhere yet WHAT A PRIDE! ehehehehehehhe
       **/       
 
 
