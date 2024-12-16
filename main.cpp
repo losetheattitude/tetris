@@ -81,6 +81,7 @@ int main()
      * I want no simple disgusting animals around me, the insecure disgusting animals who take being the cheapest form of human for a skill
      * ehehe instead of baring some responsibility, why not continue enjoying our lives!!!! act like no such thing happened
      * 
+     * Are you paying for your own actions or will you be the disgusting irresponsible animal ?
       **/       
 
 
