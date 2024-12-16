@@ -129,6 +129,7 @@ int main()
      * Its your time to waste your years without resources then we talk about the rest
      * Then we talk about my experience which you have intentionally ruined, guess what ? are you still offering women ?
      * Why is it that you take others to be on the same disgusting level as you ?
+     * That is the type I DO NOT ACCEPT AROUND ME
       **/       
 
 
