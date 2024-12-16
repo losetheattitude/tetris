@@ -130,6 +130,8 @@ int main()
      * Then we talk about my experience which you have intentionally ruined, guess what ? are you still offering women ?
      * Why is it that you take others to be on the same disgusting level as you ?
      * That is the type I DO NOT ACCEPT AROUND ME, whoever you think you are, its regardless, I will pass on all of you
+     * 
+     * Those you do not recognize their boundaries and bend against any crime they have committed, thats the real talented people right there
       **/       
 
 
