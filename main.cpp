@@ -123,6 +123,7 @@ int main()
      * Who still hides behind his disgusting guise instead of accounting for his own behavior just like the "responsible" humanbeing that they delude to be
      * 
      * Who takes life for a game when its not his own, very good
+     * Who takes everything to be a okay when its not his own, I do not want any of that around me
       **/       
 
 
