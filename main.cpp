@@ -87,7 +87,7 @@ int main()
      * Still delude on your actions being "entirely normal" ? Thats the problem, its a indiscussable thats why its a loop
      * You know see, why you are a disgusting simple animal who likes to beg with many guises
      * 
-     * Do you see now why you are a disgusting animal ?
+     * Do you see now why you are a disgusting animal ? Who can not even explain where it has arrived
       **/       
 
 
