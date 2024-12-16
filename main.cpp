@@ -110,6 +110,8 @@ int main()
      * 
      * The immature disgusting animals who takes regular actions to be a gift to others, you see why you are delusional ?
      * Still the same disgusting animals who can not see that THEY HAVE ARRIVED TO NOWHERE yet what a pride they have
+     * 
+     * Still the disgusting same animals who provides the worst examples to cover their disgusting nature
       **/       
 
 
