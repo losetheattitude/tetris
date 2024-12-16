@@ -97,6 +97,7 @@ int main()
      * Yet you still claim you are not a disgusting little animal ? How about you seek for more children ? and stay on your own disgusting inferior level ?
      * 
      * I do not accept no animals like you around me whatever disgusting excuse you think you have, I DO NOT CARE
+     * still the same animals without a proper explanation, delude that I would love to be around you
       **/       
 
 
