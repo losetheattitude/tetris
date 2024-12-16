@@ -125,6 +125,8 @@ int main()
      * Who takes life for a game when its not his own, very good
      * Who takes everything to be a okay when its not his own, I do not want any of that around me
      * You only understand when its your time to waste your years, then it will occur you what a disgusting animal you are
+     * 
+     * Its your time to waste your years without resources then we talk about the rest
       **/       
 
 
