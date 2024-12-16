@@ -127,6 +127,7 @@ int main()
      * You only understand when its your time to waste your years, then it will occur you what a disgusting animal you are
      * 
      * Its your time to waste your years without resources then we talk about the rest
+     * Then we talk about my experience which you have intentionally ruined, guess what ? are you still offering women ?
       **/       
 
 
