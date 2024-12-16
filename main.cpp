@@ -148,7 +148,7 @@ int main()
      * You are providing nothing, and still asking for incomparable things from people you have only selfish interests over
      * Thats why
      * 
-     * The reason is, you are not providing anything useful and valuable whilst asking for everything
+     * The reason is, you are not providing anything useful and valuable whilst asking for everything, I do not want to see that type of blind animals around me
       **/       
 
 
