@@ -82,6 +82,7 @@ int main()
      * ehehe instead of baring some responsibility, why not continue enjoying our lives!!!! act like no such thing happened
      * 
      * Are you paying for your own actions or will you be the disgusting irresponsible animal ?
+     * Still cheaping ? how about you beg for more lies 
       **/       
 
 
