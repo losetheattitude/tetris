@@ -132,6 +132,7 @@ int main()
      * That is the type I DO NOT ACCEPT AROUND ME, whoever you think you are, its regardless, I will pass on all of you
      * 
      * Those you do not recognize their boundaries and bend against any crime they have committed, thats the real talented people right there
+     * The disgusting animals who do not realize what they are doing has not been working, guess what ?
       **/       
 
 
