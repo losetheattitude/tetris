@@ -73,7 +73,9 @@ int main()
      * Hence the disgusting animals that arrived no where 
      * Heyyyyy ?? hehehehhehehe whats wrong ?
      * Hey ? why arent you talking sense ? eheheh you thought it should be fine ?
-     * You avoid to explain what you have enjoyingly committed ?
+     * You avoid to explain what you have enjoyingly committed ? 
+     * 
+     * I am telling you, you have no credibility to negotiate with, thats all for me
      * 
       **/       
 
