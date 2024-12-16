@@ -139,7 +139,7 @@ int main()
      * You do not know how to listen ? and you also like abusing ?
      * 
      * Do you still think you are fooling or do you realize what you got into ?
-     * Like the inferior animal who knows only to hope for the best ?
+     * Like the inferior animal who knows only to hope for the best ? How about you get more children and jerk off to your own experiences ?
       **/       
 
 
