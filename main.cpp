@@ -136,6 +136,7 @@ int main()
      * Who still waste time to enjoy their precious experiences while advicing otherwise, and expecting others to understand their really enjoyable experiences
      * 
      * Arriving to nowhere yet being intentionally unaware of it, what a good combination
+     * You do not know how to listen ? and you also like abusing ?
       **/       
 
 
