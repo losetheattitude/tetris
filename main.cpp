@@ -84,6 +84,7 @@ int main()
      * Are you paying for your own actions or will you be the disgusting irresponsible animal ?
      * Still cheaping ? how about you beg for more lies 
      * no no!! how about you gather 110231231 people and try to prove everyone what a competent group you are ???
+     * Still delude on your actions being "entirely normal" ? Thats the problem, its a indiscussable thats why its a loop
       **/       
 
 
