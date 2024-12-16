@@ -92,6 +92,8 @@ int main()
      * 
      * I guess the disgusting animals should try their chances with more children, thats what you can handle
      * seek for more children inferior disgusting animals, offer children material as your disgusting nature allows such a "behavior"
+     * 
+     * Are you still offering things ?
       **/       
 
 
