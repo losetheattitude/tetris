@@ -113,6 +113,8 @@ int main()
      * 
      * Still the disgusting same animals who provides the worst examples to cover their disgusting nature
      * Who can not see that they have arrived to nowhere yet WHAT A PRIDE! ehehehehehehhe
+     * 
+     * The disgusting animals who still think that I would even consider to waste my time with such abominations
       **/       
 
 
