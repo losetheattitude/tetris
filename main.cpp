@@ -134,6 +134,8 @@ int main()
      * Those you do not recognize their boundaries and bend against any crime they have committed, thats the real talented people right there
      * The disgusting animals who do not realize what they are doing has not been working, guess what ?
      * Who still waste time to enjoy their precious experiences while advicing otherwise, and expecting others to understand their really enjoyable experiences
+     * 
+     * Arriving to nowhere yet being intentionally unaware of it, what a good combination
       **/       
 
 
