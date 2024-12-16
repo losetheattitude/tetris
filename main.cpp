@@ -99,7 +99,7 @@ int main()
      * I do not accept no animals like you around me whatever disgusting excuse you think you have, I DO NOT CARE
      * still the same animals without a proper explanation, delude that I would love to be around you
      * 
-     * Get more children to be proud about
+     * Get more children to be proud about, waste a few decades and pray that everything goes really well
       **/       
 
 
