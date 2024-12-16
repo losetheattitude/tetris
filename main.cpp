@@ -115,6 +115,7 @@ int main()
      * Who can not see that they have arrived to nowhere yet WHAT A PRIDE! ehehehehehehhe
      * 
      * The disgusting animals who still think that I would even consider to waste my time with such abominations
+     * The disgusting animals who still talk about afterlife
       **/       
 
 
