@@ -79,6 +79,7 @@ int main()
      * Eheehheheheheh 30 years and now you can have some things, BE GRATEFULLL!!!!! eheheh its that easy, hopefully everything goes really well
      * 
      * I want no simple disgusting animals around me, the insecure disgusting animals who take being the cheapest form of human for a skill
+     * ehehe instead of baring some responsibility, why not continue enjoying our lives!!!! act like no such thing happened
      * 
       **/       
 
