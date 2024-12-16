@@ -137,6 +137,8 @@ int main()
      * 
      * Arriving to nowhere yet being intentionally unaware of it, what a good combination
      * You do not know how to listen ? and you also like abusing ?
+     * 
+     * Do you still think you are fooling or do you realize what you got into ?
       **/       
 
 
