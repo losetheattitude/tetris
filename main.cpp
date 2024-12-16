@@ -120,6 +120,7 @@ int main()
      * Who can not explain anything that they have perpetrated so far, only the avoidance that merely works with its own kind
      * Who takes his actions to be funny when the reality is the quite opposite of that, what a miserable animal right ?
      * Who still offers what their inferior nature craves for, when the time they have wasted is incomparable to basic materials yet eheheh fun stuff
+     * Who still hides behind his disgusting guise
       **/       
 
 
