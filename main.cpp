@@ -143,7 +143,7 @@ int main()
      * Still after offering the most normal things after years of stupid conduct of your own nature ? Get more children and start yapping about fate
      * 
      * I do not accept anything that comes from any of you, make everything harder see who is losing
-     * I have no intention to waste my entire life with selfish people like you
+     * I have no intention to waste my entire life with selfish people like you, I do not care whether you delude you provide something valuable 
       **/       
 
 
