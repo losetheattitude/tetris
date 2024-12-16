@@ -101,6 +101,8 @@ int main()
      * 
      * Get more children to be proud about, waste a few decades and pray that everything goes really well
      * From out of my vicinity, I do not care about your titles or your delusions of whatever nature
+     * 
+     * The great people with great titles who chases children, make sure I would even consider a second to see you for what you are not, thats called delusion
       **/       
 
 
