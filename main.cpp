@@ -108,7 +108,7 @@ int main()
      * Just like the animal you are who deludes to avoid his responsibilities
      * Go for more children, you do not need no explanation because you are the very disgusting animal who is rife
      * 
-     * The immature disgusting animals who takes regular actions to be a gift to others
+     * The immature disgusting animals who takes regular actions to be a gift to others, you see why you are delusional ?
       **/       
 
 
