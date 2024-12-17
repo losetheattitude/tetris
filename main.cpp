@@ -300,6 +300,7 @@ int main()
      * And I do not want to see anything from you, whether that is good or bad, I do not care
      * 
      * Pointless meaningless titles that you think makes you someone who does anything they want, thats the type I do not want around
+     * Just after living my life, not the way you advice as inside a room for years ?
       **/       
 
 
