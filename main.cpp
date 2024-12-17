@@ -187,6 +187,9 @@ int main()
      * The same disgusting group who begs for lies from the people they are not even slightly alike
      * The inferior animals who can not answer for their past actions and still beg with all sorts of excuses of their nature
      * then suddenly reduce to begging for lies
+     * 
+     * The still inferiors who begs for others' destruction and guise it with their disgusting natured excuses ?
+     * How about you answer some questions first ?
       **/       
 
 
