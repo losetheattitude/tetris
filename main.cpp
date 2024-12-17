@@ -216,6 +216,7 @@ int main()
      * Do you understand the "responsibility" part ? Where is the responsibility for your own actions ?
      * 
      * You are still not observing any change but you are just the animal described everywhere ?
+     * You just do not have what it takes to notice your disgusting "decisions" ?
       **/       
 
 
