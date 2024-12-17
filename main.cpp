@@ -153,6 +153,7 @@ int main()
      * Your credibility is worthless hence your disappearance from out of my vicinity
      * 
      * The delusion of achieving the unachievable, thats what I do not want to see around
+     * The delusion of "offering" normal things because you think the wrong thing that I am fucking craving the disgusting animals like you
       **/       
 
 
