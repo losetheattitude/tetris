@@ -185,6 +185,8 @@ int main()
      * 
      * I do not accept those disgusting people who delude on others' desires
      * The same disgusting group who begs for lies from the people they are not even slightly alike
+     * The inferior animals who can not answer for their past actions and still beg with all sorts of excuses of their nature
+     * then suddenly reduce to begging for lies
       **/       
 
 
