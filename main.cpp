@@ -184,6 +184,7 @@ int main()
      * The tough acting disgusting inferiors who can only deal with children, you call yourselves what ? eheheheh intelligent!!!!
      * 
      * I do not accept those disgusting people who delude on others' desires
+     * The same disgusting group who begs for lies from the people they are not even slightly alike
       **/       
 
 
