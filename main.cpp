@@ -192,6 +192,7 @@ int main()
      * How about you answer some questions first ? What has my experience been like ? Are you still alleging ?
      * 
      * Are you still deluding on your righteousness to make a decision that was and is not your place ? and looking around for help ?
+     * And all you can do is offer women ?
       **/       
 
 
