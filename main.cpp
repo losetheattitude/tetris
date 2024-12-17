@@ -249,6 +249,8 @@ int main()
      * Highly valued titles that are unaware joyfully about their failures at arriving to nowhere!!!! That is definitely the type I would consider
      * The disgusting people who still offers women and justified violence while enjoying their precious lives, that are not capable of noticing
      * where they headed or already arrived to ? Is that the group I will consider myself to associate with ?
+     * 
+     * I do not accept any of you around me, thats the only thing you could ever hear 
       **/       
 
 
