@@ -226,6 +226,7 @@ int main()
      * Are you enjoying enough your precious experiences ? How about more women ?
      * 
      * Why dont you fucking offer more women to someone you have wasted his 30 years ?
+     * Food ? A safe place ? hehehehhe realllll funny right ? how about some violence ?
       **/       
 
 
