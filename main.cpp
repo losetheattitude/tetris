@@ -179,6 +179,8 @@ int main()
      * 
      * I do not want to see disgusting animals around me ? Do you understand ?
      * Especially the ones who delude on others desire for "women", do you even follow ?
+     * 
+     * Especially the ones who I would not even consider around me for a second regardless of their intentions
       **/       
 
 
