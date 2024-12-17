@@ -164,6 +164,7 @@ int main()
      * That arrives to nowhere but still exerted as though its an obligation
      * 
      * The disgusting people who thinks 30 years is okay to waste away especially by their own actions that they have taken and begged to children
+     * Thats why THERE IS NO WAY ON EARTH TO CHANGE AN OPINION THAT IS BACKED WITH "EVIDENCE", you can remove your disgusting intentions from out of my vicinity
       **/       
 
 
