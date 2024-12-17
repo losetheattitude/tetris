@@ -227,6 +227,7 @@ int main()
      * 
      * Why dont you fucking offer more women to someone you have wasted his 30 years ?
      * Food ? A safe place ? hehehehhe realllll funny right ? how about some violence ?
+     * Do you need more children to make him look like what you are really ?
       **/       
 
 
