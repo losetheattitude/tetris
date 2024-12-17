@@ -191,7 +191,7 @@ int main()
      * The still inferiors who begs for others' destruction and guise it with their disgusting natured excuses ?
      * How about you answer some questions first ? What has my experience been like ? Are you still alleging ?
      * 
-     * Are you still deluding on your righteousness to make a decision that was and is not your place ? and looking around for help ?
+     * Are you still deluding on your righteousness to make a decis ion that was and is not your place ? and looking around for help ?
      * And all you can do is offer women ? Just like the inferior selfish disgusting animal you are ?
      * 
      * What are you looking for ? Some irrelevant incompetent excuses of your own nature ?
@@ -205,6 +205,7 @@ int main()
      * Do you need more people to prove everyone how great you are ? how about more children ?
      * why arent you begging now ?
      * Do you even answer to me or would you rather beg for lies then to harm ?
+     * Just like the inferior animals who beg others to waste their life ? and you call that skill ?
       **/       
 
 
