@@ -279,6 +279,7 @@ int main()
      * How about you sacrifice when there is no problem ? you would hate to ruin the slightest of your life ? WHY IS THAT ?
      * 
      * How about you account for your own behavior ? instead of blindly attacking people ?
+     * Are you the one who is still offering crimes ? Thats why you are blind, you do not see the problem ? because its you ? may be ?
       **/       
 
 
