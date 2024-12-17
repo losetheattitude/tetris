@@ -232,6 +232,8 @@ int main()
      * The disgusting insignificant animal who can not account for his own behavior ?
      * Why dont you start asking for things ?
      * Were you the one who knew the meaning of life and do the opposite things you advice ?
+     * 
+     * And indulge in your really efficient "guises" ? Do you really think you are guised ? or just another insignificant group of violent people ?
       **/       
 
 
