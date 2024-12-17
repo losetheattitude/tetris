@@ -204,6 +204,7 @@ int main()
      * 
      * Do you need more people to prove everyone how great you are ? how about more children ?
      * why arent you begging now ?
+     * Do you even answer to me or would you rather beg for lies then to harm ?
       **/       
 
 
