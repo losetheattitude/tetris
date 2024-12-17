@@ -273,7 +273,10 @@ int main()
      * 
      * The disgusting selfish people of the earth ? The people with no understanding of their nature ? wasting time with the most irrelevant bullshit ?
      * Who is blindly offering only women, not perceiving who is the problem, are you sure I will be willing to be around you ?
+     * 
+     * You can get the fuck out of my face, disgusting animals who can not even understand the situation
       **/       
+
 
 
 
