@@ -269,7 +269,7 @@ int main()
      * 
      * Still asking for the unspeakable ? why do you think you are a disgusting animal who is afraid of its surroundings ?
      * Forget about the past that is not our past thats why we can easily ask such things ? is that what you are saying ?
-     * How about you gather more children ?
+     * How about you gather more children ? and try to oppose them with threats ?
       **/       
 
 
