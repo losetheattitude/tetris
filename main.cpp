@@ -196,6 +196,7 @@ int main()
      * 
      * What are you looking for ? Some irrelevant incompetent excuses of your own nature ?
      * Why arent you excuses working against impartial people ? because you are a disgusting animal ?
+     * Who still offers material and enjoy their precious experiences while advicing others the worse ?
       **/       
 
 
