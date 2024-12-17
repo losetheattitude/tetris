@@ -251,6 +251,7 @@ int main()
      * where they headed or already arrived to ? Is that the group I will consider myself to associate with ?
      * 
      * I do not accept any of you around me, thats the only thing you could ever hear 
+     * Awwwwwww, there is no going back from our disgusting actions that we can not account for
       **/       
 
 
