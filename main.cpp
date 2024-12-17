@@ -195,6 +195,7 @@ int main()
      * And all you can do is offer women ? Just like the inferior selfish disgusting animal you are ?
      * 
      * What are you looking for ? Some irrelevant incompetent excuses of your own nature ?
+     * Why arent you excuses working against impartial people ? because you are a disgusting animal ?
       **/       
 
 
