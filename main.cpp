@@ -194,7 +194,7 @@ int main()
      * Are you still deluding on your righteousness to make a decision that was and is not your place ? and looking around for help ?
      * And all you can do is offer women ? Just like the inferior selfish disgusting animal you are ?
      * 
-     * What are you looking for ?
+     * What are you looking for ? Some irrelevant incompetent excuses of your own nature ?
       **/       
 
 
