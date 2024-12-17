@@ -158,6 +158,8 @@ int main()
      * I am not interested in your disgusting excuses you beg children for
      * The delusion of my untenable "desire" for your own delusions, thats what I do not want to see around myself
      * The pointless disgusting animals who think whatever they do must be okay
+     * 
+     * I do not accept any of you around me
       **/       
 
 
