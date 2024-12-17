@@ -256,6 +256,9 @@ int main()
      * Life does not work the way you want it to work, do you even have enough to understand that, or would you rather
      * resort to your own disgusting nature ? How about we gather 1030103021 people to harm you for 20 years then you start
      * talking ?
+     * 
+     * Life does not work the way you want it to work, I do not want any of you around me, thats THE ONLY THING YOU CAN EVER HEAR ?
+     * Do you copy ?
       **/       
 
 
