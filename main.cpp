@@ -242,6 +242,9 @@ int main()
      * 
      * I am not interested in anything you can offer, do you even understand what that means or are you going to ignore
      * as you have always done with me ? What a group of underdeveloped ignorant people right ? That is the definition
+     * 
+     * And whether you think you offer the worlds and that means a lot to you, I DO NOT WANT NO DISGUSTING ANIMAL LIKE YOU AROUND ME
+     * regardless of your highly valued titles
       **/       
 
 
