@@ -278,7 +278,7 @@ int main()
      * The disgusting animals who advices people to stay within a room for years ? and you still beg to children ?
      * How about you sacrifice when there is no problem ? you would hate to ruin the slightest of your life ? WHY IS THAT ?
      * 
-     * How about you account for your own behavior ?
+     * How about you account for your own behavior ? instead of blindly attacking people ?
       **/       
 
 
