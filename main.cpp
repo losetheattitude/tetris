@@ -254,7 +254,8 @@ int main()
      * Awwwwwww, there is no going back from our disgusting actions that we can not account for
      * 
      * Life does not work the way you want it to work, do you even have enough to understand that, or would you rather
-     * resort to your own disgusting nature ?
+     * resort to your own disgusting nature ? How about we gather 1030103021 people to harm you for 20 years then you start
+     * talking ?
       **/       
 
 
