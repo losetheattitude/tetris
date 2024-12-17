@@ -272,6 +272,7 @@ int main()
      * How about you gather more children ? and try to oppose them with threats ?
      * 
      * The disgusting selfish people of the earth ? The people with no understanding of their nature ? wasting time with the most irrelevant bullshit ?
+     * Who is blindly offering only women, not perceiving who is the problem, are you sure I will be willing to be around you ?
       **/       
 
 
