@@ -175,6 +175,7 @@ int main()
      * You solve your own problems on your own, not by begging to children
      * 
      * You decide for your own lifes and stay out of mine
+     * Still making offers ?
       **/       
 
 
