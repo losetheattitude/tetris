@@ -224,6 +224,8 @@ int main()
      * How about some more children you can employ to make some gains ?
      * What else do you need ? eheheheh make more children and just negotiate with them ?
      * Are you enjoying enough your precious experiences ? How about more women ?
+     * 
+     * Why dont you fucking offer more women to someone you have wasted his 30 years ?
       **/       
 
 
