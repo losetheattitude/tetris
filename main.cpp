@@ -162,6 +162,8 @@ int main()
      * I do not accept any of you around me
      * The supposedly deserved disgusting lifestyle that facilitates nothing, thats why
      * That arrives to nowhere but still exerted as though its an obligation
+     * 
+     * The disgusting people who thinks 30 years is okay to waste away especially by their own actions that they have taken and begged to children
       **/       
 
 
