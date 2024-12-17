@@ -169,6 +169,7 @@ int main()
      * The disgusting animals who still offer material while advicing others to ruin their entire life and see no problem at that. Waaaaoooowww what a skill
      * 
      * You can remove your existence from around my vicinity, I am not interested in anything you could possibly offer, as you have done so many times
+     * Be proud about your nonexistent achievements
       **/       
 
 
