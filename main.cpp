@@ -280,6 +280,8 @@ int main()
      * 
      * How about you account for your own behavior ? instead of blindly attacking people ?
      * Are you the one who is still offering crimes ? Thats why you are blind, you do not see the problem ? because its you ? may be ?
+     * 
+     * How about you deal with your own life ? before you advice others to ruin their for years ? ehehehe where did you arrive now ?
       **/       
 
 
