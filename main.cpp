@@ -261,6 +261,7 @@ int main()
      * Do you copy ?
      * 
      * I do not accept no simple animal around me ? Do you understand ? How come you dare to say "THE PAST" ?
+     * While offering material with your disgusting nature ? and talk about the afterlife ?
       **/       
 
 
