@@ -291,6 +291,7 @@ int main()
      * Do you know why we are in this situation ? Have you ever delivered on your promises ? WHY DO YOU THINK YOU ARE IN THIS SITUATION ?
      * 
      * Are you still wasting time like a stupid animal that you are ?
+     * Still offering women ? WHY ARE YOU WAITING ?
      * 
       **/       
 
