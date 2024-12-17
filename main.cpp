@@ -170,6 +170,8 @@ int main()
      * 
      * You can remove your existence from around my vicinity, I am not interested in anything you could possibly offer, as you have done so many times
      * Be proud about your nonexistent achievements
+     * 
+     * Like I said, there is nothing on earth that you crave therefore offer others that has the potential to change your disgusting image
       **/       
 
 
