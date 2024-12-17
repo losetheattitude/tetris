@@ -301,6 +301,8 @@ int main()
      * 
      * Pointless meaningless titles that you think makes you someone who does anything they want, thats the type I do not want around
      * Just after living my life, not the way you advice as inside a room for years ?
+     * 
+     * Like the titles that make people delude on, as they delude they should
       **/       
 
 
