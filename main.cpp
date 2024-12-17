@@ -264,7 +264,8 @@ int main()
      * While offering material with your disgusting nature ? and talk about the afterlife ?
      * 
      * Life does not work like "FORGET ABOUT THE PAST" ? Do you even understand ? or you just want to neg like "I WANT THIS TO HAPPEN!!!" ?
-     * Just like the inferior animal you all are ?
+     * Just like the inferior animal you all are ? The very animals who still do not do anything other than collective harm and ignorant enough
+     * to not notice it, and you are the equal ?
       **/       
 
 
