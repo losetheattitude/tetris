@@ -239,6 +239,9 @@ int main()
      * 
      * Are you still offering women ? are you still offering afterlife ? eheheh how about some violence and get more children ?
      * then bring out the religion ? why are you the very disgusting animal that I see everywhere ?
+     * 
+     * I am not interested in anything you can offer, do you even understand what that means or are you going to ignore
+     * as you have always done with me ? What a group of underdeveloped ignorant people right ? That is the definition
       **/       
 
 
