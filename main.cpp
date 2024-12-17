@@ -156,6 +156,7 @@ int main()
      * The delusion of "offering" normal things because you think the wrong thing that I am fucking craving the disgusting animals like you
      * 
      * I am not interested in your disgusting excuses you beg children for
+     * The delusion of my untenable "desire" for your own delusions
       **/       
 
 
