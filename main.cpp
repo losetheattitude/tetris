@@ -293,6 +293,9 @@ int main()
      * Are you still wasting time like a stupid animal that you are ?
      * Still offering women ? WHY ARE YOU WAITING ?
      * 
+     * I have got no intention to waste my time with irrelevant selfish animals who take life for lightly when it suits them, 
+     * Thats the only thing you can ever hear 
+     * 
       **/       
 
 
