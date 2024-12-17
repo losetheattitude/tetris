@@ -213,6 +213,7 @@ int main()
      * Yet you are still deluding on your credibility ? What offers are you making now ? The greatest of the great ?
      * 
      * You do not know how to read ? Why dont you answer some questions first ?
+     * Do you understand the "responsibility" part ? Where is the responsibility for your own actions ?
       **/       
 
 
