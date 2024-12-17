@@ -176,6 +176,8 @@ int main()
      * 
      * You decide for your own lifes and stay out of mine
      * Still making offers ?
+     * 
+     * I do not want to see disgusting animals around me ? Do you understand ?
       **/       
 
 
