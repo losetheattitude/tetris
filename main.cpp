@@ -160,6 +160,7 @@ int main()
      * The pointless disgusting animals who think whatever they do must be okay
      * 
      * I do not accept any of you around me
+     * The supposedly deserved disgusting lifestyle that facilitates nothing, thats why
       **/       
 
 
