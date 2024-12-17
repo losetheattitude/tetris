@@ -189,7 +189,7 @@ int main()
      * then suddenly reduce to begging for lies
      * 
      * The still inferiors who begs for others' destruction and guise it with their disgusting natured excuses ?
-     * How about you answer some questions first ?
+     * How about you answer some questions first ? What has my experience been like ?
       **/       
 
 
