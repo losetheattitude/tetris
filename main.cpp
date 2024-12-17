@@ -271,7 +271,7 @@ int main()
      * Forget about the past that is not our past thats why we can easily ask such things ? is that what you are saying ?
      * How about you gather more children ? and try to oppose them with threats ?
      * 
-     * The disgusting selfish people of the earth ?
+     * The disgusting selfish people of the earth ? The people with no understanding of their nature ? wasting time with the most irrelevant bullshit ?
       **/       
 
 
