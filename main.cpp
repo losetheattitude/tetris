@@ -238,6 +238,7 @@ int main()
      * Because there is nothing you could do to change my perspective anymore, and you will find that out 
      * 
      * Are you still offering women ? are you still offering afterlife ? eheheh how about some violence and get more children ?
+     * then bring out the religion ? why are you the very disgusting animal that I see everywhere ?
       **/       
 
 
