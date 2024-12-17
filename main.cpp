@@ -296,6 +296,7 @@ int main()
      * I have got no intention to waste my time with irrelevant selfish animals who take life for lightly when it suits them, 
      * Thats the only thing you can ever hear , you are just worthless uncredible animals and thats just it
      * 
+     *  You do not understand that I have a seperate life that what you fantasize about ?
       **/       
 
 
