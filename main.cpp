@@ -211,6 +211,8 @@ int main()
      * 
      * Are you still making offers with the nonexistent audacity ? you are on the same level as the most disgusting animals ? 
      * Yet you are still deluding on your credibility ? What offers are you making now ? The greatest of the great ?
+     * 
+     * You do not know how to read ? Why dont you answer some questions first ?
       **/       
 
 
