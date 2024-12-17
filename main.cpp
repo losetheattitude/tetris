@@ -259,6 +259,8 @@ int main()
      * 
      * Life does not work the way you want it to work, I do not want any of you around me, thats THE ONLY THING YOU CAN EVER HEAR ?
      * Do you copy ?
+     * 
+     * I do not accept no simple animal around me ? Do you understand ? How come you dare to say "THE PAST" ?
       **/       
 
 
