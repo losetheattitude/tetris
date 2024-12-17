@@ -166,7 +166,9 @@ int main()
      * The disgusting people who thinks 30 years is okay to waste away especially by their own actions that they have taken and begged to children
      * Thats why THERE IS NO WAY ON EARTH TO CHANGE AN OPINION THAT IS BACKED WITH "EVIDENCE", you can remove your disgusting intentions from out of my vicinity
      * 
-     * The disgusting animals who still offer material while advicing others to ruin their entire life
+     * The disgusting animals who still offer material while advicing others to ruin their entire life and see no problem at that. Waaaaoooowww what a skill
+     * 
+     * You can remove your existence from around my vicinity, I am not interested in anything you could possibly offer, as you have done so many times
       **/       
 
 
