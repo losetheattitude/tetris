@@ -217,6 +217,8 @@ int main()
      * 
      * You are still not observing any change but you are just the animal described everywhere ?
      * You just do not have what it takes to notice your disgusting "decisions" ?
+     * 
+     * Do you still allege or offer ? whats wrong ?
       **/       
 
 
