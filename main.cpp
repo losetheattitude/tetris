@@ -235,6 +235,7 @@ int main()
      * 
      * And indulge in your really efficient "guises" ? Do you really think you are guised ? or just another insignificant group of violent people ?
      * Who think violence can help them with everything ? why dont you get more children ?
+     * Because there is nothing you could do to change my perspective anymore, and you will find that out 
       **/       
 
 
