@@ -298,6 +298,8 @@ int main()
      * 
      *  You do not understand that I have a seperate life that what you fantasize about ?
      * And I do not want to see anything from you, whether that is good or bad, I do not care
+     * 
+     * Pointless meaningless titles that you think makes you someone who does anything they want, thats the type I do not want around
       **/       
 
 
