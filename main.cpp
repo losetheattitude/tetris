@@ -262,6 +262,9 @@ int main()
      * 
      * I do not accept no simple animal around me ? Do you understand ? How come you dare to say "THE PAST" ?
      * While offering material with your disgusting nature ? and talk about the afterlife ?
+     * 
+     * Life does not work like "FORGET ABOUT THE PAST" ? Do you even understand ? or you just want to neg like "I WANT THIS TO HAPPEN!!!" ?
+     * Just like the inferior animal you all are ?
       **/       
 
 
