@@ -190,6 +190,8 @@ int main()
      * 
      * The still inferiors who begs for others' destruction and guise it with their disgusting natured excuses ?
      * How about you answer some questions first ? What has my experience been like ? Are you still alleging ?
+     * 
+     * Are you still deluding on your righteousness to make a decision that was and is not your place ? and looking around for help ?
       **/       
 
 
