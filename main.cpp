@@ -214,6 +214,8 @@ int main()
      * 
      * You do not know how to read ? Why dont you answer some questions first ?
      * Do you understand the "responsibility" part ? Where is the responsibility for your own actions ?
+     * 
+     * You are still not observing any change but you are just the animal described everywhere ?
       **/       
 
 
