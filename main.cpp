@@ -275,6 +275,7 @@ int main()
      * Who is blindly offering only women, not perceiving who is the problem, are you sure I will be willing to be around you ?
      * 
      * You can get the fuck out of my face, disgusting animals who can not even understand the situation
+     * The disgusting animals who advices people to stay within a room for years ? and you still beg to children ?
       **/       
 
 
