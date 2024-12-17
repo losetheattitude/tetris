@@ -286,6 +286,8 @@ int main()
      * 
      * The disgusting animals who are as afraid as they can be ? and you did what for years ? do you think it all just worked ? TO WHAT END ?
      * what did you now achieve ?
+     * 
+     * Do you want to now talk about random violence ? instead of excuses ? eheheheh ?
       **/       
 
 
