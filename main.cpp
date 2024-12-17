@@ -208,6 +208,9 @@ int main()
      * Just like the inferior animals who beg others to waste their life ? and you call that skill ?
      * 
      * Why dont you answer for your actions first, then we decide who is what ?
+     * 
+     * Are you still making offers with the nonexistent audacity ? you are on the same level as the most disgusting animals ? 
+     * Yet you are still deluding on your credibility ? What offers are you making now ? The greatest of the great ?
       **/       
 
 
