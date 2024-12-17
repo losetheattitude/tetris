@@ -297,6 +297,7 @@ int main()
      * Thats the only thing you can ever hear , you are just worthless uncredible animals and thats just it
      * 
      *  You do not understand that I have a seperate life that what you fantasize about ?
+     * And I do not want to see anything from you, whether that is good or bad, I do not care
       **/       
 
 
