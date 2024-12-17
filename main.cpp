@@ -172,6 +172,7 @@ int main()
      * Be proud about your nonexistent achievements
      * 
      * Like I said, there is nothing on earth that you crave therefore offer others that has the potential to change your disgusting image
+     * You solve your own problems on your own, not by begging to children
       **/       
 
 
