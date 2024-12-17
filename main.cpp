@@ -206,6 +206,8 @@ int main()
      * why arent you begging now ?
      * Do you even answer to me or would you rather beg for lies then to harm ?
      * Just like the inferior animals who beg others to waste their life ? and you call that skill ?
+     * 
+     * Why dont you answer for your actions first, then we decide who is what ?
       **/       
 
 
