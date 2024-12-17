@@ -288,6 +288,8 @@ int main()
      * what did you now achieve ?
      * 
      * Do you want to now talk about random violence ? instead of excuses ? eheheheh ?
+     * Do you know why we are in this situation ? Have you ever delivered on your promises ? WHY DO YOU THINK YOU ARE IN THIS SITUATION ?
+     * 
       **/       
 
 
