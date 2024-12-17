@@ -181,6 +181,7 @@ int main()
      * Especially the ones who delude on others desire for "women", do you even follow ?
      * 
      * Especially the ones who I would not even consider around me for a second regardless of their intentions
+     * The tough acting disgusting inferiors who can only deal with children, you call yourselves what ? eheheheh intelligent!!!!
       **/       
 
 
