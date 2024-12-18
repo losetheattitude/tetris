@@ -313,6 +313,9 @@ int main()
      * 
      * You see why I do not accept the kinds of disgusting animals around me, whether that be a title or whatever
      * The very disgusting animals who offer women on a cycle thinking that its the sole remedy ?
+     * 
+     * How about you provide the necessary resources ? Awwwwwwwww but its too late!! ? what is too late ?
+     * Too late to have done your "job" properly ? or let people die on streets and tell them you can not do stuff ?
       **/       
 
 
