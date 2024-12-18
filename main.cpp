@@ -389,6 +389,8 @@ int main()
      * The incomparable mistake of wasting so valuable time THAT DOES NOT BELONG TO YOUR STUPID LIFE ?
      * 
      * Still the same entity that can not be distinguished from a disgusting animal ?
+     * Make no mistake, you are the disgusting animal who seeks children or defenseless people, not the superior
+     * or the great people 
       **/       
 
 
