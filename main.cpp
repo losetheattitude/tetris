@@ -427,6 +427,8 @@ int main()
      * The people who can not comprehend that they do not get to make such a decision and not suffer any consequences of same nature ? 
      * Do you see the problem ? You pay with what you bless others ? Do you see the problem ? Awww you would hate to ruin your experiences
      * Thats why you are an animal still
+     * 
+     * I am not interested to waste my time with uncredible people, you just mind your own lives
       **/       
 
 
