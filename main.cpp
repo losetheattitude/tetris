@@ -353,6 +353,8 @@ int main()
      * 
      * I do not accept anything from any of you, you can continue being perfect FROM OUT OF MY VICINITY
      * You continue seeking for more children to delude on your competency, I AM FAR FROM YOU
+     * How about you do what you do best and ask for lies and silence from people so that you can harm them even further ? AND STAY AWAY FROM ME
+     * with your nonexistent qualities that you also delude on
       **/       
 
 
