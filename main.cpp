@@ -341,7 +341,10 @@ int main()
      * Do you see now why you are not wanted around ? Or would you like to ignore ?
      * 
      * You are not only failing to do your job properly but also not providing the essential resources let alone WHAT YOU HAVE AND ARE PROMISING ?
-     * Do you see why you are a disgusting animal ?
+     * Do you see why you are a disgusting animal ? Who should not be allowed to make decisions for others ?
+     * 
+     * YOU DO NOT MAKE THAT DECISION ? Because the above exact reason ? Do you understand why you are called a disgusting animal ?
+     * Who fails to complete his every single contract but brags about his failure as though an achievement ?
       **/       
 
 
