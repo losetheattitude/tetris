@@ -408,6 +408,8 @@ int main()
      * How come ?
      * You sacrifice what you do not own so that you can show off to people ? what kind of disgusting animal you are ?
      * How about you coerce more children and hope that they do not remember the "past" ?
+     * 
+     * No mercy for the never learning peoples
       **/       
 
 
