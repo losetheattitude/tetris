@@ -382,6 +382,7 @@ int main()
      * Are you still after making up laws ? 
      * 
      * Now where is the part where you make the most disgusting situation into a sensible one ? Nobody has that skill ?
+     * Now WHAT HAPPENED ? WHO GOT WHAT ?
       **/       
 
 
