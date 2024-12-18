@@ -345,6 +345,8 @@ int main()
      * 
      * YOU DO NOT MAKE THAT DECISION ? Because the above exact reason ? Do you understand why you are called a disgusting animal ?
      * Who fails to complete his every single contract but brags about his failure as though an achievement ?
+     * 
+     * Are you following now why you are "being treated this way" ?
       **/       
 
 
