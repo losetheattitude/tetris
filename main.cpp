@@ -316,6 +316,8 @@ int main()
      * 
      * How about you provide the necessary resources ? Awwwwwwwww but its too late!! ? what is too late ?
      * Too late to have done your "job" properly ? or let people die on streets and tell them you can not do stuff ?
+     * 
+     * Are you still offering materials for time ?
       **/       
 
 
