@@ -334,6 +334,7 @@ int main()
      * The group that can not notice THEY HAVE ARRIVED TO NOTHING but still after being a disgusting animal ?
      * 
      * You do not know how to listen ?
+     * The stupid people who is still offering WOMEN FOR TIME ?
       **/       
 
 
