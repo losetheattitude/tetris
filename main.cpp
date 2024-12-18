@@ -328,6 +328,7 @@ int main()
      * Why dont you talk more about 30 years of pointless excuses ? How come you get to think I will ever want to do anything with you ?
      * 
      * Why dont you offer more years inside a room ? and some violence ? Its a lot easier than to ask for silence or lies ?
+     * I DO NOT WANT ANY OF YOU AROUND ME
       **/       
 
 
