@@ -391,6 +391,8 @@ int main()
      * Still the same entity that can not be distinguished from a disgusting animal ?
      * Make no mistake, you are the disgusting animal who seeks children or defenseless people, not the superior
      * or the great people 
+     * 
+     * Do you understand that the disgusting animal in this story is YOU! do you have any explanations other than begging to people ?
       **/       
 
 
