@@ -355,6 +355,8 @@ int main()
      * You continue seeking for more children to delude on your competency, I AM FAR FROM YOU
      * How about you do what you do best and ask for lies and silence from people so that you can harm them even further ? AND STAY AWAY FROM ME
      * with your nonexistent qualities that you also delude on
+     * 
+     * What you are doing is %1000000000 working, thats why you are a disgusting animal who likes to delude 
       **/       
 
 
