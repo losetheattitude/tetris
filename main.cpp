@@ -395,6 +395,8 @@ int main()
      * Do you understand that the disgusting animal in this story is YOU! do you have any explanations other than begging to people ?
      * Are you still looking around for solutions or what ? what are you looking around for ?
      * You do not have problems to waste your disgusting life ? how about you find yourself one instead of harming for the sake of harm ?
+     * 
+     * Whose genius idea could be to waste 30 years without a purpose ? Is that you the great disgusting people ?
       **/       
 
 
