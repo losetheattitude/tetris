@@ -326,6 +326,8 @@ int main()
      * 
      * Still asking for things you DO NOT DESERVE ? how about you waste a couple of ten years before you talk so easily ?
      * Why dont you talk more about 30 years of pointless excuses ? How come you get to think I will ever want to do anything with you ?
+     * 
+     * Why dont you offer more years inside a room ? and some violence ? Its a lot easier than to ask for silence or lies ?
       **/       
 
 
