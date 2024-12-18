@@ -423,6 +423,9 @@ int main()
      * Go girls! Inferiority does not recognize limits or just simply ignorance, thats what you are good for
      * The same ignorance of what others would do under certain circumstances like the wasted decades of their life which is full of ignorant violent actions
      * of the inferior's nature
+     * 
+     * The people who can not comprehend that they do not get to make such a decision and not suffer any consequences of same nature ? 
+     * Do you see the problem ?
       **/       
 
 
