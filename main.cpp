@@ -352,6 +352,7 @@ int main()
      * own experiences ? and you call yours life ? and mine is fate ?
      * 
      * I do not accept anything from any of you, you can continue being perfect FROM OUT OF MY VICINITY
+     * You continue seeking for more children to delude on your competency, I AM FAR FROM YOU
       **/       
 
 
