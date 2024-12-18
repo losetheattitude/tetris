@@ -332,6 +332,8 @@ int main()
      * 
      * The group that is not achieving anything but still pursuing a disgusting act ? Do you think I want any of that around me ?
      * The group that can not notice THEY HAVE ARRIVED TO NOTHING but still after being a disgusting animal ?
+     * 
+     * You do not know how to listen ?
       **/       
 
 
