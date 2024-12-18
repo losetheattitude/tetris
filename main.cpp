@@ -303,6 +303,8 @@ int main()
      * Just after living my life, not the way you advice as inside a room for years ?
      * 
      * Like the titles that make people delude on, as they delude they should
+     * The disgusting animals who requests that people play the silent so that they could get hurt more without a reason ?
+     * Is that how great you are ? eheheheh ?
       **/       
 
 
