@@ -323,6 +323,8 @@ int main()
      * Failing to provide the most basic resources although really quick to make offers and still after your precious experiences with asking for lies ?
      * I do not want to see that exact type around me whether you think you own the world or you can offer so many, I HAVE SEEN ENOUGH OF YOUR DISGUSTING BEHAVIOR
      * I DO NOT CARE
+     * 
+     * Still asking for things you DO NOT DESERVE ? how about you waste a couple of ten years before you talk so easily ?
       **/       
 
 
