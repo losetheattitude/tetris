@@ -397,6 +397,7 @@ int main()
      * You do not have problems to waste your disgusting life ? how about you find yourself one instead of harming for the sake of harm ?
      * 
      * Whose genius idea could be to waste 30 years without a purpose ? Is that you the great disgusting people ?
+     * Now what do you exactly have in your hand that you could be "proud" of ? Other than bunch of beggings to other people ?
       **/       
 
 
