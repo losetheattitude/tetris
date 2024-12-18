@@ -329,6 +329,8 @@ int main()
      * 
      * Why dont you offer more years inside a room ? and some violence ? Its a lot easier than to ask for silence or lies ?
      * I DO NOT WANT ANY OF YOU AROUND ME
+     * 
+     * The group that is not achieving anything but still pursuing a disgusting act ? Do you think I want any of that around me ?
       **/       
 
 
