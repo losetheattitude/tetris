@@ -393,6 +393,8 @@ int main()
      * or the great people 
      * 
      * Do you understand that the disgusting animal in this story is YOU! do you have any explanations other than begging to people ?
+     * Are you still looking around for solutions or what ? what are you looking around for ?
+     * You do not have problems to waste your disgusting life ? how about you find yourself one instead of harming for the sake of harm ?
       **/       
 
 
