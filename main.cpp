@@ -339,6 +339,9 @@ int main()
      * 
      * I do not care whether you think you are family or cop or a good person, I DO NOT WANT TO SEE ANY OF YOU AROUND ME
      * Do you see now why you are not wanted around ? Or would you like to ignore ?
+     * 
+     * You are not only failing to do your job properly but also not providing the essential resources let alone WHAT YOU HAVE AND ARE PROMISING ?
+     * Do you see why you are a disgusting animal ?
       **/       
 
 
