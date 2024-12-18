@@ -411,6 +411,8 @@ int main()
      * 
      * No mercy for the never learning peoples
      * People who take abusing for a skill, yeahhh you deserve the most mercy and everthing etc, get the fuck out of my face
+     * 
+     * Misinterpreting every little situation, yes you are the great people
       **/       
 
 
