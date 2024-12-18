@@ -318,6 +318,7 @@ int main()
      * Too late to have done your "job" properly ? or let people die on streets and tell them you can not do stuff ?
      * 
      * Are you still offering materials for time ?
+     * Are you still after saying some nice stuff ? Awww this must be fine then, we can harm anyone we want!!!
       **/       
 
 
