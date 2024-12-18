@@ -399,7 +399,7 @@ int main()
      * Whose genius idea could be to waste 30 years without a purpose ? Is that you the great disgusting people ?
      * Now what do you exactly have in your hand that you could be "proud" of ? Other than bunch of beggings to other people ?
      * 
-     * Dare to talk about family ? Just try to tell me my experience
+     * Dare to talk about family ? Just try to tell me my experience and mind your own life ?
       **/       
 
 
