@@ -410,6 +410,7 @@ int main()
      * How about you coerce more children and hope that they do not remember the "past" ?
      * 
      * No mercy for the never learning peoples
+     * People who take abusing for a skill, yeahhh you deserve the most mercy and everthing etc, get the fuck out of my face
       **/       
 
 
