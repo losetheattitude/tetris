@@ -421,6 +421,8 @@ int main()
      * The very ignorant people who still delude on "having women" should solve every single problem, thats the great people
      * Having women should help you avoid all the responsibilities of your irrelevant disgusting actions, that is the great reasoning of the century!!
      * Go girls! Inferiority does not recognize limits or just simply ignorance, thats what you are good for
+     * The same ignorance of what others would do under certain circumstances like the wasted decades of their life which is full of ignorant violent actions
+     * of the inferior's nature
       **/       
 
 
