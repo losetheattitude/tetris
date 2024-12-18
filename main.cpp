@@ -331,6 +331,7 @@ int main()
      * I DO NOT WANT ANY OF YOU AROUND ME
      * 
      * The group that is not achieving anything but still pursuing a disgusting act ? Do you think I want any of that around me ?
+     * The group that can not notice THEY HAVE ARRIVED TO NOTHING but still after being a disgusting animal ?
       **/       
 
 
