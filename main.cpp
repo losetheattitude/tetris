@@ -413,6 +413,7 @@ int main()
      * People who take abusing for a skill, yeahhh you deserve the most mercy and everthing etc, get the fuck out of my face
      * 
      * Misinterpreting every little situation, yes you are the great people
+     * Misinterpreting the meaning of life or "individuals" that has their own lives ?
       **/       
 
 
