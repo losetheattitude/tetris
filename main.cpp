@@ -310,6 +310,8 @@ int main()
      * How about you realize you do not get to make decisions ? Its not your job to tell me as you do not do your job on
      * providing necessary resources thus preventing others to live their life ?
      * How about you talk some reason before you allege things ?
+     * 
+     * You see why I do not accept the kinds of disgusting animals around me, whether that be a title or whatever
       **/       
 
 
