@@ -325,6 +325,7 @@ int main()
      * I DO NOT CARE
      * 
      * Still asking for things you DO NOT DESERVE ? how about you waste a couple of ten years before you talk so easily ?
+     * Why dont you talk more about 30 years of pointless excuses ? How come you get to think I will ever want to do anything with you ?
       **/       
 
 
