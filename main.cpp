@@ -359,7 +359,7 @@ int main()
      * What you are doing is %1000000000 working, thats why you are a disgusting animal who likes to delude 
      * I do not even want a second around any of you, you can live your life from the most possible distance away
      * 
-     * I do not respect your decisions
+     * I do not respect your decisions until you account for your own actions and not taking cheap lying for a skill
       **/       
 
 
