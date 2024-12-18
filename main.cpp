@@ -374,6 +374,8 @@ int main()
      * 
      * I do not want any disgusting delusional "parents", "cops", "lawyers" around me, DO YOU KNOW HOW TO READ ?
      * Why dont you coerce medicine and seek for more children ?
+     * 
+     * Why dont you beg for silence and seek for more children to harm ?
       **/       
 
 
