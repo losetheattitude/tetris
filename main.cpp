@@ -385,6 +385,7 @@ int main()
      * Now WHAT HAPPENED ? WHO GOT WHAT ?
      * 
      * Still offering materials ? Still can not comprehend what is wrong with you ? 
+     * You see why you are uncredible worthless stupid animal for not understanding your mistake ?
       **/       
 
 
