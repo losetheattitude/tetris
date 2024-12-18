@@ -319,6 +319,8 @@ int main()
      * 
      * Are you still offering materials for time ?
      * Are you still after saying some nice stuff ? Awww this must be fine then, we can harm anyone we want!!!
+     * 
+     * Failing to provide the most basic resources although really quick to make offers and still after your precious experiences with asking for lies ?
       **/       
 
 
