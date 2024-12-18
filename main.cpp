@@ -365,6 +365,7 @@ int main()
      * 
      * Before you get into your really serious jobs, do you want to talk more about why someone should have a computer but not a good one ?
      * Awwww thats how good you are at your job, being a disgusting animal, its fate!! please!!! help us lie!!
+     * Wouldnt you now hate to account for your own actions ? Guess what ?
       **/       
 
 
