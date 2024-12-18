@@ -416,6 +416,8 @@ int main()
      * Misinterpreting the meaning of life or "individuals" that has their own lives ?
      * Get more children for your great and noble selves
      * The great people who do not know how to mind their own life when there is no problems, guess what you are seeking for ?
+     * 
+     * WHERE ARE YOU NOW ? You just caused some harm and take that for granted ? eheheheh 
       **/       
 
 
