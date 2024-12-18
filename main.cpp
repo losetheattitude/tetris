@@ -369,6 +369,8 @@ int main()
      * Still enjoying your life ? What do you think the disgusting definition ?
      * 
      * The religious people what are you doing ? Still after accusing people ?
+     * Do you see the selfish part of your irrelevant "decisions" ? Are you still claiming sanity or authority ? You lack every single quality
+     * that you seek in others, so thats why I pass on the disgusting animals
       **/       
 
 
