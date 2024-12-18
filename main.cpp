@@ -400,6 +400,10 @@ int main()
      * Now what do you exactly have in your hand that you could be "proud" of ? Other than bunch of beggings to other people ?
      * 
      * Dare to talk about family ? Just try to tell me my experience and mind your own life ?
+     * You still taking life lightly because its not yours ? How about you just change your disgusting little mind first
+     * then try to tell people what to do ?
+     * 
+     * Still daring to talk about family, I do not even want a single thing from any of you
       **/       
 
 
