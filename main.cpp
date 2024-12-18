@@ -347,6 +347,9 @@ int main()
      * Who fails to complete his every single contract but brags about his failure as though an achievement ?
      * 
      * Are you following now why you are "being treated this way" ?
+     * Still deluding that they have done good for wasting 30 years with nonexistent offers ?
+     * WHAT HAVE YOU DONE ? YOU HAVE NOT DELIVERED ON THE MOST ESSENTIAL RESOURCES YET you are still here demanding that people lie for your
+     * own experiences ? and you call yours life ? and mine is fate ?
       **/       
 
 
