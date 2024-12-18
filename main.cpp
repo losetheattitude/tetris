@@ -364,7 +364,7 @@ int main()
      * How about you turn back to your stupid law making jobs so that you can harm people you are afraid of ?
      * 
      * Before you get into your really serious jobs, do you want to talk more about why someone should have a computer but not a good one ?
-     * Awwww thats how good you are at your job, being a disgusting animal
+     * Awwww thats how good you are at your job, being a disgusting animal, its fate!! please!!! help us lie!!
       **/       
 
 
