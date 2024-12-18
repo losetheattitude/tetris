@@ -307,6 +307,7 @@ int main()
      * Is that how great you are ? eheheheh ?
      * 
      * Are you still begging for silence so that you can harm more ? how about you get more children ?
+     * How about you realize you do not get to make decisions ?
       **/       
 
 
