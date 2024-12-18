@@ -377,6 +377,8 @@ int main()
      * 
      * Why dont you beg for silence and seek for more children to harm ?
      * How about wasting years on years with violence and surprising at the result ? And even further, to provide it as evidence ?
+     * 
+     * I do not want to see any disgusting animals that have been described everywhere around me ? Do you even follow ?
       **/       
 
 
