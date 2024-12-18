@@ -305,6 +305,8 @@ int main()
      * Like the titles that make people delude on, as they delude they should
      * The disgusting animals who requests that people play the silent so that they could get hurt more without a reason ?
      * Is that how great you are ? eheheheh ?
+     * 
+     * Are you still begging for silence so that you can harm more ? how about you get more children ?
       **/       
 
 
