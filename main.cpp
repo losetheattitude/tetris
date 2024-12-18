@@ -406,6 +406,7 @@ int main()
      * Still daring to talk about family, I do not even want a single thing from any of you
      * You have arrived to nowhere but you are unable to perceive that and abruptly bring out the family card ?
      * How come ?
+     * You sacrifice what you do not own so that you can show off to people ? what kind of disgusting animal you are ?
       **/       
 
 
