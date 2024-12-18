@@ -321,6 +321,8 @@ int main()
      * Are you still after saying some nice stuff ? Awww this must be fine then, we can harm anyone we want!!!
      * 
      * Failing to provide the most basic resources although really quick to make offers and still after your precious experiences with asking for lies ?
+     * I do not want to see that exact type around me whether you think you own the world or you can offer so many, I HAVE SEEN ENOUGH OF YOUR DISGUSTING BEHAVIOR
+     * I DO NOT CARE
       **/       
 
 
