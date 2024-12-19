@@ -445,6 +445,9 @@ int main()
      
      * The very disgusting animals who start to beg immediately when they are in trouble and the second
      * they feel safe, Who is the one causing harm to irrelevant people ? GUESS WHAT ?
+     * 
+     * I want none of that around me whether you think you are someone who you are not or the owner of the world,
+     * you can leave indefinitely or just do what you think you have to
       **/       
 
 
