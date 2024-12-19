@@ -462,6 +462,8 @@ int main()
      * 
      * WHATS THE MEANING OF LIFE ? HOW ABOUT YOU TAKE LIFE LIGHTLY FOR YOUR OWN ?
      * Do you want to try that ? I am sure you are as developed as you delude to be
+     * 
+     * Why dont we take life lightly for your own precious experiences ? 
       **/       
 
 
