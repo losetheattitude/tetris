@@ -465,6 +465,7 @@ int main()
      * 
      * Why dont we take life lightly for your own precious experiences ? 
      * YOU PAY WITH WHAT YOU CAN NOT AFFORD TO, Not with ample materials that you think you are tricking people wit
+     * Not the materials that you crave while also advicing about the meaning of life
       **/       
 
 
