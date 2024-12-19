@@ -453,6 +453,8 @@ int main()
      * or your really genuine and credible offers. You are the disgusting animals do not forget about that
      * 
      * The disgusting animals who still offer material for their irrelevant actions,
+     * The very disgusting animals who start to beg for help when they are in trouble, do you really think I will even consider you for a second ?
+     * The directionless disgusting animals who hide behind violence ?
       **/       
 
 
