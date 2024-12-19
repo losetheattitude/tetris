@@ -439,6 +439,9 @@ int main()
      * 
      * I am not interested in satisfying "your obscure aims" that leads to nowhere, is that what you are not perceiving ?
      * Pointless violence and wasting time IS LEADING TO NOWHERE ? 
+     * 
+     * The point of no return!!!! eheheh stupid disgusting animals are still ignoring WHAT THEY ARE PERPETRATING!!!! 
+     * The kind of people I would definitely consider to be around, you can get the fuck out of my face
       **/       
 
 
