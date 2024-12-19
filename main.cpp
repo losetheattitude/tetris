@@ -467,6 +467,9 @@ int main()
      * YOU PAY WITH WHAT YOU CAN NOT AFFORD TO, Not with ample materials that you think you are tricking people wit
      * Not the materials that you crave while also advicing about the meaning of life
      * The selfish who, think carefully
+     * 
+     * A deal is a deal when you do what you say you would and when you do not, you pay with what you can not afford to ?
+     * Does that sound complicated or would you like to ignore ?
       **/       
 
 
