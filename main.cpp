@@ -442,6 +442,9 @@ int main()
      * 
      * The point of no return!!!! eheheh stupid disgusting animals are still ignoring WHAT THEY ARE PERPETRATING!!!! 
      * The kind of people I would definitely consider to be around, you can get the fuck out of my face
+     
+     * The very disgusting animals who start to beg immediately when they are in trouble and the second
+     * they feel safe, Who is the one causing harm to irrelevant people ? GUESS WHAT ?
       **/       
 
 
