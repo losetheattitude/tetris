@@ -455,6 +455,13 @@ int main()
      * The disgusting animals who still offer material for their irrelevant actions,
      * The very disgusting animals who start to beg for help when they are in trouble, do you really think I will even consider you for a second ?
      * The directionless disgusting animals who hide behind violence ?
+     * 
+     * The disgusting animals who take life lightly when theirs is not in trouble ?
+     * Do you want to made to be understand that ? or would you rather enjoy your joyful experiences ?
+     * Whats the meaning of life ?
+     * 
+     * WHATS THE MEANING OF LIFE ? HOW ABOUT YOU TAKE LIFE LIGHTLY FOR YOUR OWN ?
+     * Do you want to try that ? I am sure you are as developed as you delude to be
       **/       
 
 
