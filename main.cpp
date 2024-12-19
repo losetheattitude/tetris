@@ -448,6 +448,9 @@ int main()
      * 
      * I want none of that around me whether you think you are someone who you are not or the owner of the world,
      * you can leave indefinitely or just do what you think you have to
+     * 
+     * Whethet you think people would love to waste their time with you and with your disgusting excuses, 
+     * or your really genuine and credible offers. You are the disgusting animals do not forget about that
       **/       
 
 
