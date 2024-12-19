@@ -476,6 +476,7 @@ int main()
      * Expect others to not be just like them afterwards
      * 
      * Do you really take your value so high that I will ever consider wasting my time with directionless and inexplicable animals ?
+     * You are the definition of nobody to me, thats the story you need to study
       **/       
 
 
