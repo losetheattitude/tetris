@@ -436,6 +436,8 @@ int main()
      * You do not see that everyone has his own life or you are just the animal that has no understanding whatsoever ?
      * Guess what you deserve ? Are you still making offers ?
      * I want neither good nor bad things from the very disgusting animals who I know what they are
+     * 
+     * I am not interested in satisfying "your obscure aims" that leads to nowhere, is that what you are not perceiving ?
       **/       
 
 
