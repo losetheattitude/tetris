@@ -470,6 +470,8 @@ int main()
      * 
      * A deal is a deal when you do what you say you would and when you do not, you pay with what you can not afford to ?
      * Does that sound complicated or would you like to ignore ?
+     * 
+     * Still deluding on others' demise ? awwwww thats why you insist otherwise you look like the most disgusting stupid animal on earth right ?
       **/       
 
 
