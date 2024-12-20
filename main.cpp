@@ -483,7 +483,7 @@ int main()
      * 
      * I am not interested in being around disgusting animals, thats the only thing you can hear
      * The people who dislisten, I do not want to see you around me is only thing you can hear
-     * The people without a proper explanation
+     * The people without a proper explanation other than cheap lies as their nature can produce and some offers that they crave for
       **/       
 
 
