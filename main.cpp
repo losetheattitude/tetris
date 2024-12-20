@@ -490,6 +490,7 @@ int main()
      * Get more children skillful people and coerce them later on pray that they do not recollect
      * 
      * Fucking inferior monkeys who jerks off to coercing children to wield as weapon
+     * Like the true animal they are ?
       **/       
 
 
