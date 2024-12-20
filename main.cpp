@@ -488,6 +488,8 @@ int main()
      * 
      * Awwww, what a surprise that you also delude on your expectations of entirely irrelevant nature relating the others
      * Get more children skillful people and coerce them later on pray that they do not recollect
+     * 
+     * Fucking inferior monkeys
       **/       
 
 
