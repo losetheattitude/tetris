@@ -482,6 +482,7 @@ int main()
      * As you can guess, your acceptance would not matter to me, you have long made your "decisions" that are not yours
      * 
      * I am not interested in being around disgusting animals, thats the only thing you can hear
+     * The people who dislisten, I do not want to see you around me is only thing you can hear
       **/       
 
 
