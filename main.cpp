@@ -479,6 +479,7 @@ int main()
      * You are the definition of nobody to me, thats the story you need to study
      * 
      * Still deluding on your wishes ? or you are just choiceless otherwise you will be a stupid monkey ?
+     * As you can guess, your acceptance would not matter to me, you have long made your "decisions" that are not yours
       **/       
 
 
