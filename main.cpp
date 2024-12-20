@@ -480,13 +480,14 @@ int main()
      * 
      * Still deluding on your wishes ? or you are just choiceless otherwise you will be a stupid monkey ?
      * As you can guess, your acceptance would not matter to me, you have long made your "decisions" that are not yours
-     * 
+     *   
      * I am not interested in being around disgusting animals, thats the only thing you can hear
      * The people who dislisten, I do not want to see you around me is only thing you can hear
      * The people without a proper explanation other than cheap lies as their nature can produce and some offers that they crave for
      * Who are still offering materials with their disgusting incapable perspectives
      * 
-     * Awwww, what a surprise that you also delude on your expectations of entirely irrelevant nature relating to others
+     * Awwww, what a surprise that you also delude on your expectations of entirely irrelevant nature relating the others
+     * Get more children skillful people
       **/       
 
 
