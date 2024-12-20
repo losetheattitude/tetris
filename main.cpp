@@ -480,6 +480,8 @@ int main()
      * 
      * Still deluding on your wishes ? or you are just choiceless otherwise you will be a stupid monkey ?
      * As you can guess, your acceptance would not matter to me, you have long made your "decisions" that are not yours
+     * 
+     * I am not interested in being around disgusting animals, thats the only thing you can hear
       **/       
 
 
