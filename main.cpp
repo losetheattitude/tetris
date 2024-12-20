@@ -485,6 +485,8 @@ int main()
      * The people who dislisten, I do not want to see you around me is only thing you can hear
      * The people without a proper explanation other than cheap lies as their nature can produce and some offers that they crave for
      * Who are still offering materials with their disgusting incapable perspectives
+     * 
+     * Awwww, what a surprise that you also delude on your expectations of entirely irrelevant nature relating to others
       **/       
 
 
