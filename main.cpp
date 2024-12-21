@@ -513,6 +513,8 @@ int main()
      * 
      * You see, the problem terminates once you understand that you should not make any decisions that are not related to your life ? 
      * So you are being your own problem by doing the most disgusting and stupid thing you could ever imagine ?
+     * 
+     * You first focus on your life and do your best, leave others to their own devices, that is it
       **/       
 
 
