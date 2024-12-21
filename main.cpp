@@ -546,6 +546,7 @@ int main()
      * You already know this is going to end with death, regardless of your intentions or beggings
      * There is no any other way, you see why ? Only then we can see what a stupid fearful animal you are
      * Why dont you gather 123123021 people and hide behind them ? like the inferior animal you are ?
+     * Reallly reallllyy tough guys, dont you say ?
       **/       
      
 
