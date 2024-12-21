@@ -520,6 +520,8 @@ int main()
      * 
      * You are not at all qualified, thats one of the major delusions of your inferior nature
      * As you have proven so many times what you are made off of, and thats what I despise the most
+     * 
+     * Just an uncredible fearful selfish group of animals who never stopped begging under guise, you can get the fuck out of my face
       **/       
 
 
