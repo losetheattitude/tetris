@@ -538,6 +538,8 @@ int main()
      * 
      * What a pattern that your only skill is to make offers and forget about them, you think yourself to be what ?
      * How about you find something useful before you make the most stupid and irrelevant "decisions" ?
+     * 
+     * YOU DO NOT GET TO DECIDE what happens after your 30 years of disgusting actions
       **/       
      
 
