@@ -529,7 +529,7 @@ int main()
      * Do you really take your value to be so great that I WOULD JUST JUMP ON YOUR DISGUSTING INTENTIONS after all you have perpetrated ?
      * 
      * What a ignorant animal you are right ? or would you just rather beg more and do not deliver ?
-     * Ignore more!!
+     * Ignore more!! and delude on your righteousness
       **/       
      
 
