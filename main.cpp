@@ -540,6 +540,7 @@ int main()
      * How about you find something useful before you make the most stupid and irrelevant "decisions" ?
      * 
      * YOU DO NOT GET TO DECIDE what happens after your 30 years of disgusting actions
+     * How about you find more defenseless people ?
       **/       
      
 
