@@ -530,6 +530,7 @@ int main()
      * 
      * What a ignorant animal you are right ? or would you just rather beg more and do not deliver ?
      * Ignore more!! and delude on your righteousness
+     * Just like the incapable animal who can not cope with the reality
       **/       
      
 
