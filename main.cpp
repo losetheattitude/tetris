@@ -535,6 +535,8 @@ int main()
      * 
      * You already know how quickly opinions can change, but you are just the ignorant, selfish and stubborn animal
      * who likes to think that they should do what they are not supposed to ? How about you stop being a disgusting animal ?
+     * 
+     * What a pattern that your only skill is to make offers and forget about them, you think yourself to be what ?
       **/       
      
 
