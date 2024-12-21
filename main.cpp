@@ -524,6 +524,8 @@ int main()
      * Just an uncredible fearful selfish group of animals who never stopped begging under guise, you can get the fuck out of my face
      * If you just stopped and observed your behavior, you would have already realized that you are only preventing someone from living their life
      * while you jerk off to your disgusting animal instincts, thats why
+     * 
+     * 30 years and all you can say, "heheheheh" JUST DO IT!!!! heheheh some violence!!! like the inferior disgusting animal you are
       **/       
 
 
