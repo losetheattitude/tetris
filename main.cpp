@@ -494,6 +494,7 @@ int main()
      * 
      * Why are you receiving the same results ?? Is it because of your stupid actions ?
      * So where did you arrive ? Do you want more children to abuse ?
+     * Awwwww, forgive us!!! hopefully you do not remember all !!!! eheheheh
       **/       
 
 
