@@ -491,6 +491,8 @@ int main()
      * 
      * Fucking inferior monkeys who jerks off to coercing children to wield as weapon
      * Like the true animal they are ? Like the pointless stupidity they wield 
+     * 
+     * Why are you receiving the same results ?? Is it because of your stupid actions ?
       **/       
 
 
