@@ -526,6 +526,7 @@ int main()
      * while you jerk off to your disgusting animal instincts, thats why
      * 
      * 30 years and all you can say, "heheheheh" JUST DO IT!!!! heheheh some violence!!! like the inferior disgusting animal you are
+     * Do you really take your value to be so great that I WOULD JUST JUMP ON YOUR DISGUSTING INTENTIONS after all you have perpetrated ?
       **/       
 
 
