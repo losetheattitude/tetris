@@ -504,6 +504,8 @@ int main()
      * 
      * How about you threaten people and literally harm them physically so that they do what you "credibly" allege ?
      * You still begging through offers ?
+     * 
+     * Talk more about "life" and "time" ehehehe, really proud and genius nation
       **/       
 
 
