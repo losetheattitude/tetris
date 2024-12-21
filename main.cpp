@@ -516,7 +516,7 @@ int main()
      * 
      * You first focus on your life and do your best, leave others to their own devices, that is it
      * Do you understand that YOU ARE NOT SUPPOSED TO MAKE SO PERSONAL DECISIONS AS YOU HAVE RUINED SO FAR ?
-     * You all are the sole reason
+     * You all are the sole reason, thats why
       **/       
 
 
