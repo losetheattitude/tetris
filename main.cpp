@@ -507,6 +507,9 @@ int main()
      * 
      * Talk more about "life" and "time" ehehehe, really proud and genius nation
      * Or just avoid talking about your great actions and their achievements ?
+     * 
+     * Why are you still asking for lies or silence ? Where is your great talent at your "job" ? You better get more children 
+     * thats the only entity you can deal with
       **/       
 
 
