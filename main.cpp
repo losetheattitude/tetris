@@ -495,7 +495,7 @@ int main()
      * Why are you receiving the same results ?? Is it because of your stupid actions ?
      * So where did you arrive ? Do you want more children to abuse ?
      * Awwwww, forgive us!!! hopefully you do not remember all !!!! eheheheh
-     * Why dont we waste 20 years ?
+     * Why dont we waste 20 years ? How about you talk more about violence first then try to present evidence ?
       **/       
 
 
