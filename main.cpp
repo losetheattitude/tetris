@@ -541,7 +541,7 @@ int main()
      * 
      * YOU DO NOT GET TO DECIDE what happens after your 30 years of disgusting actions
      * How about you find more defenseless people ? and gather like 100010230021 people ?
-     * Do you see the ignorant part now ?
+     * Do you see the ignorant part now ? The quality that is well deserved by you and the only quality you unfortunately can contain
       **/       
      
 
