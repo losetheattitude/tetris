@@ -544,6 +544,7 @@ int main()
      * Do you see the ignorant part now ? The quality that is well deserved by you and the only quality you unfortunately can contain
      * 
      * You already know this is going to end with death, regardless of your intentions or beggings
+     * There is no any other way, you see why ?
       **/       
      
 
