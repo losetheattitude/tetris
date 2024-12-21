@@ -532,6 +532,9 @@ int main()
      * Ignore more!! and delude on your righteousness
      * Just like the incapable animal who can not cope with the reality
      * Just like the disgusting inferior who takes making offers for a skill and forgets about them, what a pattern
+     * 
+     * You already know how quickly opinions can change, but you are just the ignorant, selfish and stubborn animal
+     * who likes to think that they should do what they are not supposed to ? How about you stop being a disgusting animal ?
       **/       
      
 
