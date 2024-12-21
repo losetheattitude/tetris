@@ -510,6 +510,9 @@ int main()
      * 
      * Why are you still asking for lies or silence ? Where is your great talent at your "job" ? You better get more children 
      * thats the only entity you can deal with
+     * 
+     * You see, the problem terminates once you understand that you should not make any decisions that are not related to your life ? 
+     * So you are being your own problem by doing the most disgusting and stupid thing you could ever imagine ?
       **/       
 
 
