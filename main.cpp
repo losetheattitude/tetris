@@ -496,6 +496,7 @@ int main()
      * So where did you arrive ? Do you want more children to abuse ?
      * Awwwww, forgive us!!! hopefully you do not remember all !!!! eheheheh
      * Why dont we waste 20 years ? How about you talk more about violence first then try to present evidence ?
+     * Or would you rather make some offers ? and hope for the best ?
       **/       
 
 
