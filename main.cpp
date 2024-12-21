@@ -506,6 +506,7 @@ int main()
      * You still begging through offers ?
      * 
      * Talk more about "life" and "time" ehehehe, really proud and genius nation
+     * Or just avoid talking about your great actions and their achievements ?
       **/       
 
 
