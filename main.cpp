@@ -515,6 +515,8 @@ int main()
      * So you are being your own problem by doing the most disgusting and stupid thing you could ever imagine ?
      * 
      * You first focus on your life and do your best, leave others to their own devices, that is it
+     * Do you understand that YOU ARE NOT SUPPOSED TO MAKE SO PERSONAL DECISIONS AS YOU HAVE RUINED SO FAR ?
+     * You all are the sole reason
       **/       
 
 
