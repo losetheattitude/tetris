@@ -522,6 +522,8 @@ int main()
      * As you have proven so many times what you are made off of, and thats what I despise the most
      * 
      * Just an uncredible fearful selfish group of animals who never stopped begging under guise, you can get the fuck out of my face
+     * If you just stopped and observed your behavior, you would have already realized that you are only preventing someone from living their life
+     * while you jerk off to your disgusting animal instincts, thats why
       **/       
 
 
