@@ -552,6 +552,7 @@ int main()
      * Now where did you arrive ? What did you do with what is not given to you ? eheheh you just wasted carelessly ? ehehehhe and harmed some ?
      * 
      * "YOU ONLY LIVE ONCE!!!" ehehehehehe please!!! give us materials!!!! please!!! eheheh get some materials!!
+     * Do you understand why you should not make "decisions" because you can not provide any reasonable explanations other than "life" ?
       **/       
      
 
