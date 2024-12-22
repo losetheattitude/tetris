@@ -573,6 +573,8 @@ int main()
      * 
      * Have you ever seen disappointed people who are trying to ignore their stupidity ? Just have a look around thats why!!! eheheh
      * Do you see your stupid disappointment ? or would you rather cast blame to people who you harm ?
+     * 
+     * Do you understand the joy you are drawing from others' "demise" ? ehehehe no resources ehehehehe please!!
       **/       
      
 
