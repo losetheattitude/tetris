@@ -556,8 +556,11 @@ int main()
      * Do you understand why "nobody would want you around" ?
      * The inferior animals who still offer women despite the million attempts made at them indicating that "YOU ARE A NEVER LEARNING STUPID ANIMAL"
      * Eheheheheh we like wasting people's time from the very childhood!!!! Ask for lies and silence ehehehehe
+     * 
      * And do you still wonder how could this ever end ? Just like the way you would love it to, through violence eheheh !!!! people are dying so that
      * you could satisfy your disgusting animal nature
+     * 
+     * Do you still think life is a joke ? Or is it only yours that matters ?
       **/       
      
 
