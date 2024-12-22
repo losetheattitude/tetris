@@ -560,7 +560,7 @@ int main()
      * And do you still wonder how could this ever end ? Just like the way you would love it to, through violence eheheh !!!! people are dying so that
      * you could satisfy your disgusting animal nature
      * 
-     * Do you still think life is a joke ? Or is it only yours that matters ?
+     * Do you still think life is a joke ? Or is it only yours that matters ? Just like the inferior disgusting animal you are ?
       **/       
      
 
