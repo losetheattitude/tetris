@@ -562,6 +562,8 @@ int main()
      * 
      * Do you still think life is a joke ? Or is it only yours that matters ? Just like the inferior disgusting animal you are ?
      * Why dont you offer women ?
+     * 
+     * How about the explanations of "not having resources" ? ehehehehheheh WORKK!!! heheheh please!!!
       **/       
      
 
