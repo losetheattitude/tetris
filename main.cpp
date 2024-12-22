@@ -547,6 +547,8 @@ int main()
      * There is no any other way, you see why ? Only then we can see what a stupid fearful animal you are
      * Why dont you gather 123123021 people and hide behind them ? like the inferior animal you are ?
      * Reallly reallllyy tough guys, dont you say ?
+     * 
+     * eheheh nothing happened!!! gather 13032130 people!! and do the most pointless things!!! FORGET ABOUT IT!!!
       **/       
      
 
