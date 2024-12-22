@@ -575,6 +575,7 @@ int main()
      * Do you see your stupid disappointment ? or would you rather cast blame to people who you harm ?
      * 
      * Do you understand the joy you are drawing from others' "demise" ? ehehehe no resources ehehehehe please!!
+     * I do not even want to hear another word from any of you, I do not want anyone from "family" around me. ehehehhe disgusting animals
       **/       
      
 
