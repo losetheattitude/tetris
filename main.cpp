@@ -555,6 +555,7 @@ int main()
      * Do you understand why you should not make "decisions" because you can not provide any reasonable explanations other than "life" ?
      * Do you understand why "nobody would want you around" ?
      * The inferior animals who still offer women despite the million attempts made at them indicating that "YOU ARE A NEVER LEARNING STUPID ANIMAL"
+     * Eheheheheh we like wasting people's time from the very childhood!!!! Ask for lies and silence ehehehehe
       **/       
      
 
