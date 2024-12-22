@@ -590,6 +590,8 @@ int main()
      * and offer what their inferior nature craves for the time
      * So you also allege you are not disgusting monkeys, whats the pattern ?
      * 
+     * Do the competent and religious couples need more children to abuse ?
+     * 
       **/       
      
 
