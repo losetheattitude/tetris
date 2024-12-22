@@ -565,6 +565,8 @@ int main()
      * 
      * How about the explanations of "not having resources" ? ehehehehheheh WORKK!!! heheheh please!!!
      * You only live once!!!! ehehehehehh
+     * 
+     * Ehehehehe no resources and violence and ehehehehhehe YOU ONLY LIVE ONCE!!!! eheheh please!! we know the meaning of life!!!
       **/       
      
 
