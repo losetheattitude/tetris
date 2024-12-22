@@ -586,6 +586,8 @@ int main()
      * Do you notice that I do not even want the most insignificant thing you could offer ? eheheheh please!!
      * The people who is not selfish enough to deal with the reality
      * 
+     * The disgusting animals who would rather choose his incompetent "discretion" over the footage, the evidence hehehehehehe please!!
+     * 
       **/       
      
 
