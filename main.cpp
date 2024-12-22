@@ -576,6 +576,9 @@ int main()
      * 
      * Do you understand the joy you are drawing from others' "demise" ? ehehehe no resources ehehehehe please!!
      * I do not even want to hear another word from any of you, I do not want anyone from "family" around me. ehehehhe disgusting animals
+     * 
+     * Luckily you are against someone who remembers every single detail of your disgusting conduct against children right ? What do you demand now ?
+     * 
       **/       
      
 
