@@ -587,6 +587,7 @@ int main()
      * The people who is not selfish enough to deal with the reality
      * 
      * The disgusting animals who would rather choose his incompetent "discretion" over the footage, the evidence hehehehehehe please!!
+     * and offer what their inferior nature craves for the time
      * 
       **/       
      
