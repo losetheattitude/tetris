@@ -570,6 +570,8 @@ int main()
      * Do you understand the meaning of "delusion" that cost someone years ? and not only cheap delusions but also some physical harm ? thats the best!!!
      * If you were the "thing" you are claiming you would have already done something about it, thats why you can not be trusted
      * you better talk more about violence
+     * 
+     * Have you ever seen disappointed people who are trying to ignore their stupidity ? Just have a look around
       **/       
      
 
