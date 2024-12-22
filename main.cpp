@@ -588,6 +588,7 @@ int main()
      * 
      * The disgusting animals who would rather choose his incompetent "discretion" over the footage, the evidence hehehehehehe please!!
      * and offer what their inferior nature craves for the time
+     * So you also allege you are not disgusting monkeys, whats the pattern ?
      * 
       **/       
      
