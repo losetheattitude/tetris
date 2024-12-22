@@ -567,7 +567,7 @@ int main()
      * You only live once!!!! ehehehehehh
      * 
      * Ehehehehe no resources and violence and ehehehehhehe YOU ONLY LIVE ONCE!!!! eheheh please!! we know the meaning of life!!!
-     * Do you understand the meaning of "delusion" that cost someone years ?
+     * Do you understand the meaning of "delusion" that cost someone years ? and not only cheap delusions but also some physical harm ? thats the best!!!
       **/       
      
 
