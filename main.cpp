@@ -580,6 +580,7 @@ int main()
      * Luckily you are against someone who remembers every single detail of your disgusting conduct against children right ? What do you demand now ?
      * Are you stopping with your delusions or still after the disgusting inferiority ?
      * Still wasting time without a proper reason ? eheheheheh please please!!!
+     * You only live once!!!!! eeehh
      * 
       **/       
      
