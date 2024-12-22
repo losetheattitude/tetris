@@ -584,6 +584,7 @@ int main()
      * 
      * You only live once!!! please do the things we asked you to!!!! eeheheheh
      * Do you notice that I do not even want the most insignificant thing you could offer ? eheheheh please!!
+     * The people who is not selfish enough to deal with the reality
      * 
       **/       
      
