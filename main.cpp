@@ -599,6 +599,7 @@ int main()
      * Whats the next genius idea now ?
      * 
      * How about you explain your "once back in the time" intentions and their outcomes ?
+     * You better build some character of your own instead of claiming you possess such
      * 
       **/       
      
