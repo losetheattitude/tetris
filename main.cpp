@@ -593,6 +593,8 @@ int main()
      * Do the competent and religious couples need more children to abuse ?
      * Or would you rather offer things so that you can do more disgusting actions later on ?
      * 
+     * I do not want to see any disgusting simple animals around me who deludes on their competency and the outcomes of their actions
+     * 
       **/       
      
 
