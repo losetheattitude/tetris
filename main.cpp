@@ -625,6 +625,8 @@ int main()
      * they are disgusting otherwise ?
      * 
      * Now you can not accept that you are wrong because it makes you what ? heehhe genius ?
+     * So the geniuses that can not tell where they have arrived by their irrelevant violence ? but still claim
+     * all the qualities they do not possess ?
       **/       
      
 
