@@ -614,7 +614,8 @@ int main()
      * And you still have nothing other than saying what ? eheheh time has passed ? ehehehhe its fine!!! itss tooo late!!!! eheheh 
      * say some nice stuff
      * 
-     * You do not remember ? You would rather ignore your random noises ? The genius nation ?
+     * You do not remember ? You would rather ignore your random noises ? The genius nation ? How about some genius violence and
+     * forget about everything you said ?
       **/       
      
 
