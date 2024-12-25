@@ -666,7 +666,7 @@ int main()
      * You do not deserve anything of value
      * proud btw, tryna save the world!! eheheheh get some women ehehe forget the past and the promises eheheheh pls pls
      * we tryna do good to people and abuse children then to claim that they are jealous!!!! ehehehe genius!
-     * No resources and you are jealous!!! ehehehe
+     * No resources and you are jealous!!! ehehehe you just need more children may be ? children that does not remember ,hopefully, anything ?
       **/       
      
 
