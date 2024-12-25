@@ -676,6 +676,8 @@ int main()
      * 
      * Why dont you show some greater violence and the unattainable aims ?
      * Do you want to talk more about coercion ? As if its a good thing because you are surrounded with like minded people ?
+     * 
+     * How about you pay for your own actions ? Like the really genius nation you are ? eheheh ?
       **/       
      
 
