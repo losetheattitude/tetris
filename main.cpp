@@ -678,6 +678,7 @@ int main()
      * Do you want to talk more about coercion ? As if its a good thing because you are surrounded with like minded people ?
      * 
      * How about you pay for your own actions ? Like the really genius nation you are ? eheheh ?
+     * Instead of offering things and ignoring them ? eheheheh ?
       **/       
      
 
