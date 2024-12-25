@@ -649,6 +649,8 @@ int main()
      * Do you want to compare your allegations with evidence ?
      * 
      * Are you still proud that you are aiming to nothing ?
+     * Awwwwww, now the genius people know that they have caused so much that they have to hide to the best of their inferior abilities ?
+     * As their inferior abilities have made them to decide so stupid actions back then and suddenly forget about all ?
       **/       
      
 
