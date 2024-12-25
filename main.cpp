@@ -691,6 +691,7 @@ int main()
      * Ehehehehehehe, you would rather continue jerking off ?
      * 
      * Forget about the past!!!! please!!! The genius nation ? Who makes every little single disgusting mistake ?
+     * And begs for silence ? Do the genius people need more children to waste 30 years ?
       **/       
      
 
