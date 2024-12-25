@@ -672,6 +672,7 @@ int main()
      * still offering women ? and saving the world ?
      * 
      * Here we are ? what was the aim ? And where are you now ? You have reached no anywhere ?
+     * But still you would like to jerk off to your really superior animality ? ehehehe ? do you need more people to prove your superior ?
       **/       
      
 
