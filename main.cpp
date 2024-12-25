@@ -704,6 +704,8 @@ int main()
      * Harming injured people ? Where is your genius ? ehehehehehehhe realllllyy funny stuff ?
      * You would rather offer the most normal things in life instead ? The genius nation ? eheheheheh that is the most funny thing I have ever heard
      * from disgusting animals who deal with children ?
+     * 
+     * You do not know what you are ? The genius "society" that acts like the disgusting animal that they are ?
       **/       
      
 
