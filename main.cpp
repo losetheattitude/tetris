@@ -688,6 +688,7 @@ int main()
      * As if they should matter ? What are you saying now ? What are you begging for again ?
      * 
      * Genius nation ? The genius nation who can not even account for their behavior and "decisions" that are not theirs ?
+     * Ehehehehehehe, you would rather continue jerking off ?
       **/       
      
 
