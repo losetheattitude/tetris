@@ -659,6 +659,8 @@ int main()
      * 
      * Get more children ehehehe, how about you pay for your own actions first then we talk about what happens ?
      * Or would you rather waste 30 years without achieving anything other than violence ?
+     * 
+     * How about you first pay for your actions ?
      *  
       **/       
      
