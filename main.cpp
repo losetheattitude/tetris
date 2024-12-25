@@ -702,6 +702,8 @@ int main()
      * 
      * Do you want to harm more ? Whats wrong ? Awwwww, you can not harm people who you have harmed already ? Because it makes you look aweful ?
      * Harming injured people ? Where is your genius ? ehehehehehehhe realllllyy funny stuff ?
+     * You would rather offer the most normal things in life instead ? The genius nation ? eheheheheh that is the most funny thing I have ever heard
+     * from disgusting animals who deal with children ?
       **/       
      
 
