@@ -699,6 +699,9 @@ int main()
      * 
      * What word do you need now ? ehehehe ? Why dont you gather more people ?
      * Do you see the reason of your disgusting animality now ?
+     * 
+     * Do you want to harm more ? Whats wrong ? Awwwww, you can not harm people who you have harmed already ? Because it makes you look aweful ?
+     * Harming injured people ?
       **/       
      
 
