@@ -675,6 +675,7 @@ int main()
      * But still you would like to jerk off to your really superior animality ? ehehehe ? do you need more people to prove your superior ?
      * 
      * Why dont you show some greater violence and the unattainable aims ?
+     * Do you want to talk more about coercion ?
       **/       
      
 
