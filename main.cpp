@@ -629,6 +629,8 @@ int main()
      * all the qualities they do not possess ?
      * 
      * Why dont you talk some sense rather than begging with lies ? and excuses such as "life!!!", "fate!!!!"
+     * Then provide some medicine!! because life is forcing you to give some medicine ? or some violence ?
+     * You would rather ignore as your inferior nature can do anything else than that, just ignore
       **/       
      
 
