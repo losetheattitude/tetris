@@ -643,6 +643,8 @@ int main()
      * Just tell me now what happened ? The disgusting animals who do not understand from anything ?
      * How about you talk more on "begging children to say bad things" ? And why dont you compare the allegations of disgusting nature with
      * 30 years of evidence ?
+     * 
+     * Now do you see why you are disgusting animals who think they are doing something good ?
       **/       
      
 
