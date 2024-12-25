@@ -631,6 +631,8 @@ int main()
      * Why dont you talk some sense rather than begging with lies ? and excuses such as "life!!!", "fate!!!!"
      * Then provide some medicine!! because life is forcing you to give some medicine ? or some violence ?
      * You would rather ignore as your inferior nature can do anything else than that, just ignore
+     * 
+     * The disgusting "geniuses" who can not understand that THEY CAN NOT MAKE SUCH DECISIONS ?
       **/       
      
 
