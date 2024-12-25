@@ -658,6 +658,7 @@ int main()
      * Why dont you make some offers and say some nice stuff ?
      * 
      * Get more children ehehehe, how about you pay for your own actions first then we talk about what happens ?
+     * Or would you rather waste 30 years without achieving anything other than violence ?
      *  
       **/       
      
