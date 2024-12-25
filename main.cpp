@@ -723,6 +723,9 @@ int main()
      * 
      * How about you get the fuck out of my face and do not harm people you have no interest with ?
      * The geniuses who do not communicate through words and ignore the harm they are causing intentionally, what a great combination
+     * 
+     * Are you still making assumptions while knowing that you have failed at every attempt of your assumptions so far ?
+     * Who is stubborn who is disgusting who is ignorant ?
       **/       
      
 
