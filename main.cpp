@@ -618,6 +618,7 @@ int main()
      * forget about everything you said ?
      * 
      * Do you want to know what people achieve with 30 years of time ? and you still claim your genius ?
+     * Do you want to cast blame to other people when you are there to harm and neglect anything that is possible to neglect ?
       **/       
      
 
