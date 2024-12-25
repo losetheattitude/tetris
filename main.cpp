@@ -645,6 +645,8 @@ int main()
      * 30 years of evidence ?
      * 
      * Now do you see why you are disgusting animals who think they are doing something good ?
+     * Do you understand why you are disgusting and not even close to being intelligent ?
+     * Do you want to compare your allegations with evidence ?
       **/       
      
 
