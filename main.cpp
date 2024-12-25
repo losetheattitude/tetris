@@ -664,7 +664,7 @@ int main()
      * How about you talk more on ruining what you do not understand ?
      * 
      * You do not deserve anything of value
-     * proud btw, tryna save the world!! eheheheh
+     * proud btw, tryna save the world!! eheheheh get some women ehehe forget the past and the promises eheheheh pls pls
       **/       
      
 
