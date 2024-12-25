@@ -640,7 +640,7 @@ int main()
      * Now ? you just offer things ? As you have done in the past ? ehehehe ? The genius nation you say ?
      * The years of pointless actions that have obviously achieved nothing but ? You are there to say what ?
      * 
-     * Just tell me now what happened ?
+     * Just tell me now what happened ? The disgusting animals who do not understand from anything ?
       **/       
      
 
