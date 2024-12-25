@@ -718,6 +718,7 @@ int main()
      * 
      * Like the genius nation and their genius individuals who hide behind the society that they also claim to help ?
      * Do you see why would anyone not consider you around ? Like the pointless people who take violence for a skill ?
+     * Eheheh how about you gather 123213021 people and show them who is the boss ?
       **/       
      
 
