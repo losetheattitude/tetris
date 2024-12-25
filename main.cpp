@@ -654,7 +654,7 @@ int main()
      * Do you understand why you are begging ? While I am the one who is dealing with 123213021 genius and proud people ?
      * 
      * Why dont you offer more things ?  eheheh really intelligent people ?
-     * Eheheheehe ?
+     * Eheheheehe ? The genius people still delude that anyone would want anything to do with the disgusting animals like you ?
       **/       
      
 
