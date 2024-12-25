@@ -679,6 +679,8 @@ int main()
      * 
      * How about you pay for your own actions ? Like the really genius nation you are ? eheheh ?
      * Instead of offering things and ignoring them ? eheheheh ?
+     * 
+     * How about 30 years of violence ? ehehhee and some irrelevant actions ? eheheheh wasting time ?
       **/       
      
 
