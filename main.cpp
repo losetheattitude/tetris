@@ -681,6 +681,7 @@ int main()
      * Instead of offering things and ignoring them ? eheheheh ?
      * 
      * How about 30 years of violence ? ehehhee and some irrelevant actions ? eheheheh wasting time ?
+     * Instead of talking about life or fate ? How about you pay for your own actions like the real mature and genius nation you are ?
       **/       
      
 
