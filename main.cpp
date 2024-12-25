@@ -673,6 +673,8 @@ int main()
      * 
      * Here we are ? what was the aim ? And where are you now ? You have reached no anywhere ?
      * But still you would like to jerk off to your really superior animality ? ehehehe ? do you need more people to prove your superior ?
+     * 
+     * Why dont you show some greater violence and the unattainable aims ?
       **/       
      
 
