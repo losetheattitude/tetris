@@ -647,6 +647,8 @@ int main()
      * Now do you see why you are disgusting animals who think they are doing something good ?
      * Do you understand why you are disgusting and not even close to being intelligent ?
      * Do you want to compare your allegations with evidence ?
+     * 
+     * Are you still proud that you are aiming to nothing ?
       **/       
      
 
