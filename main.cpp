@@ -602,7 +602,7 @@ int main()
      * You better build some character of your own instead of claiming you possess such
      * 
      * Do you need more children ? How about you go out and find more ? Instead of trying to act okay ?
-     * So where is the logical conclusions of your actions ?
+     * So where is the logical conclusions of your actions ? You just want to harm and ?
       **/       
      
 
