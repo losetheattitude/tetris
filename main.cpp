@@ -610,6 +610,9 @@ int main()
      * Awwwwww, itsss tooo latee!!!! Just say some good stuff and wait for things to settle!!!! please!! genius idea!!!
      * Do you even understand what I am saying ? I do not want to see any of you around me ? Do you follow ?
      * Are you still making offers ? Are you still making offers and ignore them as your disgusting nature allows you to ?
+     * 
+     * And you still have nothing other than saying what ? eheheh time has passed ? ehehehhe its fine!!! itss tooo late!!!! eheheh 
+     * say some nice stuff
       **/       
      
 
