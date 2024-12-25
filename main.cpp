@@ -698,6 +698,7 @@ int main()
      * Do you still offer women ? Just like the disgusting begger you are ?
      * 
      * What word do you need now ? ehehehe ? Why dont you gather more people ?
+     * Do you see the reason of your disgusting animality now ?
       **/       
      
 
