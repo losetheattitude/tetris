@@ -715,6 +715,8 @@ int main()
      * 
      * The genius nation who can not answer for their own behavior and actions and would rather hide behind "the genius society" ?
      * Just like the inferior disgusting animals that have been described everywhere ?
+     * 
+     * Like the genius nation and their genius individuals who hide behind the society that they also claim to help ?
       **/       
      
 
