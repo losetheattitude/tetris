@@ -608,6 +608,8 @@ int main()
      * The genius ideas from genius people!!!! eheheh make some offers heehehhe that really makes us feel intelligent eheheh 
      * 
      * Awwwwww, itsss tooo latee!!!! Just say some good stuff and wait for things to settle!!!! please!! genius idea!!!
+     * Do you even understand what I am saying ? I do not want to see any of you around me ? Do you follow ?
+     * Are you still making offers ?
       **/       
      
 
