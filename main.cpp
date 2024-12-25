@@ -616,6 +616,8 @@ int main()
      * 
      * You do not remember ? You would rather ignore your random noises ? The genius nation ? How about some genius violence and
      * forget about everything you said ?
+     * 
+     * Do you want to know what people achieve with 30 years of time ? and you still claim your genius ?
       **/       
      
 
