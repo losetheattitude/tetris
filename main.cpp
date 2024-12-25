@@ -726,6 +726,8 @@ int main()
      * 
      * Are you still making assumptions while knowing that you have failed at every attempt of your assumptions so far ?
      * Who is stubborn who is disgusting who is ignorant ?
+     * 
+     * Do you want to somehow realize that you are a disgusting stupid animal or what ?
       **/       
      
 
