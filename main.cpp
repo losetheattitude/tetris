@@ -670,6 +670,8 @@ int main()
      * 
      * You have no consistency in neither your behavior nor your allegations nor your reasoning ?
      * still offering women ? and saving the world ?
+     * 
+     * Here we are ? what was the aim ? And where are you now ? You have reached no anywhere ?
       **/       
      
 
