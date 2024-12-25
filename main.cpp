@@ -657,7 +657,8 @@ int main()
      * Eheheheehe ? The genius people still delude that anyone would want anything to do with the disgusting animals like you ?
      * Why dont you make some offers and say some nice stuff ?
      * 
-     * Get more children ehehehe 
+     * Get more children ehehehe, how about you pay for your own actions first then we talk about what happens ?
+     *  
       **/       
      
 
