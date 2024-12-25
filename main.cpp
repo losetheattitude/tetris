@@ -692,6 +692,8 @@ int main()
      * 
      * Forget about the past!!!! please!!! The genius nation ? Who makes every little single disgusting mistake ?
      * And begs for silence ? Do the genius people need more children to waste 30 years ?
+     * 
+     * Do you see the incompetency ? Where is the benefit that you have gathered by doing this ?
       **/       
      
 
