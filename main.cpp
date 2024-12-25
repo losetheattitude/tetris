@@ -696,6 +696,8 @@ int main()
      * Do you see the incompetency ? Where is the benefit that you have gathered by doing this ?
      * The genius people who can not even point out the "benefits" of years of violence and coercion ?
      * Do you still offer women ? Just like the disgusting begger you are ?
+     * 
+     * What word do you need now ? ehehehe ? 
       **/       
      
 
