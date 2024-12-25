@@ -623,6 +623,8 @@ int main()
      * 
      * The level of genius that can not even comprehend their mistake ? and just ignorantly perpetuate ? because its so obvious that
      * they are disgusting otherwise ?
+     * 
+     * Now you can not accept that you are wrong because it makes you what ? heehhe genius ?
       **/       
      
 
