@@ -633,6 +633,9 @@ int main()
      * You would rather ignore as your inferior nature can do anything else than that, just ignore
      * 
      * The disgusting "geniuses" who can not understand that THEY CAN NOT MAKE SUCH DECISIONS ?
+     * Instead you just decided that you will harm ? without a reason ? without achieving anything ? you just said,
+     * eheheheh just some random violence to children we do not know ? neither own ?
+     * Awwww, the genius is "beg the children then years later forget about everything and some violence" ? Is that the genius you are ?
       **/       
      
 
