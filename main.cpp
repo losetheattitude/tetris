@@ -722,6 +722,7 @@ int main()
      * Talk more about how no resources is helpful and how your genius proudness relates to it
      * 
      * How about you get the fuck out of my face and do not harm people you have no interest with ?
+     * The geniuses who do not communicate through words and ignore the harm they are causing intentionally, what a great combination
       **/       
      
 
