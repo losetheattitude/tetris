@@ -641,7 +641,8 @@ int main()
      * The years of pointless actions that have obviously achieved nothing but ? You are there to say what ?
      * 
      * Just tell me now what happened ? The disgusting animals who do not understand from anything ?
-     * How about you talk more on "begging children to say bad things" ?
+     * How about you talk more on "begging children to say bad things" ? And why dont you compare the allegations of disgusting nature with
+     * 30 years of evidence ?
       **/       
      
 
