@@ -605,6 +605,7 @@ int main()
      * So where is the logical conclusions of your actions ? You just want to harm and ?
      * 
      * Eehhehehee, we like offering!!! eheheheh genius ideas!!
+     * The genius ideas from genius people!!!! eheheh make some offers heehehhe that really makes us feel intelligent eheheh 
       **/       
      
 
