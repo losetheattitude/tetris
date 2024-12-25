@@ -712,6 +712,9 @@ int main()
      * The disgusting genius nation must be then ? eheheheh 
      * The genius nation who still offers material and claiming that they are not after such ?
      * and some violence ? and some waste of time ?
+     * 
+     * The genius nation who can not answer for their own behavior and actions and would rather hide behind "the genius society" ?
+     * Just like the inferior disgusting animals that have been described everywhere ?
       **/       
      
 
