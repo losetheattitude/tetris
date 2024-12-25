@@ -667,6 +667,8 @@ int main()
      * proud btw, tryna save the world!! eheheheh get some women ehehe forget the past and the promises eheheheh pls pls
      * we tryna do good to people and abuse children then to claim that they are jealous!!!! ehehehe genius!
      * No resources and you are jealous!!! ehehehe you just need more children may be ? children that does not remember ,hopefully, anything ?
+     * 
+     * You have no consistency in neither your behavior nor your allegations nor your reasoning ?
       **/       
      
 
