@@ -607,7 +607,7 @@ int main()
      * Eehhehehee, we like offering!!! eheheheh genius ideas!!
      * The genius ideas from genius people!!!! eheheh make some offers heehehhe that really makes us feel intelligent eheheh 
      * 
-     * Awwwwww, itsss tooo latee!!!!
+     * Awwwwww, itsss tooo latee!!!! Just say some good stuff and wait for things to settle!!!! please!! genius idea!!!
       **/       
      
 
