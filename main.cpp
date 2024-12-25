@@ -707,6 +707,8 @@ int main()
      * 
      * You do not know what you are ? The genius "society" that acts like the disgusting animal that they are ?
      * Do you still offer women or like travel or what ? ehehehe ?
+     * 
+     * Awwww, just call it life ehehehehe move on
       **/       
      
 
