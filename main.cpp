@@ -661,6 +661,7 @@ int main()
      * Or would you rather waste 30 years without achieving anything other than violence ?
      * 
      * How about you first pay for your actions ?
+     * How about you talk more on ruining what you do not understand ?
      *  
       **/       
      
