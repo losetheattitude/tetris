@@ -684,6 +684,7 @@ int main()
      * Instead of talking about life or fate ? How about you pay for your own actions like the real mature and genius nation you are ?
      * 
      * So where did you arrive after 30 years ? What do you have in your hands now ?
+     * Now you feel okay offering the most normal things in life ?
       **/       
      
 
