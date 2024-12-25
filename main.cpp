@@ -710,6 +710,8 @@ int main()
      * 
      * Awwww, just call it life ehehehehe move on
      * The disgusting genius nation must be then ? eheheheh 
+     * The genius nation who still offers material and claiming that they are not after such ?
+     * and some violence ? and some waste of time ?
       **/       
      
 
