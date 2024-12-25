@@ -720,6 +720,8 @@ int main()
      * Do you see why would anyone not consider you around ? Like the pointless people who take violence for a skill ?
      * Eheheh how about you gather 123213021 people and show them who is the boss ?
      * Talk more about how no resources is helpful and how your genius proudness relates to it
+     * 
+     * How about you get the fuck out of my face and do not harm people you have no interest with ?
       **/       
      
 
