@@ -636,6 +636,8 @@ int main()
      * Instead you just decided that you will harm ? without a reason ? without achieving anything ? you just said,
      * eheheheh just some random violence to children we do not know ? neither own ?
      * Awwww, the genius is "beg the children then years later forget about everything and some violence" ? Is that the genius you are ?
+     * 
+     * Now ? you just offer things ? As you have done in the past ? ehehehe ? The genius nation you say ?
       **/       
      
 
