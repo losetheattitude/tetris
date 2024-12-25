@@ -689,6 +689,8 @@ int main()
      * 
      * Genius nation ? The genius nation who can not even account for their behavior and "decisions" that are not theirs ?
      * Ehehehehehehe, you would rather continue jerking off ?
+     * 
+     * Forget about the past!!!! please!!! The genius nation ? Who makes every little single disgusting mistake ?
       **/       
      
 
