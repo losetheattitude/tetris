@@ -603,6 +603,8 @@ int main()
      * 
      * Do you need more children ? How about you go out and find more ? Instead of trying to act okay ?
      * So where is the logical conclusions of your actions ? You just want to harm and ?
+     * 
+     * Eehhehehee, we like offering!!! eheheheh genius ideas!!
       **/       
      
 
