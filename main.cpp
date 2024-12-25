@@ -662,7 +662,8 @@ int main()
      * 
      * How about you first pay for your actions ?
      * How about you talk more on ruining what you do not understand ?
-     *  
+     * 
+     * You do not deserve anything of value
       **/       
      
 
