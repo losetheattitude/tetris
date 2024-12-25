@@ -683,7 +683,7 @@ int main()
      * How about 30 years of violence ? ehehhee and some irrelevant actions ? eheheheh wasting time ?
      * Instead of talking about life or fate ? How about you pay for your own actions like the real mature and genius nation you are ?
      * 
-     * So where did you arrive after 30 years ?
+     * So where did you arrive after 30 years ? What do you have in your hands now ?
       **/       
      
 
