@@ -734,6 +734,7 @@ int main()
      * The disgusting inferior animals who can not answer for their behavior because they thought they did not do it ? They rather hide behind the group ?
      * 
      * So all those years what have you achieved ? ehehhehe other than some inferior coercion ?
+     * More coercion because you have no other things to do ?
       **/       
      
 
