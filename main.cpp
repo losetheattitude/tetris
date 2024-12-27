@@ -739,6 +739,7 @@ int main()
      * You do not realize your failure after 30 years of random violence and actions without direction ?
      *
      * How about you get the fuck out of my face and worry about your own business ? 
+     * You only live once!!!!! eheheh
       **/       
      
 
