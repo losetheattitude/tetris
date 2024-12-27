@@ -729,6 +729,8 @@ int main()
      * 
      * Do you want to somehow realize that you are a disgusting stupid animal or what ?
      * Awwwwww, what could happen if we just do that ? Whats the problem!!!
+     * 
+     * Why dont you talk more about your qualities and skill ? And the great achievement of 30 years of work ? What was the achievement of all those years ?
       **/       
      
 
