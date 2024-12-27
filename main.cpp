@@ -731,7 +731,7 @@ int main()
      * Awwwwww, what could happen if we just do that ? Whats the problem!!!
      * 
      * Why dont you talk more about your qualities and skill ? And the great achievement of 30 years of work ? What was the achievement of all those years ?
-     * The disgusting inferior animals who can not answer for their behavior because they thought they did not do it ?
+     * The disgusting inferior animals who can not answer for their behavior because they thought they did not do it ? They rather hide behind the group ?
       **/       
      
 
