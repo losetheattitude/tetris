@@ -735,6 +735,7 @@ int main()
      * 
      * So all those years what have you achieved ? ehehhehe other than some inferior coercion ?
      * More coercion because you have no other things to do ?
+     * How about you make decisions only for your own life instead of ignoring the outcomes of your actions ?
       **/       
      
 
