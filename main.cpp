@@ -737,6 +737,8 @@ int main()
      * More coercion because you have no other things to do ?
      * How about you make decisions only for your own life instead of ignoring the outcomes of your actions ?
      * You do not realize your failure after 30 years of random violence and actions without direction ?
+     *
+     * How about you get the fuck out of my face and worry about your own business ? 
       **/       
      
 
