@@ -744,6 +744,8 @@ int main()
      * Whats the price!!! eheheheh
      * yolo yolo!!1 eheheh just waste your own time!! not ours we like enjoying the life!! ehehh
      * How about you waste your own ?
+     * 
+     * What makes you think I would want to waste my time with unconsiderate and uncredible people like you ? You deal with your own kind
       **/       
      
 
