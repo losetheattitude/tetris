@@ -742,7 +742,7 @@ int main()
      * You only live once!!!!! eheheh
      * 
      * Whats the price!!! eheheheh
-     * yolo yolo!!1 eheheh
+     * yolo yolo!!1 eheheh just waste your own time!! not ours we like enjoying the life!! ehehh
       **/       
      
 
