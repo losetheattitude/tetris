@@ -754,6 +754,7 @@ int main()
      * How come are you still the same animal ? 
      * 
      * I do not want to see no disgusting simple animal who ignores what they are doing, does that make sense ?
+     * Especially the ones who think themselves for what they are not
       **/       
 
 
