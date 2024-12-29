@@ -766,6 +766,8 @@ int main()
      * 
      * The geniuses and religious people who are practicing cheap violence ? eheheheheheheh real funny stuff right ?
      * Eheheh the ignorant as a plus ?
+     * 
+     * So where is the improvement that your great brains have foreseen ?
       **/       
 
 
