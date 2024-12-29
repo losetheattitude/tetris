@@ -759,6 +759,7 @@ int main()
      * Especially the ones who take coercion for a skill, who can not achieve anything without coercion
      * 
      * The people who keeps forgeting what they have begged with
+     * The people who is unable to understand that its not their decision
       **/       
 
 
