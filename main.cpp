@@ -768,6 +768,7 @@ int main()
      * Eheheh the ignorant as a plus ?
      * 
      * So where is the improvement that your great brains have foreseen ? Like the true genius you all are ?
+     * Still the delusional irresponsible group you dont say ?
       **/       
 
 
