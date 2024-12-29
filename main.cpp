@@ -746,37 +746,9 @@ int main()
      * How about you waste your own ?
      * 
      * What makes you think I would want to waste my time with unconsiderate and uncredible people like you ? You deal with your own kind
+     * 
+     * Awwwwww, time does not exist!! ehehehe life a simulation!! please
       **/       
-     
-
-
-
-
-
-
-
-
-     
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-     
-
-
 
 
     InitWindow (500, 620, "Raylib Tetris");
