@@ -755,6 +755,7 @@ int main()
      * 
      * I do not want to see no disgusting simple animal who ignores what they are doing, does that make sense ?
      * Especially the ones who think themselves for what they are not
+     * Especially the ones who think they should make decisions for others
       **/       
 
 
