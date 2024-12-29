@@ -757,6 +757,8 @@ int main()
      * Especially the ones who think themselves for what they are not
      * Especially the ones who think they should make decisions for others
      * Especially the ones who take coercion for a skill, who can not achieve anything without coercion
+     * 
+     * The people who keeps forgeting what they have begged with
       **/       
 
 
