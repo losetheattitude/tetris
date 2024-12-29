@@ -763,6 +763,8 @@ int main()
      * 
      * Would you prefer to explain or rather ignore ?
      * So where are you now ? Have you achieved what you aimed at ? The genius nation or the religious people ?
+     * 
+     * The geniuses and religious people who are practicing cheap violence ? eheheheheheheh real funny stuff right ?
       **/       
 
 
