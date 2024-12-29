@@ -751,7 +751,9 @@ int main()
      * How dare you talk about credibility
      * 
      * How come are you still requesting credibility ? 
-     * How come are you still the same animal ?
+     * How come are you still the same animal ? 
+     * 
+     * I do not want to see no disgusting simple animal who ignores what they are doing, does that make sense ?
       **/       
 
 
