@@ -762,6 +762,7 @@ int main()
      * The people who is unable to understand that its not their decision
      * 
      * Would you prefer to explain or rather ignore ?
+     * So where are you now ? Have you achieved what you aimed at ? The genius nation or the religious people ?
       **/       
 
 
