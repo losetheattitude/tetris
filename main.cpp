@@ -760,6 +760,8 @@ int main()
      * 
      * The people who keeps forgeting what they have begged with
      * The people who is unable to understand that its not their decision
+     * 
+     * Would you prefer to explain or rather ignore ?
       **/       
 
 
