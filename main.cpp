@@ -781,6 +781,8 @@ int main()
      * 
      * You see why you are called monkeys ? You lack reason, and I do not want to be around no simple animals 
      * Like the incompetent beggers who like to guise their interests
+     * 
+     * I am not interested in wasting my time with uncredible people like you, thats it
       **/       
 
 
