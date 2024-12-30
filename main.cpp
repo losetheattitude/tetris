@@ -779,6 +779,7 @@ int main()
      * The delusional people who take simple things to be great ?
      * Eheheheheh we did great!!! right ? Ehehhe how about more medicine hehehe
      * 
+     * You see why you are called monkeys ? You lack reason, and I do not want to be around no simple animals 
       **/       
 
 
