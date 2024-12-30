@@ -808,6 +808,8 @@ int main()
      * How about you talk more on "really skillful coercion" ?
      * Eheheh we successfully coerced medicine and violence hehehehe 
      * Disgusting irresponsible unaccountable animals
+     * 
+     * The genius nation who does not understand spoken language and coerces every possible way ?
       **/       
 
 
