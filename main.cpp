@@ -814,6 +814,10 @@ int main()
      * 
      * Ehehehehe accuse with more bullshit!!!! please eheheh life simulation, we intelligent hehehehe
      * Why dont you talk more about life!!! ? eheheh ? No resources btw eheheh
+     * 
+     * Do you want to talk more about the reasons of coercing medicines while also demonstrating greatest violence ? eheheh qualities right ?
+     * Fucking delusional disgusting monkeys
+     * 
       **/       
 
 
