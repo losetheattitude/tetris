@@ -813,6 +813,7 @@ int main()
      * How about you worry about your own businesses instead of causing irrelevant harm to people you have no relation ?
      * 
      * Ehehehehe accuse with more bullshit!!!! please eheheh life simulation, we intelligent hehehehe
+     * Why dont you talk more about life!!! ? eheheh ?
       **/       
 
 
