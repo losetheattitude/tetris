@@ -787,6 +787,9 @@ int main()
      * 
      * Do you even understand ? There is no way you can change the disgusting irrational impression you have left on me ? Does that sound too complicated ?
      * How about you resort to violence ehehehehe ? 
+     * 
+     * Do you understand who is who in this situation and who is doing what ? I do not want to see no simple animal around me who can not even properly answer
+     * for their actions instead cast the blame to the group
       **/       
 
 
