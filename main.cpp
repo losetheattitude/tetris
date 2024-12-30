@@ -802,6 +802,7 @@ int main()
      * 
      * Awwwww, its tooo late eheheheh more violence ehhehehe eheheheheh
      * Eheheh without achieving anything we also made it so that he lacks every single resources eheheh because eheeeheheeh really fun stuff eheheh
+     * Eheheh because its fun to hurt people right ? eheheheh ?? genius nation ehehhe ?
       **/       
 
 
