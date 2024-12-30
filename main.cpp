@@ -840,6 +840,7 @@ int main()
      * You realize you are the only one who is coping failingly, surprisingly you are also ignoring that
      * 
      * Do you understand the part "I AM NOT INTERESTED ?"
+     * Still deluding ?
       **/       
 
 
