@@ -797,6 +797,8 @@ int main()
      * Do you recognize the stupidity and incompetence ? and irresponsibility and ignorance ? Where are your devices ? eheheheh the qualities you also delude ?
      * 
      * Thats the type I will never consider around me, eheheh more medicine eheheh some violence heheheh
+     * Awwwww, what have we done ? Or would you just ignore ? eheheheh its toooo laaateee!!!! ehehehehhe
+     * we have literally achieved nothing!!!! ehehheheheh
       **/       
 
 
