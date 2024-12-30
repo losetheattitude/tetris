@@ -784,6 +784,9 @@ int main()
      * 
      * I am not interested in wasting my time with uncredible people like you, thats it
      * You deal with your what you can handle, there is really no way you can change that impression on me
+     * 
+     * Do you even understand ? There is no way you can change the disgusting irrational impression you have left on me ? Does that sound too complicated ?
+     * How about you resort to violence ehehehehe ? 
       **/       
 
 
