@@ -822,6 +822,7 @@ int main()
      * How about you do not beg ? and pay for your own actions of inferior nature ?
      * 
      * How about you get more children and try to convince them with lies ?
+     * So you still delude on making decisions for others ?
      * 
       **/       
 
