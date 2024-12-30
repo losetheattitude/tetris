@@ -818,6 +818,8 @@ int main()
      * Do you want to talk more about the reasons of coercing medicines while also demonstrating greatest violence ? eheheh qualities right ?
      * Fucking delusional disgusting monkeys, do you want to explain more or just beg for more violence ?
      * 
+     * Do you want to talk more about coercing people so that they do what you wish for them ?
+     * 
       **/       
 
 
