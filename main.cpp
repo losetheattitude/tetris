@@ -801,6 +801,7 @@ int main()
      * we have literally achieved nothing!!!! ehehheheheh
      * 
      * Awwwww, its tooo late eheheheh more violence ehhehehe eheheheheh
+     * Eheheh without achieving anything we also made it so that he lacks every single resources eheheh because eheeeheheeh really fun stuff eheheh
       **/       
 
 
