@@ -792,6 +792,8 @@ int main()
      * for their actions instead cast the blame to the group
      * Do you want to talk about your achievements on coercion ? eheheheheh  blame the group!!! please!!! ehehehe competent intelligent people!!!
      * Awwwww, ITS TOOOO LATEE!!!! eheheheh 
+     * 
+     * We have achieved nothing with what is not ours but also made it worse!!!! eheheheheh please!! ehehe intelligent! eheheheh
       **/       
 
 
