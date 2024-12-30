@@ -830,7 +830,7 @@ int main()
      * 
      * What do you think have changed ?
      * You from amongst all the people who have chosen to apply great violence ? Do you really think you could have made the correct decision ?
-     * A decision that IS NOT EVEN YOURS ?
+     * A decision that IS NOT EVEN YOURS ? You are a disgusting animal I say, How about you ?
      * 
       **/       
 
