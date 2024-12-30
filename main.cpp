@@ -775,7 +775,7 @@ int main()
      * Awwwww, you have achieved the unattainable eheheheheheh 
      * You do not say you are a begger ? How about you coerce more ?
      * 
-     * Dumb monkeys ?
+     * Dumb monkeys ? Why are you taking the most disgusting thing to be a proper approach ?
      * 
       **/       
 
