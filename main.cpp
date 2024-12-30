@@ -819,7 +819,7 @@ int main()
      * Fucking delusional disgusting monkeys, do you want to explain more or just beg for more violence ?
      * 
      * Do you want to talk more about coercing people so that they do what you wish for them ?
-     * How about you do not beg ?
+     * How about you do not beg ? and pay for your own actions of inferior nature ?
      * 
       **/       
 
