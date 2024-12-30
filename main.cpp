@@ -796,7 +796,7 @@ int main()
      * We have achieved nothing with what is not ours but also made it worse!!!! eheheheheh please!! ehehe intelligent! eheheheh
      * Do you recognize the stupidity and incompetence ? and irresponsibility and ignorance ? Where are your devices ? eheheheh the qualities you also delude ?
      * 
-     * Thats the type I will never consider around me
+     * Thats the type I will never consider around me, eheheh more medicine eheheh some violence heheheh
       **/       
 
 
