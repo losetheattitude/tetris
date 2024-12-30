@@ -806,6 +806,7 @@ int main()
      * heheheh NO RESOURCES eheheheh awwwww itss tooo late!!! eheheh
      * 
      * How about you talk more on "really skillful coercion" ?
+     * Eheheh we successfully coerced medicine and violence hehehehe 
       **/       
 
 
