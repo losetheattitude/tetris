@@ -837,6 +837,7 @@ int main()
      * From amongst all the people, you who think deprivation of resources does help, you see why ?
      * You who chooses to waste time in such a manner ? The delusional incoherent irresponsible animals ?
      * From amongst all the people, you who can not stand to see others enjoying their life ? Awww you would love to enjoy yours, that is my bad definitely
+     * You realize you are the only one who is coping failingly, surprisingly you are also ignoring that
       **/       
 
 
