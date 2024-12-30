@@ -838,6 +838,8 @@ int main()
      * You who chooses to waste time in such a manner ? The delusional incoherent irresponsible animals ?
      * From amongst all the people, you who can not stand to see others enjoying their life ? Awww you would love to enjoy yours, that is my bad definitely
      * You realize you are the only one who is coping failingly, surprisingly you are also ignoring that
+     * 
+     * Do you understand the part "I AM NOT INTERESTED ?"
       **/       
 
 
