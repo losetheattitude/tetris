@@ -825,7 +825,7 @@ int main()
      * So you still delude on making decisions for others ? Yet you also ignore your words and THE UNATTAINABLE result of your conduct ?
      * Where did you arrive and what do you have now ?
      * 
-     * How about you handle children ?
+     * How about you handle children ? You would love to see others in pain because ? eheheheh you intelligent and credible and honorable and ehehehhe ?
      * 
       **/       
 
