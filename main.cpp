@@ -826,6 +826,7 @@ int main()
      * Where did you arrive and what do you have now ?
      * 
      * How about you handle children ? You would love to see others in pain because ? eheheheh you intelligent and credible and honorable and ehehehhe ?
+     * Do you still want to coerce and ask for lies ? How about you grow your character first before you engage with who you do not understand 
      * 
       **/       
 
