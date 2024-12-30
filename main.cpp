@@ -776,6 +776,7 @@ int main()
      * You do not say you are a begger ? How about you coerce more ?
      * 
      * Dumb monkeys ? Why are you taking the most disgusting thing to be a proper approach ?
+     * The delusional people who take simple things to be great ?
      * 
       **/       
 
