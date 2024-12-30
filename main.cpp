@@ -834,6 +834,7 @@ int main()
      * 
      * From amongst all the people, the stupid group ? Who still thinks I would even consider to associate myself with ?
      * What an extent of imagination and delusion
+     * From amongst all the people, you who think deprivation of resources does help, you see why ?
       **/       
 
 
