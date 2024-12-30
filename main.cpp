@@ -811,6 +811,8 @@ int main()
      * 
      * The genius nation who does not understand spoken language and coerces every possible way ?
      * How about you worry about your own businesses instead of causing irrelevant harm to people you have no relation ?
+     * 
+     * Ehehehehe accuse with more bullshit!!!! please eheheh life simulation, we intelligent hehehehe
       **/       
 
 
