@@ -804,6 +804,8 @@ int main()
      * Eheheh without achieving anything we also made it so that he lacks every single resources eheheh because eheeeheheeh really fun stuff eheheh
      * Eheheh because its fun to hurt people right ? eheheheh ?? genius nation ehehhe ?
      * heheheh NO RESOURCES eheheheh awwwww itss tooo late!!! eheheh
+     * 
+     * How about you talk more on "really skillful coercion" ?
       **/       
 
 
