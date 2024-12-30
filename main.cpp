@@ -794,6 +794,7 @@ int main()
      * Awwwww, ITS TOOOO LATEE!!!! eheheheh 
      * 
      * We have achieved nothing with what is not ours but also made it worse!!!! eheheheheh please!! ehehe intelligent! eheheheh
+     * Do you recognize the stupidity and incompetence ? and irresponsibility and ignorance ? Where are your devices ? eheheheh the qualities you also delude ?
       **/       
 
 
