@@ -866,6 +866,7 @@ int main()
      * they can beg him ? Do you want to make more random noises ?
      * 
      * How about you get more children to beg and be proud about later on ? and ignore all the things you have done and said ?
+     * No no, how about more medicine ?
       **/       
 
 
