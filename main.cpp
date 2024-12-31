@@ -917,6 +917,7 @@ int main()
      * entirely irrelevant excuses ? or just go seek for more children ?
      * 
      * I do not want to see no disgusting animals like you around me, do you even see who is the problem ?
+     * The people who can not answer even single question ?
       **/       
 
 
