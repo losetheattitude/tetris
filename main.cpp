@@ -910,6 +910,7 @@ int main()
      * Guess who I will never consider ? The ones who makes offers nonstop yet also delude on their nonexistent qualities ?
      * Still jerking off to your disgusting actions ? What did you produce now ? ehehehe ?
      * You still delude on decisions being yours ? Who is seeking for problems now ?
+     * Do you understand who has been deluding from the very beginning ?
       **/       
 
 
