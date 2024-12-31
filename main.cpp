@@ -936,7 +936,7 @@ int main()
      * Do you want to account for your own actions or just beg through offers that you do not respect ?
      * eheheheh proud ppl btw
      * 
-     * Are you blind or just like harming people ?
+     * Are you blind or just like harming people ? Or you just like deluding on your qualities ?
       **/       
 
 
