@@ -879,6 +879,7 @@ int main()
      * Do you want to explain or would you like to ignore as that is the only quality you all have ?
      * Such a shame that the only quality you have is ignorance ?
      * Guess who is not wanted ? Why dont you start begging ? awwww you have just done that to children so that you could provide it now ?
+     * The same inferior animals who still think violence is helpful
       **/       
 
 
