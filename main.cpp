@@ -953,6 +953,7 @@ int main()
      * 
      * Do you only like to say things and do nothing about them ?
      * After decades you are still the disgusting animal ? Who is deluding do you think ?
+     * Who is ignoring the apparent reality ?
       **/       
 
 
