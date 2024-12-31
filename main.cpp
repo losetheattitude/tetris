@@ -900,7 +900,7 @@ int main()
      * Do you really want to deal with such a scenario ?
      * 
      * Ehehehe back then you had reason to act like a disgusting animal now you are trying your hardest but you are not getting any ?
-     * So who is what here ? Did you say its too late ?
+     * So who is what here ? Did you say its too late ? How about more medicine so that your actions could be forgotten ?
       **/       
 
 
