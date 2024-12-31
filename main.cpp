@@ -949,7 +949,7 @@ int main()
      * Like the excuses "No resources!!!"
      * 
      * The genuine and competent people yet can not explain no resources eheheheheh
-     * eehehe ignorance you dont say ? You lack the single thing I value, credibility
+     * eehehe ignorance you dont say ? You lack the single thing I value, credibility or how about more medicine ? eheh coercion solves everything
       **/       
 
 
