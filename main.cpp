@@ -884,6 +884,7 @@ int main()
      * Guess who is subject to irrelevant violence and lack of even the most essential resources ?
      * Guess who is jumping on "decisions" that are not theirs ?
      * Guess who is not welcome yet still standing and causing pointless harm ?
+     * Guess who is coercing medicine and surprising at the outcome ?
       **/       
 
 
