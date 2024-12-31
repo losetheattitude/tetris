@@ -858,6 +858,10 @@ int main()
      * How about the genius ones find more children to frame ? eheheheh ?
      * 
      * Eheehhehe especially the reallly reallly intelligent ones ehehehehhe ?
+     * The really intelligent people who does not understand the concept of accountability and reason and especially the "life" eheheheh
+     * fate hehehe time heheh illusion ehehehe simulation eheheheh violence hehehehehe funny stuff eheheh please!! eheheh
+     * 
+     * Do you know how you look like ? 
       **/       
 
 
