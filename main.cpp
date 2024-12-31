@@ -875,6 +875,8 @@ int main()
      * Do you want to talk about 30 years or would you like to ignore ?
      * How about some women ? Ehehehehehehe intelligent and noble people ehehehehehehe especially not delusional ehehehehh
      * Btw, what you have achieved was really realllyy too difficult, congrats ehehhehe
+     * 
+     * Do you want to explain or would you like to ignore as that is the only quality you all have ?
       **/       
 
 
