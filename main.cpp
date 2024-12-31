@@ -937,6 +937,7 @@ int main()
      * eheheheh proud ppl btw
      * 
      * Are you blind or just like harming people ? Or you just like deluding on your qualities ?
+     * IT DOES NOT HELP yet whats the problem ehehehehehehhe
       **/       
 
 
