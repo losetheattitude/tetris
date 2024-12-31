@@ -885,6 +885,8 @@ int main()
      * Guess who is jumping on "decisions" that are not theirs ?
      * Guess who is not welcome yet still standing and causing pointless harm ?
      * Guess who is coercing medicine and surprising at the outcome ? Why isnt he working eheheheh ehehehehe fun stuff eheheheh please!!
+     * 
+     * Just waste your life please!!! eheheh
       **/       
 
 
