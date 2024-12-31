@@ -934,7 +934,9 @@ int main()
      * as your nature is proving over and over to be inferior
      * 
      * Do you want to account for your own actions or just beg through offers that you do not respect ?
+     * eheheheh proud ppl btw
       **/       
+
 
 
 
