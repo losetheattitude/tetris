@@ -940,6 +940,7 @@ int main()
      * IT DOES NOT HELP yet whats the problem ehehehehehehhe
      * 
      * I do not want to see any of you around me, does that sound too complicated ?
+     * How about you find someone else who is close to you that has nobody around him ? eheheheh does that sound too funny ?
       **/       
 
 
