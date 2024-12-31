@@ -956,6 +956,8 @@ int main()
      * Who is ignoring the apparent reality ? Who is pretending to be angry and upset, who truly is ?
      * How about you bring more medicine and coerce them ? does that sound too complicated ?
      * How about you get more children to frame ?
+     * Why dont you get more children to scare and make them say what you want so that you can frame them later on ?
+     * How about you ignore more "evidence" ?
       **/       
 
 
