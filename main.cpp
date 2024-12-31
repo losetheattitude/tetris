@@ -861,7 +861,7 @@ int main()
      * The really intelligent people who does not understand the concept of accountability and reason and especially the "life" eheheheh
      * fate hehehe time heheh illusion ehehehe simulation eheheheh violence hehehehehe funny stuff eheheh please!! eheheh
      * 
-     * Do you know how you look like ? 
+     * Do you know how you look like ? Do you even communicate through spoken language or ? you just like to harm ehehehe ?
       **/       
 
 
