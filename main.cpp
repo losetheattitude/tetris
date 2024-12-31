@@ -881,6 +881,8 @@ int main()
      * Guess who is not wanted ? Why dont you start begging ? awwww you have just done that to children so that you could provide it now ?
      * The same inferior animals who still think violence is helpful
      * Guess who is the disgusting animal ? Guess who is ignoring his disgusting actions so far ?
+     * Guess who is subject to irrelevant violence and lack of even the most essential resources ?
+     * Guess who is jumping on "decisions" that are not theirs ?
       **/       
 
 
