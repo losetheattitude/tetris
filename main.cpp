@@ -864,6 +864,8 @@ int main()
      * Do you know how you look like ? Do you even communicate through spoken language or ? you just like to harm ehehehe ?
      * Awwwww, especially the ones who are really intelligent can only communicate through spoken language ONLY WITH CHILDREN so that
      * they can beg him ? Do you want to make more random noises ?
+     * 
+     * How about you get more children to beg and be proud about later on ? and ignore all the things you have done and said ?
       **/       
 
 
