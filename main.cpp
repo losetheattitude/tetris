@@ -960,6 +960,8 @@ int main()
      * How about you ignore more "evidence" ? Do you understand boundaries ?
      * How many decades it has taken for you to accept your disgusting inferiority ?
      * How about more medicine ? As you can guess, I will never accept any simple animal like you around me
+     * 
+     * Are you still deluding on my desire to waste my time with such inferior animals ?
       **/       
 
 
