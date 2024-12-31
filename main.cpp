@@ -911,6 +911,8 @@ int main()
      * Still jerking off to your disgusting actions ? What did you produce now ? ehehehe ?
      * You still delude on decisions being yours ? Who is seeking for problems now ?
      * Do you understand who has been deluding from the very beginning ?
+     * 
+     * How about you pay for your own actions and get the fuck out of my face indefinitely instead of offering without delivering ?
       **/       
 
 
