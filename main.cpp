@@ -870,6 +870,7 @@ int main()
      * How about you do that within your vicinitiy ? Awwwww, the great genius nation who would like to offer materials ? eheheheh ? fun stuff ?
      * 
      * Guess who I will never consider ? Guess who is right in his actions ? The disgusting animals who can not see they have achieved nothing ?
+     * How about you make more promises and ehehehe be proud about it ?
       **/       
 
 
