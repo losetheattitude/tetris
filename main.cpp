@@ -871,6 +871,7 @@ int main()
      * 
      * Guess who I will never consider ? Guess who is right in his actions ? The disgusting animals who can not see they have achieved nothing ?
      * How about you make more promises and ehehehe be proud about it ?
+     * How do you think you would pay for such a crime of your own nature ?
       **/       
 
 
