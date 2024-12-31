@@ -932,6 +932,8 @@ int main()
      * I am not interested in anything you could possibly form, do you see why ?
      * Do you see why you are wrong and guilty ? Until you realize you are a disgusting animal, there could be no proper exchanges 
      * as your nature is proving over and over to be inferior
+     * 
+     * Do you want to account for your own actions or just beg through offers that you do not respect ?
       **/       
 
 
