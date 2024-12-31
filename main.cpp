@@ -913,7 +913,8 @@ int main()
      * Do you understand who has been deluding from the very beginning ?
      * 
      * How about you pay for your own actions and get the fuck out of my face indefinitely instead of offering without delivering ?
-     * Just seek children to coerce let others be deprived of your disgusting nature ?
+     * Just seek children to coerce let others be deprived of your disgusting nature ? How about you waste someone else's time with 
+     * entirely irrelevant excuses ? or just go seek for more children ?
       **/       
 
 
