@@ -862,6 +862,8 @@ int main()
      * fate hehehe time heheh illusion ehehehe simulation eheheheh violence hehehehehe funny stuff eheheh please!! eheheh
      * 
      * Do you know how you look like ? Do you even communicate through spoken language or ? you just like to harm ehehehe ?
+     * Awwwww, especially the ones who are really intelligent can only communicate through spoken language ONLY WITH CHILDREN so that
+     * they can beg him ?
       **/       
 
 
