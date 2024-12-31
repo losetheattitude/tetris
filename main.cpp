@@ -938,6 +938,8 @@ int main()
      * 
      * Are you blind or just like harming people ? Or you just like deluding on your qualities ?
      * IT DOES NOT HELP yet whats the problem ehehehehehehhe
+     * 
+     * I do not want to see any of you around me, does that sound too complicated ?
       **/       
 
 
