@@ -887,6 +887,7 @@ int main()
      * Guess who is coercing medicine and surprising at the outcome ? Why isnt he working eheheheh ehehehehe fun stuff eheheheh please!!
      * 
      * Just waste your life please!!! eheheh
+     * Guess who can not do anything but violence and that achieves literally nothing ?
       **/       
 
 
