@@ -923,6 +923,9 @@ int main()
      * Do you see the problem now ? The delusional disgusting animals ?
      * Awwwwwww, ITSS TOOOO LATEEE!!!! how come you do not realize ?
      * How come you think it should be fine ?
+     * 
+     * I am not interested in anything you could possibly offer ?
+     * Especially the ones who delude on their intelligence ?
       **/       
 
 
