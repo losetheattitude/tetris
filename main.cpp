@@ -915,6 +915,8 @@ int main()
      * How about you pay for your own actions and get the fuck out of my face indefinitely instead of offering without delivering ?
      * Just seek children to coerce let others be deprived of your disgusting nature ? How about you waste someone else's time with 
      * entirely irrelevant excuses ? or just go seek for more children ?
+     * 
+     * I do not want to see no disgusting animals like you around me, do you even see who is the problem ?
       **/       
 
 
