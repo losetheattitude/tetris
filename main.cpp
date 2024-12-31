@@ -930,6 +930,7 @@ int main()
      * How about you start begging more ? You see why you are not equal ?
      * 
      * I am not interested in anything you could possibly form, do you see why ?
+     * Do you see why you are wrong and guilty ?
       **/       
 
 
