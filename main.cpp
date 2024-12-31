@@ -888,6 +888,7 @@ int main()
      * 
      * Just waste your life please!!! eheheh
      * Guess who can not do anything but violence and that achieves literally nothing ?
+     * Who do you think the miserable disgusting animal who likes to beg to children or apply some great violence so that they could ignore ?
       **/       
 
 
