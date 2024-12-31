@@ -890,6 +890,7 @@ int main()
      * Guess who can not do anything but violence and that achieves literally nothing ?
      * Who do you think the miserable disgusting animal who likes to beg to children or apply some great violence so that they could ignore ?
      * Ignore with grace!!! eheheheheh please fun stuff eheheh
+     * How about you produce coherent sentences for once instead of being a disgusting ignorant animal who can not assess the situation properly ?
       **/       
 
 
