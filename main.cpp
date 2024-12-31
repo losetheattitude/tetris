@@ -895,6 +895,8 @@ int main()
      * Who likes to ignore the outcome of their actions throughout 30 years ?
      * Guess who I will never want around ? Are you still making offers ? Especially the really credible ones ?
      * How about you start begging to someone else ?
+     * 
+     * Do you understand that there is such an easy solution to this problem ?
       **/       
 
 
