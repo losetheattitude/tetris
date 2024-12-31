@@ -946,6 +946,7 @@ int main()
      * Do you know how to read ? I DO NOT ACCEPT ANY OF YOU AROUND ME ? that means your incompetent excuses too
      * 
      * I am simply not interested in being a disgusting animal like you and ignoring it for the sake of joy
+     * Like the excuses "No resources!!!"
       **/       
 
 
