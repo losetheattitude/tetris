@@ -959,7 +959,7 @@ int main()
      * Why dont you get more children to scare and make them say what you want so that you can frame them later on ?
      * How about you ignore more "evidence" ? Do you understand boundaries ?
      * How many decades it has taken for you to accept your disgusting inferiority ?
-     * How about more medicine ?
+     * How about more medicine ? As you can guess, I will never accept any simple animal like you around me
       **/       
 
 
