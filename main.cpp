@@ -958,6 +958,7 @@ int main()
      * How about you get more children to frame ?
      * Why dont you get more children to scare and make them say what you want so that you can frame them later on ?
      * How about you ignore more "evidence" ? Do you understand boundaries ?
+     * How many decades it has taken for you to accept your disgusting inferiority ?
       **/       
 
 
