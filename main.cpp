@@ -943,6 +943,7 @@ int main()
      * How about you find someone else who is close to you that has nobody around him ? eheheheh does that sound too funny ?
      * 
      * How about you find someone who you can handle ? not assault with 1230213 people with miserable accusations ?
+     * Do you know how to read ? I DO NOT ACCEPT ANY OF YOU AROUND ME ? that means your incompetent excuses too
       **/       
 
 
