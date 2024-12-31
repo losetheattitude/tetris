@@ -926,6 +926,7 @@ int main()
      * 
      * I am not interested in anything you could possibly offer ?
      * Especially the ones who delude on their intelligence ?
+     * WHAT HAVE YOU ACHIEVED NOW ? Talk some sense ?
       **/       
 
 
