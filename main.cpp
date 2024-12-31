@@ -908,6 +908,7 @@ int main()
      * How about you coerce more medicine so that your actions can be forgotten ? So that you could be the same disgusting animal ?
      * 
      * Guess who I will never consider ? The ones who makes offers nonstop yet also delude on their nonexistent qualities ?
+     * Still jerking off to your disgusting actions ?
       **/       
 
 
