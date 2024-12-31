@@ -873,7 +873,7 @@ int main()
      * How about you make more promises and ehehehe be proud about it ?
      * How do you think you would pay for such a crime of your own nature ?
      * Do you want to talk about 30 years or would you like to ignore ?
-     * How about some women ?
+     * How about some women ? Ehehehehehehe intelligent and noble people ehehehehehehe especially not delusional ehehehehh
       **/       
 
 
