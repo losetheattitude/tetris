@@ -952,7 +952,7 @@ int main()
      * eehehe ignorance you dont say ? You lack the single thing I value, credibility or how about more medicine ? eheh coercion solves everything
      * 
      * Do you only like to say things and do nothing about them ?
-     * After decades you are still the disgusting animal ?
+     * After decades you are still the disgusting animal ? Who is deluding do you think ?
       **/       
 
 
