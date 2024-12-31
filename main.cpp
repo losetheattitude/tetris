@@ -941,6 +941,8 @@ int main()
      * 
      * I do not want to see any of you around me, does that sound too complicated ?
      * How about you find someone else who is close to you that has nobody around him ? eheheheh does that sound too funny ?
+     * 
+     * How about you find someone who you can handle ?
       **/       
 
 
