@@ -928,6 +928,8 @@ int main()
      * Especially the ones who delude on their intelligence ?
      * WHAT HAVE YOU ACHIEVED NOW ? Talk some sense ? Just like the inferior disgusting animals right ?
      * How about you start begging more ? You see why you are not equal ?
+     * 
+     * I am not interested in anything you could possibly form, do you see why ?
       **/       
 
 
