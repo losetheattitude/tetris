@@ -863,7 +863,7 @@ int main()
      * 
      * Do you know how you look like ? Do you even communicate through spoken language or ? you just like to harm ehehehe ?
      * Awwwww, especially the ones who are really intelligent can only communicate through spoken language ONLY WITH CHILDREN so that
-     * they can beg him ?
+     * they can beg him ? Do you want to make more random noises ?
       **/       
 
 
