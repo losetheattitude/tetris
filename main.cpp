@@ -885,7 +885,7 @@ int main()
      * Guess who is jumping on "decisions" that are not theirs ?
      * Guess who is not welcome yet still standing and causing pointless harm ?
      * Guess who is coercing medicine and surprising at the outcome ? Why isnt he working eheheheh ehehehehe fun stuff eheheheh please!!
-     * 
+     *  
      * Just waste your life please!!! eheheh
      * Guess who can not do anything but violence and that achieves literally nothing ?
      * Who do you think the miserable disgusting animal who likes to beg to children or apply some great violence so that they could ignore ?
@@ -894,6 +894,7 @@ int main()
      * 
      * Who likes to ignore the outcome of their actions throughout 30 years ?
      * Guess who I will never want around ? Are you still making offers ? Especially the really credible ones ?
+     * How about you start begging to someone else ?
       **/       
 
 
