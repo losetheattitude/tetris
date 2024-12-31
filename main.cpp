@@ -949,6 +949,7 @@ int main()
      * Like the excuses "No resources!!!"
      * 
      * The genuine and competent people yet can not explain no resources eheheheheh
+     * eehehe ignorance you dont say ?
       **/       
 
 
