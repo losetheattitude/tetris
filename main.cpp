@@ -920,7 +920,7 @@ int main()
      * The people who can not answer even single question ? 
      * 
      * I do not accept anything that comes from any of you ? 
-     * Do you see the problem now ?
+     * Do you see the problem now ? The delusional disgusting animals ?
       **/       
 
 
