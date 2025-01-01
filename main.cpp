@@ -975,6 +975,7 @@ int main()
      * Do you know who is incompetent and thus unwelcome ? but also ignorant ? and uncredible ? but also would love to enjoy their life ?
      * 
      * Who do you think is the inferior ? not because of their incompetent biology but because of their actions ?
+     * Do you want to talk about my experience ? ehehhe fun stuff right ?
       **/       
 
 
