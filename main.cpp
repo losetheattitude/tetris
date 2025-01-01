@@ -1003,6 +1003,8 @@ int main()
      * What makes you think I will respect you when you are making "decisions" that you were not supposed to in the first place ?
      * How about medicine and violence and lack of resources and education and purpose ? ehehehe do you think you deserve to be respected ?
      * Why dont you find more children ?
+     * 
+     * You see the problem right ? you are doing what you are not supposed to and receiving nothing but harm both ways ?
       **/       
 
 
