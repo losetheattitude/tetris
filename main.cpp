@@ -1173,6 +1173,8 @@ int main()
      * 
      * Do you even have anything to say for 30 years wasted without doing anything ? Without having any resources ? any tool ? with irrelevant violence ?
      * 
+     * Do you understand why your words DO NOT CARRY ANY MEANING ?
+     * 
       **/       
 
 
