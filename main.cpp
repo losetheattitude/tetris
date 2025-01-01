@@ -995,7 +995,7 @@ int main()
      * 
      * Why take so lightly when its not your own life ?
      * Why are you still trying to explain life or time ? You have no understanding nor any rights to do so ? You are a simple animal who likes to harm
-     * After decades, what do you think I will behave like towards you ?
+     * After decades, what do you think I will behave like towards you ? or any of your kind ? why dont you offer things ? eheheh that should solve all the problems right ?
       **/       
 
 
