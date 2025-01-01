@@ -1105,6 +1105,7 @@ int main()
      * 
      * Do you remember the last time you have begged with resources too ? The genius nation ?
      * Are you still offering yet ? Do you see who does not deserve respect ? Who is delusional ?
+     * Who is a disgusting animal who can only handle either children or defenceless individuals ?
       **/       
 
 
