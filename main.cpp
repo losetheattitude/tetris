@@ -1146,6 +1146,8 @@ int main()
      * 
      * Do you also delude that you deserve respect ? Have you grown into the very disgusting animal that you are because you are surrounded
      * with the people that are alike to you ?
+     * 
+     * What do you think you look like ? An immature irresponsible inexplicable animal who can only ignore his behavior ? Do you see the problem ?
       **/       
 
 
