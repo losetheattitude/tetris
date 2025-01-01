@@ -1194,6 +1194,8 @@ int main()
      * What do you think would compensate decades of irrelevant actions ? ehehehehe YOU GUESSED IT RIGHT!!!! woooomeeennnn!!!! get womeeenn!!!!!
      * 
      * How about you get the fuck out of my face and deal with your own problems ?
+     * Does that sound too nerdy ? How about you gather 123001230 people to harm single individual ? 
+     * Wait does that sound too great ? What do you think the problem is ?
       **/       
 
 
