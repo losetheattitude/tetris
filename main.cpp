@@ -1013,6 +1013,7 @@ int main()
      * Are you still making offers you do not deliver ? How about no resources ? that makes a lot of sense right ?
      * 
      * Decades of wasted time with violence all you can say what ? Eheheheheheheh get womennnn!!!!!!!!!!!! Who is disgusting ?
+     * Guess who is not equal and who is not welcome ?
       **/       
 
 
