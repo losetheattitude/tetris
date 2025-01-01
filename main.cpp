@@ -1021,6 +1021,10 @@ int main()
      * How about you get more children to frame and start talking about life ?
      * What do you think you will behave like when your life is at stake ?
      * Do you see the problem ?
+     * 
+     * 
+     * Why are you keep saying rational things but act complete opposite ? eheheheheh "you only live once!!!"
+     * please do not hurt us!!!! eheheheh we like harming ?
       **/       
 
 
