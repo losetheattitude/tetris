@@ -970,6 +970,7 @@ int main()
      * Do you understand spoken language ? What are you waiting for ? For the next time you find a children ?
      * 
      * Why dont you get more children in the first place ? You think what you are doing helpful and working ?
+     * How about you gathering more people to deal with single individual ?
       **/       
 
 
