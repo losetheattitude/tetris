@@ -1091,7 +1091,7 @@ int main()
      * Is that also why you offer materials because of your disgusting inferiority ? How about you beg more ? ehehehe ?
      * 
      * Awww you are waiting because you know the individual you are handling with 1230923921 people does not have any option other than
-     * to wait ? And you just enjoy that ? enjoy your life ?
+     * to wait ? And you just enjoy that ? enjoy your life ? While also offering materials to even children ? The genius nation ?
       **/       
 
 
