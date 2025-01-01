@@ -1128,7 +1128,7 @@ int main()
      * How about you learn how to behave ? Instead of making irreparable mistakes and start begging to people ?
      * 
      * How about you do not make irreparable mistakes and escape from them as the irrational and unaccountable animal you are ?
-     * Do you even understand ? or would love to ignore and enjoy your life ?
+     * Do you even understand ? or would love to ignore and enjoy your life ? Where did you arrive now ?
       **/       
 
 
