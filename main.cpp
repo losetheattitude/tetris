@@ -1154,6 +1154,8 @@ int main()
      * 
      * What are you waiting for now ? You have produced nothing and you are still insisting on your disgusting brain ?
      * Do you have what it takes to understand that you can request neither respect nor reason ?
+     * After your countless failing attempts made at the most obscure purpose, how come you are still there alleging all sort of things
+     * that YOU ARE NOT ?
       **/       
 
 
