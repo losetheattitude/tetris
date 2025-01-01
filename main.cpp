@@ -999,6 +999,10 @@ int main()
      * 
      * What does make you think that I will accept or respect your boundaries ?
      * Where did you arrive now ? Ignorant animals ?
+     * 
+     * What makes you think I will respect you when you are making "decisions" that you were not supposed to in the first place ?
+     * How about medicine and violence and lack of resources and education and purpose ? ehehehe do you think you deserve to be respected ?
+     * Why dont you find more children ?
       **/       
 
 
