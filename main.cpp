@@ -1164,6 +1164,8 @@ int main()
      * Do you think you deserve respect ? Do you really genius at the level of not guessing what you will get ?
      * Regardless of your intentions ? Are you still making offers as you have done the last time ? How about you get more children ?
      * Thats the only thing you can handle
+     * 
+     * Only thing you can handle is children, why dont you now offer more things because you also can choose a children as an enemy ?
       **/       
 
 
