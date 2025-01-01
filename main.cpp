@@ -1235,6 +1235,7 @@ int main()
      * Do you see why you are wrong at your conduct ?
      * 
      * How about you promise resources now ? does that sound too genius for you ? The rightfully inferiors ?
+     * Why dont you get children and handle them by coercion ?
       **/
 
 
