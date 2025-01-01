@@ -1049,6 +1049,8 @@ int main()
      * Whats wrong ? What are you waiting for ? ehehehhe ? genius people ?
      * Why dont you waste your own life ? Are you too precious for that ? How about people coerce you ? The great genius nation who can not answer a single question ?
      * How about you stop wielding what you coerced people into as a weapon ? He did this!!! he did that!!! ehehehehe please!!!
+     * 
+     * How come are you still standing and acting like you have not harmed single individual with 10230103 people ?
       **/       
 
 
