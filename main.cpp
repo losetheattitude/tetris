@@ -1174,6 +1174,7 @@ int main()
      * Do you even have anything to say for 30 years wasted without doing anything ? Without having any resources ? any tool ? with irrelevant violence ?
      * 
      * Do you understand why your words DO NOT CARRY ANY MEANING ? Why are you still making offers ?
+     * How come you are deluding to "compensate" with what you can not even discuss ?
      * 
       **/       
 
