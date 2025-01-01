@@ -1210,6 +1210,8 @@ int main()
      * 
      * How about you stop pretending to understand and thus feel like entitled to make a decision that is as personal as "living" ?
      * Who do you think is delusional or afraid ? You are the ones who are gathering 123021301 people against one ? Who do you think is at fault ?
+     * 
+     * Do you even have one answer to any of the questions posed towards your disgusting existence ?
       **/       
 
 
