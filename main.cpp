@@ -976,6 +976,7 @@ int main()
      * 
      * Who do you think is the inferior ? not because of their incompetent biology but because of their actions ?
      * Do you want to talk about my experience ? ehehhe fun stuff right ?
+     * Why dont you get the fuck out of my face ?
       **/       
 
 
