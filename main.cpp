@@ -1132,6 +1132,8 @@ int main()
      * 
      * Do you understand security and resources and tools ? What do you think I am missing ?
      * Why dont you handle children instead of asking things you do not deserve ?
+     * 
+     * When all you have to do is so simple yet look at your stupid decisions, do you think you deserve respect ?
       **/       
 
 
