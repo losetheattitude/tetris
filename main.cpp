@@ -1216,6 +1216,7 @@ int main()
      * 
      * Who do you think IS GUILTY for wasting such a time with pointless actions ? 
      * Who do you think is guilty in intentionally not providing even the most essential resources ?
+     * Arent you the disgusting little animals still ? Why are you still asking things ? 
       **/       
 
 
