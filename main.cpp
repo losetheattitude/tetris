@@ -1207,6 +1207,8 @@ int main()
      * Who do you think the problem is ?
      * The delusionally genius nation ?
      * Are you still making offers ? How about you handle children first ? 
+     * 
+     * How about you stop pretending to understand and thus feel like entitled to make a decision that is as personal as "living" ?
       **/       
 
 
