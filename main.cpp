@@ -1202,6 +1202,8 @@ int main()
      * Guess who is not interested to be around disgusting stupid monkeys ?
      * Why are you still offering things ? While you have not delivered any of them ?
      * How about you handle children ? and leave other people on their own ?
+     * 
+     * Do you understand the part where you are failing to make decisions on things that you are pretending to understand ?
       **/       
 
 
