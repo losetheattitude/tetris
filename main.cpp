@@ -1073,6 +1073,8 @@ int main()
      * 
      * What are you waiting for to be the disgusting animal that you have always been ?
      * Why do you waste more time on acting your disgusting animality ?
+     * 
+     * Do you even follow ? WHAT ARE YOU WAITING FOR ? You do not see your illogical actions ?
       **/       
 
 
