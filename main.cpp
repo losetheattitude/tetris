@@ -1033,7 +1033,7 @@ int main()
      * What are you aiming at disgusting animals ?
      * Whats the explanation of wasting time ? Who is ignoring now ?
      * 
-     * What are you waiting for ?
+     * What are you waiting for ? Are you thinking about what the hell you should do ? Awwwww, you have already fucked up ?
       **/       
 
 
