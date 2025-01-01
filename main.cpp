@@ -1082,6 +1082,8 @@ int main()
      * Are you having fun with your lives ? Do you not really see the pattern in your disgusting animality ?
      * 
      * What are you waiting for genius nation ? Do you see why you are not wanted ?
+     * Offering the most normal things for decades of disgusting actions starting from childhood ? Whats the problem now genius nation ?
+     * Why are you still begging instead of talking reason ? How about you ignore more ?
       **/       
 
 
