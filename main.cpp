@@ -968,6 +968,8 @@ int main()
      * 
      * Where did you arrive now ? Do you understand what "I AM NOT INTERESTED" means ?
      * Do you understand spoken language ? What are you waiting for ? For the next time you find a children ?
+     * 
+     * Why dont you get more children in the first place ? You think what you are doing helpful and working ?
       **/       
 
 
