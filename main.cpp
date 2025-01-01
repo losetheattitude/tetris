@@ -1175,7 +1175,7 @@ int main()
      * 
      * Do you understand why your words DO NOT CARRY ANY MEANING ? Why are you still making offers ?
      * How come you are deluding to "compensate" with what you can not even discuss ?
-     * You do not understand the flawed logic ?
+     * You do not understand the flawed logic ? Which part is the funniest ?
      * 
       **/       
 
