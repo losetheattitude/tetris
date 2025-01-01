@@ -1230,6 +1230,7 @@ int main()
      * 
      * Be sure its not light when it is your life that is under threat
      * Still watching from afar knowing that you are guilty ?
+     * Why do you think I will not even for a second consider the inferior animals ?
       **/
 
 
