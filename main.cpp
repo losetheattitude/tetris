@@ -972,7 +972,7 @@ int main()
      * Why dont you get more children in the first place ? You think what you are doing helpful and working ?
      * How about you gathering more people to deal with single individual ?
      * How about ignoring years of evidence and going with what you delude and only wish to be the truth ?
-     * Do you know who is incompetent and thus unwelcome ?
+     * Do you know who is incompetent and thus unwelcome ? but also ignorant ? and uncredible ? but also would love to enjoy their life ?
       **/       
 
 
