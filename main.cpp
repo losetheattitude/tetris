@@ -973,6 +973,8 @@ int main()
      * How about you gathering more people to deal with single individual ?
      * How about ignoring years of evidence and going with what you delude and only wish to be the truth ?
      * Do you know who is incompetent and thus unwelcome ? but also ignorant ? and uncredible ? but also would love to enjoy their life ?
+     * 
+     * Who do you think is the inferior ? not because of their incompetent biology but because of their actions ?
       **/       
 
 
