@@ -1125,6 +1125,7 @@ int main()
      * And also love to beg the very individual that you harm ? and lack every single resources ?
      * 
      * Are you still asking things ?
+     * How about you learn how to behave ?
       **/       
 
 
