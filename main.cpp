@@ -981,6 +981,9 @@ int main()
      * Other than directionless violence ? who is the problem ?
      * Why dont you just make the decision of "medication" ? because something happened outside of your judgment ?
      * Are you as incapable as to not reckon that your actions also have consequences ?
+     * 
+     * What are the consequences and outcomes of your actions so far ? just answer this very simple question and you will see
+     * why you are an inferior animal ?
       **/       
 
 
