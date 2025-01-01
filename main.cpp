@@ -1104,7 +1104,7 @@ int main()
      * Are you still the same delusional animal ? THE GENIUSSS NATIIONNN!!!!! ehehehehehe ?
      * 
      * Do you remember the last time you have begged with resources too ? The genius nation ?
-     * Are you still offering yet ?
+     * Are you still offering yet ? Do you see who does not deserve respect ? Who is delusional ?
       **/       
 
 
