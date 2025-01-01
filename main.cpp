@@ -1117,6 +1117,8 @@ int main()
      * 
      * You feel great about yourselves, the genius nation, who can only handle either children or single individuals ?
      * And immediately ignore when the facts are told to them ?
+     * 
+     * Do you want to be reminded to your countless attempts ? How about you waste another 30 years arriving to nowhere ?
       **/       
 
 
