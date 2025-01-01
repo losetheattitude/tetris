@@ -1006,6 +1006,7 @@ int main()
      * 
      * You see the problem right ? you are doing what you are not supposed to and receiving nothing but harm both ways ?
      * So what sort of disgusting animal you are that you are unable to perceive your mistake ?
+     * How about more people to harm may be then it will change ? what do you even aim at ?
       **/       
 
 
