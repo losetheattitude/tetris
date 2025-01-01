@@ -1092,6 +1092,9 @@ int main()
      * 
      * Awww you are waiting because you know the individual you are handling with 1230923921 people does not have any option other than
      * to wait ? And you just enjoy that ? enjoy your life ? While also offering materials to even children ? The genius nation ?
+     * 
+     * 
+     * You are unable to perceive your actions and their consequences ? and you would love to make offers still ?
       **/       
 
 
