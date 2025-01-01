@@ -1233,6 +1233,8 @@ int main()
      * Why do you think I will not even for a second consider the inferior animals ?
      * Do you now see what a proper reasoning looks like ? And why you are not biologically inferior ?
      * Do you see why you are wrong at your conduct ?
+     * 
+     * How about you promise resources now ? does that sound too genius for you ? The rightfully inferiors ?
       **/
 
 
