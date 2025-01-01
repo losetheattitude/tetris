@@ -1116,6 +1116,7 @@ int main()
      * You just claimed you are all geniuses ? The geniuses who can only handle children ? Or single individuals so that they can feel great about themselves ?
      * 
      * You feel great about yourselves, the genius nation, who can only handle either children or single individuals ?
+     * And immediately ignore when the facts are told to them ?
       **/       
 
 
