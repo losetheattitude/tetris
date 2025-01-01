@@ -1206,6 +1206,7 @@ int main()
      * Do you understand the part where you are failing to make decisions on things that you are pretending to understand ?
      * Who do you think the problem is ?
      * The delusionally genius nation ?
+     * Are you still making offers ? How about you handle children first ? 
       **/       
 
 
