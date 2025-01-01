@@ -1148,6 +1148,8 @@ int main()
      * with the people that are alike to you ?
      * 
      * What do you think you look like ? An immature irresponsible inexplicable animal who can only ignore his behavior ? Do you see the problem ?
+     * 
+     * Do you understand why you can only handle children ?
       **/       
 
 
