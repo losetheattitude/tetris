@@ -1242,6 +1242,8 @@ int main()
      * Do you recognize the extent of your stupidity ? or you would rather harm and feel great ?
      * Do you need more children to handle so you can feel great about your competency ?
      * Do you dare to say you only live once ? out of all the people, what a level of disgust one can attract
+     * 
+     * An entire life overlooked by bunch of inferior monkeys ? How does that sound ?
       **/
 
 
