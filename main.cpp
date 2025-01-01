@@ -1039,6 +1039,7 @@ int main()
      * 
      * What do you think is going to happen after 30 years of wasted time on nothing ? How the hell one should get resources to live by ?
      * Why are you still the same disgusting animal that you were ?
+     * Why arent you making decisions now ?
       **/       
 
 
