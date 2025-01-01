@@ -1030,6 +1030,7 @@ int main()
      * Are you still jerking off to your pointless actions ? where did you arrive now ?
      * What are you waiting for ? Looking for more children ?
      * Is that the courage or reason or strength ? Whats the problem here ?
+     * What are you aiming at disgusting animals ?
       **/       
 
 
