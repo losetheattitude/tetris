@@ -1142,6 +1142,7 @@ int main()
      * You can get the fuck out of my face with your disgusting excuses and have more children to handle, thats the only thing you can deal with
      * 
      * Coerce more medicine and hide your disgusting animality, just like the inferiors
+     * Or just gather 1239010230921 people and oppress, as thats what you are only capable of, just get more children
       **/       
 
 
