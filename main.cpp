@@ -1060,6 +1060,8 @@ int main()
      * 
      * I am not interested in wasting my time with you neither do I want to assist any of your disgusting purposes
      * Who do you think is afraid ? Do you want to know the value of your words and thus credibility ? Why are you still talking ?
+     * The great act of gathering 1230139021 people against one to harm him purily out of joy, thats the kind that world needs definitely ehehehhe
+     * fun stuff right ? eheheheh
       **/       
 
 
