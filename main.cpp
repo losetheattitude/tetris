@@ -1054,7 +1054,7 @@ int main()
      * The same disgusting animality that coerces children to do unspeakable things so that they could provide it as reason later on ?
      * 
      * Do you have any explanation or would you like to ignore through incompetent and irrational acting that you take for a skill ?
-     * What are you waiting for ?
+     * What are you waiting for ? Where are the resources ? Through which one could achieve things in my position ? Do you even have a brain ?
       **/       
 
 
