@@ -1168,7 +1168,8 @@ int main()
      * Only thing you can handle is children, why dont you now offer more things because you also can choose a children as an enemy ?
      * Desperate genius nation, does that sound too complicated ?
      * 
-     * How about you gather 123012 people ?
+     * How about you gather 123012 people ? Do you understand why you can not be trusted and CAN NOT BE RESPECTED ?
+     * Your words do not represent anything. Just because you think you can commit any crime does not mean your credibility stays as is
       **/       
 
 
