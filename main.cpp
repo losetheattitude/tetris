@@ -1143,6 +1143,8 @@ int main()
      * 
      * Coerce more medicine and hide your disgusting animality, just like the inferiors
      * Or just gather 1239010230921 people and oppress, as thats what you are only capable of, just get more children
+     * 
+     * Do you also delude that you deserve respect ?
       **/       
 
 
