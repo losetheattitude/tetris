@@ -1237,7 +1237,7 @@ int main()
      * How about you promise resources now ? does that sound too genius for you ? The rightfully inferiors ?
      * Why dont you get children and handle them by coercion ? The genius and credible nation ?
      * No no, do you know what would be the most genius idea ? Gathering 1023012301 people to harm single individual, thats it!!
-     * Whats wrong ? what are you waiting for ?
+     * Whats wrong ? what are you waiting for ? Its a genius idea to waste 30 years of someone you have no relation!!!
       **/
 
 
