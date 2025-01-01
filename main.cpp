@@ -1177,6 +1177,7 @@ int main()
      * How come you are deluding to "compensate" with what you can not even discuss ?
      * You do not understand the flawed logic ? Which part is the funniest ?
      * Do you understand why you can not be trusted and respected ?
+     * Just try to remember random noises you love to make about things you do not understand
      * 
       **/       
 
