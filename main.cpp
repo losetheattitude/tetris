@@ -1010,6 +1010,7 @@ int main()
      * 
      * Guess who is not wanted ? and why do you think that is ?
      * Guess who is not an inferior animal like you and will start immediately begging for materials ?
+     * Are you still making offers you do not deliver ? How about no resources ? that makes a lot of sense right ?
       **/       
 
 
