@@ -1134,6 +1134,7 @@ int main()
      * Why dont you handle children instead of asking things you do not deserve ?
      * 
      * When all you have to do is so simple yet look at your stupid decisions, do you think you deserve respect ?
+     * Do you think you deserve respect or you are just delusional ? Its so simple what you have to do yet look at the games you are playing ?
       **/       
 
 
