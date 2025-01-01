@@ -1051,7 +1051,9 @@ int main()
      * How about you stop wielding what you coerced people into as a weapon ? He did this!!! he did that!!! ehehehehe please!!!
      * 
      * How come are you still standing and acting like you have not harmed single individual with 10230103 people ?
+     * The same disgusting animality that coerces children to do unspeakable things so that they could provide it as reason later on ?
       **/       
+
 
 
 
