@@ -998,7 +998,7 @@ int main()
      * After decades, what do you think I will behave like towards you ? or any of your kind ? why dont you offer things ? eheheh that should solve all the problems right ?
      * 
      * What does make you think that I will accept or respect your boundaries ?
-     * Where did you arrive now ?
+     * Where did you arrive now ? Ignorant animals ?
       **/       
 
 
