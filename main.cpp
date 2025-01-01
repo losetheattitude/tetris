@@ -1121,7 +1121,8 @@ int main()
      * Do you want to be reminded to your countless attempts ? How about you waste another 30 years arriving to nowhere ?
      * 
      * I do not accept no disgusting animals around me who loves to beg children
-     * What are you waiting for ?? You can only handle children ?
+     * What are you waiting for ?? You can only handle children ? Or waste others' lifes without a reason ?
+     * And also love to beg the very individual that you harm ? and lack every single resources ?
       **/       
 
 
