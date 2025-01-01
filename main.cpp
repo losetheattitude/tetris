@@ -1196,6 +1196,8 @@ int main()
      * How about you get the fuck out of my face and deal with your own problems ?
      * Does that sound too nerdy ? How about you gather 123001230 people to harm single individual ? 
      * Wait does that sound too great ? What do you think the problem is ?
+     * 
+     * You are unable to communicate through spoken language ? What do you think is the problem ?
       **/       
 
 
