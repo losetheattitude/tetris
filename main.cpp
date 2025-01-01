@@ -1167,6 +1167,8 @@ int main()
      * 
      * Only thing you can handle is children, why dont you now offer more things because you also can choose a children as an enemy ?
      * Desperate genius nation, does that sound too complicated ?
+     * 
+     * How about you gather 123012 people ?
       **/       
 
 
