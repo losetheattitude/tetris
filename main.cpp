@@ -1114,6 +1114,8 @@ int main()
      * 
      * You are a delusional group of bitches that can only handle certain situations ? Do you see the problem now ?
      * You just claimed you are all geniuses ? The geniuses who can only handle children ? Or single individuals so that they can feel great about themselves ?
+     * 
+     * You feel great about yourselves, the genius nation, who can only handle either children or single individuals ?
       **/       
 
 
