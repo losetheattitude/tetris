@@ -1179,6 +1179,8 @@ int main()
      * Do you understand why you can not be trusted and respected ?
      * Just try to remember random noises you love to make about things you do not understand
      * 
+     * Do you understand why you are not supposed to make "decisions" ?
+     * 
       **/       
 
 
