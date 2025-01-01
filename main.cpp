@@ -1153,6 +1153,7 @@ int main()
      * So where are you now ? What did you produce ?
      * 
      * What are you waiting for now ? You have produced nothing and you are still insisting on your disgusting brain ?
+     * Do you have what it takes to understand that you can request neither respect nor reason ?
       **/       
 
 
