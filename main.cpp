@@ -1185,6 +1185,8 @@ int main()
      * 
      * Are you still offering but no reliable "proof" that you can present so everyone immediately believes you ?
      * What do you think the problem is ? Why are you still asking for lies or silence ?
+     * Is this the lowest level that a creature can go ? I think you still can go even lower as your disgusting inferior nature allows you to.
+     * Next time do not act on your stupid ideas, you will be a lot better. Or just beg for lies and try to ignore your stupidity ? how does that sound ?
      * 
       **/       
 
