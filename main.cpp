@@ -980,6 +980,7 @@ int main()
      * Awwww the infallible reasons can not prove what they have perpetrated achieved so far ?
      * Other than directionless violence ? who is the problem ?
      * Why dont you just make the decision of "medication" ? because something happened outside of your judgment ?
+     * Are you as incapable as to not reckon that your actions also have consequences ?
       **/       
 
 
