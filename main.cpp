@@ -967,7 +967,7 @@ int main()
      * that you wield as wise eheheh, you stay on your own personal boundaries
      * 
      * Where did you arrive now ? Do you understand what "I AM NOT INTERESTED" means ?
-     * Do you understand spoken language ? What are you waiting for ? 
+     * Do you understand spoken language ? What are you waiting for ? For the next time you find a children ?
       **/       
 
 
