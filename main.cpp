@@ -989,6 +989,8 @@ int main()
      * What have you now in your hands and who is in a better situation ?
      * What a surprise that you ignore your coercions so far ? eheheh what are you after ?
      * Do you take life so lightly because you have never been involved in a disgusting situation as you have made for others ?
+     * 
+     * Is that the reason you commit crimes so easily ? 
       **/       
 
 
