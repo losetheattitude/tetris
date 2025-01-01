@@ -1213,6 +1213,8 @@ int main()
      * 
      * Do you even have one answer to any of the questions posed towards your disgusting existence ?
      * Why dont you handle children bro ? Whats wrong with that ? There are countless outthere ? What are you waiting for ?
+     * 
+     * Who do you think IS GUILTY for wasting such a time with pointless actions ? 
       **/       
 
 
