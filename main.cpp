@@ -984,6 +984,7 @@ int main()
      * 
      * What are the consequences and outcomes of your actions so far ? just answer this very simple question and you will see
      * why you are an inferior animal ?
+     * What have you achieved and what have you caused ? Whats the motive ? You can not even answer that, what do you think is the problem ?
       **/       
 
 
