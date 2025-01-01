@@ -1215,6 +1215,7 @@ int main()
      * Why dont you handle children bro ? Whats wrong with that ? There are countless outthere ? What are you waiting for ?
      * 
      * Who do you think IS GUILTY for wasting such a time with pointless actions ? 
+     * Who do you think is guilty in intentionally not providing even the most essential resources ?
       **/       
 
 
