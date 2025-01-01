@@ -1034,6 +1034,7 @@ int main()
      * Whats the explanation of wasting time ? Who is ignoring now ?
      * 
      * What are you waiting for ? Are you thinking about what the hell you should do ? Awwwww, you have already fucked up ?
+     * Are you still offering materials as your disgusting nature allows you to ? How about you get more children to coerce ?
       **/       
 
 
