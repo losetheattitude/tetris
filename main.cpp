@@ -1067,6 +1067,8 @@ int main()
      * Now what did you produce ? Why are your superior logics are failing you ?
      * WHAT DO YOU HAVE IN YOUR HANDS NOW ? So you are content with being a never learning animal yet you also claim to know time and life ?
      * Or would you rather ignore and act like its fine ?
+     * 
+     * What did you end up doing now ? Why dont you communicate through spoken language ?
       **/       
 
 
