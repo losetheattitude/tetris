@@ -1098,6 +1098,8 @@ int main()
      * Are you enjoying coercion ? WHAT ARE YOU WAITING FOR ?
      * What are you waiting for ? another 30 years to pass ?
      * To waste another 30 years to arrive nowhere but complete harm ?
+     * Why dont you go out and seek for more children so that you can feel great about yourselves ?
+     * The genius nation ?
       **/       
 
 
