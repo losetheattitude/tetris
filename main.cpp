@@ -1129,6 +1129,8 @@ int main()
      * 
      * How about you do not make irreparable mistakes and escape from them as the irrational and unaccountable animal you are ?
      * Do you even understand ? or would love to ignore and enjoy your life ? Where did you arrive now ?
+     * 
+     * Do you understand security and resources and tools ? What do you think I am missing ?
       **/       
 
 
