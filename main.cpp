@@ -1219,7 +1219,15 @@ int main()
      * Arent you the disgusting little animals still ? Why are you still asking things ? 
      * 
      * Why are you still asking for lies, the disgusting little animals ?
-      **/       
+     * Why are you still offering things when you are the single disgustingly uncredible entity that I will never consider around me ?
+     * Do you even know how to read ?
+     * 
+     * Read this,
+     * 
+     * Why are you still offering things when you are the single disgustingly uncredible entity that I will never consider around me ?
+     * Why are you still offering things when you are the single disgustingly uncredible entity that I will never consider around me ?
+     * Why are you still offering things when you are the single disgustingly uncredible entity that I will never consider around me ?
+      **/
 
 
 
