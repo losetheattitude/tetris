@@ -1204,6 +1204,7 @@ int main()
      * How about you handle children ? and leave other people on their own ?
      * 
      * Do you understand the part where you are failing to make decisions on things that you are pretending to understand ?
+     * Who do you think the problem is ?
       **/       
 
 
