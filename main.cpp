@@ -1239,6 +1239,7 @@ int main()
      * No no, do you know what would be the most genius idea ? Gathering 1023012301 people to harm single individual, thats it!!
      * Whats wrong ? what are you waiting for ? Its a genius idea to waste 30 years of someone you have no relation nor interest in doing so!!!
      * Awww how about coercing medication ? Guess who is not wanted and guilty in his actions ?
+     * Do you recognize the extent of your stupidity ?
       **/
 
 
