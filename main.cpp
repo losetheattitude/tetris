@@ -992,6 +992,8 @@ int main()
      * 
      * Is that the reason you commit crimes so easily ? 
      * Do you wake up when you see bunch of people you value are hurt ? Ehehehe ? real funny stuff right ? The intelligent people ?
+     * 
+     * Why take so lightly when its not your own life ?
       **/       
 
 
