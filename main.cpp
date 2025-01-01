@@ -1183,6 +1183,9 @@ int main()
      * I do not accept any of you around me, thats the only thing you can ever hear, are you still offering resources but no proof that you can present ?
      * What do you think that is called ? How about you do the same action to your surroundings, you will then see what sort of disgusting animal you actually are
      * 
+     * Are you still offering but no reliable "proof" that you can present so everyone immediately believes you ?
+     * What do you think the problem is ?
+     * 
       **/       
 
 
