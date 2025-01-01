@@ -1111,6 +1111,8 @@ int main()
      * Do you understand why you are failing ? I am sure you would also ignore that
      * Okay then, WHAT DID YOU ACHIEVE NOW ?
      * Do you see why you are not wanted or do not deserve "respect" that you brag so much about ?
+     * 
+     * You are a delusional group of bitches that can only handle certain situations ? Do you see the problem now ?
       **/       
 
 
