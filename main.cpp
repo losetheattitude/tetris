@@ -1138,6 +1138,8 @@ int main()
      * Did you delude that you are genius nation also ?
      * 
      * All you have to do is so simple yet you are still wasting your time around ?
+     * So you wasted 30 years and are insisting on wasting more without even having a reason and you request respect or validation ?
+     * You can get the fuck out of my face with your disgusting excuses and have more children to handle, thats the only thing you can deal with
       **/       
 
 
