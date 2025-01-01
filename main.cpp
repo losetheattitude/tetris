@@ -1101,6 +1101,7 @@ int main()
      * Why dont you go out and seek for more children so that you can feel great about yourselves ?
      * The genius nation ? Waiting for another 30 years to waste or just gather 123213921 people and harm ?
      * What does sound too complicated for you ? That you are an inferior disgusting animal ? who is who ? Who is ignorant ?
+     * Are you still the same delusional animal ? THE GENIUSSS NATIIONNN!!!!! ehehehehehe ?
       **/       
 
 
