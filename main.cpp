@@ -1076,6 +1076,9 @@ int main()
      * 
      * Do you even follow ? WHAT ARE YOU WAITING FOR ? You do not see your illogical actions ?
      * You still ignore ? waaaowwwww what a pattern
+     * 
+     * What a pattern that the only thing you could say is "life or fate or past" after decades of directionless actions
+     * that you committed against an irrelevant individual
       **/       
 
 
