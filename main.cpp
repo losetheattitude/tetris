@@ -1170,6 +1170,9 @@ int main()
      * 
      * How about you gather 123012 people ? Do you understand why you can not be trusted and CAN NOT BE RESPECTED ?
      * Your words do not represent anything. Just because you think you can commit any crime does not mean your credibility stays as is
+     * 
+     * Do you even have anything to say for 30 years wasted without doing anything ? Without having any resources ? any tool ? with irrelevant violence ?
+     * 
       **/       
 
 
