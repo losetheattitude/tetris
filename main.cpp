@@ -1046,7 +1046,7 @@ int main()
      * Do you think I am as afraid as you ?
      * Do you understand spoken language or you would rather take cheap acting for a skill ?
      * 
-     * Whats wrong ?
+     * Whats wrong ? What are you waiting for ? ehehehhe ? genius people ?
       **/       
 
 
