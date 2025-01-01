@@ -1123,6 +1123,8 @@ int main()
      * I do not accept no disgusting animals around me who loves to beg children
      * What are you waiting for ?? You can only handle children ? Or waste others' lifes without a reason ?
      * And also love to beg the very individual that you harm ? and lack every single resources ?
+     * 
+     * Are you still asking things ?
       **/       
 
 
