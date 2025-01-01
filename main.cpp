@@ -1095,7 +1095,7 @@ int main()
      * 
      * 
      * You are unable to perceive your actions and their consequences ? and you would love to make offers still ?
-     * Are you enjoying coercion ?
+     * Are you enjoying coercion ? WHAT ARE YOU WAITING FOR ?
       **/       
 
 
