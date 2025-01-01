@@ -991,6 +991,7 @@ int main()
      * Do you take life so lightly because you have never been involved in a disgusting situation as you have made for others ?
      * 
      * Is that the reason you commit crimes so easily ? 
+     * Do you wake up when you see bunch of people you value are hurt ? Ehehehe ? real funny stuff right ? The intelligent people ?
       **/       
 
 
