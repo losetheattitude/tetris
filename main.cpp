@@ -1241,6 +1241,7 @@ int main()
      * Awww how about coercing medication ? Guess who is not wanted and guilty in his actions ?
      * Do you recognize the extent of your stupidity ? or you would rather harm and feel great ?
      * Do you need more children to handle so you can feel great about your competency ?
+     * Do you dare to say you only live once ? out of all the people, what a level of disgust one can attract
       **/
 
 
