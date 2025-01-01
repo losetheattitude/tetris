@@ -1017,6 +1017,8 @@ int main()
      * Guess who is deluding on the consequences ?
      * Who is laughing at their disgusting actions ?
      * Were you the ones who say "you only live once" ?
+     * 
+     * How about you get more children to frame and start talking about life ?
       **/       
 
 
