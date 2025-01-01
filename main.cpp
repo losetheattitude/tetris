@@ -1041,6 +1041,8 @@ int main()
      * Why are you still the same disgusting animal that you were ?
      * Why arent you making decisions now ? Do you not understand that you are lacking every single resources and also coercing behavior ?
      * What am I supposed to do ?
+     * 
+     * Why are you still ignoring ?
       **/       
 
 
