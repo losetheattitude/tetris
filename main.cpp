@@ -1019,6 +1019,8 @@ int main()
      * Were you the ones who say "you only live once" ?
      * 
      * How about you get more children to frame and start talking about life ?
+     * What do you think you will behave like when your life is at stake ?
+     * Do you see the problem ?
       **/       
 
 
