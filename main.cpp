@@ -1212,6 +1212,7 @@ int main()
      * Who do you think is delusional or afraid ? You are the ones who are gathering 123021301 people against one ? Who do you think is at fault ?
      * 
      * Do you even have one answer to any of the questions posed towards your disgusting existence ?
+     * Why dont you handle children bro ? Whats wrong with that ? There are countless outthere ? What are you waiting for ?
       **/       
 
 
