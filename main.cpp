@@ -1036,6 +1036,8 @@ int main()
      * What are you waiting for ? Are you thinking about what the hell you should do ? Awwwww, you have already fucked up ?
      * Are you still offering materials as your disgusting nature allows you to ? How about you get more children to coerce ?
      * Why arent you talking now ?
+     * 
+     * What do you think is going to happen after 30 years of wasted time on nothing ? How the hell one should get resources to live by ?
       **/       
 
 
