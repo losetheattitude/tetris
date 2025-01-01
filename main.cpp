@@ -1065,7 +1065,8 @@ int main()
      * Do you understand why you do not deserve the tiniest amount of respect ?
      * Where did you now arrive ? Whats the logical and superior answer now you have ?
      * Now what did you produce ? Why are your superior logics are failing you ?
-     * WHAT DO YOU HAVE IN YOUR HANDS NOW ?
+     * WHAT DO YOU HAVE IN YOUR HANDS NOW ? So you are content with being a never learning animal yet you also claim to know time and life ?
+     * Or would you rather ignore and act like its fine ?
       **/       
 
 
