@@ -1052,6 +1052,8 @@ int main()
      * 
      * How come are you still standing and acting like you have not harmed single individual with 10230103 people ?
      * The same disgusting animality that coerces children to do unspeakable things so that they could provide it as reason later on ?
+     * 
+     * Do you have any explanation or would you like to ignore through incompetent and irrational acting that you take for a skill ?
       **/       
 
 
