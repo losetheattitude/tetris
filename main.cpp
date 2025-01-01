@@ -963,6 +963,8 @@ int main()
      * 
      * Are you still deluding on my desire to waste my time with such inferior animals ?
      * Why are you still offering ? How about you get more children to fool ? 
+     * I do not have time for your delusional arguments or your highly reasonable superstitions 
+     * that you wield as wise eheheh
       **/       
 
 
