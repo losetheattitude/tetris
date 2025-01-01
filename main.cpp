@@ -1014,6 +1014,7 @@ int main()
      * 
      * Decades of wasted time with violence all you can say what ? Eheheheheheheh get womennnn!!!!!!!!!!!! Who is disgusting ?
      * Guess who is not equal and who is not welcome ?
+     * Guess who is deluding on the consequences ?
       **/       
 
 
