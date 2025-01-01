@@ -1059,7 +1059,7 @@ int main()
      * I do not care any false precept you have convinced yourselves with, I am not interested 
      * 
      * I am not interested in wasting my time with you neither do I want to assist any of your disgusting purposes
-     * Who do you think is afraid ?
+     * Who do you think is afraid ? Do you want to know the value of your words and thus credibility ? Why are you still talking ?
       **/       
 
 
