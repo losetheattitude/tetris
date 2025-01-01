@@ -1180,7 +1180,7 @@ int main()
      * Just try to remember random noises you love to make about things you do not understand
      * 
      * Do you understand why you are not supposed to make "decisions" ?
-     * I do not accept any of you around me, thats the only thing you can ever hear 
+     * I do not accept any of you around me, thats the only thing you can ever hear, are you still offering resources but no proof that you can present ?
      * 
       **/       
 
