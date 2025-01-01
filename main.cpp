@@ -1063,6 +1063,7 @@ int main()
      * The great act of gathering 1230139021 people against one to harm him purily out of joy, thats the kind that world needs definitely ehehehhe
      * fun stuff right ? eheheheh
      * Do you understand why you do not deserve the tiniest amount of respect ?
+     * Where did you now arrive ? Whats the logical and superior answer now you have ?
       **/       
 
 
