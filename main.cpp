@@ -978,6 +978,7 @@ int main()
      * Do you want to talk about my experience ? ehehhe fun stuff right ?
      * Why dont you get the fuck out of my face ? 
      * Awwww the infallible reasons can not prove what they have perpetrated achieved so far ?
+     * Other than directionless violence ? who is the problem ?
       **/       
 
 
