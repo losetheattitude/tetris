@@ -1079,6 +1079,7 @@ int main()
      * 
      * What a pattern that the only thing you could say is "life or fate or past" after decades of directionless actions
      * that you committed against an irrelevant individual, do you see the pattern ?
+     * Are you having fun with your lives ? Do you not really see the pattern in your disgusting animality ?
       **/       
 
 
