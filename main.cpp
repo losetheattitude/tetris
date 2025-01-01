@@ -1184,7 +1184,7 @@ int main()
      * What do you think that is called ? How about you do the same action to your surroundings, you will then see what sort of disgusting animal you actually are
      * 
      * Are you still offering but no reliable "proof" that you can present so everyone immediately believes you ?
-     * What do you think the problem is ?
+     * What do you think the problem is ? Why are you still asking for lies or silence ?
      * 
       **/       
 
