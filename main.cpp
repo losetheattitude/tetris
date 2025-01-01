@@ -1156,7 +1156,8 @@ int main()
      * Do you have what it takes to understand that you can request neither respect nor reason ?
      * After your countless failing attempts made at the most obscure purpose, how come you are still there alleging all sort of things
      * that YOU ARE NOT ? 
-     * How about you lower to your own level and seek for more children ?
+     * How about you lower to your own level and seek for more children ? The genius nation who have done the most great thing ever but
+     * somehow ignoringly avoids to talk about their achievements ?
       **/       
 
 
