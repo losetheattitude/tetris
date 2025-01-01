@@ -1047,6 +1047,7 @@ int main()
      * Do you understand spoken language or you would rather take cheap acting for a skill ?
      * 
      * Whats wrong ? What are you waiting for ? ehehehhe ? genius people ?
+     * Why dont you waste your own life ? Are you too precious for that ? How about people coerce you ? The great genius nation who can not answer a single question ?
       **/       
 
 
