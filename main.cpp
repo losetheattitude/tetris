@@ -1113,7 +1113,7 @@ int main()
      * Do you see why you are not wanted or do not deserve "respect" that you brag so much about ?
      * 
      * You are a delusional group of bitches that can only handle certain situations ? Do you see the problem now ?
-     * You just claimed you are all geniuses ? The geniuses who can only handle children ?
+     * You just claimed you are all geniuses ? The geniuses who can only handle children ? Or single individuals so that they can feel great about themselves ?
       **/       
 
 
