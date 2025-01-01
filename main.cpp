@@ -1089,6 +1089,9 @@ int main()
      * The genius nation ? What are you waiting for ?
      * You would hate to ruin your precious experiences I guess ? Thats the reason you are waiting ? and also committing crimes ?
      * Is that also why you offer materials because of your disgusting inferiority ? How about you beg more ? ehehehe ?
+     * 
+     * Awww you are waiting because you know the individual you are handling with 1230923921 people does not have any option other than
+     * to wait ?
       **/       
 
 
