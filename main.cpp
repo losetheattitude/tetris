@@ -1162,7 +1162,8 @@ int main()
      * How are you feeling btw ? eheheh genius nation ?
      * The genius nation who can not even acknowledge where they have arrived by doing the most stupid thing ever ?
      * Do you think you deserve respect ? Do you really genius at the level of not guessing what you will get ?
-     * Regardless of your intentions ? 
+     * Regardless of your intentions ? Are you still making offers as you have done the last time ? How about you get more children ?
+     * Thats the only thing you can handle
       **/       
 
 
