@@ -1081,7 +1081,7 @@ int main()
      * that you committed against an irrelevant individual, do you see the pattern ?
      * Are you having fun with your lives ? Do you not really see the pattern in your disgusting animality ?
      * 
-     * What are you waiting for genius nation ?
+     * What are you waiting for genius nation ? Do you see why you are not wanted ?
       **/       
 
 
