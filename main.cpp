@@ -1016,6 +1016,7 @@ int main()
      * Guess who is not equal and who is not welcome ?
      * Guess who is deluding on the consequences ?
      * Who is laughing at their disgusting actions ?
+     * Were you the ones who say "you only live once" ?
       **/       
 
 
