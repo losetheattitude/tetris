@@ -1278,6 +1278,8 @@ int main()
      * Why dont you handle children as that seems to be the only thing you could ?
      * Or just gather 1223213021 people why not ? eheheheheh its so fun!! and skilfull we are!! ehehhe btw
      * How about you deal with your own problems ? eheheh fun stuff right ?
+     * 
+     * How about you make some promises ehehehe then act like its a skill ? ehehehhe right ? eheheh genius nation ?
       **/
 
 
