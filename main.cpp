@@ -1336,6 +1336,7 @@ int main()
      * Guess who is not wanted because of countless stupid actions they have perpetrated ? Come on genius nation
      * 
      * Awwww, you must be on the correct track now, look at the wonders you have generated with no resources and violence!!!!!ehehehehhehe genius nation!!!
+     * Just try to understand what a great job you have done, look at the wonderful outcome of your no resources and some violence ?
       **/
 
 
