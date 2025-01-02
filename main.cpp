@@ -1286,6 +1286,8 @@ int main()
      * Make no mistake, you are the irrelevant disgusting animals who have nothing better to do, so they decide to harm
      * and avoid any sort of responsibility for their actions by "offering" what their inferior nature would love to have because
      * they love to enjoy their life while advising otherwise to irrelevant people, calling that "job" under many disguises
+     * 
+     * Do you want to talk about time or just argue that you do no harm ?
       **/
 
 
