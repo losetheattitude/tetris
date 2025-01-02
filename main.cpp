@@ -1325,6 +1325,7 @@ int main()
      * 
      * Did you just see what wonders the lacking of resources have done ? eheheheheh genius nation right
      * Guess who is wanted because of their disgusting stupidity and ignorance ?
+     * The genius nation you ? btw ? do you even realize or you just like ignoring through your genius ?
       **/
 
 
