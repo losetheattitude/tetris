@@ -1269,7 +1269,9 @@ int main()
      * you are wasting decades of someone else's time without even having a reason ?
      * 
      * Eheheheheheh we trying to our jobs eheheheheh when there is no reason ehehehehe pls pls good ppl
+     * Why arent you making coherent sentences ?
       **/
+
 
 
 
