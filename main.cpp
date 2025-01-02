@@ -1277,6 +1277,7 @@ int main()
      * Now what have you produced stupid people ? Who still offers women ignoring all the things that have been told to them
      * Why dont you handle children as that seems to be the only thing you could ?
      * Or just gather 1223213021 people why not ? eheheheheh its so fun!! and skilfull we are!! ehehhe btw
+     * How about you deal with your own problems ? eheheh fun stuff right ?
       **/
 
 
