@@ -1290,6 +1290,8 @@ int main()
      * Do you want to talk about time or just argue that you do no harm ?
      * Guess who is the never learning animal in this case 
      * So whats the explanation ? eheheheh its just eheheh fo ehhehehe fo eheheh war! eheheh we genius nation eheheheh
+     * 
+     * Who is the one lacking lessons here ?
       **/
 
 
