@@ -1371,6 +1371,8 @@ int main()
      * 
      * What are you waiting for ? Why dont you pay for your own actions ?
      * Now where did you arrive, what do you have in your hands ? Stupid little animals ?
+     * What makes you think I will suddenly change the way I perceive your decades of actions ?
+     * You do not deserve the tiniest amount of respect, thats it
       **/
 
 
