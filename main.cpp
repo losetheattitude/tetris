@@ -1245,6 +1245,8 @@ int main()
      * 
      * An entire life overlooked by bunch of inferior monkeys ? How does that sound ?
      * Whats the excuse now ? ehehehehhehehe ?? Its just job eehehhehe please please eheheh
+     * 
+     * Why are you asking for lies still ?
       **/
 
 
