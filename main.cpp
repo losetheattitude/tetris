@@ -1370,7 +1370,7 @@ int main()
      * Fucking stupid monkeys, eheheheh we know what we doing!!! get more medicine ehheheheh please!!
      * 
      * What are you waiting for ? Why dont you pay for your own actions ?
-     * Now where did you arrive, what do you have in your hands ?
+     * Now where did you arrive, what do you have in your hands ? Stupid little animals ?
       **/
 
 
