@@ -1253,6 +1253,8 @@ int main()
      * Why are you surprised at the outcome while you have been nonstop harming ? also coercing medicine and other things ?
      * Is that where you also delude perhaps ? That you are not a disgusting inferior animal who likes to ignore and love to enjoy their life ?
      * 
+     * What are you waiting for ?
+     * 
       **/
 
 
