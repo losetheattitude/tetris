@@ -1312,6 +1312,8 @@ int main()
      * Life simulation and we like to enjoy our experiences eheheh please! we good ppl, come at our city ehehehhe please
      * Please do this for us!!! eheheh 
      * I do not respect any of your "impressions" as you are the one who can not explain what they are aiming at
+     * Do you really think its just as easy as "eheheheh we did this now you can have a normal life" eheheheheh what a good group!!!
+     * Imma pass on simple animals like you indefinitely
       **/
 
 
