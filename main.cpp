@@ -1305,6 +1305,8 @@ int main()
      * Why are you still demanding credibility and also making offers ? Do you remember the last time ehehehhehehehe ?
      * Immature monkeys who take cheap act for a skill ? Do you need more children in your cities ? how about you handle more children first
      * then come at me fairly ?
+     * 
+     * Ehehehhehe genius nation, lifes not fair hehehe life is not fair! !! ehehehhehehehehe fun stuff
       **/
 
 
