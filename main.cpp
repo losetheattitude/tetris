@@ -1250,6 +1250,9 @@ int main()
      * You are still "dangeorus!", "you have to watch!!!", when you have 30 years of evidence ?
      * How about you stop harming ?
      * 
+     * Why are you surprised at the outcome while you have been nonstop harming ? also coercing medicine and other things ?
+     * Is that where you also delude perhaps ? That you are not a disgusting inferior animal who likes to ignore and love to enjoy their life ?
+     * 
       **/
 
 
