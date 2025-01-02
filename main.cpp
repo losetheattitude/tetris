@@ -1359,6 +1359,7 @@ int main()
      * Guess who is not interested in anything you could inferiorily form ?
      * 
      * Do you think you are playing smart games or you are just disgusting ?
+     * Ehehehehehe we handle children eheheh especially eheheheh really really good!!! ehehhe genius nation
       **/
 
 
