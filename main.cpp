@@ -1350,6 +1350,8 @@ int main()
      * 
      * You can continue deluding without me, I am not interested
      * Guess what is the reason ? Does great people can understand what they have achieved or just trying to live their lives to the fullest extent ? eheheh?
+     * 
+     * Ignore more, thats the best you can be
       **/
 
 
