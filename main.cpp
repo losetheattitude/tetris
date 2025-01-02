@@ -1337,6 +1337,8 @@ int main()
      * 
      * Awwww, you must be on the correct track now, look at the wonders you have generated with no resources and violence!!!!!ehehehehhehe genius nation!!!
      * Just try to understand what a great job you have done, look at the wonderful outcome of your no resources and some violence ?
+     * 
+     * Awwwwww, that is just incredible of you that you just can not see what a disgusting animal you are ehehehehehe
       **/
 
 
