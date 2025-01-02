@@ -1247,6 +1247,9 @@ int main()
      * Whats the excuse now ? ehehehehhehehe ?? Its just job eehehhehe please please eheheh
      * 
      * Why are you asking for lies still ?
+     * You are still "dangeorus!", "you have to watch!!!", when you have 30 years of evidence ?
+     * How about you stop harming ?
+     * 
       **/
 
 
