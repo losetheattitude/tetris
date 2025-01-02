@@ -1308,6 +1308,8 @@ int main()
      * 
      * Ehehehhehe genius nation, lifes not fair hehehe life is not fair! !! ehehehhehehehehe fun stuff
      * Why dont you gather more people ? eheheheh life simulation ehehehe please we like to have our experiences eheheheh
+     * 
+     * Life simulation and we like to enjoy our experiences eheheh please! we good ppl, come at our city ehehehhe please
       **/
 
 
