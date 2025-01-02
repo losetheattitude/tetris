@@ -1291,7 +1291,7 @@ int main()
      * Guess who is the never learning animal in this case 
      * So whats the explanation ? eheheheh its just eheheh fo ehhehehe fo eheheh war! eheheh we genius nation eheheheh
      * 
-     * Who is the one lacking lessons here ?
+     * Who is the one lacking lessons here ? How about more children for you to handle ? may be you can actually feel like you are skillful ?
       **/
 
 
