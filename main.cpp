@@ -1298,6 +1298,8 @@ int main()
      * we know what we are doing eheheheh please!!! help us eheheheheh
      * 
      * Come at our city ehehhehe we handle children real good heehheheh please hehehehe
+     * Eheheheh we like wasting other irrelevant people's time ehehehehe because we lack "education" and "credibility" and "self reliance" ?
+     * eheheheh fun stuff 
       **/
 
 
