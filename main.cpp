@@ -1274,7 +1274,7 @@ int main()
      * Do you see who and why would anyone would not be interested in with you ?
      * Ehehehehe no resources ehehheh, better find more children you can handle
      * Eheheh we just like harming people hehehehe, what has changed now ?
-     * Now what have you produced stupid people ?
+     * Now what have you produced stupid people ? Who still offers women ignoring all the things that have been told to them
       **/
 
 
