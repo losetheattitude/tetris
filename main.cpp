@@ -1265,7 +1265,8 @@ int main()
      * 
      * The very disgusting stupid animals who still offer holidays or women for 30 years of pointless actions ?
      * Now where did you exactly arrive ? Just say something meaningful ?
-     * Fucking stupid monkeys ?
+     * Fucking stupid monkeys ? Why are you still offering what your inferior nature would love to have and enjoy while
+     * you are wasting decades of someone else's time without even having a reason ?
       **/
 
 
