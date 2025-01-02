@@ -1369,7 +1369,7 @@ int main()
      * Eheheheheh covertttt operation ehehehehe genius naton ehehehe intelligence hehehehehehe we good pls eheheheh
      * Fucking stupid monkeys, eheheheh we know what we doing!!! get more medicine ehheheheh please!!
      * 
-     * What are you waiting for ?
+     * What are you waiting for ? Why dont you pay for your own actions ?
       **/
 
 
