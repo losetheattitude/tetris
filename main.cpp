@@ -1379,6 +1379,7 @@ int main()
      * Where did you arrive after decades ? Just say it out loud bro ?
      * What makes you think I am as fearful an animal as you that your decades of violence would scare me ? What has changed now ?
      * Do you now see why you are inferior ? Who is selfish and unreasonable ?
+     * Are you still watching from afar thinking what a great animal you are ? ehehehehh good genius nation eehehehe
       **/
 
 
