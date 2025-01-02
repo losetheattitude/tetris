@@ -1352,6 +1352,7 @@ int main()
      * Guess what is the reason ? Does great people can understand what they have achieved or just trying to live their lives to the fullest extent ? eheheh?
      * 
      * Ignore more, thats the best you can be, as you can draw from the fact that you call "the decades of violence and pointless actions" a drama
+     * While you are still after enjoying your life
       **/
 
 
