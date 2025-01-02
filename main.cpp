@@ -1367,7 +1367,7 @@ int main()
      * Guess who is not interested ? Guess who lacks education ?
      * Guess who can not draw conclusions from what they are observing, thus the intelligent part 
      * Eheheheheh covertttt operation ehehehehe genius naton ehehehe intelligence hehehehehehe we good pls eheheheh
-     * Fucking stupid monkeys
+     * Fucking stupid monkeys, eheheheh we know what we doing!!! get more medicine ehheheheh please!!
       **/
 
 
