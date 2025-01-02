@@ -1362,6 +1362,8 @@ int main()
      * Ehehehehehe we handle children eheheh especially eheheheh really really good!!! ehehhe genius nation
      * Guess who is not interested in dealing with delusional animals ? Intelligent ppl definitely
      * Really realllyy intelligent people who still makes offers of their own disgusting nature
+     * 
+     * The best use of the technology and resources, intelligent indeed
       **/
 
 
