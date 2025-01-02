@@ -1355,7 +1355,7 @@ int main()
      * While you are still after enjoying your life
      * 
      * Its soo fun!!!! eheheheheh its our job!!! please!!! eheheheh he did it!!! ehehehhe
-     * Guess who is not wanted ?
+     * Guess who is not wanted ? wait wait, eheheh why dont you just gather 12312 people and harm ? thats what you can do best
       **/
 
 
