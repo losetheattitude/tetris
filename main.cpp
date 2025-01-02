@@ -1382,7 +1382,7 @@ int main()
      * Are you still watching from afar thinking what a great animal you are ? ehehehehh good genius nation eehehehe
      * Guess who is not interested in unaccountable animals ? ehehehe silence hehehe please please!! eheh lie!!! lie!!1 ehehhe
      * Where did you arrive ? What an elegant way you employed, I am in shock, but guess who is not interested in simple animals ?
-     * Guess who is not interested in coerced medicine ?
+     * Guess who is not interested in coerced medicine ? How about some irrelevant violence to people you have no relation with ? but somehow also beg ?
       **/
 
 
