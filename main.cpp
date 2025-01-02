@@ -1330,6 +1330,8 @@ int main()
      * Just try to guess who is not intentionally realizing what they have not achieved and guess WHO IS NOT WANTED ?
      * despite any possible "resources" that they "offer" ? The disgusting animals dont you say ?
      * Guess who is coercing medicine because they think they know better although they are ignoring the "great outcome" ?
+     * 
+     * Where did you arrive now ? You can not see or you just love ignoring and living your life ?
       **/
 
 
