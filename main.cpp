@@ -1322,6 +1322,8 @@ int main()
      * 
      * Guess who is not wanted ? Why dont you just lack resources and see what wonders it does ? right ? genius nation who ignores
      * years of footage because they just like to, now what did you achieve ?
+     * 
+     * Did you just see what wonders the lacking of resources have done ? eheheheheh genius nation right
       **/
 
 
