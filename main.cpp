@@ -1283,6 +1283,9 @@ int main()
      * Now where did you arrive genius people ? eheheheh btw its fun right ?
      * How about you remove your disgusting nature from out of my vicinity ?
      * Do you see what happens when a bunch of disgusting animals who have nothing to do gather ?
+     * Make no mistake, you are the irrelevant disgusting animals who have nothing better to do, so they decide to harm
+     * and avoid any sort of responsibility for their actions by "offering" what their inferior nature would love to have because
+     * they love to enjoy their life while advising otherwise to irrelevant people, calling that "job" under many disguises
       **/
 
 
