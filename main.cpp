@@ -1307,6 +1307,7 @@ int main()
      * then come at me fairly ?
      * 
      * Ehehehhehe genius nation, lifes not fair hehehe life is not fair! !! ehehehhehehehehe fun stuff
+     * Why dont you gather more people ? eheheheh life simulation ehehehe please we like to have our experiences eheheheh
       **/
 
 
