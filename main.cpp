@@ -1386,7 +1386,7 @@ int main()
      * 
      * Awwww, I guess you have forgotten the rules since you are given too much flexibilities ? eheheh nevermind life short, life simulation
      * you only live once eheheheheh genius ppl, do you now see who is what ?
-     * Thats why you are neither respected nor wanted
+     * Thats why you are neither respected nor wanted, do you now see why you are the inferior disgusting animal ?
       **/
 
 
