@@ -1339,6 +1339,7 @@ int main()
      * Just try to understand what a great job you have done, look at the wonderful outcome of your no resources and some violence ?
      * 
      * Awwwwww, that is just incredible of you that you just can not see what a disgusting animal you are ehehehehehe
+     * Do you now see that you have just done incredibly by doing the exactly genius actions right ?
       **/
 
 
