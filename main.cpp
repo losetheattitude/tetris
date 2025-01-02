@@ -1288,6 +1288,7 @@ int main()
      * they love to enjoy their life while advising otherwise to irrelevant people, calling that "job" under many disguises
      * 
      * Do you want to talk about time or just argue that you do no harm ?
+     * Guess who is the never learning animal in this case 
       **/
 
 
