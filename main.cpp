@@ -1378,6 +1378,7 @@ int main()
      * How about you learn your job better next time ?
      * Where did you arrive after decades ? Just say it out loud bro ?
      * What makes you think I am as fearful an animal as you that your decades of violence would scare me ? What has changed now ?
+     * Do you now see why you are inferior ? Who is selfish and unreasonable ?
       **/
 
 
