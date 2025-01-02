@@ -1257,7 +1257,7 @@ int main()
      * your stupidity and ignorance ? Incredibly useful!!
      * 
      * Do you not now recognize the immaturity ? eheheh ?
-     * The immature unaccountable animals who are still offering women ?
+     * The immature unaccountable animals who are still offering women for what is not their decision and a decision of decades consequences ?
       **/
 
 
