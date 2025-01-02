@@ -1316,7 +1316,7 @@ int main()
      * Imma pass on simple animals like you indefinitely
      * 
      * The disgusting animals who can not explain what they are doing, ehehehe itss tooo late!!!! eheheh itss tooo late!!! ehhehehe
-     * Guess who is not wanted ?
+     * Guess who is not wanted ? Guess who has been committing crimes nonstop and hiding behind groups
       **/
 
 
