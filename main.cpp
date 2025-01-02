@@ -1320,7 +1320,8 @@ int main()
      * 
      * Did you guess right ? Its you! The never learning lost group of people who acts like the disgusting animal they are
      * 
-     * Guess who is not wanted ?
+     * Guess who is not wanted ? Why dont you just lack resources and see what wonders it does ? right ? genius nation who ignores
+     * years of footage because they just like to
       **/
 
 
