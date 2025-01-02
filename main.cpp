@@ -1262,6 +1262,8 @@ int main()
      * 
      * Where is the explanation ? ehehehehhe we good ppl btw
      * we harm irrelevant people hehehehe btw we us good ppl ehehe
+     * 
+     * The very disgusting stupid animals who still offer holidays or women for 30 years of pointless actions ?
       **/
 
 
