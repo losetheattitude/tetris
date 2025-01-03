@@ -1459,8 +1459,11 @@ int main()
      * What makes you think I will waste yet another 30 years with the disgusting unaccountable animals ? 
      * 
      * You can not even properly explain the rational behind your actions other than committing them joyfully ?
-     
+     * 
      * The great and perfect and credible nation who can not properly account for their own behaviors other than saying "WE ENJOYED IT!!!!" ehehehe ?
+     * Do you understand now why you are a disgusting animal who must be controlled ? Not the individual who you are assaulting with numerous people
+     * Waaaowwww, genius nation indeed
+     * 
       **/ 
 
 
