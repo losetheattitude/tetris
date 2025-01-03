@@ -1451,6 +1451,8 @@ int main()
      * Now where did you arrive ? After decades of actions you have no reason for ?
      * How about you gather 12301302 people to harm single individual ? Does that sound too genius for you ?
      * What are you waiting for ? Everyone already knows your disgusting nature ? Why wait on acting them genius nation ?
+     * 
+     * It must be a great skill to gather 1230123010 people and abuse single individual, eheheheh how about more children for you to handle ?
       **/ 
 
 
