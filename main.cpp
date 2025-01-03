@@ -46,6 +46,8 @@ int main()
      * 
      * The most useless thing you could have ever done, and guess who is not surprised at your incompetency at hiding your true intentions ?
      * What are you doing ? ehehehe ? Guess who is not interested in helping out selfish people ?
+     * 
+     * No resources is definitely the way to go, its most helpful as your allegations are too
       **/ 
 
 
