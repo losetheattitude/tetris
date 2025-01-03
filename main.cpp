@@ -1450,6 +1450,7 @@ int main()
      * 
      * Now where did you arrive ? After decades of actions you have no reason for ?
      * How about you gather 12301302 people to harm single individual ? Does that sound too genius for you ?
+     * What are you waiting for ? Everyone already knows your disgusting nature ? Why wait on acting them genius nation ?
       **/ 
 
 
