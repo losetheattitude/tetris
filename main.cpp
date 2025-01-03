@@ -1389,7 +1389,8 @@ int main()
      * Thats why you are neither respected nor wanted, do you now see why you are the inferior disgusting animal ?
      * 
      * How about you pay for your own actions and deal with your own problems ? Delusional genius nation ?
-     * How about you learn some rules first ? Instead of offering women ?
+     * How about you learn some rules first ? Instead of offering women ? Like handling your own problems before
+     * you be a problem for others ?
       **/
 
 
