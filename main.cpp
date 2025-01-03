@@ -1405,6 +1405,7 @@ int main()
      * Do you understand what "I am not interested in" means ? Now you have all the answers only one question 
      * 
      * What did you end up gaining now ? How about some education on the rules ? No coercion ? eheheh fun stuff
+     * Life does not work the way you would love it to work, so better pay for your own disgusting actions then handle your own problems
       **/
 
 
