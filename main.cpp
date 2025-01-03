@@ -1454,6 +1454,7 @@ int main()
      * 
      * It must be a great skill to gather 1230123010 people and abuse single individual, eheheheh how about more children for you to handle ?
      * How about more people you can neglect to form great circumstances ? Where are the circumstances now ?
+     * You are yet another begger arent you ? Just there to gather some resources for your selfish experiences ?
       **/ 
 
 
