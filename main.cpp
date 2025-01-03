@@ -1432,7 +1432,7 @@ int main()
      * and also wasting resources that they can not match ehehehehehehhe
      * 
      * Have some medicine please hehehe just sleep eheheheheheh pleaase hehehehe get some violence hehehehe
-     * Proud to make offers indeed eheheh
+     * Proud to make offers indeed eheheh no resources btw, it works quite good
       **/ 
 
 
