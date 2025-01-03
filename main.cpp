@@ -38,6 +38,8 @@ int main()
      * 
      * What has changed after years of irrelevant actions ? Why arent you talking sense ? What happened to your genius ?
      * Who gained what after 30 years ? A decision that was not even discussable ?
+     * 
+     * You know what, why dont you gather 2123013 people and do more harm to see if its helpful still ?
       **/ 
 
 
