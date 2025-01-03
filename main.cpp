@@ -1420,6 +1420,8 @@ int main()
      * no resouces eheheh you only live once heheeh genius nation eheheheheh
      * 
      * Ehehehehehehhe get some harm ehehehe you only live once hehehe we really intelligent eheheheheh
+     * Do you see how genius we are ? eheheh btw eheheheh
+     * you only live once heheheh get some medicine hehehe and get into the hospital eheheh some violence heheheheh please eheheheh
       **/ 
 
 
