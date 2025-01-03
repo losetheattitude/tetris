@@ -1468,7 +1468,7 @@ int main()
      * What makes you think I have even the most tiniest irrelevant attention for you ?
      * You are not welcome "because", you already know that you are disgusting
      * How about offering women to then forget about it completely, is that how to be a great genius nation ?
-     * Ehehehehehheh really funny stuff
+     * Ehehehehehheh really funny stuff, what are you waiting for ?
      * 
       **/ 
 
