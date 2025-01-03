@@ -43,6 +43,8 @@ int main()
      * Guess who will never be interested in people like you ?
      * Guess who would never consider a group that can not account for its behavior ?
      * Guess what has not changed ?
+     * 
+     * The most useless thing you could have ever done, and guess who is not surprised at your incompetency at hiding your true intentions ?
       **/ 
 
 
