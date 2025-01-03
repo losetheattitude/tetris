@@ -1447,6 +1447,8 @@ int main()
      * What have you produced now ? The genius nation can answer questions ? WHAT DID YOU ACHIEVE NOW ?
      * The delusional disgusting geniuses who think deprivation builds people
      * The genius nation who think violence educates people that they do not match
+     * 
+     * Now where did you arrive ?
       **/ 
 
 
