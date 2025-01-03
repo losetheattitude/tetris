@@ -1410,6 +1410,7 @@ int main()
      * Just like the inferior animal you are, I am not interested 
      * 
      * Only interested in the payment of your actions, Its about time you pay for your own actions instead of ignoring what could have been
+     * Eheheh or rather the only thing you can do, IGNORE!!! ehehehehhe
       **/
 
 
