@@ -1474,6 +1474,7 @@ int main()
      * The genius nation who can not be the same disgusting animal against others who can uphold them ? Is that what you all are ?
      * 
      * What are you waiting for ? ehehehheh ? You only live once hehehehehehe
+     * Life is not fair ehehehhehe you only live once ehehhehe please lie for us!!!
      * 
       **/ 
 
