@@ -1443,8 +1443,8 @@ int main()
      * I do not want no unaccountable disgusting animals around me, thats the only thing you can ever hear, thats it
      * The disgusting never learning animals, I am not interested in
      * 
-     * You only live once btw ehehe, who is now deluding about other's happiness ?
-     * What have you produced now ?
+     * You only live once btw ehehe, who is now deluding about other's happiness  ?
+     * What have you produced now ? The genius nation can answer questions ? WHAT DID YOU ACHIEVE NOW ?
       **/ 
 
 
