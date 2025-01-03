@@ -1462,7 +1462,7 @@ int main()
      * 
      * The great and perfect and credible nation who can not properly account for their own behaviors other than saying "WE ENJOYED IT!!!!" ehehehe ?
      * Do you understand now why you are a disgusting animal who must be controlled ? Not the individual who you are assaulting with numerous people
-     * Waaaowwww, genius nation indeed
+     * Waaaowwww, genius nation indeed, what makes you think I have even one second spare for you ?
      * 
       **/ 
 
