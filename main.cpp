@@ -1398,6 +1398,7 @@ int main()
      * Now the genius nation, where did you arrive ? eheheh ? What did you produce now ?
      * Do you need some education on the rules the genius nation btw ?
      * More like an immature one, how about some ignorance ? eheheh its just a couple decades, nobody would be angry about it ?
+     * You know what, thats really educated and scary stuff
       **/
 
 
