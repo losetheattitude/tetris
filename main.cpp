@@ -1394,6 +1394,7 @@ int main()
      * 
      * Do the great titled people need some education on the rules ?
      * Or you just want to believe in a fantasy that you are a great and really intelligent genius nation ?
+     * How about some education on the rules first then you handle your own problems ?
       **/
 
 
