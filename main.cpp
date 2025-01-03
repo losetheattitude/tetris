@@ -1480,6 +1480,7 @@ int main()
      * Guess who is not wanted nor an intelligent human ? Just the disgusting animal they accuse others to be
      * Guess who is going to start begging once their true disgusting nature has been exposed ? eheheh genius nation ?
      * 
+     * How about you get the fuck out of my face the delusionally genius nation ?
       **/ 
 
 
