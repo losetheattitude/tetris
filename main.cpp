@@ -1477,6 +1477,7 @@ int main()
      * Life is not fair ehehehhehe you only live once ehehhehe please lie for us!!!
      * 
      * Why dont you produce sentences ? Just ignoring ?
+     * Guess who is not wanted nor an intelligent human ? Just the disgusting animal they accuse others to be
      * 
       **/ 
 
