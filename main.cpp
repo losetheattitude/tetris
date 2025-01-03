@@ -1471,6 +1471,7 @@ int main()
      * Ehehehehehheh really funny stuff, what are you waiting for ?
      * 
      * Whats wrong with you ? Handling children eheheh
+     * The genius nation who can not be the same disgusting animal against others who can uphold them ? Is that what you all are ?
      * 
       **/ 
 
