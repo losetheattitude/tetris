@@ -1391,6 +1391,8 @@ int main()
      * How about you pay for your own actions and deal with your own problems ? Delusional genius nation ?
      * How about you learn some rules first ? Instead of offering women ? Like handling your own problems before
      * you be a problem for others ? Guess who is not wanted despite the really great titles they hold ?
+     * 
+     * Do the great titled people need some education on the rules ?
       **/
 
 
