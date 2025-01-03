@@ -1409,7 +1409,7 @@ int main()
      * How about you just forget about everything you have committed and just gather some people to harm ? ehehehehehhehe funny and intelligent stuff
      * Just like the inferior animal you are, I am not interested 
      * 
-     * Only interested in the payment of your actions
+     * Only interested in the payment of your actions, Its about time you pay for your own actions instead of ignoring what could have been
       **/
 
 
