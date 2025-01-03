@@ -35,6 +35,8 @@ int main()
      * I am telling you that not even a thing has changed ? So where did you arrive now ?
      * 
      * What happened now ? How many years have you superiorly decided although nothing was being granted to you ?
+     * 
+     * What has changed after years of irrelevant actions ? Why arent you talking sense ? What happened to your genius ?
       **/ 
 
 
