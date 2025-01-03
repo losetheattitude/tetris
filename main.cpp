@@ -1393,6 +1393,7 @@ int main()
      * you be a problem for others ? Guess who is not wanted despite the really great titles they hold ?
      * 
      * Do the great titled people need some education on the rules ?
+     * Or you just want to believe in a fantasy that you are a great and really intelligent genius nation ?
       **/
 
 
