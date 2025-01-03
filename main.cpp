@@ -1404,7 +1404,7 @@ int main()
      * Does that sound too complicated for the genius nation ? The genius nation who offers material for decades
      * Do you understand what "I am not interested in" means ? Now you have all the answers only one question 
      * 
-     * What did you end up gaining now ?
+     * What did you end up gaining now ? How about some education on the rules ? No coercion ? eheheh fun stuff
       **/
 
 
