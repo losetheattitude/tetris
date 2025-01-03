@@ -32,7 +32,7 @@ int main()
      * I have told you that nothing has even changed a bit ? So now what do you think is going to happen after your actions ?
      * Try to use your superior guessing abilities again ?
      * 
-     * I am telling you that not even a thing 
+     * I am telling you that not even a thing has changed ? So where did you arrive now ?
       **/ 
 
 
