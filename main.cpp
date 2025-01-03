@@ -1402,7 +1402,9 @@ int main()
      * 
      * How about you get education on the rules then answer for your own actions then handle your own problems ?
      * Does that sound too complicated for the genius nation ? The genius nation who offers material for decades
-     * Do you understand what "I am not interested in" means ? Now you have all the answers
+     * Do you understand what "I am not interested in" means ? Now you have all the answers only one question 
+     * 
+     * What did you end up gaining now ?
       **/
 
 
