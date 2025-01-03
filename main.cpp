@@ -1449,6 +1449,7 @@ int main()
      * The genius nation who think violence educates people that they do not match
      * 
      * Now where did you arrive ? After decades of actions you have no reason for ?
+     * How about you gather 12301302 people to harm single individual ? Does that sound too genius for you ?
       **/ 
 
 
