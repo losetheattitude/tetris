@@ -45,7 +45,7 @@ int main()
      * Guess what has not changed ?
      * 
      * The most useless thing you could have ever done, and guess who is not surprised at your incompetency at hiding your true intentions ?
-     * What are you doing ? ehehehe ?
+     * What are you doing ? ehehehe ? Guess who is not interested in helping out selfish people ?
       **/ 
 
 
