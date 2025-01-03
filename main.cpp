@@ -1443,7 +1443,7 @@ int main()
      * I do not want no unaccountable disgusting animals around me, thats the only thing you can ever hear, thats it
      * The disgusting never learning animals, I am not interested in
      * 
-     * You only live once btw ehehe
+     * You only live once btw ehehe, who is now deluding about other's happiness ?
       **/ 
 
 
