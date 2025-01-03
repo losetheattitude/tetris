@@ -1401,7 +1401,7 @@ int main()
      * You know what, thats really educated and scary stuff
      * 
      * How about you get education on the rules then answer for your own actions then handle your own problems ?
-     * Does that sound too complicated for the genius nation ?
+     * Does that sound too complicated for the genius nation ? The genius nation who offers material for decades
       **/
 
 
