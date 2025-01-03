@@ -37,6 +37,7 @@ int main()
      * What happened now ? How many years have you superiorly decided although nothing was being granted to you ?
      * 
      * What has changed after years of irrelevant actions ? Why arent you talking sense ? What happened to your genius ?
+     * Who gained what after 30 years ?
       **/ 
 
 
