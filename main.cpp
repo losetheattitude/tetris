@@ -1414,6 +1414,7 @@ int main()
      * 
      * The genius nation btw, eheheheh we hide behind ideas and forget about everything eheheheheheh 
      * Just like the inferior disgusting animal that you all are, now what are you begging for genius nation ?
+     * Ehehehehehe its fate please hehehehe its fate!!! life simulation eeheheheheheheheh you only live once hehehe genius nation ehehehhe
       **/ 
 
 
