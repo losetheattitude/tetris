@@ -1436,7 +1436,7 @@ int main()
      * You love ignoring as that is the only quality you have, Still hiding behind your immaculate logic ? ehheehhehe 
      * Still deluding that you should make decisions ? eheheheheh pls genius ehehe nation eheheh genius nation
      * 
-     * You are neither welcome nor wanted nor respected
+     * You are neither welcome nor wanted nor respected, still avoiding the consequences or you just genius nation ?
       **/ 
 
 
