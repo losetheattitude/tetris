@@ -1448,7 +1448,7 @@ int main()
      * The delusional disgusting geniuses who think deprivation builds people
      * The genius nation who think violence educates people that they do not match
      * 
-     * Now where did you arrive ?
+     * Now where did you arrive ? After decades of actions you have no reason for ?
       **/ 
 
 
