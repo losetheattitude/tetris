@@ -42,6 +42,7 @@ int main()
      * You know what, why dont you gather 2123013 people and do more harm to see if its helpful still ?
      * Guess who will never be interested in people like you ?
      * Guess who would never consider a group that can not account for its behavior ?
+     * Guess what has not changed ?
       **/ 
 
 
