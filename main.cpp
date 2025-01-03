@@ -1445,6 +1445,7 @@ int main()
      * 
      * You only live once btw ehehe, who is now deluding about other's happiness  ?
      * What have you produced now ? The genius nation can answer questions ? WHAT DID YOU ACHIEVE NOW ?
+     * The delusional disgusting geniuses who think deprivation builds people
       **/ 
 
 
