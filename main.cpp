@@ -1399,6 +1399,9 @@ int main()
      * Do you need some education on the rules the genius nation btw ?
      * More like an immature one, how about some ignorance ? eheheh its just a couple decades, nobody would be angry about it ?
      * You know what, thats really educated and scary stuff
+     * 
+     * How about you get education on the rules then answer for your own actions then handle your own problems ?
+     * Does that sound too complicated for the genius nation ?
       **/
 
 
