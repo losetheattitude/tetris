@@ -50,6 +50,7 @@ int main()
      * No resources is definitely the way to go, its most helpful as your allegations are too
      * Do you want to be reminded to your prior actions or you would just love to ignore them as well ? 
      * What is it called when someone is ignorant but also ignores his own actions that harm innocent people ?
+     * How come you take others to be as cheap as you ? the genius nation you say ?
       **/ 
 
 
