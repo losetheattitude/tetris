@@ -1397,6 +1397,7 @@ int main()
      * How about some education on the rules first then you handle your own problems ? Or just some violence right ? ehehehehehe
      * Now the genius nation, where did you arrive ? eheheh ? What did you produce now ?
      * Do you need some education on the rules the genius nation btw ?
+     * More like an immature one
       **/
 
 
