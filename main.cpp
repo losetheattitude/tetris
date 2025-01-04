@@ -73,7 +73,7 @@ int main()
      * How about some selfishness and ignorance with some genius nation ehehehehehehehhehehehe
      * 
      * I do not accept any of you around me, the very inferior animals who can not comprehend that you do not get to make that decision
-     * You still do not realize your mistake ?
+     * You still do not realize your mistake ? Or you would just rather enjoy your experiences and ignore your disgusting actions ?
      * 
       **/ 
 
