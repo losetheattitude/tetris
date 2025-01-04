@@ -93,6 +93,8 @@ int main()
      * Do you have something accurate to say ? The genius nation ?
      * Why dont you gather 102312321 people and attack your surroundings ?
      * 
+     * Do you see the ignorance and incompetency ? I am sure you do not see that as well
+     * 
       **/ 
 
 
