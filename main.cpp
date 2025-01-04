@@ -60,7 +60,7 @@ int main()
      * Most scary stuff, really really scary stuff, as scary as your intelligence and development and genius eheheheheheh
      * 
      * Fucking immature ignorant kids, I am not interested in
-     * directionless stupid animals
+     * directionless stupid animals, why are you begging to avoid your intentional actions ? thats how to be what ? eheheeheh
      * 
       **/ 
 
