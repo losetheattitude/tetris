@@ -85,6 +85,7 @@ int main()
      * Immature people who does not understand that they are not wanted nor do they see they are not achieving anything
      * Guess who is not genius nation ?
      * Guess who does not communicate through spoken language ?
+     * Guess who does not abide by the "rules" that they brag about
      * 
       **/ 
 
