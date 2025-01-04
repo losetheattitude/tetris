@@ -94,6 +94,7 @@ int main()
      * Why dont you gather 102312321 people and attack your surroundings ?
      * 
      * Do you see the ignorance and incompetency ? I am sure you do not see that as well
+     * How about you advise people to calm down while you commit the unspeakable ? How does that sound ?
      * 
       **/ 
 
