@@ -145,6 +145,8 @@ int main()
      * Guess who is delusional on think the most normal things would change the perspective of decades ?
      * Now again, what did you achieve ? Guess who is not interested in delusional people ?
      * Guess who can not account for their behaviors ?
+     * 
+     * Guess who can not explain no resources with "eheheh the violence obligatory" 
       **/ 
 
 
