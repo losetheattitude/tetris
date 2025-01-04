@@ -72,7 +72,7 @@ int main()
      * Ehehehe, he needs to be educated ehehehe, how about we ignore years of evidence and eheheh some violence because we think we are good animals eheheh
      * How about some selfishness and ignorance with some genius nation ehehehehehehehhehehehe
      * 
-     * I do not accept any of you around me
+     * I do not accept any of you around me, the very inferior animals who can not comprehend that you do not get to make that decision
      * 
       **/ 
 
