@@ -70,6 +70,7 @@ int main()
      * How about some coercion of medicines and feel good afterwards about your ability to handle children ?
      * 
      * Ehehehe, he needs to be educated ehehehe, how about we ignore years of evidence and eheheh some violence because we think we are good animals eheheh
+     * How about some selfishness and ignorance with some genius nation ehehehehehehehhehehehe
      * 
       **/ 
 
