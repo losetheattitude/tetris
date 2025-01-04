@@ -83,6 +83,7 @@ int main()
      * 
      * Get the fuck out of my face with your inexplicable disgusting actions that you hide behind obscure entities
      * Immature people who does not understand that they are not wanted nor do they see they are not achieving anything
+     * Guess who is not genius nation ?
      * 
       **/ 
 
