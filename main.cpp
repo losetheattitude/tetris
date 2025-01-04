@@ -147,6 +147,7 @@ int main()
      * Guess who can not account for their behaviors ?
      * 
      * Guess who can not explain no resources with "eheheh the violence obligatory" 
+     * Do you want to talk about your violence motivated actions ?
       **/ 
 
 
