@@ -112,6 +112,7 @@ int main()
      * You already know its not okay, so better prepare to pay for your own actions then handle your own problems
      * 
      * Why dont you talk about your own actions that have no reason ?
+     * What are you waiting for ? disgusting animals ?
       **/ 
 
 
