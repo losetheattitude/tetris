@@ -79,6 +79,7 @@ int main()
      * 
      * How about you deal with your own problems and do not act like you know what you are doing ?
      * How about you get the fuck out of my face 
+     * You are still not arriving to nowhere ? ehehehehe genius nation you said ?
      * 
       **/ 
 
