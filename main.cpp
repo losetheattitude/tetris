@@ -103,6 +103,7 @@ int main()
      * Reallly realllyy competent and wise and skillfull and scary people, what are you waiting for ? eheheheh
      * 
      * How about you pay for your own actions and get the fuck out of my face ?
+     * The great competent and skillful and what else were you saying ? Genius nation eheheheh
      * 
       **/ 
 
