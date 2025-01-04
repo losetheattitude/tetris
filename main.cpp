@@ -141,7 +141,7 @@ int main()
      * Making the mistake of "guessing" miserably that I will start suddenly begging like you do ?
      * How about some medicine ? eheh ? You have achieved the unachievable!!!! yeyyyy eheheh genius nation btw!!!
      * 
-     * Try to guess who is not interested ?
+     * Try to guess who is not interested in a couple group of people who has nothing better to do than to harm people ?
       **/ 
 
 
