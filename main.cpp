@@ -115,6 +115,7 @@ int main()
      * What are you waiting for ? disgusting animals ?
      * 
      * Still not achieving anything other than cheap actions ? who could be wrong ?
+     * Where is the great outcome of your reasonable and obligatory actions ?
       **/ 
 
 
