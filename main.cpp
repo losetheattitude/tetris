@@ -105,6 +105,7 @@ int main()
      * How about you pay for your own actions and get the fuck out of my face ?
      * The great competent and skillful and what else were you saying ? Genius nation eheheheh
      * 
+     * Are you still making offers ? With which disgusting audacity ? 
       **/ 
 
 
