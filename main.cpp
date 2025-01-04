@@ -59,6 +59,8 @@ int main()
      * lets gather 10230012 people and assault single individual ehehhehehe, intelligent and developed and eheheheheh genius eheheh
      * Most scary stuff, really really scary stuff, as scary as your intelligence and development and genius eheheheheheh
      * 
+     * Fucking immature ignorant kids, I am not interested in
+     * 
       **/ 
 
 
