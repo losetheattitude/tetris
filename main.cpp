@@ -122,6 +122,7 @@ int main()
      * Do you still need help ? eheheheheh ? Help us!!! eheheh
      * 
      * Stupid disgusting animals, you still look around for guilty party ? eheheh ?
+     * How about you pay for your actions and get the fuck out of my face ?
       **/ 
 
 
