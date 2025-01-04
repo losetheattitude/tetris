@@ -97,6 +97,7 @@ int main()
      * How about you advise people to calm down while you commit the unspeakable ? How does that sound ?
      * Do you now see the incompetency even at failing at your job ?
      * How about you talk more about time as if you understand or care about shit ?
+     * Isnt it too funny that you offer what your disgusting nature would love to have ?
      * 
       **/ 
 
