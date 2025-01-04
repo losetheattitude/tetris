@@ -100,6 +100,7 @@ int main()
      * Isnt it too funny that you offer what your disgusting nature would love to have ?
      * 
      * Are you planning to explain and account for your own behavior the genius nation ? or just like harming irrelevant people ?
+     * Reallly realllyy competent and wise and skillfull and scary people, what are you waiting for ? eheheheh
      * 
       **/ 
 
