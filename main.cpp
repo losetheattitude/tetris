@@ -128,6 +128,7 @@ int main()
      * Are you still predicting the happiness of someone you are actively harming ?
      * 
      * What is the new major aim now ? hehehehehe its just a couple decades!!!!! its nothing!!
+     * We just offer the normal things, and suddenly its fine!!!
       **/ 
 
 
