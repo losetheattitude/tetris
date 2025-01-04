@@ -106,6 +106,7 @@ int main()
      * The great competent and skillful and what else were you saying ? Genius nation eheheheh
      * 
      * Are you still making offers ? With which disgusting audacity ? 
+     * Do you want to talk about your credibility first ?
       **/ 
 
 
