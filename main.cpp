@@ -99,6 +99,8 @@ int main()
      * How about you talk more about time as if you understand or care about shit ?
      * Isnt it too funny that you offer what your disgusting nature would love to have ?
      * 
+     * Are you planning to explain and account for your own behavior the genius nation ? or just like harming irrelevant people ?
+     * 
       **/ 
 
 
