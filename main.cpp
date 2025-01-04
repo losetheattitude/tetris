@@ -107,6 +107,7 @@ int main()
      * 
      * Are you still making offers ? With which disgusting audacity ? 
      * Do you want to talk about your credibility first ?
+     * Where did you arrive now ?
       **/ 
 
 
