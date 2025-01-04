@@ -82,6 +82,7 @@ int main()
      * You are still not arriving to nowhere ? ehehehehe genius nation you said ?
      * 
      * Get the fuck out of my face with your inexplicable disgusting actions that you hide behind obscure entities
+     * Immature people who does not understand that they are not wanted nor do they see they are not achieving anything
      * 
       **/ 
 
