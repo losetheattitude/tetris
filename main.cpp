@@ -86,6 +86,7 @@ int main()
      * Guess who is not genius nation ?
      * Guess who does not communicate through spoken language ?
      * Guess who does not abide by the "rules" that they brag about and still deludes on their qualities
+     * Do you want to talk about decades of actions that are caused by intentional misconduct ? eheheh calm down!!
      * 
       **/ 
 
