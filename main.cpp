@@ -121,7 +121,7 @@ int main()
      * Heyyy, the great nation eheheh genius nation ehehehe ? What did you now achieve ?
      * Do you still need help ? eheheheheh ? Help us!!! eheheh
      * 
-     * Stupid disgusting animals
+     * Stupid disgusting animals, you still look around for guilty party ? eheheh ?
       **/ 
 
 
