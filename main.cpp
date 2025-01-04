@@ -89,6 +89,7 @@ int main()
      * Do you want to talk about decades of actions that are caused by intentional misconduct ? eheheh calm down!!
      * 
      * What do you want to talk about now ? Your wiseness or fairness or skillfulness ? do you see the delusion ?
+     * How about you ignore years of evidence and try to justify your impossible actions ?
      * 
       **/ 
 
