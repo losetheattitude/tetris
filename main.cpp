@@ -69,7 +69,7 @@ int main()
      * Just guess who is not interested in interacting with insecure inferior animals ?
      * How about some coercion of medicines and feel good afterwards about your ability to handle children ?
      * 
-     * Ehehehe, he needs to be educated ehehehe
+     * Ehehehe, he needs to be educated ehehehe, how about we ignore years of evidence and eheheh some violence because we think we are good animals eheheh
      * 
       **/ 
 
