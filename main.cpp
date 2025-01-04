@@ -133,6 +133,7 @@ int main()
      * 
      * Are you still deluding on your achievements ?
      * What exactly have you accomplished now ?
+     * Guess who is not alike to you ? I am not interested in anything you could possibly form ? How many times do you think you need to hear that ?
       **/ 
 
 
