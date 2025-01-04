@@ -142,6 +142,7 @@ int main()
      * How about some medicine ? eheh ? You have achieved the unachievable!!!! yeyyyy eheheh genius nation btw!!!
      * 
      * Try to guess who is not interested in a couple group of people who has nothing better to do than to harm people ?
+     * Guess who is delusional on think the most normal things would change the perspective of decades ?
       **/ 
 
 
