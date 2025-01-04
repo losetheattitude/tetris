@@ -151,6 +151,7 @@ int main()
      * What are you waiting for to happen ? Ehehehehehe ? why not more children for you to HANDLE ?
      * 
      * Whats the aim in your stupid behavior ? How about you demonstrate how great you are through violence heheheheh ?
+     * I do not have time for directionless people, I am not interested, you can get the fuck out of my face
       **/ 
 
 
