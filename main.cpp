@@ -77,6 +77,8 @@ int main()
      * How about you try harder to come up with bullshit for your actions ? How about you explain your conduct before impartial people ?
      * Instead of deluding on your competency ?
      * 
+     * How about you deal with your own problems and do not act like you know what you are doing ?
+     * 
       **/ 
 
 
