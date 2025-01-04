@@ -90,6 +90,7 @@ int main()
      * 
      * What do you want to talk about now ? Your wiseness or fairness or skillfulness ? do you see the delusion ?
      * How about you ignore years of evidence and try to justify your impossible actions ?
+     * Do you have something accurate to say ? The genius nation ?
      * 
       **/ 
 
