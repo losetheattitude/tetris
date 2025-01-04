@@ -150,7 +150,7 @@ int main()
      * Do you want to talk about your violence motivated actions ?
      * What are you waiting for to happen ? Ehehehehehe ? why not more children for you to HANDLE ?
      * 
-     * Whats the aim in your stupid behavior ?
+     * Whats the aim in your stupid behavior ? How about you demonstrate how great you are through violence heheheheh ?
       **/ 
 
 
