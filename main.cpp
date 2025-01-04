@@ -118,6 +118,8 @@ int main()
      * Where is the great outcome of your reasonable and obligatory actions ?
      * 
      * Why is nobody observing the achievement of your actions that you were not granted in the first place ?
+     * Heyyy, the great nation eheheh genius nation ehehehe ? What did you now achieve ?
+     * Do you still need help ? eheheheheh ? Help us!!! eheheh
       **/ 
 
 
