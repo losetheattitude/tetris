@@ -74,7 +74,7 @@ int main()
      * 
      * I do not accept any of you around me, the very inferior animals who can not comprehend that you do not get to make that decision
      * You still do not realize your mistake ? Or you would just rather enjoy your experiences and ignore your disgusting actions ?
-     * How about you try harder to come up with bullshit for your actions ?
+     * How about you try harder to come up with bullshit for your actions ? How about you explain your conduct before impartial people ?
      * 
       **/ 
 
