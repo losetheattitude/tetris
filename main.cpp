@@ -102,6 +102,8 @@ int main()
      * Are you planning to explain and account for your own behavior the genius nation ? or just like harming irrelevant people ?
      * Reallly realllyy competent and wise and skillfull and scary people, what are you waiting for ? eheheheh
      * 
+     * How about you pay for your own actions and get the fuck out of my face ?
+     * 
       **/ 
 
 
