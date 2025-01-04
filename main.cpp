@@ -109,6 +109,7 @@ int main()
      * Do you want to talk about your credibility first ?
      * Where did you arrive now ? You were saying illegal ?
      * How about you get the fuck out of my face while knowing that you have wasted irreparable amount of time ?
+     * You already know its not okay, so better prepare to pay for your own actions then handle your own problems
       **/ 
 
 
