@@ -53,7 +53,7 @@ int main()
      * How come you take others to be as cheap as you ? the genius nation you say ?
      * Did you now manage to recognize your nature btw ? Handlers of the children, ehehe coercion is just good!!
      * 
-     * Illegal btw ehehehhe
+     * Illegal btw ehehehhe, enemies enemies ehehhehe illegal btw hehehehe
      * 
       **/ 
 
