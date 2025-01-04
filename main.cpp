@@ -96,6 +96,7 @@ int main()
      * Do you see the ignorance and incompetency ? I am sure you do not see that as well
      * How about you advise people to calm down while you commit the unspeakable ? How does that sound ?
      * Do you now see the incompetency even at failing at your job ?
+     * How about you talk more about time as if you understand or care about shit ?
      * 
       **/ 
 
