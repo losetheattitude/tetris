@@ -52,6 +52,9 @@ int main()
      * What is it called when someone is ignorant but also ignores his own actions that harm innocent people ?
      * How come you take others to be as cheap as you ? the genius nation you say ?
      * Did you now manage to recognize your nature btw ? Handlers of the children, ehehe coercion is just good!!
+     * 
+     * Illegal btw ehehehhe
+     * 
       **/ 
 
 
