@@ -169,6 +169,7 @@ int main()
      * 
      * Still wasting time because you are incompetent but also can not handle your emotions ?
      * Ignoring yet you can not still come up with more excuses, the genius nation ? What a shame!!!
+     * You should have been a begger, you would have made so much money ehehehehhe
       **/ 
 
 
