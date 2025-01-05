@@ -221,6 +221,7 @@ int main()
      * Guess who also believes lacking resources would help, who is delusional ?
      * 
      * Still accusing people you have no relation ? awwww, thats definitely genius
+     * Ehehehe you still gather 12392131 people and harm others ? THAT IS GENIUS!!!
       **/ 
 
 
