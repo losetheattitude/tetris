@@ -205,6 +205,7 @@ int main()
      * Now what have you achieved after decades ? Stupid monkeys ?
      * 
      * Are you still offering ? You can get the fuck out of my face with your disgusting inexplicable nature ? Does the genius nation follow ?
+     * Proud nation btw, proud to make offers ehehehhe so genius
       **/ 
 
 
