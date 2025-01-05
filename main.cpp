@@ -219,6 +219,8 @@ int main()
      * "proud, genius, credible, fair" whilst the reality is the opposite, guess who can not produce anything proper ?
      * Guess who is delusional ?
      * Guess who also believes lacking resources would help, who is delusional ?
+     * 
+     * Still accusing people you have no relation ? awwww, thats definitely genius
       **/ 
 
 
