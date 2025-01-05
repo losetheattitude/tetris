@@ -188,6 +188,8 @@ int main()
      * 
      * Ehehe some more violence may be it changes what is not a problem eheheheh
      * What happened ? What changed now ? Just a couple of decades that you do not even care unless its your experience ?
+     * 
+     * Who told you you are allowed ?
       **/ 
 
 
