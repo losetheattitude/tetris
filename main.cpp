@@ -224,7 +224,7 @@ int main()
      * Ehehehe you still gather 12392131 people and harm others ? THAT IS GENIUS!!!
      * 
      * You must be really proud of yourselves hehehehehe, really fun stuff
-     * You only live once, eheheh genius nation!!
+     * You only live once, eheheh genius nation!! Lets waste only the someone else's time!!!!!! hehehe genius!!
       **/ 
 
 
