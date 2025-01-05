@@ -176,6 +176,7 @@ int main()
      * Eheheh that sounds like the competency you brag eheheh
      * 
      * How about you handle your own incompetency problems then you handle your disgusting selfishness may be we can match ?
+     * I am not interested in disgusting animals who take themselves to be something they are not, you can delude whatever long
       **/ 
 
 
