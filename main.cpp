@@ -206,6 +206,9 @@ int main()
      * 
      * Are you still offering ? You can get the fuck out of my face with your disgusting inexplicable nature ? Does the genius nation follow ?
      * Proud nation btw, proud to make offers ehehehhe so genius
+     * 
+     * The proud and genius and credible and fair nation need more people to harm and frame ? May be then beg through "offers" ?
+     * Then suddenly lack even the most basic resources as "computer" ?
       **/ 
 
 
