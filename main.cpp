@@ -199,6 +199,7 @@ int main()
      * 
      * Where have you arrived now ? After 30 years ? Are you still making offers ?
      * I have not allowed anything to come "especially" from you
+     * You pay for your own actions
       **/ 
 
 
