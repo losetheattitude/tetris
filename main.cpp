@@ -180,6 +180,8 @@ int main()
      * 
      * Are you still deluding on your "handling" ? What have you achieved now ?
      * I am not interested in associating myself with disgusting natured people, especially those who ignore things that matter
+     * 
+     * Trying to avoid being upholded to their disgusting crimes through making offers, as their disgusting nature can only negotiate with materials
       **/ 
 
 
