@@ -162,7 +162,7 @@ int main()
      * Or the genius nation can only coerce things ? eheheh what a genius nation
      * 
      * What makes you think anyone would "understand" your position ?
-     * What has changed now ?
+     * What has changed now ? How about some more coercion of medicine ? It has done wonders so far right ? The genius nation ?
       **/ 
 
 
