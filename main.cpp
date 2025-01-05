@@ -187,7 +187,7 @@ int main()
      * Why are you still here begging ? Real tough guys ehehehehe also genius nation eheheh
      * 
      * Ehehe some more violence may be it changes what is not a problem eheheheh
-     * What happened ? What changed now ?
+     * What happened ? What changed now ? Just a couple of decades that you do not even care unless its your experience ?
       **/ 
 
 
