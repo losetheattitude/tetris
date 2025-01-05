@@ -174,6 +174,8 @@ int main()
      * 
      * Do you see why you are inferior ? Do you need more children to beg ? How about gathering 123021 people ? 
      * Eheheh that sounds like the competency you brag eheheh
+     * 
+     * How about you handle your own incompetency problems then you handle your disgusting selfishness may be we can match ?
       **/ 
 
 
