@@ -166,6 +166,8 @@ int main()
      * 
      * ehehehehe the genius nation who has done perfect with irrelevant people hehehehe what a group never learning monkeys right ?
      * Try harder, life a simulation eheheh time does not exist eheheh 
+     * 
+     * Still wasting time because you are incompetent but also can not handle your emotions ?
       **/ 
 
 
