@@ -184,6 +184,7 @@ int main()
      * Trying to avoid being upholded to their disgusting crimes through making offers, as their disgusting nature can only negotiate with materials
      * 
      * Are you still making offers after your disgusting ignorance at delivering them ? What a shame you are just like the disgusting average animals
+     * Why are you still here begging ?
       **/ 
 
 
