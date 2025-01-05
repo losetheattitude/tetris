@@ -225,6 +225,8 @@ int main()
      * 
      * You must be really proud of yourselves hehehehehe, really fun stuff
      * You only live once, eheheh genius nation!! Lets waste only the someone else's time!!!!!! hehehe genius!!
+     * 
+     * Lets harm ONLY SOMEONE ELSE!
       **/ 
 
 
