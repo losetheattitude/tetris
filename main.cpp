@@ -201,7 +201,7 @@ int main()
      * I have not allowed anything to come "especially" from you
      * You pay for your own actions
      * 
-     * What have you done now ? eheheheh ?
+     * What have you done now ? eheheheh ? Why are you the one who is hiding behind entities that you do not understand ?
       **/ 
 
 
