@@ -214,6 +214,9 @@ int main()
      * Do you now perceive who is the delusional and who is inferior ?
      * Eheheheh we built computers heheeheheh we think we did that ehehehe not true smart people heheheeh
      * Just enjoy your ignorance, do it from out of my vicinity, I am not interested
+     * 
+     * Not interested in people who are claiming all sorts of bullshit like
+     * "proud, genius, credible, fair" whilst the reality is the opposite, guess who can not produce anything proper ?
       **/ 
 
 
