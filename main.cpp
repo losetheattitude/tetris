@@ -172,7 +172,8 @@ int main()
      * You should have been a begger, you would have made so much money ehehehehhe
      * Do you understand the meaning of cheap now ? eheheheh 
      * 
-     * Do you see why you are inferior ? Do you need more children to beg ?
+     * Do you see why you are inferior ? Do you need more children to beg ? How about gathering 123021 people ? 
+     * Eheheh that sounds like the competency you brag eheheh
       **/ 
 
 
