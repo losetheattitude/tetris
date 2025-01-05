@@ -159,6 +159,7 @@ int main()
      * Which part is the beneficial part now help everyone see ?
      * 
      * Where is the greater good part the genius nation can point out ?
+     * Or the genius nation can only coerce things ? eheheh what a genius nation
       **/ 
 
 
