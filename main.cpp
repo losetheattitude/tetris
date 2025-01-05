@@ -162,6 +162,7 @@ int main()
      * Or the genius nation can only coerce things ? eheheh what a genius nation
      * 
      * What makes you think anyone would "understand" your position ?
+     * What has changed now ?
       **/ 
 
 
