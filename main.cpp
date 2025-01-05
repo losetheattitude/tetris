@@ -213,6 +213,7 @@ int main()
      * Awwwww, you are the most single genius nation and its society that I have never seen before
      * Do you now perceive who is the delusional and who is inferior ?
      * Eheheheh we built computers heheeheheh we think we did that ehehehe not true smart people heheheeh
+     * Just enjoy your ignorance
       **/ 
 
 
