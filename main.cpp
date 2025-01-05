@@ -168,6 +168,7 @@ int main()
      * Try harder, life a simulation eheheh time does not exist eheheh 
      * 
      * Still wasting time because you are incompetent but also can not handle your emotions ?
+     * Ignoring yet you can not still come up with more excuses, the genius nation ? What a shame!!!
       **/ 
 
 
