@@ -160,6 +160,8 @@ int main()
      * 
      * Where is the greater good part the genius nation can point out ?
      * Or the genius nation can only coerce things ? eheheh what a genius nation
+     * 
+     * What makes you think anyone would "understand" your position ?
       **/ 
 
 
