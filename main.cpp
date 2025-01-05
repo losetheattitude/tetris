@@ -196,6 +196,8 @@ int main()
      * WHAT HAS CHANGED ? What have you produced now ? Aside then decades of wasted time ?
      * What is the next genius move by the genius nation ? eheheheh
      * What have you produced by assaulting irrelevant people ? What happened now ?
+     * 
+     * Where have you arrived now ? After 30 years ? Are you still making offers ?
       **/ 
 
 
