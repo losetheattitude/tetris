@@ -185,6 +185,8 @@ int main()
      * 
      * Are you still making offers after your disgusting ignorance at delivering them ? What a shame you are just like the disgusting average animals
      * Why are you still here begging ? Real tough guys ehehehehe also genius nation eheheh
+     * 
+     * Ehehe some more violence may be it changes what is not a problem eheheheh
       **/ 
 
 
