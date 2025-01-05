@@ -222,6 +222,8 @@ int main()
      * 
      * Still accusing people you have no relation ? awwww, thats definitely genius
      * Ehehehe you still gather 12392131 people and harm others ? THAT IS GENIUS!!!
+     * 
+     * You must be really proud of yourselves hehehehehe, really fun stuff
       **/ 
 
 
