@@ -165,7 +165,7 @@ int main()
      * What has changed now ? How about some more coercion of medicine ? It has done wonders so far right ? The genius nation ?
      * 
      * ehehehehe the genius nation who has done perfect with irrelevant people hehehehe what a group never learning monkeys right ?
-     * Try harder
+     * Try harder, life a simulation eheheh time does not exist eheheh 
       **/ 
 
 
