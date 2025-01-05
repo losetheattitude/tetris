@@ -163,6 +163,8 @@ int main()
      * 
      * What makes you think anyone would "understand" your position ?
      * What has changed now ? How about some more coercion of medicine ? It has done wonders so far right ? The genius nation ?
+     * 
+     * ehehehehe the genius nation who has done perfect with irrelevant people hehehehe what a group never learning monkeys right ?
       **/ 
 
 
