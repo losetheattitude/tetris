@@ -218,6 +218,7 @@ int main()
      * Not interested in people who are claiming all sorts of bullshit like
      * "proud, genius, credible, fair" whilst the reality is the opposite, guess who can not produce anything proper ?
      * Guess who is delusional ?
+     * Guess who also believes lacking resources would help, who is delusional ?
       **/ 
 
 
