@@ -156,6 +156,7 @@ int main()
      * I am not interested in disgusting animals who think depriving resources would help everyone
      * What did you do now ? Do you now see the ignorance part ?
      * Do you see the beneficial part now ? eheheh?
+     * Which part is the beneficial part now help everyone see ?
       **/ 
 
 
