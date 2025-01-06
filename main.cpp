@@ -243,7 +243,7 @@ int main()
      * Guess who is entirely at wrong and not welcomed rightfully ?
      * What do you have now to say ? Just assault geniusly ehehehehhehehe really fun and competent stuff
      * 
-     * Fucking drunk people ?
+     * Fucking drunk people ? What have you achieved now ? eheheh just doing our job ehehehe ?
       **/ 
 
 
