@@ -251,6 +251,7 @@ int main()
      * What are the implications of decades of deprivation of resources that are key to "life" ? eheheh life a simulation eheheh
      * Still wasting time that does not belong to you ? eheheh
      * No resources is definitely helpful especially coming from the minds of such a highly regarded group
+     * You can get the fuck out of my face
       **/ 
 
 
