@@ -252,6 +252,8 @@ int main()
      * Still wasting time that does not belong to you ? eheheh
      * No resources is definitely helpful especially coming from the minds of such a highly regarded group
      * You can get the fuck out of my face
+     * 
+     * What changed smart and credible and delusional people ?
       **/ 
 
 
