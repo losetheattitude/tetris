@@ -235,6 +235,8 @@ int main()
      * 
      * Ehehehehe we tryna improve people eheheheh, do you know what is called miserable ?
      * Eheheheh life is not fair heehheheheehhe life simulation eheheheh genius nation eheheheheh handling children real good eheheh
+     * 
+     * Why dont you come back at your "mistake" and think it through ehehehehehe genius btw
       **/ 
 
 
