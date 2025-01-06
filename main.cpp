@@ -246,6 +246,7 @@ int main()
      * Fucking drunk people ? What have you achieved now ? eheheh just doing our job ehehehe ?
      * You are still wasting time THAT DOES NOT BELONG TO YOU ?
      * Do you want to talk about the implications of wasting decades ?
+     * Or would you rather ignore and act like nothing happened thus there would be no problems in the "individual"s life ?
       **/ 
 
 
