@@ -249,6 +249,7 @@ int main()
      * Or would you rather ignore and act like nothing happened thus there would be no problems in the "individual"s life ?
      * 
      * What are the implications of decades of deprivation of resources that are key to "life" ? eheheh life a simulation eheheh
+     * Still wasting time that does not belong to you ? eheheh
       **/ 
 
 
