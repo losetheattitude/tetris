@@ -234,6 +234,7 @@ int main()
      * I do not accept no simple animals around me
      * 
      * Ehehehehe we tryna improve people eheheheh, do you know what is called miserable ?
+     * Eheheheh life is not fair heehheheheehhe life simulation eheheheh genius nation eheheheheh handling children real good eheheh
       **/ 
 
 
