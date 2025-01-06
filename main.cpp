@@ -236,7 +236,7 @@ int main()
      * Ehehehehe we tryna improve people eheheheh, do you know what is called miserable ?
      * Eheheheh life is not fair heehheheheehhe life simulation eheheheh genius nation eheheheheh handling children real good eheheh
      * 
-     * Why dont you come back at your "mistake" and think it through ehehehehehe genius btw
+     * Why dont you come back at your "mistake" and think it throug h ehehehehehe genius btw
      * Ehehe we like harming and making false offers ehehehe, very skillful stuff, the one that I have never seen!!!
      * Ehehehe it had to be done eheheheh, genius nation eheheh 
      * 
@@ -245,6 +245,7 @@ int main()
      * 
      * Fucking drunk people ? What have you achieved now ? eheheh just doing our job ehehehe ?
      * You are still wasting time THAT DOES NOT BELONG TO YOU ?
+     * Do you want to talk about the implications of wasting decades ?
       **/ 
 
 
