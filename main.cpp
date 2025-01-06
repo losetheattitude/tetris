@@ -247,6 +247,8 @@ int main()
      * You are still wasting time THAT DOES NOT BELONG TO YOU ?
      * Do you want to talk about the implications of wasting decades ?
      * Or would you rather ignore and act like nothing happened thus there would be no problems in the "individual"s life ?
+     * 
+     * What are the implications of decades of deprivation of resources that are key to "life" ? eheheh life a simulation eheheh
       **/ 
 
 
