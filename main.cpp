@@ -228,6 +228,8 @@ int main()
      * 
      * Lets harm ONLY SOMEONE ELSE!
      * Awwwwwww, genius nation btw eheheheh
+     * 
+     * Now, what do you have to beg with ? hehehehe
       **/ 
 
 
