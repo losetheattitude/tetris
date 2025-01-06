@@ -233,7 +233,7 @@ int main()
      * How about you stop offering without realizing it ? and as if women is the only thing one can need ? eheheh ? genius nation you think ?
      * I do not accept no simple animals around me
      * 
-     * Ehehehehe we tryna improve people eheheheh
+     * Ehehehehe we tryna improve people eheheheh, do you know what is called miserable ?
       **/ 
 
 
