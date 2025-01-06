@@ -230,6 +230,7 @@ int main()
      * Awwwwwww, genius nation btw eheheheh
      * 
      * Now, what do you have to beg with ? hehehehe
+     * How about you stop offering without realizing it ? and as if women is the only thing one can need ? eheheh ? genius nation you think ?
       **/ 
 
 
