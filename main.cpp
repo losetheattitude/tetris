@@ -268,6 +268,7 @@ int main()
      * Guess what have you ended up producing ?
      * Guess who is still the same assured ignorant animal
      * Guess what happens when the people like you is acting without thinking ?
+     * Eheheh we like wasting only someone else's time because WE CAN!!!! eheheheh
       **/ 
 
 
