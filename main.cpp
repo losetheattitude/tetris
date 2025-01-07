@@ -286,6 +286,7 @@ int main()
      * Other than supposedly what they are trying to prevent ?
      * 
      * The oblivious genius nation have achieved the single thing they are trying to prevent, guess who is what ?
+     * Guess who is still begging like the inferior animals they are ?
       **/ 
 
 
