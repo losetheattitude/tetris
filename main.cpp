@@ -271,7 +271,7 @@ int main()
      * Eheheh we like wasting only someone else's time because WE CAN!!!! eheheheh
      * 
      * How about you deal with your own problems so that you do not have to beg like the inferior animal you are ?
-     * You are not welcome
+     * You are not welcome, the disgusting animals who believe deprivation of resources is helpful
       **/ 
 
 
