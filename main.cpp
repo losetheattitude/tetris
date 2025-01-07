@@ -282,6 +282,7 @@ int main()
      * Why dont you take your chances with impartial people ?
      * 
      * Why dont you handle your own problems rather than harming people ? Do the genius nation understand spoken language ?
+     * Do the genius nation understand that they have not achieved a single thing yet ?
       **/ 
 
 
