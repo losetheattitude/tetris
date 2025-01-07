@@ -258,6 +258,8 @@ int main()
      * 
      * Eheheheehhe some normal life things eheheh after 30 years ehehehehehehhe its good its fine because we did it  !!!
      * Its entirely okay, because we did it! Guess who is not interested in ignorant selfish people ?
+     * 
+     * Guess who is waiting for nothing ?
       **/ 
 
 
