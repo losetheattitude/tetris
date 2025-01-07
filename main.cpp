@@ -298,6 +298,7 @@ int main()
      * Lacking resources is the sole way, guess who is entirely wrong, handle your own problems
      * Guess who can not justify his position regardless, and rightfully not welcome
      * Guess who chose the most easy and disgusting way ?
+     * Guess who can not change the past
       **/ 
 
 
