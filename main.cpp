@@ -296,6 +296,7 @@ int main()
      * Guess who is begging through acting like its funny or fine what they have perpetrated still
      * 
      * Lacking resources is the sole way, guess who is entirely wrong, handle your own problems
+     * Guess who can not justify his position regardless, and rightfully not welcome
       **/ 
 
 
