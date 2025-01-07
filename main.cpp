@@ -291,6 +291,7 @@ int main()
      * What a shame you are an oblivious disgusting group of monkeys who would love to enjoy their experiences
      * 
      * Guess who is still not achieving what they are trying to prevent ?
+     * The singularly most funny thing you could ever do in your life, waste decades through pointless violence and deprivation, thats the life!!
       **/ 
 
 
