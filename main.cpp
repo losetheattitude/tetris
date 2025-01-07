@@ -295,7 +295,7 @@ int main()
      * Guess who thinks they should be irresponsible as they can ever be, its fine to just harm and etc, its good time, just say some nice stuff
      * Guess who is begging through acting like its funny or fine what they have perpetrated still
      * 
-     * Lacking resources is the sole way, guess who is entirely wrong
+     * Lacking resources is the sole way, guess who is entirely wrong, handle your own problems
       **/ 
 
 
