@@ -254,7 +254,9 @@ int main()
      * You can get the fuck out of my face
      * 
      * What changed smart and credible and delusional people ?
-     * Why dont the great medicines work ? eheheheh something is definitely wrong
+     * Why dont the great medicines work ? eheheheh something is definitely wrong 
+     * 
+     * Eheheheehhe some normal life things eheheh after 30 years ehehehehehehhe its good its fine because we did it  !!!
       **/ 
 
 
