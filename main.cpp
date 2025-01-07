@@ -292,6 +292,7 @@ int main()
      * 
      * Guess who is still not achieving what they are trying to prevent ?
      * The singularly most funny thing you could ever do in your life, waste decades through pointless violence and deprivation, thats the life!!
+     * Guess who thinks they should be irresponsible as they can ever be
       **/ 
 
 
