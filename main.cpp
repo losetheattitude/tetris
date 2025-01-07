@@ -267,6 +267,7 @@ int main()
      * Do you want to explain more on what has been "lost" within the time you had not allowed to decide on ?
      * Guess what have you ended up producing ?
      * Guess who is still the same assured ignorant animal
+     * Guess what happens when the people like you is acting without thinking ?
       **/ 
 
 
