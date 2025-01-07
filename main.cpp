@@ -299,6 +299,7 @@ int main()
      * Guess who can not justify his position regardless, and rightfully not welcome
      * Guess who chose the most easy and disgusting way ?
      * Guess who can not change the past
+     * Guess who won by doing nothing 
       **/ 
 
 
