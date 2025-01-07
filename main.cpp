@@ -264,6 +264,7 @@ int main()
      * Guess who is trying their hardest to hide what they have perpetrated
      * Guess who is not going to listen to you as you have done so ?
      * Guess who is going to get what they have provided ?
+     * Do you want to explain more on what has been "lost" within the time you had not allowed to decide on ?
       **/ 
 
 
