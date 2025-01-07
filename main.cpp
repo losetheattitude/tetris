@@ -287,6 +287,8 @@ int main()
      * 
      * The oblivious genius nation have achieved the single thing they are trying to prevent, guess who is what ?
      * Guess who is still begging like the inferior animals they are ?
+     * Guess who is still trying to hide their mistake by making another ? Coercion of the genius nation!!!!!!
+     * What a shame you are an oblivious disgusting group of monkeys who would love to enjoy their experiences
       **/ 
 
 
