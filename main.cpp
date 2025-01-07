@@ -260,6 +260,7 @@ int main()
      * Its entirely okay, because we did it! Guess who is not interested in ignorant selfish people ?
      * 
      * Guess who is waiting for nothing ? Eheheheheheheheheheh its just life, we like enjoying ours!!
+     * Guess who is a ignorant monkey who never learns
       **/ 
 
 
