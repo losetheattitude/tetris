@@ -301,6 +301,7 @@ int main()
      * Guess who can not change the past
      * Guess who won by doing nothing 
      * Guess who won by directionless violence and lack of resources thus no "experiences", awwww look at you
+     * Disgusting little oblivious animal
       **/ 
 
 
