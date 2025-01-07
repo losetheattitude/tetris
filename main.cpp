@@ -269,6 +269,8 @@ int main()
      * Guess who is still the same assured ignorant animal
      * Guess what happens when the people like you is acting without thinking ?
      * Eheheh we like wasting only someone else's time because WE CAN!!!! eheheheh
+     * 
+     * How about you deal with your own problems so that you do not have to beg like the inferior animal you are ?
       **/ 
 
 
