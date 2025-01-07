@@ -266,6 +266,7 @@ int main()
      * Guess who is going to get what they have provided ?
      * Do you want to explain more on what has been "lost" within the time you had not allowed to decide on ?
      * Guess what have you ended up producing ?
+     * Guess who is still the same assured ignorant animal
       **/ 
 
 
