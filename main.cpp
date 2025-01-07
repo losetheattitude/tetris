@@ -302,6 +302,8 @@ int main()
      * Guess who won by doing nothing 
      * Guess who won by directionless violence and lack of resources thus no "experiences", awwww look at you
      * Disgusting little oblivious animal
+     * 
+     * Ever wonder what ignorance looks like, eheheh
       **/ 
 
 
