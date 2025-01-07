@@ -305,6 +305,7 @@ int main()
      * 
      * Ever wonder what ignorance looks like, eheheh
      * guess who is crossing boundaries when they delude to be entitled to make the most personal choice
+     * Guess who does not recognize any boundaries
       **/ 
 
 
