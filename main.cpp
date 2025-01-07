@@ -294,6 +294,8 @@ int main()
      * The singularly most funny thing you could ever do in your life, waste decades through pointless violence and deprivation, thats the life!!
      * Guess who thinks they should be irresponsible as they can ever be, its fine to just harm and etc, its good time, just say some nice stuff
      * Guess who is begging through acting like its funny or fine what they have perpetrated still
+     * 
+     * Lacking resources is the sole way, guess who is entirely wrong
       **/ 
 
 
