@@ -273,6 +273,8 @@ int main()
      * How about you deal with your own problems so that you do not have to beg like the inferior animal you are ?
      * You are not welcome, the disgusting animals who believe deprivation of resources is helpful
      * The irrelevant monkeys who think they should make personal decisions for others
+     * 
+     * The oblivious monkeys who seem to not remember things they signed as "deal"
       **/ 
 
 
