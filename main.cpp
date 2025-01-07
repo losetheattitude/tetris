@@ -279,6 +279,7 @@ int main()
      *
      * The little oblivious disgusting inferior monkeys who are still unable to grasp the problem here
      * The disgusting little animals who coerce people into unfair and of their own nature bullshit games
+     * Why dont you take your chances with impartial people ?
       **/ 
 
 
