@@ -359,6 +359,7 @@ int main()
      * just a few women, its okay 
      * 
      * Its entirely okay to waste time with bullshit, I see, you can get the fuck out of my face
+     * Handle your own problems and do not be immature
       **/ 
 
 
