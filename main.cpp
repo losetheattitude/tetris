@@ -351,7 +351,9 @@ int main()
      * 
      * Handle your own stupid disgusting life
      * Guess who is still the same ignorant animal who can not understand what life is ?
+     * 
      * HANDLE YOUR OWN LIFE AND GET THE FUCK OUT OF MY FACE INDEFINITELY, I do not want to see any of you
+     * Act like you are doing the right thing, do it from out of my vicinity, I do not care
       **/ 
 
 
