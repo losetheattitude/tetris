@@ -313,6 +313,7 @@ int main()
      * Save your assumptions to yourselves, do you understand what is spoken language ? 
      * 
      * Eheheheheh we managed to unattainable eheheh wasting time that does not belong to us hehehe
+     * Having fun killing people ?
       **/ 
 
 
