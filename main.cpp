@@ -315,6 +315,8 @@ int main()
      * Eheheheheh we managed to unattainable eheheh wasting time that does not belong to us hehehe
      * Having fun killing people ? How about you stop begging with false offers of your disgusting nature ?
      * Wait wait, why dont the great and powerful people sacrifice ? eheheheh thats too difficult right ?
+     * 
+     * Lie for us ehehehe just waste your entire life for us ehehehheeh, get some violence ehehehe get some medicine eheheheh
       **/ 
 
 
