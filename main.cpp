@@ -309,6 +309,7 @@ int main()
      * Save your disgusting assumptions to yourselves
      * 
      * How about some more medicine to fix your disgusting nature ?
+     * Still deluding on every single possible quality you possess ?
       **/ 
 
 
