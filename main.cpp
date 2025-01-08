@@ -336,7 +336,10 @@ int main()
      * Guess who is entirely wrong yet ignorant ?
      * Do you want to know who is coercing medicine ?
      * Do you know who is at wrong ?
+     * 
+     * Guess who is not alike to fearful disgusting animals and will not bend before violence ?
       **/ 
+
 
 
 
