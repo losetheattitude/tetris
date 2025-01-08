@@ -348,6 +348,8 @@ int main()
      * 
      * How dare you still talk ? The genius nation ?
      * I do not accept no delusional criminal people, that can never change
+     * 
+     * Handle your own stupid disgusting life
       **/ 
 
 
