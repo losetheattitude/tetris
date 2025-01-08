@@ -347,6 +347,7 @@ int main()
      * How dare you still hold your ground as if you are not disgusting ?
      * 
      * How dare you still talk ? The genius nation ?
+     * I do not accept no delusional criminal people, that can never change
       **/ 
 
 
