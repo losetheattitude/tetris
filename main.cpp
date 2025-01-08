@@ -350,6 +350,7 @@ int main()
      * I do not accept no delusional criminal people, that can never change
      * 
      * Handle your own stupid disgusting life
+     * Guess who is still the same ignorant animal who can not understand what life is ?
       **/ 
 
 
