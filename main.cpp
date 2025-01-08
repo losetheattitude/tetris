@@ -338,6 +338,7 @@ int main()
      * Do you know who is at wrong ?
      * 
      * Guess who is not alike to fearful disgusting animals and will not bend before violence ?
+     * Who is the incompetent and rightfully ignorant ? Still ignoring evidence ?
       **/ 
 
 
