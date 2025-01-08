@@ -324,6 +324,7 @@ int main()
      * 
      * Guess who is not interested wasting time trying to prove things to people who are not relevant neither lawful
      * The time that does belong to one person, anyways just some violence and lack of resources will do
+     * Guess who is what in this context
       **/ 
 
 
