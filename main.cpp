@@ -343,7 +343,7 @@ int main()
      * Guess who is the fake tough guys who can not answer and account for their behavior ?
      * 
      * That is the reason you are the disgusting ignorant group who likes to act as if they are something else
-     * Get that right genius nation
+     * Get that right genius nation, how dare you still allege ?
       **/ 
 
 
