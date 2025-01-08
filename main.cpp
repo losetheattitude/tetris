@@ -317,6 +317,7 @@ int main()
      * Wait wait, why dont the great and powerful people sacrifice ? eheheheh thats too difficult right ?
      * 
      * Lie for us ehehehe just waste your entire life for us ehehehheeh, get some violence ehehehe get some medicine eheheheh
+     * No resources ehehehe because its helpful eheheehe, we dont sacrifice heehheeheh
       **/ 
 
 
