@@ -362,7 +362,7 @@ int main()
      * Handle your own problems and do not be immature
      * 
      * Do you not see the problem you have formed intentionally ? What makes you think I will consider wasting yet another decade with stupid people like you ?
-     * Guess who is a disgusting never learning animal ?
+     * Guess who is a disgusting never learning animal who can not observe the "life" properly
       **/ 
 
 
