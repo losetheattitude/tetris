@@ -331,6 +331,7 @@ int main()
      * Guess who is making decisions that are not their place
      * 
      * What changed now after your immaculate decisions of irrelevant nature ? 
+     * Why are you still begging ? Why are you still the one who is taking others to be just like yourselves ?
       **/ 
 
 
