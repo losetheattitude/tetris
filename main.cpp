@@ -318,6 +318,8 @@ int main()
      * 
      * Lie for us ehehehe just waste your entire life for us ehehehheeh, get some violence ehehehe get some medicine eheheheh
      * No resources ehehehe because its helpful eheheehe, we dont sacrifice heehheeheh
+     * 
+     * You for sure look really great and genius when you beg people to lie for you
       **/ 
 
 
