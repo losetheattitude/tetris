@@ -341,6 +341,9 @@ int main()
      * Who is the incompetent and rightfully ignorant ? Still ignoring evidence ?
      * Guess who is far from exercising their rights and thus will have its own consequences ?
      * Guess who is the fake tough guys who can not answer and account for their behavior ?
+     * 
+     * That is the reason you are the disgusting ignorant group who likes to act as if they are something else
+     * Get that right genius nation
       **/ 
 
 
