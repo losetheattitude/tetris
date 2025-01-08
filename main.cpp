@@ -340,6 +340,7 @@ int main()
      * Guess who is not alike to fearful disgusting animals and will not bend before violence ?
      * Who is the incompetent and rightfully ignorant ? Still ignoring evidence ?
      * Guess who is far from exercising their rights and thus will have its own consequences ?
+     * Guess who is the fake tough guys who can not answer and account for their behavior ?
       **/ 
 
 
