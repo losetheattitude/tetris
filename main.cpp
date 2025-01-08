@@ -323,6 +323,7 @@ int main()
      * Why dont you get some womennnnn eheheheheheh and sacrifice your life ehehehehhehe, we good and great people hehehehehes
      * 
      * Guess who is not interested wasting time trying to prove things to people who are not relevant neither lawful
+     * The time that does belong to one person
       **/ 
 
 
