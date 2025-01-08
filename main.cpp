@@ -360,6 +360,8 @@ int main()
      * 
      * Its entirely okay to waste time with bullshit, I see, you can get the fuck out of my face
      * Handle your own problems and do not be immature
+     * 
+     * Do you not see the problem you have formed intentionally ? What makes you think I will consider wasting yet another decade with stupid people like you ?
       **/ 
 
 
