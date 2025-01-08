@@ -346,7 +346,7 @@ int main()
      * Get that right genius nation, how dare you still allege ?
      * How dare you still hold your ground as if you are not disgusting ?
      * 
-     * How dare you still talk ?
+     * How dare you still talk ? The genius nation ?
       **/ 
 
 
