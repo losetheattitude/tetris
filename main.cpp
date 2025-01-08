@@ -327,6 +327,7 @@ int main()
      * Guess who is what in this context and guess who is not interested in simple disgusting animals
      * 
      * Guess who is coercing medicine and surprising at the outcome of once working biological mass ?
+     * Guess who is harming for the sake of harming, ehehhe the time does not belong to you
       **/ 
 
 
