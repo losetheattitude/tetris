@@ -365,6 +365,7 @@ int main()
      * Guess who is a disgusting never learning animal who can not observe the "life" properly
      * 
      * Find the worst examples of the worst, so that you can feel okay, thats the definition of disgusting desperate people
+     * Guess who is not interested in stupid people who likes to make up excuses for their own experiences ?
       **/ 
 
 
