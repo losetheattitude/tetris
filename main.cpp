@@ -381,6 +381,8 @@ int main()
      * 
      * None of you is welcome, you deal with your own disgusting kind
      * There is nothing you can do except begging through making assumptions for someone you have no sympathy nor understanding with
+     * 
+     * You are not welcome, you can get the fuck out of my face
       **/ 
 
 
