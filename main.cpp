@@ -371,6 +371,8 @@ int main()
      * Guess who is guilty and does know his guilt thus has to beg still
      * Guess who can not produce answers for his actions and who can
      * Guess who has to beg with offers they do not realize, and guess who does not even care the slighest, do you see the inferior ?
+     * 
+     * Disgusting monkeys that I will never consider
       **/ 
 
 
