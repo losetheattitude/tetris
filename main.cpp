@@ -404,6 +404,7 @@ int main()
      * Guess who is proud to be an animal still
      * 
      * Disgusting people who can not provide answers for their pointless violence, you can get the fuck out of my face
+     * Guess who is not interested in immature clueless people ?
       **/ 
 
 
