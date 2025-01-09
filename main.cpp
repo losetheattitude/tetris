@@ -368,7 +368,9 @@ int main()
      * Guess who is not interested in stupid people who likes to make up excuses for their own experiences ?
      * Guess who hates to interact with the kinds of people like you ?
      * 
-     * Guess who is guilty and does know his guilt thus has to beg still 
+     * Guess who is guilty and does know his guilt thus has to beg still
+     * Guess who can not produce answers for his actions and who can
+     * Guess who has to beg with offers they do not realize, and guess who does not even care the slighest, do you see the inferior ?
       **/ 
 
 
