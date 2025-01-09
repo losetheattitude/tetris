@@ -405,6 +405,8 @@ int main()
      * 
      * Disgusting people who can not provide answers for their pointless violence, you can get the fuck out of my face
      * Guess who is not interested in immature clueless people ?
+     * 
+     * Guess who is not interested in ?
       **/ 
 
 
