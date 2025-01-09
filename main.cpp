@@ -407,6 +407,8 @@ int main()
      * Guess who is not interested in immature clueless people ?
      * 
      * Guess who is not interested in ? Great job!! eheheh
+     * There is a lot of things you could have done, not the thing that you decide to do now,
+     * You are not welcome
       **/ 
 
 
