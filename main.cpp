@@ -394,6 +394,7 @@ int main()
      * Guess who is at the complete wrong ? but would love to continue their really valuable life experiences because they think so
      *
      * You can get the fuck out of my face delusionally genius nation, I am not interested in disgusting animals 
+     * Say some nice stuff and coerce medicine and let him forget hopefully, because we think ourselves to be a genius nation
       **/ 
 
 
