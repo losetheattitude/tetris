@@ -363,6 +363,8 @@ int main()
      * 
      * Do you not see the problem you have formed intentionally ? What makes you think I will consider wasting yet another decade with stupid people like you ?
      * Guess who is a disgusting never learning animal who can not observe the "life" properly
+     * 
+     * Find the worst examples of the worst, so that you can feel okay, thats the definition of disgusting desperate people
       **/ 
 
 
