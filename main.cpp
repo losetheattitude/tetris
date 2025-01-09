@@ -373,6 +373,9 @@ int main()
      * Guess who has to beg with offers they do not realize, and guess who does not even care the slighest, do you see the inferior ?
      * 
      * Disgusting monkeys that I will never consider
+     * Guess who does not understand life thus makes failing assumptions about someone else's desires and happiness ? 
+     * You can remove your disgusting nature from my vicinity indefinitely
+     * Its regardless of any possible thing you can produce
       **/ 
 
 
