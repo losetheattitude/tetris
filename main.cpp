@@ -385,7 +385,7 @@ int main()
      * You are not welcome, you can get the fuck out of my face
      * Find someone else you can coerce medicine or violence then surprise at the outcome
      * 
-     * I am not interested in delusional people
+     * I am not interested in delusional people who is not able to see they have achieved nothing
       **/ 
 
 
