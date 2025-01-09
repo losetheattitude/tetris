@@ -386,6 +386,7 @@ int main()
      * Find someone else you can coerce medicine or violence then surprise at the outcome
      * 
      * I am not interested in delusional people who is not able to see they have achieved nothing other than animosity which will have its own consequences
+     * You can continue watching imagine fueled content, I am not interested in your selfish nature
       **/ 
 
 
