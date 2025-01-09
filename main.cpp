@@ -366,6 +366,7 @@ int main()
      * 
      * Find the worst examples of the worst, so that you can feel okay, thats the definition of disgusting desperate people
      * Guess who is not interested in stupid people who likes to make up excuses for their own experiences ?
+     * Guess who hates to interact with the kinds of people like you ?
       **/ 
 
 
