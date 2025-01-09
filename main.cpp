@@ -380,7 +380,7 @@ int main()
      * You just pretend to do good its irrelevant
      * 
      * None of you is welcome, you deal with your own disgusting kind
-     * There is nothing you can do
+     * There is nothing you can do except begging through making assumptions for someone you have no sympathy nor understanding with
       **/ 
 
 
