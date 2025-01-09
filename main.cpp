@@ -398,6 +398,8 @@ int main()
      * 
      * Get the fuck out of my face disgusting people, you do not deserve it
      * Yet guess who is proud still ? Guess who is the inferior animal ?
+     * 
+     * I am not interested in anything you could possibly form 
       **/ 
 
 
