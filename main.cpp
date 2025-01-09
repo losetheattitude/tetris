@@ -396,7 +396,7 @@ int main()
      * You can get the fuck out of my face delusionally genius nation, I am not interested in disgusting animals 
      * Say some nice stuff and coerce medicine and let him forget hopefully, because we think ourselves to be a genius nation
      * 
-     * Get the fuck out of my face disgusting people 
+     * Get the fuck out of my face disgusting people, you do not deserve it
       **/ 
 
 
