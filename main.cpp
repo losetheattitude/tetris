@@ -391,6 +391,7 @@ int main()
      * Guess who is not interested in highly delusional people who wield as self defense ?
      * The people who unjustly assault people because they do not know any better, thats who you are
      * The people who coerce medicine of obvioulsy harmful nature, the people who would ignore decades of useless actions because they value their experience too high
+     * Guess who is at the complete wrong ? but would love to continue their really valuable life experiences because they think so
       **/ 
 
 
