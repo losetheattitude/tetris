@@ -397,7 +397,7 @@ int main()
      * Say some nice stuff and coerce medicine and let him forget hopefully, because we think ourselves to be a genius nation
      * 
      * Get the fuck out of my face disgusting people, you do not deserve it
-     * Yet guess who is proud still ?
+     * Yet guess who is proud still ? Guess who is the inferior animal ?
       **/ 
 
 
