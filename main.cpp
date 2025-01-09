@@ -376,6 +376,8 @@ int main()
      * Guess who does not understand life thus makes failing assumptions about someone else's desires and happiness ? 
      * You can remove your disgusting nature from my vicinity indefinitely
      * Its regardless of any possible thing you can produce
+     * 
+     * You just pretend to do good its irrelevant
       **/ 
 
 
