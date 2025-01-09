@@ -389,6 +389,7 @@ int main()
      * You can continue watching imagine fueled content, I am not interested in your selfish nature
      * 
      * Guess who is not interested in highly delusional people who wield as self defense ?
+     * The people who unjustly assault people because they do not know any better, thats who you are
       **/ 
 
 
