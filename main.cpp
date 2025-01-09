@@ -378,6 +378,8 @@ int main()
      * Its regardless of any possible thing you can produce
      * 
      * You just pretend to do good its irrelevant
+     * 
+     * None of you is welcome, you deal with your own disgusting kind
       **/ 
 
 
