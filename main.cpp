@@ -436,6 +436,8 @@ int main()
      * Guess who fucked up ?
      * Guess which behavior you will observe once you try your disgusting nature once again ?
      * Guess who also fails to guess that not everyone is as inferior and afraid as you 
+     * 
+     * Obviously you are not inferior, why did you think that ?
       **/ 
 
 
