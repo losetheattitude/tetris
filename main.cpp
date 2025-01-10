@@ -440,7 +440,7 @@ int main()
      * Obviously you are not inferior, why did you think that ?
      * Obviously you are not the guilty one neither the responsible 
      * 
-     * You are never welcome
+     * You are never welcome, disgusting ignorant animals
       **/ 
 
 
