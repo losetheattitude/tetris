@@ -413,7 +413,8 @@ int main()
      * What has changed great nation ?
      * 
      * Guess who is not interested in inexplicable simple inferior animals ?
-     * You need more help ?
+     * 
+     * You need more help ? Why dont you get more innocent people ?
       **/ 
 
 
