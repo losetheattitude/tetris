@@ -447,6 +447,7 @@ int main()
      * You do not deserve respect
      * 
      * No no, you are not the one who is failing, thats for sure
+     * Guess who would love to ignore the consequences of their actions because they know they fucked up ?
       **/ 
 
 
