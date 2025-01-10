@@ -448,6 +448,8 @@ int main()
      * 
      * No no, you are not the one who is failing, thats for sure
      * Guess who would love to ignore the consequences of their actions because they know they fucked up ?
+     * Do you think you deserve even the tiniest amount of respect or credit ? You can get the fuck out of my face, I do not have any intention to waste my time
+     * with the disgusting animals such as you
       **/ 
 
 
