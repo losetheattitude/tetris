@@ -484,7 +484,8 @@ int main()
      * Guess who is not a disgusting begger who will do anything for his own experiences ? Thats the reason you are never welcome
      * Guess who also thinks not having resources is helpful, what a pattern
      * 
-     * Guess who does not deserve respect ?
+     * Guess who does not deserve respect ? Not having resources and violence or world peace is highly relevant, 
+     * You can remove your disgusting existence from out of my vicinity
       **/ 
 
 
