@@ -464,6 +464,8 @@ int main()
      * Guess who hates people who never learns ?
      * Try then to explain no resources is helpful, you will see why you are a stupid animal
      * You will suddenly see that I DO NOT GIVE THE SLIGHEST FUCK TO YOUR IMAGINATIVE ASSUMPTIONS
+     * 
+     * Try harder to look natural when you are committing the disgusting nature of your own
       **/ 
 
 
