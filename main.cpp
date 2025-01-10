@@ -462,6 +462,7 @@ int main()
      * Guess who is coercing people into stupid games that neither mean nothing nor is cared about ?
      * 
      * Guess who hates people who never learns ?
+     * Try then to explain no resources is helpful, you will see why you are a stupid animal
       **/ 
 
 
