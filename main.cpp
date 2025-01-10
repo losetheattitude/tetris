@@ -472,6 +472,7 @@ int main()
      * I am not alike, the lowest level of enjoying a game that does not make sense 
      * 
      * Hopefully he does not remember anything!!
+     * Immature irresponsible ignorant people 
       **/ 
 
 
