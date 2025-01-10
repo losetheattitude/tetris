@@ -444,6 +444,7 @@ int main()
      * Guess how is this going to end up ? You just are not able to guess that you are not against the inferior nature of yours
      * 
      * I do not care about your prejudices believes, you can get the fuck out of my face
+     * You do not deserve respect
       **/ 
 
 
