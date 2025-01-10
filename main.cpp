@@ -430,7 +430,7 @@ int main()
      * And then you can get the fuck out of my face 
      * 
      * 
-     * You are not welcome under any whatsoever circumstance
+     * You are not welcome under any whatsoever circumstance, you can continue deluding
       **/ 
 
 
