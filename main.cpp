@@ -458,6 +458,7 @@ int main()
      * I am not interested, and guess what will happen next time ?
      * 
      * Why are you still the ones who are hiding like the inferior animals ?
+     * Now what has changed and what have you gained ? 
       **/ 
 
 
