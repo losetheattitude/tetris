@@ -425,6 +425,9 @@ int main()
      * Awwww, I have forgotten you do not communicate through spoken language because you are an inferior animal
      * 
      * Just get the fuck out of my face with your highly skilled actions, delude with someone else
+     * 
+     * You do not get that you are the problem ? How about you ask the question of "Who is crossing the personal boundaries"
+     * And then you can get the fuck out of my face 
       **/ 
 
 
