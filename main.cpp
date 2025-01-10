@@ -434,6 +434,8 @@ int main()
      * Disgusting people indeed who crosses personal boundaries with the most stupidly ignorant attitude, what makes you think I will want to be around such animals ?
      * 
      * Guess who fucked up ?
+     * Guess which behavior you will observe once you try your disgusting nature once again ?
+     * Guess who also fails to guess that not everyone is as inferior and afraid as you 
       **/ 
 
 
