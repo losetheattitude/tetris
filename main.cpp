@@ -438,6 +438,7 @@ int main()
      * Guess who also fails to guess that not everyone is as inferior and afraid as you 
      * 
      * Obviously you are not inferior, why did you think that ?
+     * Obviously you are not the guilty one neither the responsible 
       **/ 
 
 
