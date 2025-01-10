@@ -486,6 +486,9 @@ int main()
      * 
      * Guess who does not deserve respect ? Not having resources and violence or world peace is highly relevant, 
      * You can remove your disgusting existence from out of my vicinity
+     * 
+     * You can not convince anyone into not having even a proper computer is a rule, you are the vile disgusting irresponsible animals who can not
+     * account for their behavior, thats as far as it could go, continue deluding 
       **/ 
 
 
