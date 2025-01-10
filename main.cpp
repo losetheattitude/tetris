@@ -468,7 +468,8 @@ int main()
      * Try harder to look natural when you are committing the disgusting nature of your own
      * I am not interested in anything you can offer
      * 
-     * Ignore more thats the best you can do
+     * Ignore more thats the best you can do, ignore and get more innocent people for your own experiences,
+     * I am not alike
       **/ 
 
 
