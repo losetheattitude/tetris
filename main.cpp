@@ -469,7 +469,7 @@ int main()
      * I am not interested in anything you can offer
      * 
      * Ignore more thats the best you can do, ignore and get more innocent people for your own experiences,
-     * I am not alike
+     * I am not alike, the lowest level of enjoying a game that does not make sense 
       **/ 
 
 
