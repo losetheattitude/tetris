@@ -417,6 +417,9 @@ int main()
      * You need more help ? Why dont you get more innocent people ?
      * Guess who thinks lacking of resources is helpful while they immediately ask for help ?
      * Guess who is deluding still ?
+     * 
+     * 
+     * Guess who can not explain his position ?
       **/ 
 
 
