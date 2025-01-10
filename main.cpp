@@ -456,6 +456,8 @@ int main()
      * 
      * Do you even follow what I am saying ? Fuel your stupid imaginations with someone else
      * I am not interested, and guess what will happen next time ?
+     * 
+     * Why are you still the ones who are hiding like the inferior animals ?
       **/ 
 
 
