@@ -470,6 +470,8 @@ int main()
      * 
      * Ignore more thats the best you can do, ignore and get more innocent people for your own experiences,
      * I am not alike, the lowest level of enjoying a game that does not make sense 
+     * 
+     * Hopefully he does not remember anything!!
       **/ 
 
 
