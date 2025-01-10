@@ -445,6 +445,8 @@ int main()
      * 
      * I do not care about your prejudices believes, you can get the fuck out of my face
      * You do not deserve respect
+     * 
+     * No no, you are not the one who is failing, thats for sure
       **/ 
 
 
