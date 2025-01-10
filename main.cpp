@@ -415,6 +415,7 @@ int main()
      * Guess who is not interested in inexplicable simple inferior animals ?
      * 
      * You need more help ? Why dont you get more innocent people ?
+     * Guess who thinks lacking of resources is helpful while they immediately ask for help ?
       **/ 
 
 
