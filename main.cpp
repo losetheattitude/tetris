@@ -460,6 +460,8 @@ int main()
      * Why are you still the ones who are hiding like the inferior animals ?
      * Now what has changed and what have you gained ? 
      * Guess who is coercing people into stupid games that neither mean nothing nor is cared about ?
+     * 
+     * Guess who hates people who never learns ?
       **/ 
 
 
