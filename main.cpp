@@ -482,6 +482,7 @@ int main()
      * I do not need anyone who purposely misinterpret things of personal boundary, you can pay attention to your own life and get the fuck out of my face
      * 
      * Guess who is not a disgusting begger who will do anything for his own experiences ? Thats the reason you are never welcome
+     * Guess who also thinks not having resources is helpful, what a pattern
       **/ 
 
 
