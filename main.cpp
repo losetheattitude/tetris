@@ -452,6 +452,7 @@ int main()
      * with the disgusting animals such as you
      * 
      * Fuel your disgusting imaginations with what you would love to be true, you are not welcome
+     * Go coerce others into lacking of resources and wishfully think that it is helpful
       **/ 
 
 
