@@ -431,7 +431,7 @@ int main()
      * 
      * 
      * You are not welcome under any whatsoever circumstance, you can continue deluding
-     * Disgusting people indeed
+     * Disgusting people indeed who crosses personal boundaries with the most stupidly ignorant attitude, what makes you think I will want to be around such animals ?
       **/ 
 
 
