@@ -477,6 +477,8 @@ int main()
      * Guess who is guilty ? Guess who is crossing the personal boundaries and acting like its okay ?
      * And shamelessly offering the most basic interactions as remedy ?
      * Next time do sacrifice from your own, as you can guess I am not interested in selfish irresponsible immature people, you can continue deluding
+     * 
+     * You can get the fuck out of my face with your carefully adjusted disgustingly inaccurate conclusions, I am not interested
       **/ 
 
 
