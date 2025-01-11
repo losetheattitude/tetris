@@ -111,6 +111,8 @@ int main()
      * Guess who is not wanted ? What a shame that you get to delude on your incompetency even at making excuses
      * 
      * Continue deluding, FROM OUT OF MY VICINITY
+     * The disgusting animals who have to act like they are doing the right thing can remove your inexplicable nature from out of my vicinity,
+     * You can never be wanted, there is no such a thing as making decades of decisions for someone else
       **/
 
 
