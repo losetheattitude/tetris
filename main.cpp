@@ -60,6 +60,7 @@ int main()
      * The disgusting animals who can not seem to understand that THEY DO NOT GET TO DECIDE THAT
      * 
      * Listen very closely here, YOU CAN NEVER BE WELCOMED, thats just it
+     * There is no condition under which you can ever be considered, you handle your disgusting problems
       **/
 
 
