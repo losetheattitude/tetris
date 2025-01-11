@@ -94,6 +94,7 @@ int main()
      * Waste your own time while knowing that you are the one who has crossed the every single personal boundary, therefore the disgusting ignorant animal
      * 
      * Guess who is not interested in your fake attitude ? Say some nice stuff its fine since its not our time that we destroy
+     * Guess who is also "proud" and not wanted
       **/
 
 
