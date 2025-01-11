@@ -77,6 +77,8 @@ int main()
      * 
      * Why your genius plan that involves violence and waste of time does not produce results ?
      * Why does not your genius plan work ? What are you missing ?
+     * 
+     * Guess what are you missing ? You CAN NOT MAKE DECISIONS THAT ARE NOT YOUR PLACE
       **/
 
 
