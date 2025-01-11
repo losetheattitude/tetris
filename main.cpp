@@ -50,6 +50,8 @@ int main()
      * You can get the fuck out of my face
      * 
      * What are you waiting for still ?
+     * Why dont you fuel your disgusting imaginations with someone else who is willing to ?
+     * 
       **/
 
 
