@@ -103,6 +103,8 @@ int main()
      * 
      * Thats why you are a little inferior animal
      * Hide like the disgusting ignorant animal that you are
+     * 
+     * Sacrifice your own resouces next time 
       **/
 
 
