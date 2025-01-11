@@ -106,6 +106,8 @@ int main()
      * 
      * Sacrifice your own resouces next time, like I said, little animals
      * Little incompetent, irresponsible, unaccountable animals who would love to ignore for the sake of their own experiences, guise your disgusting nature
+     * 
+     * Guess who is the delusional ones ?
       **/
 
 
