@@ -56,6 +56,7 @@ int main()
      * Ignore the consequences of YOUR actions, thats called ignorance 
      * 
      * What makes you think I will have the slighest desire to associate myself with the group who caused the stupidest things so far ?
+     * What makes you think I will want to have anything to do with you ? The disgusting ignorant animals who do not communicate through spoken language ?
       **/
 
 
