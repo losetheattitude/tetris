@@ -121,7 +121,7 @@ int main()
      * What makes you think I would consider breaking the laws as remedy as you have done so against me ? Are you on the disgustingly low level as to
      * draw that as an equal conclusion ?
      * 
-     * That explains a lot
+     * That explains a lot, you all get to pay for your own actions, not others
       **/
 
 
