@@ -100,6 +100,8 @@ int main()
      * As the history has proven ample times, the people such as very like you have always made messes of incomparable nature to their own
      * Thats the reason I will never be interested in your disgusting excuses as well
      * Get more children to handle selfish monkeys
+     * 
+     * Thats why you are a little inferior animal
       **/
 
 
