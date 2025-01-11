@@ -54,6 +54,8 @@ int main()
      * 
      * There is no way out until you suffer the same consequences while "advising others to waste time during your joyful experiences"
      * Ignore the consequences of YOUR actions, thats called ignorance 
+     * 
+     * What makes you think I will have the slighest desire to associate myself with the group who caused the stupidest things so far ?
       **/
 
 
