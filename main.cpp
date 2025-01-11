@@ -80,6 +80,8 @@ int main()
      * 
      * Guess what are you missing ? You CAN NOT MAKE DECISIONS THAT ARE NOT YOUR PLACE then to offer the most basic physical interaction for decades
      * Take that approach for your own life, I am not interested 
+     * 
+     * Take that approach for your own lives, I AM NOT INTERESTED IN WASTING MY TIME 
       **/
 
 
