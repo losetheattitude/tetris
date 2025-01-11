@@ -491,6 +491,7 @@ int main()
      * account for their behavior, thats as far as it could go, continue deluding 
      * 
      * Next time, do sacrifice from your own
+     * Do not forget that you pay with what you charge others not some regular physical interactions
       **/ 
 
 
