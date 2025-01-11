@@ -113,7 +113,9 @@ int main()
      * Continue deluding, FROM OUT OF MY VICINITY
      * The disgusting animals who have to act like they are doing the right thing can remove your inexplicable nature from out of my vicinity,
      * You can never be wanted, there is no such a thing as making decades of decisions for someone else
-     * Yet look where you are, what have you gained ? What has changed ?
+     * Yet look where you are, what have you gained ? What has changed ? All of you are the same ignorant beggers
+     * 
+     * I accept no such animals around me, thats the only think you can hear
       **/
 
 
