@@ -95,6 +95,8 @@ int main()
      * 
      * Guess who is not interested in your fake attitude ? Say some nice stuff its fine since its not our time that we destroy
      * Guess who is also "proud" and not wanted
+     * 
+     * Guess who has wasted 30 years with bullshit excuses, thats the reason
       **/
 
 
