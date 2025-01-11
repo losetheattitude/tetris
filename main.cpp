@@ -66,6 +66,7 @@ int main()
      * I will never be interested in what you can offer ? Does that sound good ?
      * 
      * Continue deluding on your qualities or your really accurate observations, I am not interested 
+     * You can get the fuck out of my face with your highly accurate excuses, I am not interested
       **/
 
 
