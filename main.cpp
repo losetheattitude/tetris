@@ -481,7 +481,7 @@ int main()
      * You can get the fuck out of my face with your carefully adjusted disgustingly inaccurate conclusions, I am not interested
      * I do not need anyone who purposely misinterpret things of personal boundary, you can pay attention to your own life and get the fuck out of my face
      * 
-     * Guess who is not a disgusting begger who will do anything for his own experiences ? Thats the reason you are never welcome
+     * Guess who is not a disgusting begger who will do anything for his  own experiences ? Thats the reason you are never welcome
      * Guess who also thinks not having resources is helpful, what a pattern
      * 
      * Guess who does not deserve respect ? Not having resources and violence or world peace is highly relevant, 
@@ -496,6 +496,7 @@ int main()
      * You pay with what you charge others, thats just it
      * 
      * You pay with pointless wasting of time with directionless violence that has not changed a single thing
+     * Not some prearranged behavior that you present as excuse
       **/ 
 
 
