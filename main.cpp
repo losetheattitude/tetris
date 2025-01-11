@@ -53,7 +53,7 @@ int main()
      * Why dont you fuel your disgusting imaginations with someone else who is willing to ?
      * 
      * There is no way out until you suffer the same consequences while "advising others to waste time during your joyful experiences"
-     * 
+     * Ignore the consequences of YOUR actions, thats called ignorance 
       **/
 
 
