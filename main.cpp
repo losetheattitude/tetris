@@ -91,7 +91,7 @@ int main()
      * You will guess nothing will change as well, just get the fuck out of my face I am not interested
      * What a shame that you are still proud or sure on your devices, guess who is not wanted despite their really important resources that they wield as weapon
      * 
-     * Waste your own time
+     * Waste your own time while knowing that you are the one who has crossed the every single personal boundary, therefore the disgusting ignorant animal
       **/
 
 
