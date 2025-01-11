@@ -74,6 +74,8 @@ int main()
      * Guess who can neither fix nor produce an outcome ?
      * You can be never wanted 
      * Why arent you getting results ?
+     * 
+     * Why your genius plan that involves violence and waste of time does not produce results ?
       **/
 
 
