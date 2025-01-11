@@ -79,7 +79,7 @@ int main()
      * Why does not your genius plan work ? What are you missing ?
      * 
      * Guess what are you missing ? You CAN NOT MAKE DECISIONS THAT ARE NOT YOUR PLACE then to offer the most basic physical interaction for decades
-     * Take that approach for your own life
+     * Take that approach for your own life, I am not interested 
       **/
 
 
