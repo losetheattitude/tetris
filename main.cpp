@@ -37,6 +37,7 @@ int main()
      * Do not make the single irrelevant decision that is not yours
      * 
      * Thats why you are a disgusting inferior animal who loves to ignore for the sake of his own experiences
+     * Whats wrong ? What are you waiting for ?
       **/
 
 
