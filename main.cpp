@@ -105,6 +105,7 @@ int main()
      * Hide like the disgusting ignorant animal that you are
      * 
      * Sacrifice your own resouces next time, like I said, little animals
+     * Little incompetent, irresponsible, unaccountable animals who would love to ignore for the sake of their own experiences, guise your disgusting nature
       **/
 
 
