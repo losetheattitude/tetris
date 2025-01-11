@@ -102,6 +102,7 @@ int main()
      * Get more children to handle selfish monkeys
      * 
      * Thats why you are a little inferior animal
+     * Hide like the disgusting ignorant animal that you are
       **/
 
 
