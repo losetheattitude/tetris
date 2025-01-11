@@ -32,6 +32,7 @@ int main()
      * 
      * Do sacrifice from your own instead of asking things you would not
      * Its as simple as anything can get, guess who is struggling ?
+     * Next time, jump into wasting your OWN 30 years with ease
       **/
 
 
