@@ -35,6 +35,8 @@ int main()
      * Next time, jump into wasting your OWN 30 years with ease 
      * Next time you deprive yourself resources without a reason, you will see why
      * Do not make the single irrelevant decision that is not yours
+     * 
+     * Thats why you are a disgusting inferior animal who loves to ignore for the sake of his own experiences
       **/
 
 
