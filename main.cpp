@@ -492,6 +492,8 @@ int main()
      * 
      * Next time, do sacrifice from your own
      * Do not forget that you pay with what you charge others not some regular physical interactions
+     * 
+     * You pay with what you charger others, thats just it
       **/ 
 
 
