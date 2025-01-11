@@ -34,6 +34,7 @@ int main()
      * Its as simple as anything can get, guess who is struggling ?
      * Next time, jump into wasting your OWN 30 years with ease 
      * Next time you deprive yourself resources without a reason, you will see why
+     * Do not make the single irrelevant decision that is not yours
       **/
 
 
