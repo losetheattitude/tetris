@@ -498,7 +498,7 @@ int main()
      * You pay with pointless wasting of time with directionless violence that has not changed a single thing
      * Not some prearranged behavior that you present as excuse
      * 
-     * Its most funny indeed, guess who is mature enough to see your stupidity ? You are never welcome
+     * Its most funny indeed, guess who is mature enough to see your stupidity ? You are never welcome regardless of what you value as to offer
       **/ 
 
 
