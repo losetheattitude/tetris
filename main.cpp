@@ -115,6 +115,8 @@ int main()
      * You can never be wanted, there is no such a thing as making decades of decisions for someone else
      * Yet look where you are, what have you gained ? What has changed ? All of you are the same ignorant beggers
      * 
+     * Where have you arrived ?
+     * 
      * I accept no such animals around me, thats the only think you can hear
       **/
 
