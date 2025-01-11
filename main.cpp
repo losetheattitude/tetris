@@ -489,6 +489,8 @@ int main()
      * 
      * You can not convince anyone into not having even a proper computer is a rule, you are the vile disgusting irresponsible animals who can not
      * account for their behavior, thats as far as it could go, continue deluding 
+     * 
+     * Next time, do sacrifice from your own
       **/ 
 
 
