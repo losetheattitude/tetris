@@ -142,6 +142,7 @@ int main()
      * We call it sacrifice because it sounds good!!! eheheheh we love delusion but also ignorance!!
      * 
      * Ehehehe its irrelevant that someone lacks resources but we just like harming people heheheh
+     * Like i said, delusional ignorant people
       **/
 
 
