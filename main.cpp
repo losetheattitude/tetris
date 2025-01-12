@@ -204,6 +204,8 @@ int main()
      * 
      * We just tryna do something good for ourselves!!! ehehehehe
      * Guess who is not welcome
+     * 
+     * Eheheheh rip eheheheh
       **/
 
 
