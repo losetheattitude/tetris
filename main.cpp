@@ -243,6 +243,9 @@ int main()
      * Guess also who lacks the ability to foresee 
      * 
      * Guess who is at wrong ? eheheheheheh
+     * Ehehehehehhe it must be fine because we can!
+     * 
+     * Whats the matter ? 
       **/
 
 
