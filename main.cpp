@@ -319,6 +319,8 @@ int main()
      * 
      * There is nothing you can do to change that and that will be made to understand
      * Still making decisions and hoping everything goes well eheheheh thats not the problem
+     * 
+     * Ehehehehehe, its fine, its because not our time and experience, that might be the biggest problem you are failing to observe
       **/ 
 
 
