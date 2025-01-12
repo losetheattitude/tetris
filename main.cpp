@@ -318,6 +318,7 @@ int main()
      * as I will in the future
      * 
      * There is nothing you can do to change that and that will be made to understand
+     * Still making decisions and hoping everything goes well eheheheh thats not the problem
       **/ 
 
 
