@@ -210,6 +210,7 @@ int main()
      * Eheheheheh you all as a nation are just pure geniuses right ? How does that sound ?
      * 
      * You do not get to sacrifice what you do not own, I am sure your geniuses can already tell that
+     * What is what you are doing called then ? eheheheh just pure ignorance right ?
       **/
 
 
