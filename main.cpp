@@ -155,6 +155,8 @@ int main()
      * 
      * Eheheheheh we have done realllly welll!!! ehehehehe life is good !!!
      * Its all for the greater good!!
+     * 
+     * Other people is just another opportunity for our short disgusting lifes!!!! Thats who we are!!! we doing welll!!! yayyy
       **/
 
 
