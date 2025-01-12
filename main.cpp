@@ -159,7 +159,7 @@ int main()
      * Other people is just another opportunity for our short disgusting lifes!!!! Thats who we are!!! we doing welll!!! yayyy
      * Because we can!!! heheheheh
      * 
-     * That is not ignorance I promise you eheheh
+     * That is not ignorance I promise you eheheh, its all for the greater good ehehehe we love our lives!! please just harm others!!!
       **/
 
 
