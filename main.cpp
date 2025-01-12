@@ -224,6 +224,8 @@ int main()
      * Do you want to deal with the same disgusting you ?
      * Guess then what would happen
      * Just try to guess what will happen when you are against the same disgusting nature of your own, eheheheh that would be really fun
+     * 
+     * You pay with what you charge others, that is it
       **/
 
 
