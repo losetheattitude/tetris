@@ -306,6 +306,8 @@ int main()
      * 
      * Play games with your own lives 
      * And get better at making excuses 
+     * 
+     * What a pattern that what you are only good at is ignoring
       **/ 
 
 
