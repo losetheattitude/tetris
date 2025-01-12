@@ -161,6 +161,9 @@ int main()
      * 
      * That is not ignorance I promise you eheheh, its all for the greater good ehehehe we love our lives!! please just harm others!!!
      * The great people can never make mistakes ehehehehehehehehehehehe you continue ignoring
+     * 
+     * The great people who seeks for materials and offer the same to people who has wasted decades because of the great people's ignorance and selfishness ?
+     * How does that sound ? Ehehehe we do not care eheheh we ignorant eheheheh
       **/
 
 
