@@ -285,6 +285,7 @@ int main()
      * Thats ignorance at its best thus the get the fuck out of my face
      * 
      * What a shame you happen to be the ignorant in this context
+     * Next time use your brain for the better and do not hide your disgusting nature
       **/
 
 
