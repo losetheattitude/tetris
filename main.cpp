@@ -314,6 +314,8 @@ int main()
      * while advising others to do so
      * 
      * Pay for your own actions with your time and your time only, then there is nothing you can do
+     * Its such a wonder to see you bend against impartial crowds who can uphold you for your disgusting actions
+     * as I will in the future
       **/ 
 
 
