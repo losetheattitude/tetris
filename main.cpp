@@ -308,6 +308,7 @@ int main()
      * And get better at making excuses 
      * 
      * What a pattern that what you are only good at is ignoring
+     * and calling it "real life"!!! fate!!!! simulation!!
       **/ 
 
 
