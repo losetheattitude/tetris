@@ -146,6 +146,8 @@ int main()
      * 
      * Why are you still here doing your best to ignore the truth ? I do not want to see any of you around me
      * You are just average ignorant people who would do anything to enjoy their life
+     * 
+     * You can never be welcome
       **/
 
 
