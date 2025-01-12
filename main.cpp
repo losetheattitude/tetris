@@ -322,6 +322,8 @@ int main()
      * 
      * Ehehehehehe, its fine, its because not our time and experience, that might be the biggest problem you are failing to observe
      * You will remember the times you coerced things, I am sure that makes sense, disgusting delusionally genius nation
+     * 
+     * The last group on earth that can ever defend their disgusting nature, guess what happens ?
       **/ 
 
 
