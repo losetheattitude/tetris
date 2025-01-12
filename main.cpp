@@ -196,6 +196,8 @@ int main()
      * 
      * You can never be welcome under any circumstance whatsoever
      * There is not a thing even the most great of you can do about time, you have arrived to nowhere, you have generated nothing, thats your clue to your ignorance
+     * 
+     * Hide like the inferior animal you are
       **/
 
 
