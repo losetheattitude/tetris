@@ -125,6 +125,7 @@ int main()
      * Make no mistake although that is a lot to ask from you, you get to pay for your own actions, not others 
      * 
      * Not with what is ample, great job indeed, the most unattainable aim
+     * Who is also deluding others' desire to be ? Does that give you a clue about how wrong you are ?
       **/
 
 
