@@ -309,6 +309,9 @@ int main()
      * 
      * What a pattern that what you are only good at is ignoring
      * and calling it "real life"!!! fate!!!! simulation!!
+     * 
+     * The reality is that you are a clueless lost fearful animal who would hate endure some pain
+     * while advising others to do so
       **/ 
 
 
