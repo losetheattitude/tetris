@@ -241,6 +241,8 @@ int main()
      * 
      * Guess who still deludes on making violence decisions when they have no relevancy at all ? ehehehehe
      * Guess also who lacks the ability to foresee 
+     * 
+     * Guess who is at wrong ? eheheheheheh
       **/
 
 
