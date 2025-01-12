@@ -264,6 +264,9 @@ int main()
      * Guess who is also immature enough to not even be consider as equal or credible or trustworthy
      * 
      * You fool your own kind
+     * 
+     * Just get the fuck out of my face with your selfish attitude, you lack every single quality that a proper human can contain
+     * thats the reason why you can never be welcome
       **/
 
 
