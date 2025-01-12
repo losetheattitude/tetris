@@ -172,7 +172,7 @@ int main()
      * What a shame, do you even understand what I am saying ?
      * 
      * YOU CAN NEVER BE WELCOME, guess who is failing ?
-     * Awwwwww itss tooo late!!!! ehehhehe
+     * Awwwwww itss tooo late!!!! ehehhehe we would rather enjoy our experiences ignorantly anyway!!
       **/
 
 
