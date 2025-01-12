@@ -124,7 +124,7 @@ int main()
      * That explains a lot, you all get to pay for your own actions, not others
      * Make no mistake although that is a lot to ask from you, you get to pay for your own actions, not others 
      * 
-     * Not with what is ample
+     * Not with what is ample, great job indeed, the most unattainable aim
       **/
 
 
