@@ -312,6 +312,8 @@ int main()
      * 
      * The reality is that you are a clueless lost fearful animal who would hate endure some pain
      * while advising others to do so
+     * 
+     * Pay for your own actions with your time and your time only, then there is nothing you can do
       **/ 
 
 
