@@ -291,6 +291,8 @@ int main()
      * I am not interested in anything you can form
      * 
      * Handle your own problems and pay attention to your own life, ehehehe it must be so simple for the geniuses like you
+     * Ehehehehehe because you can people can continue enjoying their selfish lives and 
+     * stop and think for a moment instead of offering material that they crave after, what a pattern of stupidity
       **/
 
 
