@@ -293,6 +293,9 @@ int main()
      * Handle your own problems and pay attention to your own life, ehehehe it must be so simple for the geniuses like you
      * Ehehehehehe because you can people can continue enjoying their selfish lives and 
      * stop and think for a moment instead of offering material that they crave after, what a pattern of stupidity
+     * 
+     * Just do not forget about the lack of resources and violence to generate nothing, guess who is what ?
+     * Thats the reason you can never be welcome as the evidence is more than enough to see through your fragile nature
       **/
 
 
