@@ -253,6 +253,9 @@ int main()
      * Far from acceptable or funny or right thing to do, thats the only thing you can ever hear
      * Ehehehe apart from "you say some nice stuff, coerce medicine that fucks your brain then make him sit in front of a computer where you can abuse his mind"
      * How does that sound ?
+     * 
+     * Then just geniusly assault him then make him use medicine then ehehehehh just manipulate his thoughts while under the influence BECAUSE
+     * he has done nothing, that sounds definitely genius and competent
       **/
 
 
