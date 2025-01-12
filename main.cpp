@@ -149,6 +149,8 @@ int main()
      * 
      * You can never be welcome as you are the most unaccountable person in this context, you can remove your disgusting nature
      * You are the type of inferiors who hide his mess just the way you do, that is the sole problem
+     * 
+     * Just a couple of ten years, whats the deal ? Ehehehe we just like our own lives thats it
       **/
 
 
