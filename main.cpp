@@ -272,6 +272,7 @@ int main()
      * Good job!!!! Well done!!! That is the only unattainable aim one can have
      * 
      * I want none of that around me regardless of what you can offer
+     * I am not interested in incompetent uncredible average animals who can not explain their motives, thats the only thing you can hear
       **/
 
 
