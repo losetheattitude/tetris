@@ -148,6 +148,7 @@ int main()
      * You are just average ignorant people who would do anything to enjoy their life
      * 
      * You can never be welcome as you are the most unaccountable person in this context, you can remove your disgusting nature
+     * You are the type of inferiors who hide his mess just the way you do, that is the sole problem
       **/
 
 
