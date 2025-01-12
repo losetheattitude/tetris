@@ -184,7 +184,10 @@ int main()
      * 
      * Awwwwww, I guess ehehehehehe we just like harming with many guises, that seems like the only problem
      * Thats the reason you can never be welcome
+     * 
+     * Eheheh just bring more medicine ehehehehe the past is already goneee eheheheheh bring more medicine please!!! eheheheh
       **/
+
 
 
 
