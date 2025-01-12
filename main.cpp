@@ -327,6 +327,7 @@ int main()
      * Continue hiding like the disgusting inferior animal you are
      * 
      * Do the same advises when you are the subject
+     * Continue hiding like the inferior animal you are and ignore the consequences that you speak informatively
       **/ 
 
 
