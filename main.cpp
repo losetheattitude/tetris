@@ -140,6 +140,8 @@ int main()
      * 
      * Guess who is not alike and is not interested in your excuses ?
      * We call it sacrifice because it sounds good!!! eheheheh we love delusion but also ignorance!!
+     * 
+     * Ehehehe its irrelevant that someone lacks resources but we just like harming people heheheh
       **/
 
 
