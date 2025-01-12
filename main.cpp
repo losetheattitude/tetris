@@ -143,6 +143,8 @@ int main()
      * 
      * Ehehehe its irrelevant that someone lacks resources but we just like harming people heheheh
      * Like i said, delusional ignorant people
+     * 
+     * Why are you still here doing your best to ignore the truth ? I do not want to see any of you around me
       **/
 
 
