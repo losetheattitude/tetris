@@ -157,6 +157,7 @@ int main()
      * Its all for the greater good!!
      * 
      * Other people is just another opportunity for our short disgusting lifes!!!! Thats who we are!!! we doing welll!!! yayyy
+     * Because we can!!! heheheheh
       **/
 
 
