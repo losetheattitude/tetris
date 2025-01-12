@@ -280,6 +280,9 @@ int main()
      * Ehehehehehehehehe we just love to do what our disgusting inclanations dictate us to do regardless of its meaning, 
      * You can just get the fuck out of my face with your never bearing even the most insignificant responsibility whatsoever
      * I do not need no simple animals like you around me
+     * 
+     * Who do you think is living inside a bubble of bullshit they formed to protect their precious experiences ?
+     * Thats ignorance at its best
       **/
 
 
