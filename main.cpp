@@ -289,6 +289,8 @@ int main()
      * 
      * Really reallly difficult games and great job!! nobody can pull that off
      * I am not interested in anything you can form
+     * 
+     * Handle your own problems and pay attention to your own life, ehehehe it must be so simple for the geniuses like you
       **/
 
 
