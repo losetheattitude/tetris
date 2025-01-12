@@ -298,7 +298,8 @@ int main()
      * Thats the reason you can never be welcome as the evidence is more than enough to see through your fragile nature
      * 
      * Waste your own disgusting time and get the fuck out of my face
-      **/
+     * Have fun making decisions that do not belong to you, you are not responsible at all
+      **/ 
 
 
 
