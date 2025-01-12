@@ -167,6 +167,8 @@ int main()
      * 
      * We have literally generated nothing eheheheheheh its really fun ehehehehehehe
      * We have done well !!! eheheh its just fate
+     * 
+     * Guess who is not welcome because of not their decisions ?
       **/
 
 
