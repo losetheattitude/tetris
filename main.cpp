@@ -282,7 +282,7 @@ int main()
      * I do not need no simple animals like you around me
      * 
      * Who do you think is living inside a bubble of bullshit they formed to protect their precious experiences ?
-     * Thats ignorance at its best
+     * Thats ignorance at its best thus the get the fuck out of my face
       **/
 
 
