@@ -198,6 +198,8 @@ int main()
      * There is not a thing even the most great of you can do about time, you have arrived to nowhere, you have generated nothing, thats your clue to your ignorance
      * 
      * Hide like the inferior animal you are
+     * 
+     * Ehehehehe, just live your life heheehe its fine !!!
       **/
 
 
