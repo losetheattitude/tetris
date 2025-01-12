@@ -226,6 +226,7 @@ int main()
      * Just try to guess what will happen when you are against the same disgusting nature of your own, eheheheh that would be really fun
      * 
      * You pay with what you charge others, that is it
+     * Now its about your time that you get more children to feel competent and great, I want none of that around me
       **/
 
 
