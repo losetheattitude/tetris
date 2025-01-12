@@ -283,6 +283,8 @@ int main()
      * 
      * Who do you think is living inside a bubble of bullshit they formed to protect their precious experiences ?
      * Thats ignorance at its best thus the get the fuck out of my face
+     * 
+     * What a shame you happen to be the ignorant in this context
       **/
 
 
