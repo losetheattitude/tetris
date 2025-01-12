@@ -262,6 +262,8 @@ int main()
      * 
      * Ignorant unforeseeing animals, you can never be welcome with your inexplicable behavior
      * Guess who is also immature enough to not even be consider as equal or credible or trustworthy
+     * 
+     * You fool your own kind
       **/
 
 
