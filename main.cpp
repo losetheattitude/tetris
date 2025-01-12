@@ -206,6 +206,8 @@ int main()
      * Guess who is not welcome
      * 
      * Eheheheh rip eheheheh
+     * Try your best to cover your disgusting nature and hope for the best that everyone just believes into your lies ? Does that sound genius ?
+     * Eheheheheh you all as a nation are just pure geniuses right ? How does that sound ?
       **/
 
 
