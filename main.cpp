@@ -300,6 +300,8 @@ int main()
      * Waste your own disgusting time and get the fuck out of my face
      * Have fun making decisions that do not belong to you, you are not responsible at all
      * Seems that you all are only good at making excuses and nothing else
+     * 
+     * Guess who hates incompetent people who can only deal with average citizens
       **/ 
 
 
