@@ -164,6 +164,8 @@ int main()
      * 
      * The great people who seeks for materials and offer the same to people who has wasted decades because of the great people's ignorance and selfishness ?
      * How does that sound ? Ehehehe we do not care eheheh we ignorant eheheheh
+     * 
+     * We have literally generated nothing eheheheheheh its really fun ehehehehehehe
       **/
 
 
