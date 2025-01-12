@@ -190,6 +190,11 @@ int main()
      * Eeheh thats what we call being intelligent btw eheheh
      * 
      * Guess who is not wanted ?
+     * 
+     * Guess what happens when bunch of irrelevant people make decisions that they are not well informed of ?
+     * They continue to hide their disgusting nature just the way you do
+     * 
+     * You can never be welcome under any circumstance whatsoever
       **/
 
 
