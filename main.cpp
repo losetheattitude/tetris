@@ -273,6 +273,9 @@ int main()
      * 
      * I want none of that around me regardless of what you can offer
      * I am not interested in incompetent uncredible average animals who can not explain their motives, thats the only thing you can hear
+     * 
+     * Next time learn to grow up for things that are not your concern, may be you can also become accountable one day and dont have to
+     * hide like the disgusting animal you are
       **/
 
 
