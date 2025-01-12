@@ -247,7 +247,7 @@ int main()
      * 
      * Whats the matter ? 
      * Still talking about cleaning while you are the one who is causing problems ?
-     * Fool your own disgusting level
+     * Fool your own disgusting level where you can say some nice stuff and people would forgive you for decades
       **/
 
 
