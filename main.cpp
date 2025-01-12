@@ -267,6 +267,11 @@ int main()
      * 
      * Just get the fuck out of my face with your selfish attitude, you lack every single quality that a proper human can contain
      * thats the reason why you can never be welcome
+     * 
+     * Thats the sole reason you have to hide because you know you lack all the qualities that are of importance
+     * Good job!!!! Well done!!! That is the only unattainable aim one can have
+     * 
+     * I want none of that around me regardless of what you can offer
       **/
 
 
