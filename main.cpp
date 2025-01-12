@@ -238,6 +238,8 @@ int main()
      * 
      * Does the incomparable genius nation understand what comes after their inexplicable actions of decades ? Just pure ignorance right ?
      * Get more children next time so that you can cause more harm and feel completely free from it, thats how it works
+     * 
+     * Guess who still deludes on making violence decisions when they have no relevancy at all ? ehehehehe
       **/
 
 
