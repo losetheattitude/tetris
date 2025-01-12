@@ -276,6 +276,9 @@ int main()
      * 
      * Next time learn to grow up for things that are not your concern, may be you can also become accountable one day and dont have to
      * hide like the disgusting animal you are
+     * 
+     * Ehehehehehehehehe we just love to do what our disgusting inclanations dictate us to do regardless of its meaning, 
+     * You can just get the fuck out of my face
       **/
 
 
