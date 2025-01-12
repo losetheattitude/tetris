@@ -296,6 +296,8 @@ int main()
      * 
      * Just do not forget about the lack of resources and violence to generate nothing, guess who is what ?
      * Thats the reason you can never be welcome as the evidence is more than enough to see through your fragile nature
+     * 
+     * Waste your own disgusting time and get the fuck out of my face
       **/
 
 
