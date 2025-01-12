@@ -325,6 +325,8 @@ int main()
      * 
      * The last group on earth that can ever defend their disgusting nature, guess what happens ?
      * Continue hiding like the disgusting inferior animal you are
+     * 
+     * Do the same advises when you are the subject
       **/ 
 
 
