@@ -139,6 +139,7 @@ int main()
      * Awwwwww, its already too late!!!!! ehehehe
      * 
      * Guess who is not alike and is not interested in your excuses ?
+     * We call it sacrifice because it sounds good!!! eheheheh we love delusion but also ignorance!!
       **/
 
 
