@@ -227,6 +227,8 @@ int main()
      * 
      * You pay with what you charge others, that is it
      * Now its about your time that you get more children to feel competent and great, I want none of that around me
+     * 
+     * I will never want the types who just hide with their inexplicable actions, thats the only thing you can ever hear
       **/
 
 
