@@ -234,6 +234,9 @@ int main()
      * You better get more children to make yourself appear innocent ? Does that sound too complicated ?
      * Do you follow the genius nation ? I know that you are wrong and your constant acts of innocence will not change my perspective ?
      * Guess who is not of violence as much as you inferiors who still hide their disgusting actions ?
+     * 
+     * 
+     * Does the incomparable genius nation understand what comes after their inexplicable actions of decades ? Just pure ignorance right ?
       **/
 
 
