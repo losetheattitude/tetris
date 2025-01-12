@@ -195,6 +195,7 @@ int main()
      * They continue to hide their disgusting nature just the way you do
      * 
      * You can never be welcome under any circumstance whatsoever
+     * There is not a thing even the most great of you can do about time, you have arrived to nowhere, you have generated nothing, thats your clue to your ignorance
       **/
 
 
