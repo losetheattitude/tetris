@@ -256,6 +256,8 @@ int main()
      * 
      * Then just geniusly assault him then make him use medicine then ehehehehh just manipulate his thoughts while under the influence BECAUSE
      * he has done nothing, that sounds definitely genius and competent
+     * 
+     * Guess what have you generated now and at what point have you arrived ? NOWHERE, are you surprised ? eheheheh genius eheheh
       **/
 
 
