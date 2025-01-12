@@ -169,7 +169,9 @@ int main()
      * We have done well !!! eheheh its just fate
      * 
      * Guess who is not welcome because of not their decisions ?
-     * What a shame
+     * What a shame, do you even understand what I am saying ?
+     * 
+     * YOU CAN NEVER BE WELCOME 
       **/
 
 
