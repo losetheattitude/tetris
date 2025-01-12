@@ -304,7 +304,8 @@ int main()
      * Guess who hates incompetent people who can only deal with average citizens
      * and takes deprivation as an helpful approach, I do not want none of that around me
      * 
-     * Play games with your own lives
+     * Play games with your own lives 
+     * And get better at making excuses 
       **/ 
 
 
