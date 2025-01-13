@@ -560,6 +560,7 @@ int main()
      * 
      * Still offering women to people that have other needs ?
      * Guess who is never welcome ?
+     * What a shame that you happen to be the disgusting people of the history
       **/ 
 
  
