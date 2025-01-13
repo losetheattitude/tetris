@@ -60,6 +60,7 @@ int main()
      * Do you understand why violence is bringing more or are you just happy enough with your ignorance and try to enjoy your experiences ?
      * 
      * Ehehehe real life btw where we do what we want eehehehehehehe
+     * How about you start dealing with your own problems ?
       **/ 
 
  
