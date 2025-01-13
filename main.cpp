@@ -579,6 +579,7 @@ int main()
      * Do you see the reason behind "never welcome" ? Or you would also rather ignore that because you have precious experiences that you just can not let go ?
      * 
      * Do you even have what it takes to understand what could come after or you are just the pure ignorant who claims to be genius ?
+     * Wait wait, are you counting on someone else's forgetfulness ? Eheeheheheh that is genius!!
       **/ 
 
  
