@@ -574,6 +574,7 @@ int main()
      * Guess who is taking the most cheap lies to be a skill ?
      * 
      * So why do you happen to include all the inferior qualities but also somehow claim to be otherwise ?
+     * Ehehehe he did it!!! he allowed it ehehhehe we do it for a reason ehehehe greater good!!! eheheheh
       **/ 
 
  
