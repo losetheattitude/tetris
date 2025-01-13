@@ -492,6 +492,7 @@ int main()
      * How about you handle your own disgusting life ? eheheheheheh ITS TOOO LATEE!!!! eheheheh we have done caused irrevertible damage hehehehehe
      * 
      * The most logical irrevertible damage we have caused so far!!!! eheheheheh
+     * Just after single individuals who can not answer proper to their genius "actions" !!! eheheh
       **/ 
  
 
