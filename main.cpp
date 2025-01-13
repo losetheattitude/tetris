@@ -672,6 +672,8 @@ int main()
      * 
      * Do you see the drama now ? ehehehe 
      * How come you claim to understand time when you are so free from your actions consequences let alone what life is about ?
+     * And what a shame that you still offer materials that you value so high, what are the problems ? Do you have what it takes to see ?
+     * What is the problem ?
       **/ 
 
  
