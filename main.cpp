@@ -498,6 +498,7 @@ int main()
      * Because you cannnn eheheheh btw eheheh genius!!
      * 
      * Guess who does not know what he is doing ?
+     * Eeheh just make some offers, its fine hopefully nothing goes wrong
       **/ 
  
 
