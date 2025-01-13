@@ -378,6 +378,7 @@ int main()
      * Ehehehe we are playing games we do not understand eheheheh
      * 
      * Anyways, lacking of even the most irrelevant resources is the only thing that can be good eheheheh
+     * Ehehe we tryna teach people lessons eheheheh
       **/ 
 
 
