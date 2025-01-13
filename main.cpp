@@ -440,6 +440,7 @@ int main()
      * The time that does not belong to us !!!
      * 
      * Who has said you can violate every single "rights" ?
+     * Guess who is taking cheap lying for a skill ?
       **/ 
 
 
