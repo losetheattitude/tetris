@@ -438,6 +438,8 @@ int main()
      * Do you even remember your "actions" to begin with ? The genius nation who can only handle children failingly ?
      * Eheheheheh now you can have some resources but back then eheheheh it was just not possible eheheh we are not wasting time eheheheheheh
      * The time that does not belong to us !!!
+     * 
+     * Who has said you can violate every single "rights" ?
       **/ 
 
 
