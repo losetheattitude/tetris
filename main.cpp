@@ -586,6 +586,7 @@ int main()
      * Or you also mistake others to be as fearful as you ?
      * 
      * How about you get the fuck out of my face ?
+     * What a shame ? eheheh ? you just can not complete the sentence ? because you know you are a shame ?
       **/ 
 
  
