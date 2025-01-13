@@ -334,6 +334,7 @@ int main()
      * Please dont be like us!! eheheh
      * 
      * Do you want to talk about your credibility first let alone your disgusting pointless violence against single individual ?
+     * Have you ever heard about accountability or you just love to delude that you should do anything because you can ? Genius nation btw
       **/ 
 
 
