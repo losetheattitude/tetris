@@ -571,6 +571,7 @@ int main()
      * eheheh you are just after enjoying your experiences still, what a pattern
      * 
      * Why dont you play games over your own lifes ?
+     * Guess who is taking the most cheap lies to be a skill ?
       **/ 
 
  
