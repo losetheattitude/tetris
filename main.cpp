@@ -370,6 +370,8 @@ int main()
      * 
      * Awwwww, you still do not think you made a mistake ? Eheheheheheh what do you think is the problem genius nation eheheheheh ?
      * Do you think you are making right decisions ? That sounds like begging
+     * 
+     * Anyways, lets just watch illegally and from time to time harm with intent to harm and coerce some medicine, and its just fine
       **/ 
 
 
