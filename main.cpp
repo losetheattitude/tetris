@@ -484,6 +484,8 @@ int main()
      * 
      * Anyways lets get someone and apply some violence when there are others things to do then just ignore ehehehehehh
      * How about you handle your own life ? Awwwwwww, itsss tooo latee!!! ehehehhe
+     * 
+     * Why dont you gather more people because you just want to harm for the sake of harming ? The level of genius loook att thatt!!!
       **/ 
 
 
