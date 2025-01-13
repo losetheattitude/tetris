@@ -514,6 +514,7 @@ int main()
      * How about you gather 1238213802 people and try to ignore your actions ?
      * 
      * What a shame that you are a never learning disgusting animal who can not see clearly
+     * Are you still trying your hardest to hide the truth about what you are ? ehehehehehehhe you just can only handle children I guess ?
       **/ 
  
 
