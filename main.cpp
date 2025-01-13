@@ -384,6 +384,7 @@ int main()
      * Ehehehehehe its unacceptable that we do harm for the sake of harming eheheheh or coerce medicine or coerce people into situations eheheheh
      * 
      * Whats wrong ? Have you arrived ? eheheheheh whats with the waiting ? 
+     * Have you mistaken me for your inferior nature ? Who do you think is afraid ?
       **/ 
 
 
