@@ -380,7 +380,7 @@ int main()
      * Anyways, lacking of even the most irrelevant resources is the only thing that can be good eheheheh
      * Ehehe we tryna teach people lessons eheheheh
      * 
-     * Guess who is not wanted ?
+     * Guess who is not wanted ? Eeheheh just gather some people hehehehe harming and ehehehehe genius nation etc
       **/ 
 
 
