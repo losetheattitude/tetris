@@ -338,6 +338,9 @@ int main()
      * 
      * This is where "you only live once" eheheheheh part, awwwww thats too impressive
      * Find more children and defenseless people you can abuse, ehehe you only live once
+     * 
+     * Ehehehehehe talk to us as if you are not talking to a selfish wall that has ignored decades ehehehehehe
+     * because we genius nation eheheh delusion ehehehe
       **/ 
 
 
