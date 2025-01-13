@@ -466,6 +466,8 @@ int main()
      * Ehhhehehehehehhehehehehe ? and ? ehehehehe just tryna enjoy our lives!!! eheheheh
      * 
      * And would just love to ignore ehehehehheheh
+     * Its just such a relief to harm people for the sake of harming and eheheheh do not even look back ehehehe
+     * Thats the definition of genius btw
       **/ 
 
 
