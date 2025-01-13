@@ -642,6 +642,7 @@ int main()
      * 
      * Are you still offering women ?
      * Guess who does not have anything to say for 30 years of wastage ?
+     * and who has to still ignore and repeat the same offers that they do not deliver and enjoy their own life ?
       **/ 
 
  
