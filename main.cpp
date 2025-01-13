@@ -473,6 +473,8 @@ int main()
      * 
      * Do you understand the misimage you intentionally assume ?
      * Awwwwwwwwww, are you still making offers ? eheheheh genius btw
+     * 
+     * Do you want to talk about the past or ? eheheheh genius btw eheheheh
       **/ 
 
 
