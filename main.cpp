@@ -480,6 +480,7 @@ int main()
      * How about more medicine ? eheheheh ? does that make sense ?
      * 
      * Eheheheheheheeh its really fun stuff eheheheh
+     * Try your hardest to make excuses, thats the type of animal you are
       **/ 
 
 
