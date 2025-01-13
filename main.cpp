@@ -363,6 +363,8 @@ int main()
      * Awwwww, you call that genius nation ?
      * Ehehehehehehehe, how about some coercion of medicine ? THATS GENIUS!!!!
      * Wait waitt, why dont you gather 1230213021 people against one individual ? ehehehe THATSS GENIUS NATIIONNN!!! eheheheh
+     * 
+     * Do you see your genius nation ? I DO NOT
       **/ 
 
 
