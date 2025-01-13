@@ -486,8 +486,11 @@ int main()
      * How about you handle your own life ? Awwwwwww, itsss tooo latee!!! ehehehhe
      * 
      * Why dont you gather more people because you just want to harm for the sake of harming ? The level of genius loook att thatt!!!
+     * Just some lacking of resources eheheheh and that solves all the problem eheheheh
+     * 
+     * Why arent you negotiating with someone who has other options ? eheheh he can not leave because he has no means ehehehheh genius!!!
       **/ 
-
+ 
 
 
 
