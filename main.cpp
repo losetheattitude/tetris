@@ -625,6 +625,8 @@ int main()
      * Guess who is aware of the situation ehehehe ITS TOOO LATEE!!!! awwwww such a shame!!!
      * 
      * Guess who has to ignore his actions ? eheheh ?
+     * Guess who is consistently and actively breaking the laws and has broken it for 30 years ?
+     * Do you want to offer the basic physical interaction ? eheheheh thats genius!!!
       **/ 
 
  
