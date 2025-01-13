@@ -407,6 +407,8 @@ int main()
      * Do you want to talk about how skillfully you coerced people starting from children age ? eheheheh genius ehehe
      * Why dont you just do the same against impartial crowds ?
      * Where does your disgusting relief come from ? awwww I have forgotten you were the genius nation eheheh who can not handle people eheheh
+     * 
+     * Are you still making offers as if you are not begging ?
       **/ 
 
 
