@@ -372,6 +372,7 @@ int main()
      * Do you think you are making right decisions ? That sounds like begging
      * 
      * Anyways, lets just watch illegally and from time to time harm with intent to harm and coerce some medicine, and its just fine
+     * Its just that we are trying to give people some lessons eheheheh about life that we brag to know so much about heheheh
       **/ 
 
 
