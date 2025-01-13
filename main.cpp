@@ -472,6 +472,7 @@ int main()
      * Eheheheh you handle your own problems ? eheheh what a genius nation!!!
      * 
      * Do you understand the misimage you intentionally assume ?
+     * Awwwwwwwwww, are you still making offers ? eheheheh genius btw
       **/ 
 
 
