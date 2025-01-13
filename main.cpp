@@ -390,6 +390,8 @@ int main()
      * How about you start showing your great skills ?
      * Where are the great outcomes of your violent actions ?
      * Ehehehe some coercion ?
+     * 
+     * Where are the benefits eheheheheh genius nation who coerces people ?
       **/ 
 
 
