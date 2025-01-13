@@ -597,6 +597,9 @@ int main()
      * Nothing matters unless its our precious time and experiences ehehehehe we also offer women for decades eheheheheh such a shame
      * 
      * You were saying fate ? awww no no, it was life, or may be its just a disgusting intentional mistake because of an immature selfish animal
+     * What a shame, eheeheheh 
+     * 
+     * Guess who can never be welcome
       **/ 
 
  
