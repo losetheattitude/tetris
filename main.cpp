@@ -501,6 +501,7 @@ int main()
      * Eeheh just make some offers, its fine hopefully nothing goes wrong
      * 
      * What a shame you are an ignorant animal
+     * Do you want to talk more about 30 years or you just want to produce incompetent excuses ? eheheheh who do you think deserve that ?
       **/ 
  
 
