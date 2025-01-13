@@ -544,6 +544,7 @@ int main()
      * 
      * What have you gained now ? Awwwwwww, look at you!!!! you have arrived to nowhere!!! eheheheheeheheeheheheh
      * Guess who is not wanted ?
+     * Guess who can only fool his own kind ?
       **/ 
  
 
