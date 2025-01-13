@@ -568,6 +568,7 @@ int main()
      * Do you want to talk about violence or would you rather ignore that as well ? ehehehe or no resources hehehehe
      * 
      * You were never allowed to such actions as you have committed, do you even follow ?
+     * eheheh you are just after enjoying your experiences still, what a pattern
       **/ 
 
  
