@@ -446,6 +446,8 @@ int main()
      * What has changed ?
      * Where are all the beneficial outcomes of your inexplicably violent actions ?
      * Eheheheheheh we just like harming for the sake of harming!!!!
+     * 
+     * Do you now see the ignorant animal connotation ? The disgustingly delusional people ?
       **/ 
 
 
