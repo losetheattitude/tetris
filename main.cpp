@@ -483,6 +483,7 @@ int main()
      * Try your hardest to make excuses, thats the type of animal you are
      * 
      * Anyways lets get someone and apply some violence when there are others things to do then just ignore ehehehehehh
+     * How about you handle your own life ? Awwwwwww, itsss tooo latee!!! ehehehhe
       **/ 
 
 
