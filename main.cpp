@@ -470,6 +470,8 @@ int main()
      * Thats the definition of genius btw
      * 
      * Eheheheh you handle your own problems ? eheheh what a genius nation!!!
+     * 
+     * Do you understand the misimage you intentionally assume ?
       **/ 
 
 
