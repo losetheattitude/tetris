@@ -541,6 +541,8 @@ int main()
      * 
      * Stupid monkeys who are still covering their disgusting nature and trying their best to enjoy their life
      * while they advise others to ruin theirs without a choice ? eheheheheheheh really really great people
+     * 
+     * What have you gained now ?
       **/ 
  
 
