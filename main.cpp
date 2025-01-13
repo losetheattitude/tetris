@@ -74,6 +74,9 @@ int main()
      * 
      * How about you continue enjoying your experiences from out of my vicinity and keep your delusion on the highest level possible
      * I am not interested
+     * 
+     * As long as you see the problem of you, the people who takes themselves for to be so great and big they attempt at everything,
+     * its okay that you also ignore your ignorance, I can never be interested in such quality
       **/ 
 
  
