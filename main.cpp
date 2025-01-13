@@ -518,6 +518,7 @@ int main()
      * And people with no defense ? How does that sound ?
      * 
      * Are you still offering women ?
+     * How about you ignore more on your life ? Awwwww, you just can not afford that
       **/ 
  
 
