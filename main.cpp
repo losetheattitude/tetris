@@ -71,6 +71,9 @@ int main()
      * 
      * I am not interested in your selfish dispositions, thats the only thing you can ever hear
      * Because you know you are guilty
+     * 
+     * How about you continue enjoying your experiences from out of my vicinity and keep your delusion on the highest level possible
+     * I am not interested
       **/ 
 
  
