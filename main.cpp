@@ -603,6 +603,9 @@ int main()
      * 
      * You do not deserve the tiniest amount of respect nor any credibility whatsoever,
      * Thus you can never be relevant, indefinitely
+     * 
+     * Try to find your place in the so called history, whats the pattern in your denial and eagerness to call it history ?
+     * Awwwwwww, what a shame you also fail at that
       **/ 
 
  
