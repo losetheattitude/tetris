@@ -66,7 +66,7 @@ int main()
      * Guess who is still making decisions that are not their place
      * Guess who is still demanding respect while they are unable to see that they do not deserve it 
      * 
-     * That is not the problem 
+     * That is not the problem but just try to guess who is not interested ?
       **/ 
 
  
