@@ -663,6 +663,8 @@ int main()
      * 
      * Awwww you are so far from understanding that you are enjoying your life even when you are having that fancy conversations 
      * while others have to sit decades and do nothing while also subject to violence and coercion and medicine ?
+     * 
+     * Eheheheheh not a failure 
       **/ 
 
  
