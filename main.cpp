@@ -64,7 +64,7 @@ int main()
      * 
      * Do you really believe that someone would suddenly be so thankful for nothing ?
      * Guess who is still making decisions that are not their place
-     * 
+     * Guess who is still demanding respect while they are unable to see that they do not deserve it 
       **/ 
 
  
