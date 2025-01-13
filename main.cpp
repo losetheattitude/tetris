@@ -591,6 +591,7 @@ int main()
      * while also advising people into harm for the sake of harm ?
      * 
      * What has happened now ? eeheheheh genius btw
+     * What a greattttt legacy ehehheheehhe indeed btw
       **/ 
 
  
