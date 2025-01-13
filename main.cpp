@@ -413,6 +413,7 @@ int main()
      * Ehehehe genius nation offering women eheheheh
      * 
      * Guess who does not know what they are doing ?
+     * And still ignoring with making offers that do not matter in the long term ?
       **/ 
 
 
