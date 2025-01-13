@@ -646,6 +646,9 @@ int main()
      * 
      * Guess who has to act like they know what they are doing ?
      * Are you still offering normal life experiences ? ehehehh you all are the definition of immature ignorant monkeys
+     * 
+     * Just look where you have arrived with nothing in your hands except 30 years of waste, how does that sound ? That sounds genius right ?
+     * Eheheheh what a shame
       **/ 
 
  
