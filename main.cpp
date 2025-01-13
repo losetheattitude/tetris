@@ -67,6 +67,9 @@ int main()
      * Guess who is still demanding respect while they are unable to see that they do not deserve it 
      * 
      * That is not the problem but just try to guess who is not interested ?
+     * Guess who never considers jeopardizing his experiences ? eheheh
+     * 
+     * I am not interested in your selfish dispositions, thats the only thing you can ever hear
       **/ 
 
  
