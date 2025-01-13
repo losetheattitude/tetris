@@ -636,6 +636,9 @@ int main()
      * 
      * How about you start paying with what you can not afford then we handle the rest ?
      * Do your unseen genius nation foresee what comes after ? eheheheheh
+     * 
+     * Ehehe wait wait, your genius nation has failed to predict the gain that it would yield by practicely
+     * wasting 30 years and now also fails to understand the consequences ? WHAT A GENIUS NATION
       **/ 
 
  
