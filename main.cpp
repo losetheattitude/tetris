@@ -77,6 +77,8 @@ int main()
      * 
      * As long as you see the problem of you, the people who takes themselves for to be so great and big they attempt at everything,
      * its okay that you also ignore your ignorance, I can never be interested in such quality
+     * 
+     * Guess who is not interested in immature people who acts like they had to
       **/ 
 
  
