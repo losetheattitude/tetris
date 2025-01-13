@@ -328,6 +328,8 @@ int main()
      * 
      * Do the same advises when you are the subject
      * Continue hiding like the inferior animal you are and ignore the consequences that you speak informatively
+     * 
+     * Whats the problem in your understanding that everyone needs resources ? eheheheheh 
       **/ 
 
 
