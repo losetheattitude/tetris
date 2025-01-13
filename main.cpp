@@ -557,6 +557,8 @@ int main()
      * Why do you take everyone to be the same low nature as you are ?
      * 
      * Guess who can never be considered and trusted ever ?
+     * 
+     * Still offering women to people that have other needs ?
       **/ 
 
  
