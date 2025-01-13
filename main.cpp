@@ -445,6 +445,7 @@ int main()
      * How about you deal with your own lives and try not to disgust people ?
      * What has changed ?
      * Where are all the beneficial outcomes of your inexplicably violent actions ?
+     * Eheheheheheh we just like harming for the sake of harming!!!!
       **/ 
 
 
