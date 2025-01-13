@@ -347,6 +347,8 @@ int main()
      * 
      * You can get the fuck out of my face and get more children to handle, thats the only think you can achieve
      * Thats how to be proud of yourselves ehehehe genius btw, and some coercion of medicine so that you can hide your disgusting actions
+     * 
+     * Better get back to your disgusting inn where you hide behind the group, thats the type of animal you are
       **/ 
 
 
