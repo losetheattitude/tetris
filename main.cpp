@@ -449,6 +449,8 @@ int main()
      * 
      * Do you now see the ignorant animal connotation ? The disgustingly delusional people ?
      * How about you coerce medicine to hide your inexplicable nature ? and offer things you do not deliver ?
+     * 
+     * You call that genius ? eheheheheheh guess the pattern ?
       **/ 
 
 
