@@ -532,6 +532,8 @@ int main()
      * 
      * Eheheheh we love to live please ehehehehe 
      * How come ? What changed now ? ehehehehehe ?
+     * 
+     * Next time use your brain only for your own disgusting life, nobody asked anything from you ? 
       **/ 
  
 
