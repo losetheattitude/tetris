@@ -361,6 +361,7 @@ int main()
      * Guess who is failing at decision making ?
      * Wait wait, why dont you watch illegally and use that to prove points then also some violence and deprivation ?
      * Awwwww, you call that genius nation ?
+     * Ehehehehehehehe, how about some coercion of medicine ? THATS GENIUS!!!!
       **/ 
 
 
