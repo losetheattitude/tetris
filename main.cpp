@@ -359,6 +359,8 @@ int main()
      * Do you follow your disgusting nature ? I am sure you love to ignore that as well
      * 
      * Guess who is failing at decision making ?
+     * Wait wait, why dont you watch illegally and use that to prove points then also some violence and deprivation ?
+     * Awwwww, you call that genius nation ?
       **/ 
 
 
