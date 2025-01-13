@@ -434,6 +434,8 @@ int main()
      * 
      * How about you handle your own problems ?
      * How about you do not act like you know what you are doing ? ehhehe no resources is the way to go because we can
+     * 
+     * Do you even remember your "actions" to begin with ? The genius nation who can only handle children failingly ?
       **/ 
 
 
