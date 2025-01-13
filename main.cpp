@@ -419,6 +419,7 @@ int main()
      * Do you want to talk about the resources or also ignore your actions ?
      * 
      * The delusionally genius people who takes violence for a skill can never be wanted ? Does that really sound too complicated for your mind ?
+     * Whats the problem ehehehhe what are you waiting for ?
       **/ 
 
 
