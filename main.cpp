@@ -397,6 +397,7 @@ int main()
      * And you still do not have any positive outcome ? ehehehehe
      * 
      * Awwwwwwwwww, itsss tooo latee!!!! genius nation eheheheh, no beneficial outcomes so far eheheh but we like harming ehehehe
+     * Where are the benefits of your violent actions that once were promising so great things ?
       **/ 
 
 
