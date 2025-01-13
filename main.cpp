@@ -524,7 +524,7 @@ int main()
      * Still making offers when you had 30 years ? ehehehehehehehehhe what a shame!!!! isnt it ?
      * 
      * Why dont you play games with your own life ? Awwwwwww, you just can not afford that
-     * What a shame
+     * What a shame, its okay so long as its not my time that has been wasted with unaccountable actions, isnt it eheheheheh
       **/ 
  
 
