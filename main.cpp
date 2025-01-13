@@ -512,6 +512,8 @@ int main()
      * What have you achieved now the geniuses ?
      * Are you still ignoring ? eehehhehe ?
      * How about you gather 1238213802 people and try to ignore your actions ?
+     * 
+     * What a shame that you are a never learning disgusting animal who can not see clearly
       **/ 
  
 
