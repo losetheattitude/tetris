@@ -337,6 +337,7 @@ int main()
      * Have you ever heard about accountability or you just love to delude that you should do anything because you can ? Genius nation btw
      * 
      * This is where "you only live once" eheheheheh part, awwwww thats too impressive
+     * Find more children and defenseless people you can abuse, ehehe you only live once
       **/ 
 
 
