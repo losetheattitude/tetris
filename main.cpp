@@ -671,6 +671,7 @@ int main()
      * Where have you arrived now ?
      * 
      * Do you see the drama now ? ehehehe 
+     * How come you claim to understand time when you are so free from your actions consequences let alone what life is about ?
       **/ 
 
  
