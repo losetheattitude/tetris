@@ -393,6 +393,8 @@ int main()
      * 
      * Where are the benefits eheheheheh genius nation who coerces people ?
      * How about you explain your actions before a just crowd ?
+     * You playing genius games against defenseless individuals with 1238012301 people and infinite resources ?
+     * And you still do not have any positive outcome ? ehehehehe
       **/ 
 
 
