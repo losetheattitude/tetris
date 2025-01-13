@@ -654,6 +654,8 @@ int main()
      * You better find more children to waste 30 years and be proud about yourselves
      * 
      * Are you done jerking off ?
+     * 
+     * What a shame isnt it ? You have wasted 30 years with nothing in your hands except violence and coercion and medicine ?
       **/ 
 
  
