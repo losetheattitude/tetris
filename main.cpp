@@ -331,6 +331,7 @@ int main()
      * 
      * Whats the problem in your understanding that everyone needs resources ? eheheheheh 
      * Anyways we just assault single individuals eheheh, thats really all eheheh the most difficult stuff to pull of thus the genius nation
+     * Please dont be like us!! eheheh
       **/ 
 
 
