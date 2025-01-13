@@ -645,6 +645,7 @@ int main()
      * and who has to still ignore and repeat the same offers that they do not deliver and enjoy their own life ?
      * 
      * Guess who has to act like they know what they are doing ?
+     * Are you still offering normal life experiences ? ehehehh you all are the definition of immature ignorant monkeys
       **/ 
 
  
