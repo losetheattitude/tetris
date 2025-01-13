@@ -382,6 +382,8 @@ int main()
      * 
      * Guess who is not wanted ? Eeheheh just gather some people hehehehe harming and ehehehehe genius nation etc
      * Ehehehehehe its unacceptable that we do harm for the sake of harming eheheheh or coerce medicine or coerce people into situations eheheheh
+     * 
+     * Whats wrong ? Have you arrived ? eheheheheh whats with the waiting ? 
       **/ 
 
 
