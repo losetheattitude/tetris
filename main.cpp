@@ -656,7 +656,7 @@ int main()
      * Are you done jerking off ?
      * 
      * What a shame isnt it ? You have wasted 30 years with nothing in your hands except violence and coercion and medicine ?
-     * Where did you arrive now ? 
+     * Where did you arrive now ?  Ehehehhe you have done good job raising something you do not even understand eheheheh
       **/ 
 
  
