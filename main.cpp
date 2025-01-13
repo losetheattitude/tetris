@@ -569,6 +569,8 @@ int main()
      * 
      * You were never allowed to such actions as you have committed, do you even follow ?
      * eheheh you are just after enjoying your experiences still, what a pattern
+     * 
+     * Why dont you play games over your own lifes ?
       **/ 
 
  
