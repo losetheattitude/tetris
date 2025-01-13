@@ -388,6 +388,7 @@ int main()
      * Still offering women ? Whats the pattern ?
      * 
      * How about you start showing your great skills ?
+     * Where are the great outcomes of your violent actions ?
       **/ 
 
 
