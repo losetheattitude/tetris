@@ -56,6 +56,8 @@ int main()
      * 
      * Do you understand why you should not make decisions ?
      * Still ignoring and doing what you are told ?
+     * 
+     * Do you understand why violence is bringing more or are you just happy enough with your ignorance and try to enjoy your experiences ?
       **/ 
 
  
