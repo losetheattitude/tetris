@@ -534,6 +534,9 @@ int main()
      * How come ? What changed now ? ehehehehehe ?
      * 
      * Next time use your brain only for your own disgusting life, nobody asked anything from you ? 
+     * Ehehehhehehehe, please please we just want to enjoy our life ehehehehhehe
+     * 
+     * What a shame you are still the same inferior animal
       **/ 
  
 
