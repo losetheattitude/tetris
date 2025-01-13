@@ -549,6 +549,9 @@ int main()
      * How about you handle your own life ?
      * Wait wait, why dont you talk more about life that you somehow happen to know much ?
      * How come you are so reliefed ? eheheheheh please please eheheheheheheheh we just want to enjoy our life and eheheheheheh do not care about anything eheheh !!!
+     * 
+     * Are you still begging with what you "could lose" while 30 years have passed with violence ? What do you think will come after that ?
+     * Do you still mistake everyone to be the same low nature that you are formed ?
       **/ 
  
 
