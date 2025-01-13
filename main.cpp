@@ -641,6 +641,7 @@ int main()
      * wasting 30 years and now also fails to understand the consequences ? WHAT A GENIUS NATION
      * 
      * Are you still offering women ?
+     * Guess who does not have anything to say for 30 years of wastage ?
       **/ 
 
  
