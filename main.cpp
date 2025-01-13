@@ -630,6 +630,9 @@ int main()
      * 
      * The level of genius at ignoring is phenomanol!! Now what have you achieved ? eheheheh you have arrived to nowhere ? eheheheh
      * Now with your genius, can you also foresee what could happen after pointless violence and coercion and medication when you had no rights ?
+     * 
+     * Try to guess now the genius nation, what would be the reason of 30 years that got you nothing ?
+     * And what could follow after it ? ehehehehehehhe
       **/ 
 
  
