@@ -425,6 +425,9 @@ int main()
      * Reallly realllly scary people, who can only wield violence 1 against 1230213 people ehehehehe some coercion of medicine why not ?
      * 
      * You are not wanted, you can get the fuck out of my face
+     * 
+     * Eheheheh you just have to do these things then we are allowed to harm you eheheheh
+     * What are you waiting for genius nation ?
       **/ 
 
 
