@@ -502,6 +502,7 @@ int main()
      * 
      * What a shame you are an ignorant animal
      * Do you want to talk more about 30 years or you just want to produce incompetent excuses ? eheheheh who do you think deserve that ?
+     * And guess who you are in this story, A story that you can not even explain properly other than making irrelevant excuses for your selfish behavior ?
       **/ 
  
 
