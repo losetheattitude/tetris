@@ -575,6 +575,8 @@ int main()
      * 
      * So why do you happen to include all the inferior qualities but also somehow claim to be otherwise ?
      * Ehehehe he did it!!! he allowed it ehehhehe we do it for a reason ehehehe greater good!!! eheheheh
+     * 
+     * Do you see the reason behind "never welcome" ? Or you would also rather ignore that because you have precious experiences that you just can not let go ?
       **/ 
 
  
