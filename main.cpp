@@ -79,6 +79,7 @@ int main()
      * its okay that you also ignore your ignorance, I can never be interested in such quality
      * 
      * Guess who is not interested in immature people who acts like they had to
+     * Why suddenly are you taking the life to be so serious ? Awwww, is that the pattern again ?
       **/ 
 
  
