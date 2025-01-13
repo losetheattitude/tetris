@@ -522,6 +522,8 @@ int main()
      * 
      * You just go find more people you can abuse, guess who is not wanted ?
      * Still making offers when you had 30 years ? ehehehehehehehehhe what a shame!!!! isnt it ?
+     * 
+     * Why dont you play games with your own life ? Awwwwwww, you just can not afford that
       **/ 
  
 
