@@ -61,6 +61,8 @@ int main()
      * 
      * Ehehehe real life btw where we do what we want eehehehehehehe
      * How about you start dealing with your own problems ?
+     * 
+     * Do you really believe that someone would suddenly be so thankful for nothing ?
       **/ 
 
  
