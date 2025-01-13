@@ -564,6 +564,8 @@ int main()
      * 
      * How about you answer for your own actions first ? then we talk about what happens next ?
      * What are you waiting for great people ? eheheheheh some 1239213921 people and just harming heheeheheh pure genius ehehehe 
+     * 
+     * Do you want to talk about violence or would you rather ignore that as well ? ehehehe or no resources hehehehe
       **/ 
 
  
