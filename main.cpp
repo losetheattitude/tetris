@@ -639,6 +639,8 @@ int main()
      * 
      * Ehehe wait wait, your genius nation has failed to predict the gain that it would yield by practicely
      * wasting 30 years and now also fails to understand the consequences ? WHAT A GENIUS NATION
+     * 
+     * Are you still offering women ?
       **/ 
 
  
