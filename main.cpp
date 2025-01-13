@@ -666,6 +666,8 @@ int main()
      * 
      * Eheheheheh not a failure,
      * Guess who is not as disgusting as you are ?
+     * 
+     * Have you achieved the unattainable aim of true noble nature ? or you are just on a mission to ignore your actions ?
       **/ 
 
  
