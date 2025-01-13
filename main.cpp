@@ -618,6 +618,7 @@ int main()
      * 
      * Guess who is entirely wrong ?
      * Guess who is still deluding ?
+     * Next time play with your own life eheheheh, really really fun stuff
       **/ 
 
  
