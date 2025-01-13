@@ -525,6 +525,9 @@ int main()
      * 
      * Why dont you play games with your own life ? Awwwwwww, you just can not afford that
      * What a shame, its okay so long as its not my time that has been wasted with unaccountable actions, isnt it eheheheheh
+     * 
+     * 
+     * Why dont you waste your own life ?
       **/ 
  
 
