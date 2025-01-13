@@ -519,6 +519,8 @@ int main()
      * 
      * Are you still offering women ?
      * How about you ignore more on your life ? Awwwww, you just can not afford that
+     * 
+     * You just go find more people you can abuse, guess who is not wanted ?
       **/ 
  
 
