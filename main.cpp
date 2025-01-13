@@ -600,6 +600,9 @@ int main()
      * What a shame, eheeheheh 
      * 
      * Guess who can never be welcome
+     * 
+     * You do not deserve the tiniest amount of respect nor any credibility whatsoever,
+     * Thus you can never be relevant, indefinitely
       **/ 
 
  
