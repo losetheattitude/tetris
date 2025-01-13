@@ -572,6 +572,8 @@ int main()
      * 
      * Why dont you play games over your own lifes ?
      * Guess who is taking the most cheap lies to be a skill ?
+     * 
+     * So why do you happen to include all the inferior qualities but also somehow claim to be otherwise ?
       **/ 
 
  
