@@ -490,6 +490,8 @@ int main()
      * 
      * Why arent you negotiating with someone who has other options ? eheheh he can not leave because he has no means ehehehheh genius!!!
      * How about you handle your own disgusting life ? eheheheheheh ITS TOOO LATEE!!!! eheheheh we have done caused irrevertible damage hehehehehe
+     * 
+     * The most logical irrevertible damage we have caused so far!!!! eheheheheh
       **/ 
  
 
