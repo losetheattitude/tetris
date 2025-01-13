@@ -448,6 +448,7 @@ int main()
      * Eheheheheheh we just like harming for the sake of harming!!!!
      * 
      * Do you now see the ignorant animal connotation ? The disgustingly delusional people ?
+     * How about you coerce medicine to hide your inexplicable nature ? and offer things you do not deliver ?
       **/ 
 
 
