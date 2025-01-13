@@ -436,6 +436,8 @@ int main()
      * How about you do not act like you know what you are doing ? ehhehe no resources is the way to go because we can
      * 
      * Do you even remember your "actions" to begin with ? The genius nation who can only handle children failingly ?
+     * Eheheheheh now you can have some resources but back then eheheheh it was just not possible eheheh we are not wasting time eheheheheheh
+     * The time that does not belong to us !!!
       **/ 
 
 
