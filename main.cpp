@@ -547,6 +547,7 @@ int main()
      * Guess who can only fool his own kind ?
      * 
      * How about you handle your own life ?
+     * Wait wait, why dont you talk more about life that you somehow happen to know much ?
       **/ 
  
 
