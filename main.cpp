@@ -555,6 +555,8 @@ int main()
      * 
      * What do you think is going to happen ?
      * Why do you take everyone to be the same low nature as you are ?
+     * 
+     * Guess who can never be considered and trusted ever ?
       **/ 
 
  
