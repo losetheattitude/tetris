@@ -362,6 +362,7 @@ int main()
      * Wait wait, why dont you watch illegally and use that to prove points then also some violence and deprivation ?
      * Awwwww, you call that genius nation ?
      * Ehehehehehehehe, how about some coercion of medicine ? THATS GENIUS!!!!
+     * Wait waitt, why dont you gather 1230213021 people against one individual ? ehehehe THATSS GENIUS NATIIONNN!!! eheheheh
       **/ 
 
 
