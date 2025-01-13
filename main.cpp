@@ -461,6 +461,8 @@ int main()
      * 
      * Why dont you start begging since only way for you to achieve something ?
      * Why dont you produce more bullshit proof if that does not work then start begging ?
+     * 
+     * Guess whats the equivalent of decades of violence and wasted time ?
       **/ 
 
 
