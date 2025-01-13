@@ -554,6 +554,7 @@ int main()
      * Do you still mistake everyone to be the same low nature that you are formed ?
      * 
      * What do you think is going to happen ?
+     * Why do you take everyone to be the same low nature as you are ?
       **/ 
 
  
