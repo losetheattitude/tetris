@@ -652,6 +652,8 @@ int main()
      * 
      * Guess who is not wanted ? And can never be so ?
      * You better find more children to waste 30 years and be proud about yourselves
+     * 
+     * Are you done jerking off ?
       **/ 
 
  
