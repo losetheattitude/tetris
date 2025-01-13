@@ -538,6 +538,9 @@ int main()
      * 
      * What a shame you are still the same inferior animal
      * Loook!!! what you have achieved is unattainable!!! awwwwwwwwwww thats so great!!!! ehehehhehe
+     * 
+     * Stupid monkeys who are still covering their disgusting nature and trying their best to enjoy their life
+     * while they advise others to ruin theirs without a choice ? eheheheheheheh really really great people
       **/ 
  
 
