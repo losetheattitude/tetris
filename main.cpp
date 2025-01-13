@@ -365,6 +365,7 @@ int main()
      * Wait waitt, why dont you gather 1230213021 people against one individual ? ehehehe THATSS GENIUS NATIIONNN!!! eheheheh
      * 
      * Do you see your genius nation ? I DO NOT
+     * Anyways, lets coerce more things and ask for lies eheheh
       **/ 
 
 
