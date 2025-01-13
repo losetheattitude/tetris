@@ -505,6 +505,9 @@ int main()
      * 
      * And guess who you are in this story, A story that you can not even explain properly other than making irrelevant excuses for your selfish behavior ?
      * Why dont you ignore ? Awwwwww, I have forgotten that you were constantly on the ignore eheheheheh  what a shame!!
+     * 
+     * What a shame that you are deluding on your competent decisions
+     * You do not get to make that decision ? Does that sound too complicated ? Eheheheheh look where we are ?
       **/ 
  
 
