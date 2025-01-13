@@ -395,6 +395,8 @@ int main()
      * How about you explain your actions before a just crowd ?
      * You playing genius games against defenseless individuals with 1238012301 people and infinite resources ?
      * And you still do not have any positive outcome ? ehehehehe
+     * 
+     * Awwwwwwwwww, itsss tooo latee!!!! genius nation eheheheh, no beneficial outcomes so far eheheh but we like harming ehehehe
       **/ 
 
 
