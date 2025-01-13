@@ -353,6 +353,7 @@ int main()
      * 
      * Ehhehehehe you only live once ehehehehe!!!
      * Ehehehe its just life!! No need to be over dramatic eheheh its just decades eheheheh and violence and heehehheh some eheheheheh
+     * Ehhehehe he is a foe!! ehehhehe he a foe ehehehehehe no need to be dramatic eheheheh
       **/ 
 
 
