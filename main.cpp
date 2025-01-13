@@ -552,7 +552,10 @@ int main()
      * 
      * Are you still begging with what you "could lose" while 30 years have passed with violence ? What do you think will come after that ?
      * Do you still mistake everyone to be the same low nature that you are formed ?
+     * 
+     * What do you think is going to happen ?
       **/ 
+
  
 
 
