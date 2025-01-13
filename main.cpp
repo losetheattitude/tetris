@@ -330,6 +330,7 @@ int main()
      * Continue hiding like the inferior animal you are and ignore the consequences that you speak informatively
      * 
      * Whats the problem in your understanding that everyone needs resources ? eheheheheh 
+     * Anyways we just assault single individuals eheheh, thats really all eheheh the most difficult stuff to pull of thus the genius nation
       **/ 
 
 
