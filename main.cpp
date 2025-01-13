@@ -587,6 +587,10 @@ int main()
      * 
      * How about you get the fuck out of my face ?
      * What a shame ? eheheh ? you just can not complete the sentence ? because you know you are a shame ?
+     * You are a shameful disgusting animal who sacrifices irrelevant people because you value your own experiences so much
+     * while also advising people into harm for the sake of harm ?
+     * 
+     * What has happened now ? eeheheheh genius btw
       **/ 
 
  
