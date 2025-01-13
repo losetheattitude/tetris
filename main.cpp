@@ -376,6 +376,8 @@ int main()
      * 
      * But the truth is just that we really love our experiences and also harming other people that we do not understand ehehehehehehe
      * Ehehehe we are playing games we do not understand eheheheh
+     * 
+     * Anyways, lacking of even the most irrelevant resources is the only thing that can be good eheheheh
       **/ 
 
 
