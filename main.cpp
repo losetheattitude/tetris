@@ -621,6 +621,7 @@ int main()
      * Next time play with your own life eheheheh, really really fun stuff
      * 
      * Awwwwww, itsss toooo late!!! 
+     * You still dare talking about things you have no understanding, guess who is the ignorant and problem causer ?
       **/ 
 
  
