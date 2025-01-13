@@ -430,6 +430,7 @@ int main()
      * What are you waiting for genius nation ?
      * 
      * Are you still offering material for time ? eheheheheh
+     * Why isnt your violent approach doing something ?
       **/ 
 
 
