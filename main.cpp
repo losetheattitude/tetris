@@ -417,6 +417,8 @@ int main()
      * 
      * Ehehehe impossible ehehehe genius nation eheheh coercing medicine and violence hehe its impossible heheheh
      * Do you want to talk about the resources or also ignore your actions ?
+     * 
+     * The delusionally genius people who takes violence for a skill can never be wanted ? Does that really sound too complicated for your mind ?
       **/ 
 
 
