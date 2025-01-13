@@ -612,6 +612,8 @@ int main()
      * 
      * You can never be welcomed
      * I am not interested in anything you can form, thats the only thing you can ever hear
+     * 
+     * What a shame that you can believe in your complete right to do whatever you want to irrelevant people
       **/ 
 
  
