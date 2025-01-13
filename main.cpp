@@ -499,6 +499,8 @@ int main()
      * 
      * Guess who does not know what he is doing ?
      * Eeheh just make some offers, its fine hopefully nothing goes wrong
+     * 
+     * What a shame you are an ignorant animal
       **/ 
  
 
