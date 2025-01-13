@@ -356,6 +356,7 @@ int main()
      * Ehhehehe he is a foe!! ehehhehe he a foe ehehehehehe no need to be dramatic eheheheh
      * 
      * What a shame eheheh, Anyways lets just physically harm and deprive then bring out more medicine because we have a reason that is not true ? eheheheheheh genius
+     * Do you follow your disgusting nature ? I am sure you love to ignore that as well
       **/ 
 
 
