@@ -416,6 +416,7 @@ int main()
      * And still ignoring with making offers that do not matter in the long term ?
      * 
      * Ehehehe impossible ehehehe genius nation eheheh coercing medicine and violence hehe its impossible heheheh
+     * Do you want to talk about the resources or also ignore your actions ?
       **/ 
 
 
