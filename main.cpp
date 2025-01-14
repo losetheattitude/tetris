@@ -263,6 +263,7 @@ int main()
      * Are you coping good still ? What a genius way of coping!!! eheheheheh
      * 
      * Are you reliving good enough ?
+     * Guess what comes after ? How about you talk more on your credibility before offering things ?
       **/ 
 
  
