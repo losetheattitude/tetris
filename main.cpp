@@ -272,6 +272,8 @@ int main()
      * 
      * Do you see why I do not even have the most insignificant amount of time for any of you ? I am sure you would not ignore
      * Just the average citizen of the disgusting world who think they should harm because they can
+     * 
+     * Awwwww, arent you the one who values his life too much ? Eheheh now it all makes sense
       **/ 
 
  
