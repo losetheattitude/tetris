@@ -186,6 +186,9 @@ int main()
      * 
      * Eheheh you just can not sacrifice your precious experience, but guess what is the problem ?
      * I am sure you would also hate to see the delusional part in your disgusting nature
+     * 
+     * Is that the great noble and genius part in you that offers women while knowing that it will not make a difference ?
+     * I guess you have to understand it by living ehehehehehhe really genius stuff
       **/ 
 
  
