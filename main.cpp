@@ -125,6 +125,8 @@ int main()
      * 
      * Make assumptions for your own life
      * As you can tell that you are less than nobody, you can never be welcome
+     * 
+     * I am not interested in your predefined events, do you understand what that means ? I do 
       **/ 
 
  
