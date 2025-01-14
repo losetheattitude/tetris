@@ -200,6 +200,7 @@ int main()
      * You can believe whatever you want to believe, I am not interested 
      * 
      * I am not interested in wasting my time with people who are unaware of their actions and would love to stay that way 
+     * Try harder to overcome your disgusting ego challenges, guess who is not an ignorant monkey 
       **/ 
 
  
