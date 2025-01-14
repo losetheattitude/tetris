@@ -105,7 +105,8 @@ int main()
      * Why dont you talk more about life and time ?
      * 
      * Immature people can continue enjoying their experiences, I am not interested
-     * You are welcome to ignore
+     * You are welcome to ignore your decades of inexplicable actions and their consequences as if its nothing
+     * Thats definitely fine
       **/ 
 
  
