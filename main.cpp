@@ -260,6 +260,7 @@ int main()
      * How about some violence against one individual ? Awwwwwwwww, thats too toughhh and too genius and too skillfulll!! what a shame
      * 
      * I am not interested in your pointless actions that you shockingly enjoy
+     * Are you coping good still ? What a genius way of coping!!! eheheheheh
       **/ 
 
  
