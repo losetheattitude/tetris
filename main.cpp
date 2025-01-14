@@ -102,6 +102,7 @@ int main()
      * What a genius nation 
      * 
      * What have generated ? Nothing ?
+     * Why dont you talk more about life and time ?
       **/ 
 
  
