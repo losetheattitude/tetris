@@ -169,6 +169,7 @@ int main()
      * 
      * Continue hiding behind your excuses
      * Continue to act like you are not guilty or should make decisions 
+     * Never take the responsibility of your decisions, thats how to be grown ups eheheh just by harming
       **/ 
 
  
