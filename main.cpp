@@ -80,6 +80,8 @@ int main()
      * 
      * Guess who is not interested in immature people who acts like they had to
      * Why suddenly are you taking the life to be so serious ? Awwww, is that the pattern again ?
+     * 
+     * What makes you think I could ever want to do anything with such a lowness on the scale that can not account for his own behavior ?
       **/ 
 
  
