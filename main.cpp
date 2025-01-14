@@ -151,7 +151,7 @@ int main()
      * You are the entity who thinks wasting 30 years with "violence" and "lack of resources"
      * so you can continue deluding yourselves, I am not interested
      * 
-     * Get the fuck out of my face
+     * Get the fuck out of my face and get your hands on to more children you can skillfuly abuse
       **/ 
 
  
