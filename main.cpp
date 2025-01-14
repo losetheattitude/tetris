@@ -267,6 +267,7 @@ int main()
      * You dont say selfish ? You also say no resources is beneficial ? You also would love to hide your actions ?
      * 
      * I do not have another second for any of you, you can continue your delusional lives, from out of my vicinity
+     * You better gather 10231023021 people and watch the perfectly genius actions of violence while you claim everyone is free
       **/ 
 
  
