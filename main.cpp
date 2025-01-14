@@ -138,6 +138,7 @@ int main()
      * You are still making decisions ?
      * 
      * What excuses do you still propose ?
+     * What are you aiming at ? Whats the problem in waiting ?
       **/ 
 
  
