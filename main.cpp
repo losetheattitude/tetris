@@ -110,6 +110,8 @@ int main()
      * 
      * You are more than welcome to get the fuck out of my face indefinitely
      * Guess who is on such a level of immaturity and irresponsibilty that they can never be trusted and respected
+     * 
+     * I am not interested in anything you can offer or form or claim
       **/ 
 
  
