@@ -212,6 +212,9 @@ int main()
      * The people who can not perceive they are not welcome yet perpetrate as they will
      * 
      * I am not interested and can never be after seeing your irrelevant reactions and inability to realize it does not do anything
+     * 
+     * I would rather waste my time not doing anything than to help or even be associated to any of you
+     * I am not interested
       **/ 
 
  
