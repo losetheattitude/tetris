@@ -191,6 +191,7 @@ int main()
      * I guess you have to understand it by living ehehehehehhe really genius stuff
      * 
      * I do not accept no simple animals around me who can not talk about their violent actions that led to nowhere
+     * Just gather more people so that you can feel like someone
       **/ 
 
  
