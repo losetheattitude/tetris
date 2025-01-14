@@ -84,6 +84,7 @@ int main()
      * What makes you think I could ever want to do anything with such a lowness on the scale that can not account for his own behavior ?
      * 
      * The most credible people on the surface of earth is still asking things from people they harm intentionally ?
+     * Whats wrong ?
       **/ 
 
  
