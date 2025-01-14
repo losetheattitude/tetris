@@ -230,6 +230,7 @@ int main()
      * You were never given permissions nor deserved the respect you demand
      * 
      * I am never interested in aiding such people under whatsoever circumstances
+     * The only thing you can ever get is the above sentences, I am not interested in inferior animals
       **/ 
 
  
