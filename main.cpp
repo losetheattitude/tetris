@@ -204,6 +204,8 @@ int main()
      * 
      * Guess who is aiming at nothing and thus can not perceive that he will get nothing other than what they provided so far ?
      * You will get the opposite of which you delude to get because of your disgusting intentions and what you have caused through your ignorance
+     * 
+     * Thats the only problem you are failing to observe
       **/ 
 
  
