@@ -230,7 +230,10 @@ int main()
      * You were never given permissions nor deserved the respect you demand
      * 
      * I am never interested in aiding such people under whatsoever circumstances
-     * The only thing you can ever get is the above sentences, I am not interested in inferior animals
+     * The only thing you can ever get is the above sentences, I am not interested in inferior animals 
+     * who can not estimate their value of credibility yet stand beside people they harm asking for things, do you see the problem ?
+     * 
+     * You can not ask for things with your inexplicably disgusting credibility, thats it great ppl btw
       **/ 
 
  
