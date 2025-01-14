@@ -115,6 +115,7 @@ int main()
      * Yeah, thats life and fate ehehe
      * 
      * Grant yourselves the amount of seriousness that you do not remotely deserve and continue with your selfishness, I am not interested
+     * Now is the time where you justify your actions through making others look disgusting, guess who is not interested
       **/ 
 
  
