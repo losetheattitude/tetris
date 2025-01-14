@@ -206,6 +206,9 @@ int main()
      * You will get the opposite of which you delude to get because of your disgusting intentions and what you have caused through your ignorance
      * 
      * Thats the only problem you are failing to observe
+     * I am not interested in anything you could provide 
+     * 
+     * You can get the fuck out of my face
       **/ 
 
  
