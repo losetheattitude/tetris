@@ -172,7 +172,7 @@ int main()
      * Never take the responsibility of your decisions, thats how to be grown ups eheheh just by harming and ignoring
      * 
      * Sounds like the total genius nation 
-     * Have you grown up ?
+     * Have you grown up ? Where are the benefits of your greatly skilled actions of inferior nature ?
       **/ 
 
  
