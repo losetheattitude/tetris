@@ -253,6 +253,8 @@ int main()
      * The tough guys who can only deal with defenseless people or children ?
      * And claim that lacking of resources is beneficial or violence is not the thing they are afraid although they present it as a lesson ?
      * Guess who is the problem ?
+     * 
+     * Guess who is the problem when people have crossed the boundaries that they never should ?
       **/ 
 
  
