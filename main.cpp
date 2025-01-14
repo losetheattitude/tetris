@@ -256,6 +256,8 @@ int main()
      * 
      * Guess who is the problem when people have crossed the boundaries that they never should ?
      * What are you going to say now ? You were saying genius nation etc ?
+     * 
+     * How about some violence against one individual ? Awwwwwwwww, thats too toughhh and too genius and too skillfulll!! what a shame
       **/ 
 
  
