@@ -210,6 +210,8 @@ int main()
      * 
      * You can get the fuck out of my face
      * The people who can not perceive they are not welcome yet perpetrate as they will
+     * 
+     * I am not interested and can never be after seeing your irrelevant reactions and inability to realize it does not do anything
       **/ 
 
  
