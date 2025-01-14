@@ -222,6 +222,9 @@ int main()
      * 
      * I am sure you will fail at predicting that
      * There is not even a single thing you can do ehehehehe fun stuff
+     * 
+     * You may then understand that not every individual is as inferior as you and will stick to his promises,
+     * I am not interested
       **/ 
 
  
