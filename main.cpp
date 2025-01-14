@@ -239,6 +239,9 @@ int main()
      * Does all these make sense ? The unique genius nations ?
      * 
      * Do you understand the problem in your understand that you are not in a position to ask for things ? Is it me or you ?
+     * Tough guys, only tough to single people or children
+     * 
+     * How does that sound ?
       **/ 
 
  
