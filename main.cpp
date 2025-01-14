@@ -242,6 +242,7 @@ int main()
      * Tough guys, only tough to single people or children
      * 
      * How does that sound ?
+     * Do you also delude on your credibility ?
       **/ 
 
  
