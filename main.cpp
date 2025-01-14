@@ -234,6 +234,9 @@ int main()
      * who can not estimate their value of credibility yet stand beside people they harm asking for things, do you see the problem ?
      * 
      * You can not ask for things with your inexplicably disgusting credibility, thats it great ppl btw
+     * 
+     * Handle your own lifes, solve your own problems, do not act like you know everything about life, do not lecture people about time 
+     * Does all these make sense ? The unique genius nations ?
       **/ 
 
  
