@@ -225,6 +225,8 @@ int main()
      * 
      * You may then understand that not every individual is as inferior as you and will stick to his promises,
      * I am not interested
+     * 
+     * Proceed with your ignorance, you are not welcome
       **/ 
 
  
