@@ -243,6 +243,8 @@ int main()
      * 
      * How does that sound ?
      * Do you also delude on your credibility ?
+     * Eheheheh we are waring!!! waringgg with children so that we can waste 30 years eheheheheh and produce nothing eheheheheheh
+     * genius!!!!
       **/ 
 
  
