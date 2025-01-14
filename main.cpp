@@ -189,6 +189,8 @@ int main()
      * 
      * Is that the great noble and genius part in you that offers women while knowing that it will not make a difference ?
      * I guess you have to understand it by living ehehehehehhe really genius stuff
+     * 
+     * I do not accept no simple animals around me
       **/ 
 
  
