@@ -97,6 +97,8 @@ int main()
      * 
      * What have you now gained ? The genius nation ehehehe ?
      * Are you still making offers ?
+     * 
+     * Eheheheheh its so easy to trick people with fake offers ehehehh
       **/ 
 
  
