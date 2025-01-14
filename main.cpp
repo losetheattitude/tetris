@@ -94,6 +94,8 @@ int main()
      * 
      * Guess in this story who can never be wanted ? Try to ignore your part then it may make sense
      * Are you still making offers ? What is the problem ?
+     * 
+     * What have you now gained ? The genius nation ehehehe ?
       **/ 
 
  
