@@ -162,6 +162,8 @@ int main()
      * 
      * Eheheh have you grown up ? awwww, wait have you woken up ?
      * What a success!!!! Look at the outcome!!!
+     * 
+     * The outcome of decades of violence and lack of resources, is just off the roof!!!
       **/ 
 
  
