@@ -192,6 +192,8 @@ int main()
      * 
      * I do not accept no simple animals around me who can not talk about their violent actions that led to nowhere
      * Just gather more people so that you can feel like someone
+     * 
+     * Guess who is not wanted because of their actions so far as opposed to the individual they accuse ?
       **/ 
 
  
