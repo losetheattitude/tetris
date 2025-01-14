@@ -265,6 +265,8 @@ int main()
      * Are you reliving good enough ?
      * Guess what comes after ? How about you talk more on your credibility before offering things ?
      * You dont say selfish ? You also say no resources is beneficial ? You also would love to hide your actions ?
+     * 
+     * I do not have another second for any of you, you can continue your delusional lives, from out of my vicinity
       **/ 
 
  
