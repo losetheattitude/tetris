@@ -148,6 +148,8 @@ int main()
      * Why arent you producing anything with your inexplicable actions so far ? 
      * 
      * I have told what I wanted to tell, you can never be wanted with your disgusting nature
+     * You are the entity who thinks wasting 30 years with "violence" and "lack of resources"
+     * so you can continue deluding yourselves, I am not interested
       **/ 
 
  
