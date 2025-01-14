@@ -124,6 +124,7 @@ int main()
      * Ehehehe what we do produces significant value for us!!! its really important that we harm people and prevent them from experiencing ehhehehehe 
      * 
      * Make assumptions for your own life
+     * As you can tell that you are less than nobody, you can never be welcome
       **/ 
 
  
