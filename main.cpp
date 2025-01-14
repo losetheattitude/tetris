@@ -209,6 +209,7 @@ int main()
      * I am not interested in anything you could provide 
      * 
      * You can get the fuck out of my face
+     * The people who can not perceive they are not welcome yet perpetrate as they will
       **/ 
 
  
