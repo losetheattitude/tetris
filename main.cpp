@@ -168,6 +168,7 @@ int main()
      * Ehehehe have some woooomeeennnn!!!! eheheheh
      * 
      * Continue hiding behind your excuses
+     * Continue to act like you are not guilty or should make decisions 
       **/ 
 
  
