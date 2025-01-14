@@ -156,6 +156,8 @@ int main()
      * 
      * Really realllyy skillful people, talk more about highly achieving violence that is of your nature
      * Incredibly successfull people, just coerce others and try to observe the outcomes, do it within your own circle and you will see why
+     * 
+     * Such a great and productive and instructive aim that you have set, anyone would be proud
       **/ 
 
  
