@@ -258,6 +258,8 @@ int main()
      * What are you going to say now ? You were saying genius nation etc ?
      * 
      * How about some violence against one individual ? Awwwwwwwww, thats too toughhh and too genius and too skillfulll!! what a shame
+     * 
+     * I am not interested in your pointless actions that you shockingly enjoy
       **/ 
 
  
