@@ -99,6 +99,7 @@ int main()
      * Are you still making offers ?
      * 
      * Eheheheheh its so easy to trick people with fake offers ehehehh
+     * What a genius nation 
       **/ 
 
  
