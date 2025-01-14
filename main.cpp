@@ -249,6 +249,10 @@ int main()
      * What a shame that you are a bunch of monkeys who are entirely lost yet are too proud to see that
      * Are you still making decisions ?
      * Guess what is the problem 
+     * 
+     * The tough guys who can only deal with defenseless people or children ?
+     * And claim that lacking of resources is beneficial or violence is not the thing they are afraid although they present it as a lesson ?
+     * Guess who is the problem ?
       **/ 
 
  
