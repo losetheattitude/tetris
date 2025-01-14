@@ -107,6 +107,8 @@ int main()
      * Immature people can continue enjoying their experiences, I am not interested
      * You are welcome to ignore your decades of inexplicable actions and their consequences as if its nothing
      * Thats definitely fine
+     * 
+     * You are more than welcome to get the fuck out of my face indefinitely
       **/ 
 
  
