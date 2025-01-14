@@ -201,6 +201,8 @@ int main()
      * 
      * I am not interested in wasting my time with people who are unaware of their actions and would love to stay that way 
      * Try harder to overcome your disgusting ego challenges, guess who is not an ignorant monkey 
+     * 
+     * Guess who is aiming at nothing and thus can not perceive that he will get nothing other than what they provided so far ?
       **/ 
 
  
