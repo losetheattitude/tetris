@@ -90,6 +90,7 @@ int main()
      * Awwwww, havent you forgotten ? Ehehehehe why are you still making promises the joint genius nation ?
      * 
      * Why arent you constantly accusing with bullshit ? Awwwwww, you just stopped for a brief time eheheheheh
+     * Are you still making offers ? ehehehe where have you been ?
       **/ 
 
  
