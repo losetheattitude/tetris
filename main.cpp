@@ -113,6 +113,8 @@ int main()
      * 
      * I am not interested in anything you can offer or form or claim
      * Yeah, thats life and fate ehehe
+     * 
+     * Grant yourselves the amount of seriousness that you do not remotely deserve and continue with your selfishness, I am not interested
       **/ 
 
  
