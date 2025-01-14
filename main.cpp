@@ -228,6 +228,8 @@ int main()
      * 
      * Proceed with your ignorance, you are not welcome
      * You were never given permissions nor deserved the respect you demand
+     * 
+     * I am never interested in aiding such people under whatsoever circumstances
       **/ 
 
  
