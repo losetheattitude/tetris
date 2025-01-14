@@ -91,6 +91,8 @@ int main()
      * 
      * Why arent you constantly accusing with bullshit ? Awwwwww, you just stopped for a brief time eheheheheh
      * Are you still making offers ? ehehehe where have you been ?
+     * 
+     * Guess in this story who can never be wanted ? Try to ignore your part then it may make sense
       **/ 
 
  
