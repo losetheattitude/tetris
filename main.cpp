@@ -131,6 +131,8 @@ int main()
      * 
      * 
      * Guess who is not interested in hearing bullshit excuses eminating from selfish incompetency
+     * You are effectively nobody, so why dont you already act on your great skills because as you can guess, I have no intention to waste my time with you
+     * under whatsoever circumstances
       **/ 
 
  
