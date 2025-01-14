@@ -274,6 +274,7 @@ int main()
      * Just the average citizen of the disgusting world who think they should harm because they can
      * 
      * Awwwww, arent you the one who values his life too much ? Eheheh now it all makes sense
+     * What a pattern that you are also out of answers for what you have ended up generating other than harm
       **/ 
 
  
