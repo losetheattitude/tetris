@@ -128,6 +128,9 @@ int main()
      * 
      * I am not interested in your predefined events, do you understand what that means ? I do 
      * Guess who is crossing the boundaries eheheheheh
+     * 
+     * 
+     * Guess who is not interested in hearing bullshit excuses eminating from selfish incompetency
       **/ 
 
  
