@@ -362,6 +362,8 @@ int main()
      * 
      * What changed now ? Are you going to talk about the time ? Or life ? ehehehehh or how wise and fair and proud you are ?
      * Guess who is entirely at wrong ? and also shamelessly offers people the same thing they would and have committed ?
+     * 
+     * The delusionally proud people I am not interested in
       **/ 
 
  
