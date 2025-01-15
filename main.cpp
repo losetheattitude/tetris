@@ -520,6 +520,7 @@ int main()
      * You just can not accept that you have "committed" voluntarily ?
      * 
      * Where does the "no resources" come in ? That really realllllyy helps a lot
+     * What have you gained now ?
       **/ 
 
 
