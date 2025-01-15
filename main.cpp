@@ -445,6 +445,8 @@ int main()
      * 
      * Irresponsible and spoiled people, dont you think ? awwwww I guess its really reallllyy too late
      * Sacrifice from your own life
+     * 
+     * There is no such a thing as history until you pay for your own actions with what you charge others
       **/ 
 
 
