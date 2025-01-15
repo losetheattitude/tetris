@@ -571,6 +571,8 @@ int main()
      * 
      * The insufficient and inaccurate imaginations have ruined 30 years and its entirely fine ?
      * Have you achieved the inexplicable aim ? Whats the aim ? ehehehe ?
+     * 
+     * Ehehehehehehehe its okay its fine because we can!!! and we have done it!! we have done the most inexplicable thing, but its fine! eheheh
       **/ 
 
 
