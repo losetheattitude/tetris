@@ -591,6 +591,7 @@ int main()
      * Do you see the difference between healthy imagination and disgusting one ?
      * 
      * The imagination that comes with its really beneficial ignorance as well ?
+     * Do you see the "fate" now ? Or the life annotation ? eheheh the greatest imagination of all time that works for the harm of others ?
       **/ 
 
 
