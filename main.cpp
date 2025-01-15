@@ -306,6 +306,8 @@ int main()
      * 
      * Eehehehe you are guilty, wait wait, are you still proud ?
      * I do not want to see any of you
+     * 
+     * What a pattern that you also think lacking resources only for others is good
       **/ 
 
  
