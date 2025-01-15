@@ -687,6 +687,8 @@ int main()
      * Do you see the problem ? 
      * How about the greatly successful mess you have built ? You do not see that as well ? Its probably because of lack of violence and medicine
      * Its about time you coerce more and hope for the best
+     * 
+     * That is now definitely a huge success for all of you, you have done really good at destroying things
       **/ 
 
 
