@@ -788,6 +788,9 @@ int main()
      * 
      * Like I told many times, there is not even the most significant thing you can do
      * Ehehe you are free to go eheheheheheh its really funny eheheheheheehehehe
+     * 
+     * You can get the fuck out of my face indefinitely with whatever you value so much that you think you can offer
+     * There is not a single thing you can do
       **/ 
 
 
