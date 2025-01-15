@@ -380,7 +380,10 @@ int main()
      * 
      * I have told what I wanted to tell
      * If you are done jerking off to your disgusting actions, I have no desire to waste yet another second with greatly delusional people
+     * 
      * Have you grown up ? Awww I have forgotten the problem was you were the most disgustingly ignorant group of people who thinks themselves for genius nation ?
+     * Still wasting time geniusly ?
+     * 
       **/ 
 
  
