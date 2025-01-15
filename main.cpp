@@ -365,6 +365,8 @@ int main()
      * 
      * The delusionally proud people I am not interested in
      * You can get the fuck out of my face
+     * 
+     * Eehehehehehe, isnt that really useful and helpful ?
       **/ 
 
  
