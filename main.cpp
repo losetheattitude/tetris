@@ -438,7 +438,7 @@ int main()
      * Awwww, you were the grown ups, now I see the problem ehehehehe thats the reason you are reliable for not your decisions
      * 
      * Thats how life works, you are reliable for not your own decisions
-     * What a shame though eheeheh anyways, lets focus on our precious lives
+     * What a shame though eheeheh anyways, lets focus on our precious lives right after you pay for your own actions
       **/ 
 
 
