@@ -565,6 +565,8 @@ int main()
      * 
      * When you could have acted like the way your fueled imagination would love to see yourself as ?
      * Guessing the problem now ?
+     * 
+     * The problem of delusional imaginations are making circumstances into what they wish to be true ?
       **/ 
 
 
