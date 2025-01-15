@@ -352,6 +352,7 @@ int main()
      * And you are still claiming you are proud as well because you just provide a woman for 30 years of violence and deprivation ?
      * 
      * I am not interested, you can proceed with only your life
+     * A life of disgusting actions right ? Awww I was supposed to say really genius and skilfull actions ? Is that why you are proud ?
       **/ 
 
  
