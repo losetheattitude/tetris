@@ -806,6 +806,7 @@ int main()
      * See the problem ?
      * 
      * Not even one thing there is you can do about your intentional actions
+     * Now is the time you think and be proud about your actions that have done nothing
       **/ 
 
 
