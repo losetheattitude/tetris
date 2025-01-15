@@ -740,6 +740,8 @@ int main()
      * 
      * Why havent you achieved anything other than unaccountable actions of your own nature 
      * that you avoid like the little animal you are ?
+     * 
+     * Its past!!! eheheh nothing happened its fine!!! forget about it, its not our experience eheheheh
       **/ 
 
 
