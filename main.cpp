@@ -478,6 +478,8 @@ int main()
      * 
      * Lets watch someone who is being subjected to most disgusting things and going crazy!!!! its soo fun!!! and beneficial!!!
      * EHeheheheh its only 30 years, and we offer womeeenn!!! whats greater ??????
+     * 
+     * You pay for your own actions 
       **/ 
 
 
