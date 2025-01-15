@@ -388,7 +388,10 @@ int main()
      * 
      * You pay for your own actions of malign intention and thats it
      * I hold you accountable btw!!! the geniusly ignorant and delusional people
+     * 
+     * How about you console yourselves by gathering 123021301 people and assaulting me ? The genius play !!!
       **/ 
+
 
  
 
