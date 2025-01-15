@@ -665,6 +665,9 @@ int main()
      * 
      * I do not have time for any of you, you can believe whatever you want to believe
      * What a shame isnt it ? Awwww I have forgotten if its not your valuable time or life, it does not matter
+     * 
+     * I am not interested wasting my time with pointless violence and ample selfish excuses,
+     * You bare your own responsibility and nothing more, but guess what ? ITSSS TOOOO LATEEEE ehehehehe
       **/ 
 
 
