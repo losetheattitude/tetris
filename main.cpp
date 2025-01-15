@@ -300,6 +300,9 @@ int main()
      * 
      * The people who can only handle children ? Why are you still asking for things ?
      * Are you still ignoring ?
+     * 
+     * I do not want to see the same animals who have been with me so far that "promised" so much ?
+     * Does that make sense ? ehehehehehehe
       **/ 
 
  
