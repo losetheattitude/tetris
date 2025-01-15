@@ -798,6 +798,8 @@ int main()
      * Have you shown everyone how good you are ?
      * What happened ?
      * Awww you are naive enough to believe I could want anything to do with delusional people ?
+     * 
+     * You can be very well proud about yourself now
       **/ 
 
 
