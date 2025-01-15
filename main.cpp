@@ -331,6 +331,7 @@ int main()
      * You better sacrifice from your own, then you may begin to understand
      * 
      * Now is the time where you account for not your decisions
+     * Or would you rather ignore and perpetuate your disgusting nature ? Guess what ?
       **/ 
 
  
