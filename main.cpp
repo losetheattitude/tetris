@@ -626,6 +626,9 @@ int main()
      * As you would also love to ignore the 30 pointless years
      * 
      * Yayyyyyyy, noble and great and fair and competent and intelligent nation!!!! eheheh
+     * Still making false offers and taking a great laugh about it eheheheheheh
+     * 
+     * Life is good!!! eheheh
       **/ 
 
 
