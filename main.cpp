@@ -556,7 +556,10 @@ int main()
      * 
      * Guess who caused someone else's life because of what ?
      * Do you understand what you are doing means or ?
+     * 
+     * Such competent excuses, guess who is not a dumb animal who will buy them ?
       **/ 
+
 
 
 
