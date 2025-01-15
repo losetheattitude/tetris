@@ -578,6 +578,8 @@ int main()
      * 30 years of wasted time and you are looking away intentionally ?
      * Because you value your life too much ?
      * And wasted youth means nothing to you ? And you also value your life realllly high ?
+     * 
+     * Ehehehe no resources ehehehehhe much medicine heehhehe because we can eheheheheh
       **/ 
 
 
