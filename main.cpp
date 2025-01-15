@@ -509,6 +509,8 @@ int main()
      * Where is it ?
      * 
      * Where are the beneficial outcomes of 30 years ?
+     * Decades of one individual literally trying to survive on his own against 1230213 people with resources 
+     * And you have managed nothing ?
       **/ 
 
 
