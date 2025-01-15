@@ -457,6 +457,8 @@ int main()
      * Are you still offering women ?
      * 
      * Eheheh thats how life works!!!! you just go get coerced into violence and medicine, and thats it!!
+     * 
+     * Because we know better!!!!! ehehehehehehehehe our great tactics have always worked out !!!
       **/ 
 
 
