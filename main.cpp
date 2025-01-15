@@ -501,6 +501,8 @@ int main()
      * Do you need to make the same mistakes 1230012302130 times so that you can understand or you just want to ignore and harm for the sake of harming ?
      * 
      * Whats the reason you hate to "sacrifice" from your own life ? You are not following ? Is that a coincidence ?
+     * 
+     * The greatest aim of all time, guess what you have managed now ?
       **/ 
 
 
