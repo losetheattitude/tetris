@@ -708,6 +708,8 @@ int main()
      * Keep your disgusting nature hidden!!! Do not tell anyone about our disgusting violent actions towards one individual please!!!
      * 
      * So, 30 years and you are still oblivious to your ignorance ?
+     * 
+     * Pay attention to your own life and do not do anything that you are not asked to ?
       **/ 
 
 
