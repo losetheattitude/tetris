@@ -314,6 +314,7 @@ int main()
      * Guess who is not enjoying your selfish spoiled attitude towards people you have no relation 
      * ?
      * Just look at you when you need help, does that look good on you ?
+     * I am sure you also see the pattern in your abstinence at "not sacrificing anything from your own life"
       **/ 
 
  
