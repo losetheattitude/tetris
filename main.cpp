@@ -517,6 +517,7 @@ int main()
      * How does that sound ?
      * 
      * Does not that sound like a huge excuse for 30 years of nothing ?
+     * You just can not accept that you have "committed" voluntarily ?
       **/ 
 
 
