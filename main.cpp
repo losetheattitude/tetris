@@ -656,6 +656,7 @@ int main()
      * Just some violence and coercion of medicine and its done!!! its a great achievement
      * 
      * Do you have the capability to predict that I will never have anything to do with any of you ?
+     * Are you still making offers as usual ?
       **/ 
 
 
