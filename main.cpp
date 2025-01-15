@@ -742,6 +742,7 @@ int main()
      * that you avoid like the little animal you are ?
      * 
      * Its past!!! eheheh nothing happened its fine!!! forget about it, its not our experience eheheheh
+     * Ehehe look at the skillful people achieving really great stuff ehehehehe
       **/ 
 
 
