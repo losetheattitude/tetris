@@ -544,6 +544,8 @@ int main()
      * 
      * Are you at the position that you have but only one option, "KEEP IT UNDER THE LOW BECAUSE WE HAVE COMMITTED SO MUCH"
      * That sounds like a good quality isnt it ?
+     * 
+     * Please be silent!!! 30 years of crimes, its okay!! its fine!!!
       **/ 
 
 
