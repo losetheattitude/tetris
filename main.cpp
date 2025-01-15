@@ -621,6 +621,8 @@ int main()
      * What are you here for ? Are you here to observe and jerk off to your pointless outcome or just trying to pass time because you have nothing else to do ?
      * 
      * Why dont you gather more people ?
+     * 
+     * You still do not see ? that sounds like an ignorant you issue
       **/ 
 
 
