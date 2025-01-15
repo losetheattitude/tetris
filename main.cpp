@@ -326,6 +326,8 @@ int main()
      * 
      * There is no past until you properly act as the way you claimed you would
      * Are you still making offers ? Awww I have forgotten you were making also decisions ?
+     * 
+     * In what part are lacking resources and violence helping ?
       **/ 
 
  
