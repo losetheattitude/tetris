@@ -674,6 +674,8 @@ int main()
      * 
      * Have you done jerking off ? Ehehehe its quite beneficial as you can also see the outcomes that your actions have generated
      * Have you achieved the nonachievable yet ?
+     * 
+     * Now isnt it time that you fuel your stupid imagination with what is true ?
       **/ 
 
 
