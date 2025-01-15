@@ -600,6 +600,7 @@ int main()
      * Are you still deluding ?
      * 
      * Where are the beneficial effects ?
+     * Where are the justification for not your decisions ? eheheh violence has worked quite well ?
       **/ 
 
 
