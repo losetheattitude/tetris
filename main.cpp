@@ -762,6 +762,7 @@ int main()
      * As you offer what you delude others would want
      * 
      * Try harder next time to hide your disgusting nature
+     * Ehehehe its really about fate heehehe
       **/ 
 
 
