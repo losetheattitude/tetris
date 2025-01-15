@@ -589,6 +589,8 @@ int main()
      * The achieving of unattainable, sounds like a total victory
      * You are ignoring still ? imagining that you are actually doing the right thing ?
      * Do you see the difference between healthy imagination and disgusting one ?
+     * 
+     * The imagination that comes with its really beneficial ignorance as well ?
       **/ 
 
 
