@@ -373,6 +373,7 @@ int main()
      * Play games for your own lives, do you understand ?
      * 
      * Lack yourselves the resources and we can begin to talk, does that sound too harsh for proud people ?
+     * Why dont you try some violence then ?
       **/ 
 
  
