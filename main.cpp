@@ -390,6 +390,9 @@ int main()
      * I hold you accountable btw!!! the geniusly ignorant and delusional people
      * 
      * How about you console yourselves by gathering 123021301 people and assaulting me ? The genius play !!!
+     * Try not to provide the best examples but only the worst ones so that you can feel okay about yourselves,
+     * 
+     * Thats the reason I hold the delusionally genius people accountable
       **/ 
 
 
