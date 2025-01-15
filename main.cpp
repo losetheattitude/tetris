@@ -607,6 +607,8 @@ int main()
      * 
      * Ehehe I guess you just killed bunch of people for no reason at all ?
      * That sounds like an excuse you would also love to ignore but hey, you are all great people
+     * 
+     * Guess who is not rightfully interested in destroying another 30 years with delusional and problematic people ?
       **/ 
 
 
