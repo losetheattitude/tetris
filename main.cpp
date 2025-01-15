@@ -637,6 +637,7 @@ int main()
      * Just a couple decades that went to shit, anyways we proceed with our precious lives because we can
      * 
      * Ignoring is such a cool ability that has given to you by GOD!! eheheheheh
+     * Lets harm more and see what happens eheheheh life is good!!!
       **/ 
 
 
