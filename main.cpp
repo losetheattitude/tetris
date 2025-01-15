@@ -580,6 +580,7 @@ int main()
      * And wasted youth means nothing to you ? And you also value your life realllly high ?
      * 
      * Ehehehe no resources ehehehehhe much medicine heehhehe because we can eheheheheh
+     * Ehehe the best way to deal with a responsibility is to ignore it, eheheh WE HAVE DONE IT!!! eheheheh because we can eheheheh
       **/ 
 
 
