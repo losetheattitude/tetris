@@ -341,6 +341,9 @@ int main()
      * 
      * Pay for not your decisions and your intentional actions
      * Do you follow the problem ?
+     * 
+     * The greatly noble and wise people are still proud ?
+     * Then you better sacrifice from your own life and pay for your own actions of obviously malign intention
       **/ 
 
  
