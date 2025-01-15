@@ -697,6 +697,8 @@ int main()
      * 
      * Awww you have made countless stupid decisions that were not granted to you nor were they your right 
      * but now all you can say is lets forget about what ?
+     * 
+     * Guess who has been acting like the very afraid animal that they are so far ?
       **/ 
 
 
