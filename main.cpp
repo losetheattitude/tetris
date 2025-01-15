@@ -413,6 +413,7 @@ int main()
      * You are the one singularly disgusting incredible people that makes offers they do not deliver to people who they harm for the sake of harming
      * 
      * You do not have the credibility nor the right to ask anything
+     * You pay for your own actions
       **/ 
 
 
