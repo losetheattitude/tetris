@@ -718,6 +718,7 @@ int main()
      * Do you follow now ? Or may be you start following after 20 years ? then its 50 ehehehehe 
      * 
      * I am not interested in your delusional bullshit excuses, do you follow ?
+     * Do you get the problem now ? Ehehehehe are you making offers still ?
       **/ 
 
 
