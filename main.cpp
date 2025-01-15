@@ -523,6 +523,7 @@ int main()
      * What have you gained now ?
      * 
      * Ehehehe ? Because I can abuse and harm an individual starting from his childhood, WHY NOT DO IT ?  ehehehehehehehe ?
+     * Does that sound too fake ?
       **/ 
 
 
