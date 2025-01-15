@@ -396,6 +396,7 @@ int main()
      * No mercy to people who has not done the same
      * 
      * The disgusting people who would consider harming people for a benefit, you do not deserve the mercy you dont lend to others
+     * I hold you responsible for 30 years of violence and waste of time
       **/ 
 
 
