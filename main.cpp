@@ -587,6 +587,7 @@ int main()
      * Guess what you have done is called ?
      * 
      * The achieving of unattainable, sounds like a total victory
+     * You are ignoring still ? imagining that you are actually doing the right thing ?
       **/ 
 
 
