@@ -505,6 +505,10 @@ int main()
      * The greatest aim of all time, guess what you have managed now ?
      * 
      * Why dont you gather 123002130 people again and try your best to literally achieve nothing ?
+     * Because you love your life so much and would love to enjoy your experiences, you would immediately ignore the great outcome ?
+     * Where is it ?
+     * 
+     * Where are the beneficial outcomes of 30 years ?
       **/ 
 
 
