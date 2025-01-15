@@ -441,6 +441,7 @@ int main()
      * What a shame though eheeheh anyways, lets focus on our precious lives right after you pay for your own actions
      * 
      * Look how well you have done, just examine the great outcomes of 30 years, thats it!!!
+     * Just examine the irrelevant nature of yours
       **/ 
 
 
