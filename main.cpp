@@ -640,6 +640,9 @@ int main()
      * Lets harm more and see what happens eheheheh life is good!!!
      * 
      * We gotta lay really really low now that we have committed for 30 years ehehehe
+     * Guess who is not buying your disgusting excuses ? Only ones who can buy them is the ones who need them desperately 
+     * 
+     * Do you see the difference ?
       **/ 
 
 
