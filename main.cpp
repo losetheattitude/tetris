@@ -555,6 +555,7 @@ int main()
      * ehehe ignorance!!!!!! please!!!
      * 
      * Guess who caused someone else's life because of what ?
+     * Do you understand what you are doing means or ?
       **/ 
 
 
