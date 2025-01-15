@@ -311,6 +311,7 @@ int main()
      * Start sacrificing from your own life and experiences, you are not wanted around
      * 
      * Start sacrificing from your own life and stop making assumptions and advices
+     * Guess who is not enjoying your selfish spoiled attitude towards people you have no relation ?
       **/ 
 
  
