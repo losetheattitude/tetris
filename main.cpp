@@ -706,6 +706,8 @@ int main()
      * 
      * Guess who has to hide and I do not ?
      * Keep your disgusting nature hidden!!! Do not tell anyone about our disgusting violent actions towards one individual please!!!
+     * 
+     * So, 30 years and you are still oblivious to your ignorance ?
       **/ 
 
 
