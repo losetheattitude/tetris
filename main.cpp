@@ -450,6 +450,7 @@ int main()
      * Awww, you would love to take life lightly suddenly ? Is there a reason for that ? eehehehehe its just what it is ?
      * 
      * What happened ?
+     * Why now would you like to take life lightly and "forget about the past!!!" ehehehe forget about the past heheheeh ?
       **/ 
 
 
