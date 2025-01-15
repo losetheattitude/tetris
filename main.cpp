@@ -459,6 +459,7 @@ int main()
      * Eheheh thats how life works!!!! you just go get coerced into violence and medicine, and thats it!!
      * 
      * Because we know better!!!!! ehehehehehehehehe our great tactics have always worked out !!!
+     * You are reliable for your own actions and you pay with what you charge others
       **/ 
 
 
