@@ -427,6 +427,8 @@ int main()
      * 
      * What have you achieved now ?
      * Still watching from afar and being proud of yourself ?
+     * 
+     * The coercion of medicine, coercion of lack of resources and violence, is what you are reliable of, the genius south nation ehehehe come to germany!!! come to netherlands ehehehehehe
       **/ 
 
 
