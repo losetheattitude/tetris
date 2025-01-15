@@ -444,6 +444,7 @@ int main()
      * Just examine the irrelevant nature of yours, do you see the problem well enough ?
      * 
      * Irresponsible and spoiled people, dont you think ? awwwww I guess its really reallllyy too late
+     * Sacrifice from your own life
       **/ 
 
 
