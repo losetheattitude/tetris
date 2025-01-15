@@ -431,7 +431,7 @@ int main()
      * The coercion of medicine, coercion of lack of resources and violence, is what you are reliable of, the genius south nation ehehehe come to germany!!! come to netherlands ehehehehehe
      * Arent you well proud now ?
      * 
-     * How about you continue watching from afar and just ignoringly enjoy your life while you advise others to suffer ?
+     * How about you continue watching from afar and just . gno7ngly enjoy your life while you advise others to suffer ?
      * and expect no consequences ?
      * 
      * Havent you grown up ? eheheh Well done!!! really realllyy good job, what an outcome from a perfectly skilled group of people
@@ -466,6 +466,9 @@ int main()
      * 
      * Like I told you million times, I would and will not help any of you in achieving what is not attainable.
      * Do you understand it ?
+     * 
+     * 
+     * Awwwwwwwww, eheheheh its working!!!!! look at our great outcome!!!
       **/ 
 
 
