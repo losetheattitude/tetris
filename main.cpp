@@ -647,6 +647,8 @@ int main()
      * 
      * I am sure you are so happy to ignore 
      * but guess who is not interested in your arbitrary coercions anymore ?
+     * 
+     * I am good without your presence, you pay attention to your own lives and get the fuck out of my face
       **/ 
 
 
