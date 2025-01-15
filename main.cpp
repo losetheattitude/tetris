@@ -766,7 +766,9 @@ int main()
      * 
      * Just waste "your" life heheheh
      * Really really professional and competent people only lacking in competent excuses at hiding their disgusting nature, 
-     * I am not interested in
+     * I am not interested in 
+     * 
+     * There is not even a single thing on earth you can do let alone a few women
       **/ 
 
 
