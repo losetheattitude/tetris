@@ -664,6 +664,7 @@ int main()
      * Still making really competent and fruitful decisions ? I AM NOT INTERESTED IN ANY OF YOUR OFFERS
      * 
      * I do not have time for any of you, you can believe whatever you want to believe
+     * What a shame isnt it ? Awwww I have forgotten if its not your valuable time or life, it does not matter
       **/ 
 
 
