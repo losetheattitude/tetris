@@ -803,6 +803,9 @@ int main()
      * You have done the unattainable
      * 
      * Now you are free to ruin something else that you also delude to own
+     * See the problem ?
+     * 
+     * Not even one thing there is you can do about your intentional actions
       **/ 
 
 
