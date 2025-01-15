@@ -660,6 +660,8 @@ int main()
      * 
      * Ehehehehe such a funny subject isnt it ?
      * Mistakes are too many in the world, lets just call our millions of occurences another mistake, why not ?
+     * 
+     * Still making really competent and fruitful decisions ? I AM NOT INTERESTED IN ANY OF YOUR OFFERS
       **/ 
 
 
