@@ -533,6 +533,7 @@ int main()
      * That sounds like a quiet achievement ?
      * 
      * What do you think your mistake is ?
+     * Or should it be, countless mistakes that is irrevertible ?
       **/ 
 
 
