@@ -643,6 +643,7 @@ int main()
      * Guess who is not buying your disgusting excuses ? Only ones who can buy them is the ones who need them desperately 
      * 
      * Do you see the difference ?
+     * Does the great people see the difference between intentions ?
       **/ 
 
 
