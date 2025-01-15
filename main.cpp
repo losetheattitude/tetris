@@ -387,6 +387,7 @@ int main()
      * I do not have anything to tell you other than you can the fuck out of my face, you are not what you think you are
      * 
      * You pay for your own actions of malign intention and thats it
+     * I hold you accountable btw!!! the geniusly ignorant and delusional people
       **/ 
 
  
