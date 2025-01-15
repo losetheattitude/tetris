@@ -736,6 +736,7 @@ int main()
      * Have you attained your great aims yet ?
      * 
      * Who do you think have passed the personal boundaries and still accusing people to be what they already are ?
+     * Why arent you achieving anything the genius nation for all these years ?
       **/ 
 
 
