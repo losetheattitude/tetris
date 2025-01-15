@@ -681,7 +681,7 @@ int main()
      * Eheheh we have achieved to destroy someone's life!!!! That sounds like a genius achievement isnt it ? 
      * I guess thats how to deal with your responsibilities, awwww I have forgotten, not your responsibility
      * 
-     * You are never welcome
+     * You are never welcome because of not your decisions
       **/ 
 
 
