@@ -808,6 +808,8 @@ int main()
      * Not even one thing there is you can do about your intentional actions
      * Now is the time you think and be proud about your actions that have done nothing
      * Have you arrived to the place that you longed so far ?
+     * 
+     * You looked so cool!!! 
       **/ 
 
 
