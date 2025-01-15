@@ -635,6 +635,8 @@ int main()
      * 
      * I guess its a fate issue although its us who is committing eheheheh
      * Just a couple decades that went to shit, anyways we proceed with our precious lives because we can
+     * 
+     * Ignoring is such a cool ability that has given to you by GOD!! eheheheheh
       **/ 
 
 
