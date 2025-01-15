@@ -399,6 +399,7 @@ int main()
      * I hold you responsible for 30 years of violence and waste of time
      * 
      * You can continue looking for children and adults to abuse once you pay for your own actions
+     * Do you want to coerce more medicine afterwards you free yourselves from the very guilt you deserve ?
       **/ 
 
 
