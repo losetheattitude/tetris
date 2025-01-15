@@ -714,6 +714,8 @@ int main()
      * 
      * You are not granted anything, never have been, as you can anticipate 30 years of violence and lack of resources is not asked 
      * nor can it be helpful
+     * 
+     * Do you follow now ? Or may be you start following after 20 years ? then its 50 ehehehehe 
       **/ 
 
 
