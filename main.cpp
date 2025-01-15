@@ -315,6 +315,8 @@ int main()
      * ?
      * Just look at you when you need help, does that look good on you ?
      * I am sure you also see the pattern in your abstinence at "not sacrificing anything from your own life"
+     * 
+     * Why dont you sacrifice from your own ? Awwwwww, you just can not do that
       **/ 
 
  
