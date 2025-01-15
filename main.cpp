@@ -570,6 +570,7 @@ int main()
      * And where you are now ? What have you managed to produce ?
      * 
      * The insufficient and inaccurate imaginations have ruined 30 years and its entirely fine ?
+     * Have you achieved the inexplicable aim ? Whats the aim ? ehehehe ?
       **/ 
 
 
