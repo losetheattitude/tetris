@@ -496,6 +496,8 @@ int main()
      * 
      * Ehehehe we are fighting against one individual and we are not gaining anything other than conflict !!! eheheheh
      * Aww is that why you are ignorant because you have to ? eheheh What is worst than that ?
+     * 
+     * Still aiming the most highest one ? Ehhehe guess what you are not achieving ?
       **/ 
 
 
