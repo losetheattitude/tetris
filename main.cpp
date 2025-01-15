@@ -659,6 +659,7 @@ int main()
      * Are you still making offers as usual ?
      * 
      * Ehehehehe such a funny subject isnt it ?
+     * Mistakes are too many in the world, lets just call our millions of occurences another mistake, why not ?
       **/ 
 
 
