@@ -347,6 +347,9 @@ int main()
      * 
      * Are you still looking around for excuses ?
      * Are you still ignoring to acknowledge your intentional actions and NOT YOUR DECISIONS ?
+     * 
+     * Why are you still asking things from people you harm with joyful attitude ?
+     * And you are still claiming you are proud as well because you just provide a woman for 30 years of violence and deprivation ?
       **/ 
 
  
