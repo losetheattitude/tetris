@@ -296,6 +296,7 @@ int main()
      * Thats the type I am not interested in, do not even try to advise 
      * 
      * You talk more on withholding resources because its helpful!!!!
+     * Are you still asking silence the genius nations and their friends ?
       **/ 
 
  
