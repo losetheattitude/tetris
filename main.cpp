@@ -716,6 +716,8 @@ int main()
      * nor can it be helpful
      * 
      * Do you follow now ? Or may be you start following after 20 years ? then its 50 ehehehehe 
+     * 
+     * I am not interested in your delusional bullshit excuses, do you follow ?
       **/ 
 
 
