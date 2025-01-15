@@ -317,6 +317,7 @@ int main()
      * I am sure you also see the pattern in your abstinence at "not sacrificing anything from your own life"
      * 
      * Why dont you sacrifice from your own ? Awwwwww, you just can not do that
+     * You were never granted anything
       **/ 
 
  
