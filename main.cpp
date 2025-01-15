@@ -559,6 +559,9 @@ int main()
      * 
      * Such competent excuses, guess who is not a dumb animal who will buy them ?
      * Have you managed to sell the incompetent excuses to yourself ? Whats the problem ?
+     * 
+     * What do you think is the problem when you have managed to sell the most absurd excuses to yourself
+     * so that you can waste 30 years full of violence and coercion ?
       **/ 
 
 
