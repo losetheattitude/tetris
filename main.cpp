@@ -309,6 +309,8 @@ int main()
      * 
      * What a pattern that you also think lacking resources only for others is good
      * Start sacrificing from your own life and experiences, you are not wanted around
+     * 
+     * Start sacrificing from your own life and stop making assumptions and advices
       **/ 
 
  
