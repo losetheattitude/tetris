@@ -624,6 +624,8 @@ int main()
      * 
      * You still do not see ? that sounds like an ignorant you issue
      * As you would also love to ignore the 30 pointless years
+     * 
+     * Yayyyyyyy, noble and great and fair and competent and intelligent nation!!!! eheheh
       **/ 
 
 
