@@ -535,6 +535,8 @@ int main()
      * What do you think your mistake is ?
      * Or should it be, countless mistakes that is irrevertible ?
      * And you have put yourself into this situation intentionally and knowing the possible outcome very well ?
+     * 
+     * Do you see what "humans" are capable of ? eheheh some women and its fine!!
       **/ 
 
 
