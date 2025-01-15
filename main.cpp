@@ -581,6 +581,9 @@ int main()
      * 
      * Ehehehe no resources ehehehehhe much medicine heehhehe because we can eheheheheh
      * Ehehe the best way to deal with a responsibility is to ignore it, eheheh WE HAVE DONE IT!!! eheheheh because we can eheheheh
+     * 
+     * The past is the past eheheh
+     * We hate to acknowledge our crimes, ehehehe its okay after 30 years its nothing!!
       **/ 
 
 
