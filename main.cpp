@@ -393,6 +393,7 @@ int main()
      * Try not to provide the best examples but only the worst ones so that you can feel okay about yourselves,
      * 
      * Thats the reason I hold the delusionally genius people accountable
+     * No mercy to people who has not done the same
       **/ 
 
 
