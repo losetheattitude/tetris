@@ -743,6 +743,8 @@ int main()
      * 
      * Its past!!! eheheh nothing happened its fine!!! forget about it, its not our experience eheheheh
      * Ehehe look at the skillful people achieving really great stuff ehehehehe
+     * 
+     * Look at the unattainable aim and how greatly handling situations ehehehehe
       **/ 
 
 
