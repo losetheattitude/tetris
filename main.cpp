@@ -332,6 +332,8 @@ int main()
      * 
      * Now is the time where you account for not your decisions
      * Or would you rather ignore and perpetuate your disgusting nature ? Guess what ?
+     * 
+     * Or should I say, this is the time where you pretend to be sad ?
       **/ 
 
  
