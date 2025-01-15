@@ -592,6 +592,9 @@ int main()
      * 
      * The imagination that comes with its really beneficial ignorance as well ?
      * Do you see the "fate" now ? Or the life annotation ? eheheh the greatest imagination of all time that works for the harm of others ?
+     * 
+     * The imagination that fails to hide its nature ?
+     * Where are all the people that you gather for harming ?
       **/ 
 
 
