@@ -612,6 +612,7 @@ int main()
      * Are you having fun with your life so far ? ehehehe what a shame
      * 
      * You have done what now ?
+     * Eheheh I guess you may be the one who is lacking education ?
       **/ 
 
 
