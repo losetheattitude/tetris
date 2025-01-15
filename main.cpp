@@ -649,6 +649,8 @@ int main()
      * but guess who is not interested in your arbitrary coercions anymore ?
      * 
      * I am good without your presence, you pay attention to your own lives and get the fuck out of my face
+     * As anyone on the surface earth knows that deprivation is the only way to destroy people, now you also know that your aim is so great and noble
+     * against one individual without any means, Great!!!!! just say some nice stuff and leave him to death eheheheheheheheheh fun !!!
       **/ 
 
 
