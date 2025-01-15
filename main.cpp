@@ -405,6 +405,7 @@ int main()
      * We do not care anyone but ourselves!!! lie!! eheheh please lie!!!
      * 
      * How about you pay for your own irrelevant and pointless actions first, then you make promises ?
+     * Childish selfish people can continue ignoring their violent and ignorant actions
       **/ 
 
 
