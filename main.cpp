@@ -763,6 +763,8 @@ int main()
      * 
      * Try harder next time to hide your disgusting nature
      * Ehehehe its really about fate heehehe
+     * 
+     * Just waste "your" life heheheh
       **/ 
 
 
