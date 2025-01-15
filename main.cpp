@@ -308,6 +308,7 @@ int main()
      * I do not want to see any of you
      * 
      * What a pattern that you also think lacking resources only for others is good
+     * Start sacrificing from your own life and experiences, you are not wanted around
       **/ 
 
  
