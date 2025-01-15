@@ -374,6 +374,8 @@ int main()
      * 
      * Lack yourselves the resources and we can begin to talk, does that sound too harsh for proud people ?
      * Why dont you try some violence then ?
+     * 
+     * I AM NOT INTERESTED IN YOUR INEXPLICABLE ACTIONS, does the genius nation follow ?
       **/ 
 
  
