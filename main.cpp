@@ -682,6 +682,7 @@ int main()
      * I guess thats how to deal with your responsibilities, awwww I have forgotten, not your responsibility
      * 
      * You are never welcome because of not your decisions
+     * You see what lost people can lead to, thats the reason I am not interested in anything you could possibly form
       **/ 
 
 
