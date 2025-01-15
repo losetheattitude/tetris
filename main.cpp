@@ -638,6 +638,8 @@ int main()
      * 
      * Ignoring is such a cool ability that has given to you by GOD!! eheheheheh
      * Lets harm more and see what happens eheheheh life is good!!!
+     * 
+     * We gotta lay really really low now that we have committed for 30 years ehehehe
       **/ 
 
 
