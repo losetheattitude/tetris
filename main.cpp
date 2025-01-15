@@ -460,6 +460,8 @@ int main()
      * 
      * Because we know better!!!!! ehehehehehehehehe our great tactics have always worked out !!!
      * You are reliable for your own actions and you pay with what you charge others
+     * 
+     * I am not interested in wasting my time trying to adjust to people that have no relation nor any interest in me
       **/ 
 
 
