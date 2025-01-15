@@ -702,6 +702,7 @@ int main()
      * Awwwww, look at the great outcome!!! eheheheh its just entirely wasted time and energy to achieve nothing!!
      * 
      * Do you understand how to communicate and what you have been told ?
+     * Where are we now ? What have you generated ?
       **/ 
 
 
