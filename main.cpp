@@ -490,6 +490,9 @@ int main()
      * Still watching from afar and ignoring ?
      * 
      * You were never given permission to the even the tiniest thing, now what do you have to say other than bullshit ?
+     * 
+     * Its time for you to waste your own time when you are surrounded with disgusting people who coerce you into doing so ?
+     * Does that sound too harsh ?
       **/ 
 
 
