@@ -364,6 +364,7 @@ int main()
      * Guess who is entirely at wrong ? and also shamelessly offers people the same thing they would and have committed ?
      * 
      * The delusionally proud people I am not interested in
+     * You can get the fuck out of my face
       **/ 
 
  
