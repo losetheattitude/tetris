@@ -455,6 +455,8 @@ int main()
      * 
      * The unseen success of great nation ? Where is the outcome ?
      * Are you still offering women ?
+     * 
+     * Eheheh thats how life works!!!! you just go get coerced into violence and medicine, and thats it!!
       **/ 
 
 
