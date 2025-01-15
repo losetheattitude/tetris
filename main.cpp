@@ -361,6 +361,7 @@ int main()
      * Is this the part where you ignore your violent actions that have not contributed anything nor have they solved any problem ?
      * 
      * What changed now ? Are you going to talk about the time ? Or life ? ehehehehh or how wise and fair and proud you are ?
+     * Guess who is entirely at wrong ? and also shamelessly offers people the same thing they would and have committed ?
       **/ 
 
  
