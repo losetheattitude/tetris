@@ -447,6 +447,7 @@ int main()
      * Sacrifice from your own life
      * 
      * There is no such a thing as history until you pay for your own actions with what you charge others
+     * Awww, you would love to take life lightly suddenly ? Is there a reason for that ? eehehehehe its just what it is ?
       **/ 
 
 
