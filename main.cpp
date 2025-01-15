@@ -794,6 +794,8 @@ int main()
      * 
      * What a shame isnt it ?
      * Ehehehe its what it is, we like bragging people with others
+     * 
+     * Have you shown everyone how good you are ?
       **/ 
 
 
