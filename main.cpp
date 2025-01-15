@@ -595,6 +595,8 @@ int main()
      * 
      * The imagination that fails to hide its nature ?
      * Where are all the people that you gather for harming ?
+     * 
+     * Does waste also sound like false ?
       **/ 
 
 
