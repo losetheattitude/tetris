@@ -685,7 +685,8 @@ int main()
      * You see what lost people can lead to, thats the reason I am not interested in anything you could possibly form
      * 
      * Do you see the problem ? 
-     * How about the greatly successful mess you have built ?
+     * How about the greatly successful mess you have built ? You do not see that as well ? Its probably because of lack of violence and medicine
+     * Its about time you coerce more and hope for the best
       **/ 
 
 
