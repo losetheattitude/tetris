@@ -604,6 +604,9 @@ int main()
      * 
      * Where are the imaginative predictions that you have wielded for your own interest ?
      * Awwww, they were just insignificant mistakes ?
+     * 
+     * Ehehe I guess you just killed bunch of people for no reason at all ?
+     * That sounds like an excuse you would also love to ignore but hey, you are all great people
       **/ 
 
 
