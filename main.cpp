@@ -576,6 +576,8 @@ int main()
      * 
      * You have done it!!! but no benefits ? Whats the problem ?
      * 30 years of wasted time and you are looking away intentionally ?
+     * Because you value your life too much ?
+     * And wasted youth means nothing to you ? And you also value your life realllly high ?
       **/ 
 
 
