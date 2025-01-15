@@ -419,6 +419,8 @@ int main()
      * Thats the reason you are reliable, thats the reason you can never be welcome
      * 
      * The stupid people who think they can solve every problem with violence and women
+     * 
+     * The south side!!!! and delusionally genius people are reliable 
       **/ 
 
 
