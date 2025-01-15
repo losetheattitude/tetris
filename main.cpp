@@ -462,6 +462,10 @@ int main()
      * You are reliable for your own actions and you pay with what you charge others
      * 
      * I am not interested in wasting my time trying to adjust to people that have no relation nor any interest in me
+     * You are free to do whatever you want
+     * 
+     * Like I told you million times, I would and will not help any of you in achieving what is not attainable.
+     * Do you understand it ?
       **/ 
 
 
