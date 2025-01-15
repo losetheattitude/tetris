@@ -359,6 +359,8 @@ int main()
      * 
      * You also do not want to sacrifice anything from your own life ? That also does not sound like you are a selfish disgusting animal at all 
      * Is this the part where you ignore your violent actions that have not contributed anything nor have they solved any problem ?
+     * 
+     * What changed now ? Are you going to talk about the time ? Or life ? ehehehehh or how wise and fair and proud you are ?
       **/ 
 
  
