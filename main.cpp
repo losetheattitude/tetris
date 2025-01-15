@@ -325,6 +325,7 @@ int main()
      * You also have to lie for us!!! you also have to do nothing but sit!!!
      * 
      * There is no past until you properly act as the way you claimed you would
+     * Are you still making offers ? Awww I have forgotten you were making also decisions ?
       **/ 
 
  
