@@ -318,6 +318,10 @@ int main()
      * 
      * Why dont you sacrifice from your own ? Awwwwww, you just can not do that
      * You were never granted anything, guess who is committing still ?
+     * 
+     * 
+     * Awwwww, you can not work!! you can not get resources eheheh you can not have anything eheheheheh
+     * you have to get some violence eheheheh How does that sound ?
       **/ 
 
  
