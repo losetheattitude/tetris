@@ -356,6 +356,8 @@ int main()
      * 
      * Now are you sure you know what you are doing or you are just begging for your own life experiences ?
      * Now that does not sound selfish at all
+     * 
+     * You also do not want to sacrifice anything from your own life ? That also does not sound like you are a selfish disgusting animal at all 
       **/ 
 
  
