@@ -567,6 +567,7 @@ int main()
      * Guessing the problem now ?
      * 
      * The problem of delusional imaginations are making circumstances into what they wish to be true ?
+     * And where you are now ? What have you managed to produce ?
       **/ 
 
 
