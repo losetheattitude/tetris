@@ -676,6 +676,7 @@ int main()
      * Have you achieved the nonachievable yet ?
      * 
      * Now isnt it time that you fuel your stupid imagination with what is true ?
+     * Enjoying the scene ? ehehehe its a breeze when you see people are going crazy because they are harmed ? eeheheh
       **/ 
 
 
