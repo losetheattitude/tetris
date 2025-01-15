@@ -527,6 +527,8 @@ int main()
      * 
      * Awwwwwww, its a mistake!! awwww, itss tooo late!!! awwwwww, its not our fault!!! eheheheh please!!!
      * Its only 30 years eheheheheh there are so many people dying outthere!!!
+     * 
+     * Why dont you get some education of your own nature then ?
       **/ 
 
 
