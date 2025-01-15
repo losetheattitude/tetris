@@ -299,6 +299,7 @@ int main()
      * Are you still asking silence the genius nations and their friends ?
      * 
      * The people who can only handle children ? Why are you still asking for things ?
+     * Are you still ignoring ?
       **/ 
 
  
