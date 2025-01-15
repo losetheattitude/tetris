@@ -616,6 +616,8 @@ int main()
      * 
      * You are still not following the problem ? Your perception vs someone who his 30 years is wasted amongst ignorant people who coerces everything ?
      * How about you start practising the same exercise for your own precious valuable lives ? 
+     * 
+     * What a shame isnt it ? You are not capable of seeing the problems yet you cause so much incomparable trouble to others because you can ?
       **/ 
 
 
