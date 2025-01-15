@@ -751,6 +751,9 @@ int main()
      * 
      * Did you manage to handle your disgusting nature ?
      * Are you still deluding on your great tricks eheheheh ?
+     * 
+     * Ehehehehehe, we just want to harm people and make them afraid although it does not work ?
+     * We also coerced children into fake information so that he should believe us!!!
       **/ 
 
 
