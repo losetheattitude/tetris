@@ -531,6 +531,8 @@ int main()
      * Why dont you get some education of your own nature then ?
      * Eheheh have you managed the unattainable ? You trapped and wasted and ruined someone's life ?
      * That sounds like a quiet achievement ?
+     * 
+     * What do you think your mistake is ?
       **/ 
 
 
