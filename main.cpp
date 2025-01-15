@@ -408,6 +408,8 @@ int main()
      * Childish selfish people can continue ignoring their violent and ignorant actions
      * 
      * You are reliable in every little disgusting actions you have perpetrated so far, you are responsible
+     * 
+     * The delusionally genius nations are reliable 
       **/ 
 
 
