@@ -394,6 +394,8 @@ int main()
      * 
      * Thats the reason I hold the delusionally genius people accountable
      * No mercy to people who has not done the same
+     * 
+     * The disgusting people who would consider harming people for a benefit, you do not deserve the mercy you dont lend to others
       **/ 
 
 
