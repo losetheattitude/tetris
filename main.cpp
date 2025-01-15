@@ -370,6 +370,7 @@ int main()
      * I do not have time for fake genius nations who can only coerce people into violence actions of their own nature
      * 
      * Are you still sacrificing people you have no rights over ? Thats the type I do not want around
+     * Play games for your own lives, do you understand ?
       **/ 
 
  
