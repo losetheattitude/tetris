@@ -632,6 +632,8 @@ int main()
      * 
      * Its too late because our really really important lives can be in danger!!!! because of not ours intentional decisions
      * WHAT A SHAME!!!!
+     * 
+     * I guess its a fate issue although its us who is committing eheheheh
       **/ 
 
 
