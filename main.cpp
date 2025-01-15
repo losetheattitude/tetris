@@ -297,6 +297,8 @@ int main()
      * 
      * You talk more on withholding resources because its helpful!!!!
      * Are you still asking silence the genius nations and their friends ?
+     * 
+     * The people who can only handle children ? Why are you still asking for things ?
       **/ 
 
  
