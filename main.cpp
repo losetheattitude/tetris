@@ -657,6 +657,8 @@ int main()
      * 
      * Do you have the capability to predict that I will never have anything to do with any of you ?
      * Are you still making offers as usual ?
+     * 
+     * Ehehehehe such a funny subject isnt it ?
       **/ 
 
 
