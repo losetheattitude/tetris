@@ -677,6 +677,8 @@ int main()
      * 
      * Now isnt it time that you fuel your stupid imagination with what is true ?
      * Enjoying the scene ? ehehehe its a breeze when you see people are going crazy because they are harmed ? eeheheh
+     * 
+     * Eheheh we have achieved to destroy someone's life!!!! That sounds like a genius achievement isnt it ? 
       **/ 
 
 
