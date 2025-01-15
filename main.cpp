@@ -568,6 +568,8 @@ int main()
      * 
      * The problem of delusional imaginations are making circumstances into what they wish to be true ?
      * And where you are now ? What have you managed to produce ?
+     * 
+     * The insufficient and inaccurate imaginations have ruined 30 years and its entirely fine ?
       **/ 
 
 
