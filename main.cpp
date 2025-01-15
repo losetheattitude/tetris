@@ -546,6 +546,7 @@ int main()
      * That sounds like a good quality isnt it ?
      * 
      * Please be silent!!! 30 years of crimes, its okay!! its fine!!!
+     * Just waste your time please eheheheh because I am a huge coward that values his life too much while torturing others! that sounds like what ?
       **/ 
 
 
