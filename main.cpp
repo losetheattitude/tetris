@@ -775,6 +775,10 @@ int main()
      * See for yourself
      * 
      * You are free to proceed with your really high valued lives
+     * 
+     * 
+     * There is not a single thing you can do on earth let alone some cheap physical interaction as your inferior nature can see for a remedy
+     * That tells you all you need to know
       **/ 
 
 
