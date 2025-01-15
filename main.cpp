@@ -435,6 +435,9 @@ int main()
      * and expect no consequences ?
      * 
      * Havent you grown up ? eheheh Well done!!! really realllyy good job, what an outcome from a perfectly skilled group of people
+     * Awwww, you were the grown ups, now I see the problem ehehehehe thats the reason you are reliable for not your decisions
+     * 
+     * Thats how life works, you are reliable for not your own decisions
       **/ 
 
 
