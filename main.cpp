@@ -515,6 +515,8 @@ int main()
      * You have generated nothing only fueled your imagination ?
      * Where are the evidences of your accusations ? I have all the evidence that proves your disgusting nature ?
      * How does that sound ?
+     * 
+     * Does not that sound like a huge excuse for 30 years of nothing ?
       **/ 
 
 
