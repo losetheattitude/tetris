@@ -791,6 +791,8 @@ int main()
      * 
      * You can get the fuck out of my face indefinitely with whatever you value so much that you think you can offer
      * There is not a single thing you can do
+     * 
+     * What a shame isnt it ?
       **/ 
 
 
