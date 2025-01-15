@@ -406,6 +406,8 @@ int main()
      * 
      * How about you pay for your own irrelevant and pointless actions first, then you make promises ?
      * Childish selfish people can continue ignoring their violent and ignorant actions
+     * 
+     * You are reliable in every little disgusting actions you have perpetrated so far, you are responsible
       **/ 
 
 
