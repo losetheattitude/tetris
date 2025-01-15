@@ -558,6 +558,7 @@ int main()
      * Do you understand what you are doing means or ?
      * 
      * Such competent excuses, guess who is not a dumb animal who will buy them ?
+     * Have you managed to sell the incompetent excuses to yourself ? Whats the problem ?
       **/ 
 
 
