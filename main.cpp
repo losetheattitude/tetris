@@ -692,6 +692,7 @@ int main()
      * How about the remedy ? ehehehehehehehe get some women!!! please !!!! it must be the right thing to do! get women
      * 
      * Whats the outcome ?
+     * Just an entire wastage of time and resources that got you nowhere ?
       **/ 
 
 
