@@ -409,7 +409,7 @@ int main()
      * 
      * You are reliable in every little disgusting actions you have perpetrated so far, you are responsible
      * 
-     * The delusionally genius nations are reliable 
+     * The delusionally genius nations are reliable and you are not negotiating with your unseen incredibility
       **/ 
 
 
