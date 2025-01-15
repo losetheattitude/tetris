@@ -668,6 +668,9 @@ int main()
      * 
      * I am not interested wasting my time with pointless violence and ample selfish excuses,
      * You bare your own responsibility and nothing more, but guess what ? ITSSS TOOOO LATEEEE ehehehehe
+     * 
+     * 
+     * I do not have time for your excuses, you can continue fueling your imaginations with things that are accurate and not malign intention
       **/ 
 
 
