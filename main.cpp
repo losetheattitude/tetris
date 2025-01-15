@@ -693,6 +693,7 @@ int main()
      * 
      * Whats the outcome ?
      * Just an entire wastage of time and resources that got you nowhere ?
+     * Where are the beneficial effects ? eheheh you still making promises ? eeheheh
       **/ 
 
 
