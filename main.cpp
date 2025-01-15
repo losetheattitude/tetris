@@ -609,6 +609,7 @@ int main()
      * That sounds like an excuse you would also love to ignore but hey, you are all great people
      * 
      * Guess who is not rightfully interested in destroying another 30 years with delusional and problematic people ?
+     * Are you having fun with your life so far ? ehehehe what a shame
       **/ 
 
 
