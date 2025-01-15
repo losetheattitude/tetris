@@ -613,6 +613,8 @@ int main()
      * 
      * You have done what now ?
      * Eheheh I guess you may be the one who is lacking education ?
+     * 
+     * You are still not following the problem ? Your perception vs someone who his 30 years is wasted amongst ignorant people who coerces everything ?
       **/ 
 
 
