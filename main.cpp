@@ -710,6 +710,7 @@ int main()
      * So, 30 years and you are still oblivious to your ignorance ?
      * 
      * Pay attention to your own life and do not do anything that you are not asked to ?
+     * Why do you think you are constantly offering things and thinking that you are a clever group ?
       **/ 
 
 
