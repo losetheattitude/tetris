@@ -493,6 +493,8 @@ int main()
      * 
      * Its time for you to waste your own time when you are surrounded with disgusting people who coerce you into doing so ?
      * Does that sound too harsh ?
+     * 
+     * Ehehehe we are fighting against one individual and we are not gaining anything other than conflict !!! eheheheh
       **/ 
 
 
