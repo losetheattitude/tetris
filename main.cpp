@@ -711,6 +711,9 @@ int main()
      * 
      * Pay attention to your own life and do not do anything that you are not asked to ?
      * Why do you think you are constantly offering things and thinking that you are a clever group ?
+     * 
+     * You are not granted anything, never have been, as you can anticipate 30 years of violence and lack of resources is not asked 
+     * nor can it be helpful
       **/ 
 
 
