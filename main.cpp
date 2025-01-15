@@ -734,6 +734,8 @@ int main()
      * 
      * I do not accept anything that comes from you
      * Have you attained your great aims yet ?
+     * 
+     * Who do you think have passed the personal boundaries and still accusing people to be what they already are ?
       **/ 
 
 
