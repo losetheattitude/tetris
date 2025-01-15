@@ -662,6 +662,8 @@ int main()
      * Mistakes are too many in the world, lets just call our millions of occurences another mistake, why not ?
      * 
      * Still making really competent and fruitful decisions ? I AM NOT INTERESTED IN ANY OF YOUR OFFERS
+     * 
+     * I do not have time for any of you, you can believe whatever you want to believe
       **/ 
 
 
