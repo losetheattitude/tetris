@@ -452,6 +452,8 @@ int main()
      * What happened ?
      * Why now would you like to take life lightly and "forget about the past!!!" ehehehe forget about the past heheheeh ?
      * You are guilty thus reliable, what is next now ? The unseen success of genius nations ?
+     * 
+     * The unseen success of great nation ? Where is the outcome ?
       **/ 
 
 
