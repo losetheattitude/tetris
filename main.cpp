@@ -371,6 +371,8 @@ int main()
      * 
      * Are you still sacrificing people you have no rights over ? Thats the type I do not want around
      * Play games for your own lives, do you understand ?
+     * 
+     * Lack yourselves the resources and we can begin to talk, does that sound too harsh for proud people ?
       **/ 
 
  
