@@ -498,6 +498,7 @@ int main()
      * Aww is that why you are ignorant because you have to ? eheheh What is worst than that ?
      * 
      * Still aiming the most highest one ? Ehhehe guess what you are not achieving ?
+     * Do you need to make the same mistakes 1230012302130 times so that you can understand or you just want to ignore and harm for the sake of harming ?
       **/ 
 
 
