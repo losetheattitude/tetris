@@ -358,6 +358,7 @@ int main()
      * Now that does not sound selfish at all
      * 
      * You also do not want to sacrifice anything from your own life ? That also does not sound like you are a selfish disgusting animal at all 
+     * Is this the part where you ignore your violent actions that have not contributed anything nor have they solved any problem ?
       **/ 
 
  
