@@ -722,6 +722,8 @@ int main()
      * 
      * What an oblivious disgusting group of monkeys you all are ?
      * What have you now generated ?
+     * 
+     * Hehehe, do not hurt people heeheheheh!!!!
       **/ 
 
 
