@@ -503,6 +503,8 @@ int main()
      * Whats the reason you hate to "sacrifice" from your own life ? You are not following ? Is that a coincidence ?
      * 
      * The greatest aim of all time, guess what you have managed now ?
+     * 
+     * Why dont you gather 123002130 people again and try your best to literally achieve nothing ?
       **/ 
 
 
