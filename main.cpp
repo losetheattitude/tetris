@@ -597,6 +597,7 @@ int main()
      * Where are all the people that you gather for harming ?
      * 
      * Does waste also sound like false ?
+     * Are you still deluding ?
       **/ 
 
 
