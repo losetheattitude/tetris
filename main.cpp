@@ -323,6 +323,8 @@ int main()
      * Awwwww, you can not work!! you can not get resources eheheh you can not have anything eheheheheh
      * you have to get some violence eheheheh How does that sound ?
      * You also have to lie for us!!! you also have to do nothing but sit!!!
+     * 
+     * There is no past until you properly act as the way you claimed you would
       **/ 
 
  
