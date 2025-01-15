@@ -480,6 +480,9 @@ int main()
      * EHeheheheh its only 30 years, and we offer womeeenn!!! whats greater ??????
      * 
      * You pay for your own actions and you get the fuck out of my face
+     * 
+     * You live the life you present as examples to others when you wield it as excuse
+     * Does that sound fair ?
       **/ 
 
 
