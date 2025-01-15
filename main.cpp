@@ -328,6 +328,7 @@ int main()
      * Are you still making offers ? Awww I have forgotten you were making also decisions ?
      * 
      * In what part are lacking resources and violence helping ?
+     * You better sacrifice from your own, then you may begin to understand
       **/ 
 
  
