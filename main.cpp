@@ -700,6 +700,8 @@ int main()
      * 
      * Guess who has been acting like the very afraid animal that they are so far ?
      * Awwwww, look at the great outcome!!! eheheheh its just entirely wasted time and energy to achieve nothing!!
+     * 
+     * Do you understand how to communicate and what you have been told ?
       **/ 
 
 
