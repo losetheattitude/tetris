@@ -402,6 +402,9 @@ int main()
      * Do you want to coerce more medicine afterwards you free yourselves from the very guilt you deserve ?
      * 
      * Ehehehehe lie for us!!! please!!! lie!!! eheheheh
+     * We do not care anyone but ourselves!!! lie!! eheheh please lie!!!
+     * 
+     * How about you pay for your own irrelevant and pointless actions first, then you make promises ?
       **/ 
 
 
