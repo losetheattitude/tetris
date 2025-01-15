@@ -379,6 +379,7 @@ int main()
      * I do not want to any of your around me, thats the only thing you can hear before you start begging with offers of your disgusting nature
      * 
      * I have told what I wanted to tell
+     * If you are done jerking off to your disgusting actions, I have no desire to waste yet another second with greatly delusional people
       **/ 
 
  
