@@ -346,6 +346,7 @@ int main()
      * Then you better sacrifice from your own life and pay for your own actions of obviously malign intention
      * 
      * Are you still looking around for excuses ?
+     * Are you still ignoring to acknowledge your intentional actions and NOT YOUR DECISIONS ?
       **/ 
 
  
