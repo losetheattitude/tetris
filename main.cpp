@@ -529,6 +529,8 @@ int main()
      * Its only 30 years eheheheheh there are so many people dying outthere!!!
      * 
      * Why dont you get some education of your own nature then ?
+     * Eheheh have you managed the unattainable ? You trapped and wasted and ruined someone's life ?
+     * That sounds like a quiet achievement ?
       **/ 
 
 
