@@ -521,7 +521,10 @@ int main()
      * 
      * Where does the "no resources" come in ? That really realllllyy helps a lot
      * What have you gained now ?
+     * 
+     * Ehehehe ? Because I can abuse and harm an individual starting from his childhood, WHY NOT DO IT ?  ehehehehehehehe ?
       **/ 
+
 
 
 
