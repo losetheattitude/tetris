@@ -679,7 +679,7 @@ int main()
      * Enjoying the scene ? ehehehe its a breeze when you see people are going crazy because they are harmed ? eeheheh
      * 
      * Eheheh we have achieved to destroy someone's life!!!! That sounds like a genius achievement isnt it ? 
-     * I guess thats how to deal with your responsibilities 
+     * I guess thats how to deal with your responsibilities, awwww I have forgotten, not your responsibility
       **/ 
 
 
