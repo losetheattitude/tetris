@@ -417,6 +417,8 @@ int main()
      * 
      * Now I am sure you also ignore the great outcome of literally nothing
      * Thats the reason you are reliable, thats the reason you can never be welcome
+     * 
+     * The stupid people who think they can solve every problem with violence and women
       **/ 
 
 
