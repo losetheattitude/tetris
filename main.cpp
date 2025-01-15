@@ -689,6 +689,7 @@ int main()
      * Its about time you coerce more and hope for the best
      * 
      * That is now definitely a huge success for all of you, you have done really good at destroying things
+     * How about the remedy ? ehehehehehehehe get some women!!! please !!!! it must be the right thing to do! get women
       **/ 
 
 
