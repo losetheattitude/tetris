@@ -384,6 +384,8 @@ int main()
      * Have you grown up ? Awww I have forgotten the problem was you were the most disgustingly ignorant group of people who thinks themselves for genius nation ?
      * Still wasting time geniusly ?
      * 
+     * I do not have anything to tell you other than you can the fuck out of my face, you are not what you think you are
+     * 
       **/ 
 
  
