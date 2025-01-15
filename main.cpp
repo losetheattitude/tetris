@@ -367,6 +367,7 @@ int main()
      * You can get the fuck out of my face
      * 
      * Eehehehehehe, isnt that really useful and helpful ?
+     * I do not have time for fake genius nations who can only coerce people into violence actions of their own nature
       **/ 
 
  
