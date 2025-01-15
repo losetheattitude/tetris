@@ -338,6 +338,8 @@ int main()
      * 
      * Ehehehe, isnt it too late now ? Awwwwww thats tooo bad!!! we are really reallly sorry!!!
      * But we have to just harm eheheheheeh
+     * 
+     * Pay for not your decisions and your intentional actions
       **/ 
 
  
