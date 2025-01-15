@@ -683,6 +683,8 @@ int main()
      * 
      * You are never welcome because of not your decisions
      * You see what lost people can lead to, thats the reason I am not interested in anything you could possibly form
+     * 
+     * Do you see the problem ?
       **/ 
 
 
