@@ -397,6 +397,8 @@ int main()
      * 
      * The disgusting people who would consider harming people for a benefit, you do not deserve the mercy you dont lend to others
      * I hold you responsible for 30 years of violence and waste of time
+     * 
+     * You can continue looking for children and adults to abuse once you pay for your own actions
       **/ 
 
 
