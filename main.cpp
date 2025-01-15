@@ -634,6 +634,7 @@ int main()
      * WHAT A SHAME!!!!
      * 
      * I guess its a fate issue although its us who is committing eheheheh
+     * Just a couple decades that went to shit, anyways we proceed with our precious lives because we can
       **/ 
 
 
