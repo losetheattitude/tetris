@@ -724,6 +724,8 @@ int main()
      * What have you now generated ?
      * 
      * Hehehe, do not hurt people heeheheheh!!!!
+     * Just imagine a group of the most dumbest people who are trying to harm individuals without a purpose ehehehe 
+     * That sounds really like a genius
       **/ 
 
 
