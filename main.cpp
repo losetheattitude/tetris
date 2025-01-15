@@ -562,6 +562,8 @@ int main()
      * 
      * What do you think is the problem when you have managed to sell the most absurd excuses to yourself
      * so that you can waste 30 years full of violence and coercion ?
+     * 
+     * When you could have acted like the way your fueled imagination would love to see yourself as ?
       **/ 
 
 
