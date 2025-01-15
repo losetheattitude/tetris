@@ -518,6 +518,8 @@ int main()
      * 
      * Does not that sound like a huge excuse for 30 years of nothing ?
      * You just can not accept that you have "committed" voluntarily ?
+     * 
+     * Where does the "no resources" come in ? That really realllllyy helps a lot
       **/ 
 
 
