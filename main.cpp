@@ -765,6 +765,8 @@ int main()
      * Ehehehe its really about fate heehehe
      * 
      * Just waste "your" life heheheh
+     * Really really professional and competent people only lacking in competent excuses at hiding their disgusting nature, 
+     * I am not interested in
       **/ 
 
 
