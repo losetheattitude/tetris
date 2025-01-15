@@ -618,6 +618,7 @@ int main()
      * How about you start practising the same exercise for your own precious valuable lives ? 
      * 
      * What a shame isnt it ? You are not capable of seeing the problems yet you cause so much incomparable trouble to others because you can ?
+     * What are you here for ? Are you here to observe and jerk off to your pointless outcome or just trying to pass time because you have nothing else to do ?
       **/ 
 
 
