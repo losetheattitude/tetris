@@ -694,6 +694,9 @@ int main()
      * Whats the outcome ?
      * Just an entire wastage of time and resources that got you nowhere ?
      * Where are the beneficial effects ? eheheh you still making promises ? eeheheh
+     * 
+     * Awww you have made countless stupid decisions that were not granted to you nor were they your right 
+     * but now all you can say is lets forget about what ?
       **/ 
 
 
