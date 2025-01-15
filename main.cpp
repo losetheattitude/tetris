@@ -719,6 +719,8 @@ int main()
      * 
      * I am not interested in your delusional bullshit excuses, do you follow ?
      * Do you get the problem now ? Ehehehehe are you making offers still ?
+     * 
+     * What an oblivious disgusting group of monkeys you all are ?
       **/ 
 
 
