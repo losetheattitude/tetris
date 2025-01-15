@@ -629,6 +629,9 @@ int main()
      * Still making false offers and taking a great laugh about it eheheheheheh
      * 
      * Life is good!!! eheheh
+     * 
+     * Its too late because our really really important lives can be in danger!!!! because of not ours intentional decisions
+     * WHAT A SHAME!!!!
       **/ 
 
 
