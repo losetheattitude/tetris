@@ -334,6 +334,9 @@ int main()
      * Or would you rather ignore and perpetuate your disgusting nature ? Guess what ?
      * 
      * Or should I say, this is the time where you pretend to be sad ?
+     * Why are you still making fake offers ? 
+     * 
+     * Ehehehe, isnt it too late now ? Awwwwww thats tooo bad!!! we are really reallly sorry!!!
       **/ 
 
  
