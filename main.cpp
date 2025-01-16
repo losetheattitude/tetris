@@ -833,6 +833,7 @@ int main()
      * Look at the great outcome of not your decisions eheheheheheh
      * 
      * You already know and knew what will happen regardless of what you can offer, thats the problem
+     * Thats called really genius ehehe like knowing that ehehehehe and doing it regardless heheheheh
       **/ 
 
 
