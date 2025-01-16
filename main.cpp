@@ -825,6 +825,9 @@ int main()
      * 
      * The past ehehehe please the past eheheheheh
      * Genius plan btw eheheheh
+     * 
+     * Also such a genius of you to think that just because you are afraid of violence as the inferior animal so do others as well
+     * Ehehehe btw 
       **/ 
 
 
