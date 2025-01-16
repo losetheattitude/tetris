@@ -843,6 +843,10 @@ int main()
      * 
      * You have heard what there is to be heard
      * You can continue to ignore your irrelevant actions, I am not interested
+     * 
+     * 
+     * Only thing you can hear from this point on is that you have coerced children through "death" to make you say what they need to
+     * and I really do not need such people around me
       **/ 
 
 
