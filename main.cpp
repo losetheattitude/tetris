@@ -837,6 +837,8 @@ int main()
      * 
      * You lack every quality that you brag about, thats all you need to know
      * You can proceed with your precious lives
+     * 
+     * Awwww, such a nice outcome that you have built over the course of 30 years look at it!! eheheh
       **/ 
 
 
