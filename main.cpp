@@ -848,7 +848,7 @@ int main()
      * Only thing you can hear from this point on is that you have coerced children through "death" to make you say what they need to
      * and I really do not need such people around me
      * 
-     * You can get the fuck out of my face
+     * You can get the fuck out of my face with your delusions of "making personal decisions for someone you have no rights"
       **/ 
 
 
