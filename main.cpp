@@ -849,6 +849,7 @@ int main()
      * and I really do not need such people around me
      * 
      * You can get the fuck out of my face with your delusions of "making personal decisions for someone you have no rights"
+     * Not even a single thing you can do
       **/ 
 
 
