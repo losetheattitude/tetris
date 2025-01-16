@@ -831,6 +831,8 @@ int main()
      * 
      * Geniusly ehehhehe 1232130120 against one ehhheheheh really really genius eheheh
      * Look at the great outcome of not your decisions eheheheheheh
+     * 
+     * You already know and knew what will happen regardless of what you can offer, thats the problem
       **/ 
 
 
