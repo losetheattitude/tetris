@@ -834,6 +834,9 @@ int main()
      * 
      * You already know and knew what will happen regardless of what you can offer, thats the problem
      * Thats called really genius ehehe like knowing that ehehehehe and doing it regardless heheheheh
+     * 
+     * You lack every quality that you brag about, thats all you need to know
+     * You can proceed with your precious lives
       **/ 
 
 
