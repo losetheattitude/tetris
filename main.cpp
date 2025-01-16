@@ -816,6 +816,7 @@ int main()
      * Do you want to talk more about violence and what it can actually achieve ehehehe ?
      * 
      * Ehehehehehehee, its most successful ehehehe
+     * Do the greatly genius nations have any explanations other than some violence and some medicine ehehehehe
       **/ 
 
 
