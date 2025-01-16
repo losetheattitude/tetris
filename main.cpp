@@ -814,6 +814,8 @@ int main()
      * 
      * How about joint genius nations gather with 12321312 people and show how great they are ?
      * Do you want to talk more about violence and what it can actually achieve ehehehe ?
+     * 
+     * Ehehehehehehee, its most successful ehehehe
       **/ 
 
 
