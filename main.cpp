@@ -860,7 +860,7 @@ int main()
      * 
      * Try better to come up with excuses next time
      * 
-     * I am not interested
+     * I am not interested in incompetent minds
       **/ 
 
 
