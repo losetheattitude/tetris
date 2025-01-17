@@ -857,6 +857,8 @@ int main()
      * You can continue ignoring
      * There is not a single thing, as I have told you countless times while you were lost in your selfish actions, you can do the change it
      * You can look at the majorly great outcome you have built that does nothing
+     * 
+     * Try better to come up with excuses next time
       **/ 
 
 
