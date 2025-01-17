@@ -874,6 +874,8 @@ int main()
      * 
      * Here you got your answer, you can continue ignoring and making wrong decisions that are not yours
      * I am not interested in inferior animals who beg silence from people who they harm injustly
+     * 
+     * You can beg for your own experiences through most inexplicable disgusting actions
       **/ 
 
 
