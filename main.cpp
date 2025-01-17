@@ -852,6 +852,7 @@ int main()
      * Not even a single thing you can do
      * 
      * See for yourselves whether I am alike you
+     * The great outcome that the most skillful people has ever built!!! awwwwww, ehehe its life and fate eheheh
       **/ 
 
 
