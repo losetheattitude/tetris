@@ -873,7 +873,7 @@ int main()
      * Guess who thinks naively in saying some nice stuff would solve a 30 years of problem
      * 
      * Here you got your answer, you can continue ignoring and making wrong decisions that are not yours
-     * I am not interested
+     * I am not interested in inferior animals who beg silence from people who they harm injustly
       **/ 
 
 
