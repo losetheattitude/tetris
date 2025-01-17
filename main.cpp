@@ -887,6 +887,8 @@ int main()
      * Now you got all the reasons why I will never consider you eheheh
      * You can continue fooling yourselves
      * Great job btw!!! Really well done!
+     * 
+     * You can get the fuck out of my face with your irrelevant excuses 
       **/ 
 
 
