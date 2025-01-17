@@ -862,6 +862,8 @@ int main()
      * 
      * I am not interested in incompetent minds 
      * You can continue ignoring with 1232139120 people bragging about their skills
+     * 
+     * You have done really really well, now its time to be proud about not your decisions
       **/ 
 
 
