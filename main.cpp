@@ -855,6 +855,7 @@ int main()
      * The great outcome that the most skillful people has ever built!!! awwwwww, ehehe its life and fate eheheh
      * 
      * You can continue ignoring
+     * There is not a single thing, as I have told you countless times while you were lost in your selfish actions, you can do the change it
       **/ 
 
 
