@@ -872,7 +872,8 @@ int main()
      * You can continue deluding from out of my vicinity indefinitely, I am not interested
      * Guess who thinks naively in saying some nice stuff would solve a 30 years of problem
      * 
-     * Here you got your answer, you can continue ignoring
+     * Here you got your answer, you can continue ignoring and making wrong decisions that are not yours
+     * I am not interested
       **/ 
 
 
