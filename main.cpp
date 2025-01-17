@@ -879,6 +879,7 @@ int main()
      * You can get the fuck out of my face indefinitely, I am not interested in anything you can form
      * 
      * The single most successful and wise group I have seen, go back to your delusions
+     * Get yourselves the same thing you offer people for 30 years of nothing
       **/ 
 
 
