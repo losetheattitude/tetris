@@ -865,6 +865,8 @@ int main()
      * 
      * You have done really really well, now its time to be proud about not your decisions
      * Now you can be proud about literally achieving nothing
+     * 
+     * There is nothing you could do, eheheheh
       **/ 
 
 
