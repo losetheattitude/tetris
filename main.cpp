@@ -868,6 +868,8 @@ int main()
      * 
      * There is nothing you could do, eheheheh
      * Only to observe the totally great outcome that you have built that does not do anything
+     * 
+     * You can continue deluding from out of my vicinity indefinitely, I am not interested
       **/ 
 
 
