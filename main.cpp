@@ -864,6 +864,7 @@ int main()
      * You can continue ignoring with 1232139120 people bragging about their skills
      * 
      * You have done really really well, now its time to be proud about not your decisions
+     * Now you can be proud about literally achieving nothing
       **/ 
 
 
