@@ -870,6 +870,7 @@ int main()
      * Only to observe the totally great outcome that you have built that does not do anything
      * 
      * You can continue deluding from out of my vicinity indefinitely, I am not interested
+     * Guess who thinks naively in saying some nice stuff would solve a 30 years of problem
       **/ 
 
 
