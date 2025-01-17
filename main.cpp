@@ -860,8 +860,8 @@ int main()
      * 
      * Try better to come up with excuses next time
      * 
-     * I am not interested in incompetent minds
-     * You can continue ignoring
+     * I am not interested in incompetent minds 
+     * You can continue ignoring with 1232139120 people bragging about their skills
       **/ 
 
 
