@@ -880,6 +880,9 @@ int main()
      * 
      * The single most successful and wise group I have seen, go back to your delusions
      * Get yourselves the same thing you offer people for 30 years of nothing
+     * 
+     * Still making coherent and accurate decisions that do not belong to you ? eheheh the great outcome of joint actions
+     * What a shame
       **/ 
 
 
