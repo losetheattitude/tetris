@@ -895,6 +895,8 @@ int main()
      * 
      * Really really skillful that you put people into situations with no options and coerce medicine and violence 
      * then to move the around eheheheheheh like really really proud stuff
+     * 
+     * You already know the answer
       **/ 
 
 
