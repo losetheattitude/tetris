@@ -892,6 +892,9 @@ int main()
      * And live your own delusional story within your own boundaries
      * 
      * Awwwwwwww, itssss tooo latee eheheheh
+     * 
+     * Really really skillful that you put people into situations with no options and coerce medicine and violence 
+     * then to move the around eheheheheheh like really really proud stuff
       **/ 
 
 
