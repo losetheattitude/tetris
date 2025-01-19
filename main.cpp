@@ -911,7 +911,9 @@ int main()
      * 
      * You are not welcome with your good intentions that you coerce, now you know the problem
      * Lets go 12382391 people assault someone heheheeh real genius type shit
-      **/ 
+     * 
+     * Fake tough guys who are afraid to sacrifice from their own, does that sound familiar ?
+      **/  
 
 
 
