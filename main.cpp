@@ -913,6 +913,7 @@ int main()
      * Lets go 12382391 people assault someone heheheeh real genius type shit
      * 
      * Fake tough guys who are afraid to sacrifice from their own, does that sound familiar ?
+     * Of course they will be the ones who will have to ignore
       **/  
 
 
