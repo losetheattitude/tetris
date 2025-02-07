@@ -32,6 +32,8 @@ int main()
      * 
      * How about you pay attention to your own lives and do not ruin any other ?
      * and some high feelings ?
+     * 
+     * How about some change of "locations" ? and some people who handles their own life only ?
       **/  
 
 
