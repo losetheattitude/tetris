@@ -27,6 +27,9 @@ int main()
      * unamicable to perform so (Composition or inheritance(IExchanger like) ???)
      * Async environment for RemoteTerminal and RemoteStorages consider Disruptor for advancing purposes 
      * 
+     * 
+     * 
+     * Really good job, making nothing out of something, thats like the talent world needs yayyy genius engineers
     */
 
     InitWindow(500, 620, "Raylib Tetris");
