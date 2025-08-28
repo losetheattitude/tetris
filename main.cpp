@@ -32,6 +32,8 @@ int main()
      * Really good job, making nothing out of something, thats like the talent world needs yayyy genius engineers
      * 
      * Good effective genius engineering that resulted in nothing over the years ehehehehehehe WOMEENNNNN!!!! I guess you all are really geniuses, so simple
+     * 
+     * Waaaowwwww, really really wise and genius engineerings and humans !!!! impressive!!!! what a way to spend 30 years that are not yours!!! ahahahahh comic!!
     */
 
     InitWindow(500, 620, "Raylib Tetris");
