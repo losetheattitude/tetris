@@ -3,13 +3,13 @@
 LocalTerminal::LocalTerminal()
 {   
     //Down button
-    this->clocks[0].SetInterval(0.0032);
+    this->clocks[0].SetInterval(0.000001);
 
     //Right-Left button
-    this->clocks[1].SetInterval(0.057);
+    this->clocks[1].SetInterval(0.07);
 
     //Up button
-    this->clocks[2].SetInterval(0.15 );
+    this->clocks[2].SetInterval(0.2);
 }
 
 int LocalTerminal::Capture()
