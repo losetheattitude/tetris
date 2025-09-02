@@ -26,4 +26,4 @@ void Clock::SetInterval(double interval)
 double Clock::GetInterval()
 {
     return this->interval;
-}
+} 

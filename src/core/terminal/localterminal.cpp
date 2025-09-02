@@ -6,7 +6,7 @@ LocalTerminal::LocalTerminal()
     this->clocks[0].SetInterval(0.000001);
 
     //Right-Left button
-    this->clocks[1].SetInterval(0.07);
+    this->clocks[1].SetInterval(0.068 );
 
     //Up button
     this->clocks[2].SetInterval(0.2);
@@ -20,12 +20,12 @@ int LocalTerminal::Capture()
         this->activeKey = pressedKey;
         if(this->activeKey == KEY_DOWN)
         {
-            this->clocks[0].lastUpdateTime = GetTime();
+            this->clocks[0].lastUpdateTime = GetTime(); 
         }
         else if(this->activeKey == KEY_LEFT || this->activeKey == KEY_RIGHT)
         {
             this->clocks[1].lastUpdateTime = GetTime();
-        }
+        } 
         else if(this->activeKey == KEY_UP)
         {
             this->clocks[2].lastUpdateTime = GetTime();
