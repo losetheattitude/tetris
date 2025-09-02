@@ -29,7 +29,9 @@ int main()
      * 
      * Excelent stuff !! definitively nothing can go sideways!!
      * 
-     * Never interested
+     * Never interested, never can be welcomed let alone consider anything else.
+     * 
+     * End of the story, good job perfect engineering!!
     */
 
     InitWindow(500, 620, "Raylib Tetris");
