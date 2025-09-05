@@ -26,28 +26,25 @@ int main()
      * Event dispatching for Game class to further decouple and facilitate the transmission of internal properties otherwise
      * unamicable to perform so (Composition or inheritance(IExchanger like) ???)
      * Async environment for RemoteTerminal and RemoteStorages consider Disruptor for advancing purposes 
+     *
      * 
-     * Excelent stuff !! definitively nothing can go sideways!!
-     * 
-     * Never interested, never can be welcomed let alone consider anything else.
-     * 
-     * End of the story, good job perfect engineering!!
+     * Waaaowww, what a great experience and opportunity !!! go galsss forever ayyy
     */
 
-    InitWindow(500, 620, "Raylib Tetris");
+    InitWindow(500, 620, "Raylib Tetris"); 
     SetTargetFPS(60);
 
     // Grid* grid = new Grid();
     // Level* level = makeLevelSingleton(2);
-    // InputTerminal* terminal = new InputTerminal();    
+    // InputTerminal* terminal = n ew InputTerminal();    
 
     Grid* grid = new Grid();
     Level* level = makeLevelSingleton(2);
-
+ 
     // BaseStorage storage = BaseStorage(); 
     // BaseTransformer formatter = BaseTransformer();
     // Exchanger exchanger = Exchanger(&storage, &formatter);
-
+ 
     Game* game = new Game(grid, level, 0);
     CommandFactory::Init(*game);
 
@@ -56,7 +53,7 @@ int main()
 
     GameScene gameScene = GameScene(game, joyStick);
     while(!WindowShouldClose())
-    {
+    {  
         BeginDrawing();
         gameScene.Draw();
 
