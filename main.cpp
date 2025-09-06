@@ -31,6 +31,8 @@ int main()
      * Waaaowww, what a great experience and opportunity !!! go galsss forever ayyy
      * 
      * Ayyyyyy, you have done it !!!! thats success
+     * 
+     * HIGHWAYYYY AYYYYYYY, disgusting inferior animals
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
