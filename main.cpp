@@ -57,6 +57,10 @@ int main()
      * TRY HARDER YAYYYYY
      * 
      * Years and years of experience ayayayay building things good people EU good coutnry!! genius engineeringss ayyyyy
+     * 
+     * 
+     * 
+     * DA BEST OF DA BEST GENIUS COUNTRY PPL EU !!!  Definitely making reall realll goood stuff !!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
