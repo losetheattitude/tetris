@@ -19,7 +19,7 @@
  
 #include "src/core/joystick.hpp"
     
-int main()
+int main() 
 {
     /**
      * 
@@ -33,6 +33,7 @@ int main()
      * Ayyyyyy, you have done it !!!! thats success
      * 
      * HIGHWAYYYY AYYYYYYY, disgusting inferior animals
+     * Ayyyyy, makin decisions aaayyyayayaya
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
