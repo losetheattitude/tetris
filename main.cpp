@@ -101,6 +101,10 @@ int main()
      * 
      * Da biggest genius making impossible things !!! really really beneficial genius engineerings ayyy
      * What a great outcome by the biggest geniuses of our precious universe making everything possible ayyayayaaa !!! goo galss !!
+     * 
+     * 
+     * Da great building by the very very genius community of the unverse the SAVIORS !!! ayyy guess what ???  GOOO GALSSS FORAVARRR !! yayyay
+     * genus s!!!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
