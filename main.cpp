@@ -66,6 +66,8 @@ int main()
      * Foolin foolingggg AYAYY done the best deal of the best !!! engineeringsss 
      * 
      * DISGUSTING DELUSIONAL ANIMALS can keep enjoying their lives !!
+     * 
+     * DAAAAA BIGGESTTTT GENIUS COMMUNUITY THE EUUU MAKING THE BEST DECISIONS THAT DO NOT BELONG TO THEM AYYYYYYYYYYYYY
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
