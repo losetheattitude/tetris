@@ -37,6 +37,12 @@ int main()
      * 
      * Codin codin makaveli genius eu coungtry ayyy ahahahha
      * Ayyyyyyy making the impossible ayayayay the western genius ayayaya the western wayy awwwwwww goood jobb !! go galss for avar !!! yaaaa
+     * 
+     * 
+     * 
+     * 
+     * Ayayayayay definitevly the best of the one of the best, you all have no competitors goood really goood fooling !!! ayyy
+     * Youcan get the fuck out of my face INDEFINITELY!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
