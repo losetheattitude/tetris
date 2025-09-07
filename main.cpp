@@ -64,6 +64,8 @@ int main()
      * Disgusting animals who are wasting ppl time ayyyyyyyy  !!! good stuff
      * 
      * Foolin foolingggg AYAYY done the best deal of the best !!! engineeringsss 
+     * 
+     * DISGUSTING DELUSIONAL ANIMALS can keep enjoying their lives !!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
