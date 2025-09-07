@@ -55,6 +55,8 @@ int main()
      * 
      * Foooling fooling eu foolerss ayayaya good job !!! good eu ppl !!! genius engineerings
      * TRY HARDER YAYYYYY
+     * 
+     * Years and years of experience ayayayay building things good people EU good coutnry!! genius engineeringss ayyyyy
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
