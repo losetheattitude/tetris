@@ -78,6 +78,8 @@ int main()
      * Ayayayay da greates of the greates the EU makin real big plays on the children ayayayaya
      * 
      * Disgusting little animals are still doing their best to ruin !!! ayyyyyyyyyy what a good country !!! gooooood inteligence !!! go galss!!
+     * 
+     * Little disgusting inferior animals ? AWWWW you do not see ?  ayyyyyy what a genius great community ayayayaya
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
