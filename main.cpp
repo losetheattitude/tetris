@@ -107,6 +107,10 @@ int main()
      * genus s!!!
      * 
      * Little disgusting inferiors acting like its okay !!!!!!!!!!
+     * 
+     * Just made a wondaful thing into the most disgusting situation ever !! WHAT A GENIUS YALL AREE THE EU !! TBHE GREAT CoUnTrY usa !!! ayyyy
+     * 
+     * GO GALSS FOREVERRR  !!! 
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
