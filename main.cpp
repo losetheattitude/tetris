@@ -74,6 +74,8 @@ int main()
      * THE EU ANIMALS ayyyy go galss !!
      * 
      * DA GREAT EU COUNTRY MKAING MARBLES !!! ayyyyyyyyyyyy
+     * 
+     * Ayayayay da greates of the greates the EU makin real big plays on the children ayayayaya
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
