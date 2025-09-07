@@ -82,6 +82,11 @@ int main()
      * Little disgusting inferior animals ? AWWWW you do not see ?  ayyyyyy what a genius great community ayayayaya
      * 
      * Disgusting littlee eu animals making great content for other people to enjoy !!! ayyyyy
+     * 
+     * 
+     * THE INCOMPARABLE OUTCOME AYYYYYYYYYYYYYYYYYYYYYYYYYYYYY THE GREATEST OF THE GREATES EU COMMUNITY AYyYYYY
+     * Making eveything x10000 worse aaayyyyyyy OMGGG !!!!! the real deal genius ppl !!
+     * Offering materials muney muney !!! wumen !!! ayyy
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
