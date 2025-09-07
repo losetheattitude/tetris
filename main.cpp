@@ -121,6 +121,9 @@ int main()
      * What an insignificant little monkey you are !! you all are !!! ayyyyyy go west !!! ayyyyy
      * 
      * The great great engineers and decision makers, genius nation of da world !! nl nl nl !! yayyy
+     * 
+     * 
+     * REAL REAL STRONG PPL !!! doing genius !! ayy advanced nation !! go gals !! 
      */
 
     InitWindow(500, 620, "Raylib Tetris");
