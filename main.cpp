@@ -90,6 +90,8 @@ int main()
      * 
      * 
      * Ayyyyy the best of the best !! go gogogogo gals you da best !!!
+     * 
+     * The real intellligent community doing the most work !!! ayyy the best outcome !!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
