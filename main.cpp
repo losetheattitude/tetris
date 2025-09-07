@@ -114,6 +114,9 @@ int main()
      * unvierse yayyy life !!! life a simnujkaltion !! ayy6 goooo !!
      *
      * ITS DONE !!! AYYYY ITSS DONEEE !! 
+     * 
+     * 
+     * THE REAL INTELLIGENT GroUP OF PEOPLE !!! auyyyyy the genius engineerss of europe!!! europa ayyyy goo galss!!!!
      */
 
     InitWindow(500, 620, "Raylib Tetris");
