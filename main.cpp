@@ -36,6 +36,7 @@ int main()
      * Ayyyyy, makin decisions aaayyyayayaya
      * 
      * Codin codin makaveli genius eu coungtry ayyy ahahahha
+     * Ayyyyyyy making the impossible ayayayay the western genius ayayaya the western wayy awwwwwww goood jobb !! go galss for avar !!! yaaaa
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
