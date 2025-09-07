@@ -124,6 +124,8 @@ int main()
      * 
      * 
      * REAL REAL STRONG PPL !!! doing genius !! ayy advanced nation !! go gals !! 
+     * 
+     * What a great outcome built by the very very genius nation and the great outcome engineers!!! go gals !! you da best number one !!
      */
 
     InitWindow(500, 620, "Raylib Tetris");
