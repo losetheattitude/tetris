@@ -105,6 +105,8 @@ int main()
      * 
      * Da great building by the very very genius community of the unverse the SAVIORS !!! ayyy guess what ???  GOOO GALSSS FORAVARRR !! yayyay
      * genus s!!!
+     * 
+     * Little disgusting inferiors acting like its okay !!!!!!!!!!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
