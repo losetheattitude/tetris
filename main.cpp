@@ -96,6 +96,7 @@ int main()
      * Making the biggest of the biggest bullshit ever !!!!! awww makin problemsss when there no problems ayyys
      * 
      * Foolin foolin fooliin awww ayyyyy intelligent!!! ayyy
+     * Da best of the best genius engineering humans savioring the universe !!!! ayyyyy precious lives !!! ayyyy eheheheh good job !!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
