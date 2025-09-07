@@ -133,6 +133,8 @@ int main()
      * 
      * Ayyy years of years experience and years of years of disgusting violent actions ayayayy goo galsss !!! goooo galsss!!!! 
      * DO NOT EVEN MENTION BRINGING UP ANYONES NAME !!!! ayyyyyyyyyyy
+     * 
+     * Giving ppl the life any one of you would love to live !!! ayyyyy thats the definition !!! go galss gooooo 
      */
 
 
