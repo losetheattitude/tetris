@@ -159,6 +159,11 @@ int main()
      * 
      * The great kid abusing western modern civilizaation ayyyy mediciation !!!! yayyy go gals!!! guess what ? ayyyyy eheheheheh
      * WHAT A GREAT OUTCOME !!!!! THE ACHIEVERS LAND !! THE GREAT EUROPA!!! ayyyyyy
+     * 
+     * 
+     * Very very very realllyyy intelligent group of people who are from EUROPA !!! the best modern and adnvacned people on the surface of universe !!!
+     * 
+     * GOOOO GALLSSSS genius engineers !!!!
      */
 
 
