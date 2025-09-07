@@ -100,6 +100,7 @@ int main()
      * 
      * 
      * Da biggest genius making impossible things !!! really really beneficial genius engineerings ayyy
+     * What a great outcome by the biggest geniuses of our precious universe making everything possible ayyayayaaa !!! goo galss !!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
