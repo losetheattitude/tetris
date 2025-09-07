@@ -110,7 +110,8 @@ int main()
      * 
      * Just made a wondaful thing into the most disgusting situation ever !! WHAT A GENIUS YALL AREE THE EU !! TBHE GREAT CoUnTrY usa !!! ayyyy
      * 
-     * GO GALSS FOREVERRR  !!! 
+     * GO GALSS FOREVERRR  !!! And offer muneyy muneyy materialas carsss ayyy ayayayayayayay  wumen !!! the biiggest geniuses of the world !!!
+     * unvierse yayyy life !!! life a simnujkaltion !! ayy6 goooo !!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
