@@ -43,6 +43,10 @@ int main()
      * 
      * Ayayayayay definitevly the best of the one of the best, you all have no competitors goood really goood fooling !!! ayyy
      * Youcan get the fuck out of my face INDEFINITELY!
+     * 
+     * THE BESTTT AYYYYY
+     * 
+     * Offferin muney muney wumen wumen !! ayayaya good job !! the advanced ppl saviors
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
