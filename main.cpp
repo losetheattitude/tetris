@@ -68,6 +68,7 @@ int main()
      * DISGUSTING DELUSIONAL ANIMALS can keep enjoying their lives !!
      * 
      * DAAAAA BIGGESTTTT GENIUS COMMUNUITY THE EUUU MAKING THE BEST DECISIONS THAT DO NOT BELONG TO THEM AYYYYYYYYYYYYY
+     * GO GALSS FORAVARRRR !! YAYYY
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
