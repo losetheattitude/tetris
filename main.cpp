@@ -50,6 +50,8 @@ int main()
      * Looooking at the results ayayayay, you have done a wondeful jbo the good county eu !!! ayyyy
      * 
      * Makin great genius moves decisions ayayayaay
+     * 
+     * The really reallly well knowing what they do people !!! genius eu !!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
