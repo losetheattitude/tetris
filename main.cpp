@@ -69,6 +69,9 @@ int main()
      * 
      * DAAAAA BIGGESTTTT GENIUS COMMUNUITY THE EUUU MAKING THE BEST DECISIONS THAT DO NOT BELONG TO THEM AYYYYYYYYYYYYY
      * GO GALSS FORAVARRRR !! YAYYY
+     * 
+     * 
+     * THE EU ANIMALS ayyyy go galss !!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
