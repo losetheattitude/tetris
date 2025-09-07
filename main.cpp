@@ -117,6 +117,8 @@ int main()
      * 
      * 
      * THE REAL INTELLIGENT GroUP OF PEOPLE !!! auyyyyy the genius engineerss of europe!!! europa ayyyy goo galss!!!!
+     * 
+     * What an insignificant little monkey you are !! you all are !!! ayyyyyy go west !!! ayyyyy
      */
 
     InitWindow(500, 620, "Raylib Tetris");
