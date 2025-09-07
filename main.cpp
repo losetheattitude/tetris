@@ -47,6 +47,7 @@ int main()
      * THE BESTTT AYYYYY
      * 
      * Offferin muney muney wumen wumen !! ayayaya good job !! the advanced ppl saviors
+     * Looooking at the results ayayayay, you have done a wondeful jbo the good county eu !!! ayyyy
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
