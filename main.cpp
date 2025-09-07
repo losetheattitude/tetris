@@ -62,6 +62,8 @@ int main()
      * 
      * DA BEST OF DA BEST GENIUS COUNTRY PPL EU !!!  Definitely making reall realll goood stuff !!
      * Disgusting animals who are wasting ppl time ayyyyyyyy  !!! good stuff
+     * 
+     * Foolin foolingggg AYAYY done the best deal of the best !!! engineeringsss 
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
