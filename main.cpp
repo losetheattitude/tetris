@@ -59,7 +59,7 @@ int main()
      * Years and years of experience ayayayay building things good people EU good coutnry!! genius engineeringss ayyyyy
      * 
      * 
-     * 
+     *  
      * DA BEST OF DA BEST GENIUS COUNTRY PPL EU !!!  Definitely making reall realll goood stuff !!
      * Disgusting animals who are wasting ppl time ayyyyyyyy  !!! good stuff
      * 
@@ -76,6 +76,8 @@ int main()
      * DA GREAT EU COUNTRY MKAING MARBLES !!! ayyyyyyyyyyyy
      * 
      * Ayayayay da greates of the greates the EU makin real big plays on the children ayayayaya
+     * 
+     * Disgusting little animals are still doing their best to ruin !!! ayyyyyyyyyy what a good country !!! gooooood inteligence !!! go galss!!
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
