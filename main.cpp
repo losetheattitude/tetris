@@ -92,6 +92,10 @@ int main()
      * Ayyyyy the best of the best !! go gogogogo gals you da best !!!
      * 
      * The real intellligent community doing the most work !!! ayyy the best outcome !!
+     * 
+     * Making the biggest of the biggest bullshit ever !!!!! awww makin problemsss when there no problems ayyys
+     * 
+     * Foolin foolin fooliin awww ayyyyy intelligent!!! ayyy
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
