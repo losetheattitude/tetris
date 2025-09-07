@@ -34,6 +34,8 @@ int main()
      * 
      * HIGHWAYYYY AYYYYYYY, disgusting inferior animals
      * Ayyyyy, makin decisions aaayyyayayaya
+     * 
+     * Codin codin makaveli genius eu coungtry ayyy ahahahha
     */
 
     InitWindow(500, 620, "Raylib Tetris");  
