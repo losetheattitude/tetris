@@ -67,6 +67,8 @@ int main()
      * I WILL NEVER BE INTERESTED, ayayyaya Good genius nation making decisions and ignoring everything else !!! what a combination I WOULD LOVE TO INVOLVE
      * 
      * THE DISGUSTING DELUSIONAL "EU" PEOPLE making impossible possible and ignoring the outcome !!! ayyy geniuss !!!! numba on genius civilization !!!
+     * 
+     * THE DELUSIONAL ANIMALS MAKIN DECISIONS AYAYAYAY WHAT COULD GO WRONG !!!! go galssss forever
      */
 
 
