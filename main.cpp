@@ -95,6 +95,8 @@ int main()
      * 
      * Makin decisions waaoww !!! ayayay go gals!!! you da best never can be defeated ayyy
      * FROM OUT OF MY VICINITY
+     * 
+     * "IGNORING" consequences ayyyyy makin decisions ayyyyy go galss !!! THE BEST OF THE BESTTT GENIUS NATION !!!
      */
 
 
