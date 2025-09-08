@@ -65,6 +65,8 @@ int main()
      * 
      * Disgusting delusional animals ?? AYyyy offerin wumennnn wumeennnnn carssss ayyyyy time does not exist!!! we the greatestt ayyy
      * I WILL NEVER BE INTERESTED, ayayyaya Good genius nation making decisions and ignoring everything else !!! what a combination I WOULD LOVE TO INVOLVE
+     * 
+     * THE DISGUSTING DELUSIONAL "EU" PEOPLE making impossible possible and ignoring the outcome !!! ayyy geniuss !!!! numba on genius civilization !!!
      */
 
 
