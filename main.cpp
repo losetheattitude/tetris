@@ -28,6 +28,8 @@ int main()
      * Async environment for RemoteTerminal and RemoteStorages consider Disruptor for advancing purposes
      * 
      * Ayyy da lovely ppl !! what a great doing !!! ayayy you have guessed it !! and done it !!! ayyy
+     * Genius engineering and wise ppl with a great great culture !!! and an immaculate understanding of life!!!
+     * life a game ayaya life a simulation ayaya get wumen get muney ayaya get materials eheheheh time does not exist !!! 
      */
 
 
