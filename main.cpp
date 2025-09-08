@@ -73,7 +73,7 @@ int main()
      * Real gangstas only born into EU !!! the europa genius civilization !!! ayyyy gangstass !!! go galss
      * More like disgusting animals who would love to IGNORE EVERYTHING ayyyyy go gals I AM NOT INTERESTED
      * 
-     * DREAM ON 
+     * DREAM ON DISGUSTING DELUSIONAL EUROPEAN ANIMALS WHO LOVE MAKING DECISION THAT ARE NOT THEIRS AYYYYYYY
      */
 
 
