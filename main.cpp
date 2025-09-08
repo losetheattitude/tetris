@@ -79,6 +79,9 @@ int main()
      * DA BEST OF DA BEST OF THE UNIVERSE, DA WEST !! WHO WOULDNT LOVE TO BE INVOLVED !!!
      * 
      * THE TRUE ROMANS AND GANGSTAS AYYYYY makin assumptions !!!
+     * 
+     * Offeringgg wumennn muneyyyyyy for the failed assumptions ayyyyyy
+     * What a great outcome built by the very genius phsysists and engineers and psycologists ayyyy
      */
 
 
