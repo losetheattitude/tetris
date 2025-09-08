@@ -58,6 +58,10 @@ int main()
      * 
      * Disgusting little delusional animals, you can go
      * The great great chess players of the universe savioring the planet from ppl !!! go genius nation, I AM NOT INTERESTED 
+     * 
+     * The great decisions makers yet consequence ignorers, I WILL NEVER BE INTERESTED IN YOUR DISGUSTING ANIMALITY
+     * The great decisions makers yet consequence ignorers, I WILL NEVER BE INTERESTED IN YOUR DISGUSTING ANIMALITY
+     * The great decisions makers yet consequence ignorers, I WILL NEVER BE INTERESTED IN YOUR DISGUSTING ANIMALITY
      */
 
 
