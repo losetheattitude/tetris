@@ -97,6 +97,9 @@ int main()
      * FROM OUT OF MY VICINITY
      * 
      * "IGNORING" consequences ayyyyy makin decisions ayyyyy go galss !!! THE BEST OF THE BESTTT GENIUS NATION !!!
+     * 
+     * THE EUROPEAN GENIUS ANIMALS YAYYYYYY GO GALSSS FROM OUT OF MY VICINITY AYYYYYY
+     * Perfectt !!! what an outcome !!!! go gals!!! the disgusting inferior "DELUSIONAL" but european animals yayyyyy
      */
 
 
