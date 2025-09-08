@@ -43,13 +43,16 @@ int main()
      * 
      * NEVER EVER TRY TO BRING IT OUT !!! THE GREAT GREAT WESTERN CIVILIZATION AYAYAY THANKS, I WILL PASS
      * THE GREAT GREATTT WESTERN WUMENNN MUNEYY CARSSS MANSION AYYYYYY, NO THANKS
+     * 
+     * DISGUSTING PPL ARE NOT AWAKINNING AYYYYYY
+     * NO THANKS
      */
 
 
 
     InitWindow(500, 620, "Raylib Tetris");
     SetTargetFPS(60);
-
+ 
     // Grid* grid = new Grid();
     // Level* level = makeLevelSingleton(2);
     // InputTerminal* terminal = n ew InputTerminal();
