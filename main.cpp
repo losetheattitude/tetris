@@ -74,6 +74,11 @@ int main()
      * 
      * The whole mighty knowing advanced modern yet assumption maker great civilization s
      * I will pass without a second thought
+     * 
+     * Almighty assumption making wise and all knowing immaculate great cultured civilization
+     * DA BEST OF DA BEST OF THE UNIVERSE, DA WEST !! WHO WOULDNT LOVE TO BE INVOLVED !!!
+     * 
+     * THE TRUE ROMANS AND GANGSTAS AYYYYY makin assumptions !!!
      */
 
 
