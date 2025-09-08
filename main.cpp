@@ -129,6 +129,9 @@ int main()
      * MUNEYYY WUMENNNN CARSSS AYYYYYYY GET RICH OR DIE TRSYING AYYYYYY GOOOO  GENIUS GUYS !!!! GENIUS NATION !!!!
      * 
      * LOOKKK AT THE WESTERNSS !!! Ayyyyyy wild wildd west !!!! geniusss ayayay
+     * NUMBER ONE NUMBA UNO !! ayayayay makin assummptions guessess decisions ayyyyyyyyyyyyy
+     * 
+     * GUESSS WHATTT AYyyy OMGGGGG THATS SUCH A GOOD OUTCOME !!!!
      */
 
 
