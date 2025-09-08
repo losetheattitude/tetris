@@ -27,38 +27,6 @@ int main()
      * unamicable to perform so (Composition or inheritance(IExchanger like) ???)
      * Async environment for RemoteTerminal and RemoteStorages consider Disruptor for advancing purposes
      * 
-     * Eheheh bugati bugati wumen muney materials ayayayayaya gogogog genius !!! nation west the best ! ayyy
-     * Makin impossible possible ayaayayay FROM OUT OF MY VICINITY
-     * 
-     * The carsss ayyyy the carss and movies andd muneyy and wumennn ayyyyyy the westt the besttt engineerrss ayyyyyyyyyyy
-     * 
-     * GOOOO GALSSSS OUT OF MY VICINITYYY !!! ayyyyyyyyyy
-     * DA BIGGEST INTELLIGENTTT AYYYYYY VICILIZATION ayyyy"
-     * 
-     * whats ddone is done ayayayya we must trick somehow !!! ayy this time how we trickin ayyyyyyy goood gooodd genius very nation
-     * FROM OUT OF MY VICINITY ayyy 
-     * 
-     * HAD TO BE HARMED AYYYYY 
-     * MOVE ON AYY
-     * 
-     * NEVER EVER TRY TO BRING IT OUT !!! THE GREAT GREAT WESTERN CIVILIZATION AYAYAY THANKS, I WILL PASS
-     * THE GREAT GREATTT WESTERN WUMENNN MUNEYY CARSSS MANSION AYYYYYY, NO THANKS
-     * 
-     * DISGUSTING PPL ARE NOT AWAKINNING AYYYYYY
-     * NO THANKS
-     * 
-     * THE GREAT GREAT INTELLIGENT SPECIES OF UNIVERSE SAVIORING EVERYONE, NO THANKS !!!! 
-     * DISGUSTING LITTLE DELUSIONAL ANIMALS CAN MOVE ON TO OUT OF MY VICINITY ? Does that make sense ayahyaya ??
-     * WUMEN WUMEN MUNEYY LIFE CARS ANIMALS CAN GET THE FUCK OUT OF MY FACE INDEFINITELY
-     * 
-     * DA WEST DO NOT CARE ANYTHING BUT HIMSELF AYYYY GENIUS
-     * THE BEST OF THE BEST CIVILIZATION MAKING DECISION THAT WERE NOT ASKED AYYYYYYYYYYYYYYYYYYYYYYYY
-     * SO FUN !!
-     * 
-     * 
-     * Disgusting little delusional animals, you can go
-     * The great great chess players of the universe savioring the planet from ppl !!! go genius nation, I AM NOT INTERESTED 
-     * 
      * The great decisions makers yet consequence ignorers, I WILL NEVER BE INTERESTED IN YOUR DISGUSTING ANIMALITY
      * The great decisions makers yet consequence ignorers, I WILL NEVER BE INTERESTED IN YOUR DISGUSTING ANIMALITY
      * The great decisions makers yet consequence ignorers, I WILL NEVER BE INTERESTED IN YOUR DISGUSTING ANIMALITY
@@ -89,6 +57,15 @@ int main()
      * Ayyyyyyyyyyy go galss !!!! you da best !!! ayyyyy the most intelligent !!! ayyyyy you have done a wonderfuul job !!! ayyyyyy
      * 
      * Really realllyyyyy genius nation !! ayyy
+     * 
+     * Go back to your stupid artificial movies YOU DA BEST !!!!
+     * BACK TO YOUR DISGUSTING ARTIFICIAL MOVIES AND DREAM ON
+     *  
+     * Go back to your stupid artificial movies YOU DA BEST !!!!
+     * BACK TO YOUR DISGUSTING ARTIFICIAL MOVIES AND DREAM ON
+     *  
+     * Go back to your stupid artificial movies YOU DA BEST !!!!
+     * BACK TO YOUR DISGUSTING ARTIFICIAL MOVIES AND DREAM ON
      * 
      * Go back to your stupid artificial movies YOU DA BEST !!!!
      * BACK TO YOUR DISGUSTING ARTIFICIAL MOVIES AND DREAM ON
