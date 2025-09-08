@@ -74,6 +74,10 @@ int main()
      * More like disgusting animals who would love to IGNORE EVERYTHING ayyyyy go gals I AM NOT INTERESTED
      * 
      * DREAM ON DISGUSTING DELUSIONAL EUROPEAN ANIMALS WHO LOVE MAKING DECISION THAT ARE NOT THEIRS AYYYYYYY
+     * Ayyyyy get wummenn wumenn carss muneeyyy for 30 yearss we good !!! 
+     * 
+     * GET THE FUCK OUT OF MY FACE, DISGUSTING LITTLE ANIMALS
+     * Thats it !!
      */
 
 
