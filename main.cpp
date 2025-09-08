@@ -69,6 +69,8 @@ int main()
      * 
      * Go back to your stupid artificial movies YOU DA BEST !!!!
      * BACK TO YOUR DISGUSTING ARTIFICIAL MOVIES AND DREAM ON
+     * 
+     * Real gangstas only born into EU !!! the europa genius civilization !!! ayyyy gangstass !!! go galss
      */
 
 
