@@ -119,6 +119,8 @@ int main()
      * Real reall decision makers CAN GET THE FUCK OUT OF MY FACE
      * 
      * Ayayayayy years and years of "DRAMA" OMGGG !!!!! WHAT AN OPPORTUNITY !!! WHAT AN OUTCOME !!!
+     * 
+     * THE GREATEST OF THE GREATEST GENIUS NATIONS OF THE EU !! USA ! YAYYYY MAKIN IMPOSSIBLE THINGS !!!
      */
 
 
