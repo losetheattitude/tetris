@@ -36,7 +36,7 @@ int main()
      * DA BIGGEST INTELLIGENTTT AYYYYYY VICILIZATION ayyyy"
      * 
      * whats ddone is done ayayayya we must trick somehow !!! ayy this time how we trickin ayyyyyyy goood gooodd genius very nation
-     * FROM OUT OF MY VICINITY ayyy
+     * FROM OUT OF MY VICINITY ayyy 
      * 
      * HAD TO BE HARMED AYYYYY 
      * MOVE ON AYY
@@ -54,6 +54,9 @@ int main()
      * DA WEST DO NOT CARE ANYTHING BUT HIMSELF AYYYY GENIUS
      * THE BEST OF THE BEST CIVILIZATION MAKING DECISION THAT WERE NOT ASKED AYYYYYYYYYYYYYYYYYYYYYYYY
      * SO FUN !!
+     * 
+     * 
+     * Disgusting little delusional animals, you can go
      */
 
 
