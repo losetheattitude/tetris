@@ -77,6 +77,9 @@ int main()
      * Ayyyyy, THERE IS NOT A CHANCE ON THE SURFACE OF UNIVERSE !!! YOU HAVE DONE IT !!! THE REALLL DEALL GANGSTAS !!! DA NUMBER ONE WESTTT!!! ayytyty
      * 
      * ITS DONE !!! IT WAS ALREADY DONE !!! You are just to perfect to not see it !! ayyyy the greatest intelligent organizm ayayay
+     * 
+     * Ayyyyyyyyyyy the best of the best !!!! engineering geniuses !!! from the planet earth !!!! the saviors of the universe !!!!
+     * DELUSIONINGG !!! ayyyyyyyyyyy you can get the FUCK OUT OF MY FACE INDEFINITELY !! 
      */
 
 
