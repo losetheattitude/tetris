@@ -27,37 +27,6 @@ int main()
      * unamicable to perform so (Composition or inheritance(IExchanger like) ???)
      * Async environment for RemoteTerminal and RemoteStorages consider Disruptor for advancing purposes
      * 
-     * Ayyy da lovely ppl !! what a great doing !!! ayayy you have guessed it !! and done it !!! ayyy
-     * Genius engineering and wise ppl with a great great culture !!! and an immaculate understanding of life!!!
-     * life a game ayaya life a simulation ayaya get wumen get muney ayaya get materials eheheheh time does not exist !!! 
-     * 
-     * Kid abusing genius nation ahahah some failure of engineerings ayayaya
-     * 
-     * Great greattt job !! ayy
-     * Disgusting animals btw !! aayaya
-     * Intelligent ppl foolin jokin kids ayayaya genius engineers!!! go galsss
-     * 
-     * Da big decision makers from the wild wild disgusting kid abuser west ayayaya intelligent ppl eheheh
-     * Da usa usa ayyaya makin good, engineer genius nation advanced developed ppl !!! go gals from out of my vicinity ahahah
-     * 
-     * 
-     * Da western bois ayyyy cool as fuck go gals !! FROM OUT OF MY VICINITY
-     * Disgusting delusional monkeys who deny for the sake of denying ayyyyy, thats genius engineerings GO GALS !!! DA NUMBA ONE !!
-     *
-     * wAOOOWWW DA GRREATEST WESTERN CIVILIZATIONS MAKIN IMPOSSIBLE POSSIBLE AYYYYY, do not even mention
-     * 
-     * IMPOSSSIBBBLEEEE TO BE EVEN SLIGHTLY ASSOCIATED with the most great civilization of the universe!!!  AYYYYYY offering wumen !!!
-     * the great genius !!!
-     * 
-     * The most professional intelligent human beings of all the universe !!! offerin wumennn ayyyyy
-     * 
-     * IM-POS-SIB-LE !!! ayyyy 
-     * 
-     * THE MOST GREAT AAYYYYYYY
-     * NO THANKSS AYYYY what a great outcome built by the very very genius nations ahyayayayay
-     * 
-     * Ayyyy the greatest of the greatest victories done by the very genius ayyyyyy
-     * 
      * Eheheh bugati bugati wumen muney materials ayayayayaya gogogog genius !!! nation west the best ! ayyy
      * Makin impossible possible ayaayayay FROM OUT OF MY VICINITY
      * 
