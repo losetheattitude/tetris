@@ -124,6 +124,8 @@ int main()
      * 
      * THE GREAT GREAT JOB!!! INDEFINITEVLY GO GALSS !!
      * NEVER EVER MENTION YOUR DISGUSTING PRESENCE ayyy, GENIUS NATIONS!!!
+     * 
+     * NEVER EVER THINK TO HAVE THAT POWER !!! Disgusting little delusional animals is what you are
      */
 
 
