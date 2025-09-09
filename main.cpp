@@ -141,6 +141,8 @@ int main()
      * The genius engineering civilizaation EUUU ayyyyy omg !!
      * 
      * Go back to your disgusting artificial movies, DO YOU COPY THE GENIUS NATION !!! ayyyy what a good outcome !!
+     * 
+     * THERE IS NOT A SINGLE FORCE ON THE SURFACE OF EARTH
      */
 
 
