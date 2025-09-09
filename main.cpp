@@ -186,7 +186,9 @@ int main()
      * Da great great west doing their best !! what an outcome ayy !!! go gals
      * 
      * DA GREAT GREAT WESTERN CIVILIZATION MAKIN GREAT OUTCOMES COME TRUE !!! Ayyyyyyy genius engineeringss 
+     * DISGUSTING LITTLE INFERIOR ANIMALS WHO WOULD LOVE TO DELUDE
      * 
+     * I AM NOT INTERESTED INDEFINITEVLY
      */
 
 
