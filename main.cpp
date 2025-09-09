@@ -143,6 +143,9 @@ int main()
      * Go back to your disgusting artificial movies, DO YOU COPY THE GENIUS NATION !!! ayyyy what a good outcome !!
      * 
      * THERE IS NOT A SINGLE FORCE ON THE SURFACE OF EARTH
+     * 
+     * BRAVOOOOO, YOU HAVE DONE A WONDERFUL JOB THE GREAT PPL FROM DA WEST
+     * GET THE FUCK OUT OF MY FACE
      */
 
 
