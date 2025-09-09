@@ -173,7 +173,7 @@ int main()
      * Look at the outcome genius people have built with their assumptions ayyyyyy
      * 
      * 
-     * The almight knowing sure genius nation makin decisions that do not affect themselves ayayaya
+     * The almight knowing sure genius nation makin  decisions that do not affect themselves ayayaya
      * what a great outcome !!! DA NUMBA ON
      * Who also happens to watch artificial content to sitmulate their creativity to project into the world !!! ayyy
      * 
@@ -184,6 +184,9 @@ int main()
      * Bravo to the genius nation assumption makin great civilization ayyy 
      * 
      * Da great great west doing their best !! what an outcome ayy !!! go gals
+     * 
+     * DA GREAT GREAT WESTERN CIVILIZATION MAKIN GREAT OUTCOMES COME TRUE !!! Ayyyyyyy genius engineeringss 
+     * 
      */
 
 
