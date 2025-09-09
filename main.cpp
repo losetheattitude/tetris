@@ -125,6 +125,8 @@ int main()
      * REAL BADASS PEOPLE FROM DA WEST
      * 
      * I AM NOT INTERESTED
+     * 
+     * YOU ARE GREAT THE WAY YOU ARE !! GO GALSS
      */
 
 
