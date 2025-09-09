@@ -171,6 +171,10 @@ int main()
      * 
      * The job that nobody can explain ayayayay makin decisions ayayaya the great perfect assumptions ayayay
      * Look at the outcome genius people have built with their assumptions ayyyyyy
+     * 
+     * 
+     * The almight knowing sure genius nation makin decisions that do not affect themselves ayayaya
+     * what a great outcome !!! DA NUMBA ON
      */
 
 
