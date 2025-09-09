@@ -128,6 +128,7 @@ int main()
      * 
      * YOU ARE GREAT THE WAY YOU ARE !! GO GALSS
      * Disgusting animals can continue
+     * Real tough reasonable intelligent ppl CAN GET THE FUCK OUT OF MY FACE INDEFINITEVLY ayyyy
      */
 
 
