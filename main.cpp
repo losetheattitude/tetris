@@ -163,6 +163,9 @@ int main()
      * Makin decisions with assumptions THE REAL GANGSTA WAY AYYYY
      * 
      * The real gangsta foolin genius way, like the artificial movies ayyyy
+     * Da decision makers of the universe and also saviors makin assumptions ayyyy
+     * 
+     * Who could have guessed ayyyyy what a great thing to do !! THE EU
      */
 
 
