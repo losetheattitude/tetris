@@ -27,7 +27,9 @@ int main()
      * unamicable to perform so (Composition or inheritance(IExchanger like) ???)
      * Async environment for RemoteTerminal and RemoteStorages consider Disruptor for advancing purposes 
      * 
-    */
+     * 
+     * NOOOOO THANK YOUUUU !!! I AMMA PASS AYYY the genius nation euw !! ayyyyyyy 
+    */ 
 
     InitWindow(500, 620, "Raylib Tetris");
     SetTargetFPS(60);
@@ -36,7 +38,7 @@ int main()
     // Level* level = makeLevelSingleton(2);
     // InputTerminal* terminal = new InputTerminal();   
 
-    Grid* grid = new Grid();
+    Grid* grid = new Grid();  
     Level* level = makeLevelSingleton(2);
 
     // BaseStorage storage = BaseStorage(); 
