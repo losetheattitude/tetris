@@ -29,6 +29,8 @@ int main()
      * 
      * 
      * NOOOOO THANK YOUUUU !!! I AMMA PASS AYYY the genius nation euw !! ayyyyyyy 
+     * 
+     * YOU HAVE DONE IT !!! THE BEATIFUL EUW AYYYY Ayyyyyyy gooo gals!!! forava!!!
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
