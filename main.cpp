@@ -33,6 +33,7 @@ int main()
      * YOU HAVE DONE IT !!! THE BEATIFUL EUW AYYYY Ayyyyyyy gooo gals!!! forava!!!
      * 
      * Disgusting little animals
+     * Eheheheheheh coercing little kids as little disgusting animals ahahahah ayyy the beatiful west
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
