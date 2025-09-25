@@ -32,6 +32,9 @@ int main()
      * 
      * Da best of da best engineering delusionss !!! ayyyyy what a chance !!! GOOOOOOOOOOOOODD JOBBBB!!!!
      * Ayayaya what a best outcome ayyyy
+     * 
+     * Makin makin great decisions that were not yours ayyyyyyyyy what a genius best of da best universe society !!! the genius engineers of da world 
+     * Ayyyyyyyyy, GET THE FUCK OUT OF MY FACE INDEFNITELY
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
