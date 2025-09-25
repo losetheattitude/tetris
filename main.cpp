@@ -66,6 +66,9 @@ int main()
      * What a lovely outcome !!! ayyyy what a great society I just can not wait to get involved ayyyyyyy
      * 
      * Btwww, please dont talk about it !!! please !! ayyyy genius engineer nations !!! do not talk about what we have done ayyy
+     * 
+     * Da biggest of da best of da best makin decisions and plays ayyyyyyy WHAT A LOVELY THING !!
+     * The great great outcome builder ayyy GET THE FUCK OUT OF MY FACE INDEFINITELY
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
