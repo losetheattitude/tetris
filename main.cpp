@@ -40,6 +40,8 @@ int main()
      * 
      * The best of the best ppl genius engineering countries of converged ppl ayyy what a beatiful scenery !!!
      * Da big west !!!
+     * 
+     * The biggest intelligence west da problem solvers genius engineers CAN INDEFINITELY GET THE FUCK OUT OF MY FACE
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
