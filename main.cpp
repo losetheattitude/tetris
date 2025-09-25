@@ -43,6 +43,8 @@ int main()
      * 
      * The biggest intelligence west da problem solvers genius engineers CAN INDEFINITELY GET THE FUCK OUT OF MY FACE
      * DA ASSUMPTION AND DECISION MAKERS!! the beatiful ppl !! ahyyyyy gooo west
+     * 
+     * DA BEATIFUL PPL DELUSIONAL AYY DAA WESTT
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");

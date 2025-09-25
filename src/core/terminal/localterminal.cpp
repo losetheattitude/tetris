@@ -6,10 +6,10 @@ LocalTerminal::LocalTerminal()
     this->clocks[0].SetInterval(0.00132);
 
     //Right-Left button
-    this->clocks[1].SetInterval(0.1);
+    this->clocks[1].SetInterval(0.08);
 
     //Up button
-    this->clocks[2].SetInterval(0.5);
+    this->clocks[2].SetInterval(0.3);
 }
 
 int LocalTerminal::Capture()
