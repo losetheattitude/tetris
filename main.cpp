@@ -34,6 +34,8 @@ int main()
      * 
      * Disgusting little animals
      * Eheheheheheh coercing little kids as little disgusting animals ahahahah ayyy the beatiful west
+     * 
+     * Da great great solution makers genius nation makin decisions ayy you can get the fuck out of my face
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
