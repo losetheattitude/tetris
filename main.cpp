@@ -36,6 +36,7 @@ int main()
      * Eheheheheheh coercing little kids as little disgusting animals ahahahah ayyy the beatiful west
      * 
      * Da great great solution makers genius nation makin decisions ayy you can get the fuck out of my face
+     * Ayyyy the great great great euw makin plays beatiful country beatiful ppl OMG
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
