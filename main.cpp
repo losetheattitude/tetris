@@ -55,6 +55,9 @@ int main()
      * 
      * Disgusting little animal blood delusional animals ayyyyyyyyyy 
      * What a wonderful job !!! from da west westt wildd genius engineerings ayyyy
+     * 
+     * Da very very genius usa euw engineers ayyyyy what a lovely thing !!
+     * You can get the fuck out of my face indefinitely
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
