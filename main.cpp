@@ -50,6 +50,7 @@ int main()
      * AYyyyyy lets abuse children !!! ayyyyyy genius engineers
      * 
      * The unbeatable great genius nation of da world!! THE GREAT EUW awwww
+     * Stupid dumb disgusting delusional animals WHO I WILL AVOID INDEFINITELY
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
