@@ -40,6 +40,8 @@ int main()
      * GET THE FUCK OUT OF MY FACE INDEFINITELY, INDEFINITELY,INDEFINITELY,INDEFINITELY,INDEFINITELY,INDEFINITELY
      * 
      * Makin makin great decisions ayyayayyyy makin great great wonderful outcomes ayayaya what a chance !!!
+     * 
+     * Ayyyyyy da genius best of da best of da universe ppl !!!! Da greatest society of da world da best west !! ayyyy
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
