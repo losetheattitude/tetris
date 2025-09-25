@@ -38,6 +38,8 @@ int main()
      * 
      * Makin great great decisions and makin outcomes that can not be explained with reason !! THATS THE GENIUS OF DA BEST AND BEST AYYYYY
      * GET THE FUCK OUT OF MY FACE INDEFINITELY, INDEFINITELY,INDEFINITELY,INDEFINITELY,INDEFINITELY,INDEFINITELY
+     * 
+     * Makin makin great decisions ayyayayyyy makin great great wonderful outcomes ayayaya what a chance !!!
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
