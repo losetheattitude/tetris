@@ -48,6 +48,8 @@ int main()
      * 
      * Little disgusting delusional animals that think they are great at everything ? DONT YOU SAY
      * AYyyyyy lets abuse children !!! ayyyyyy genius engineers
+     * 
+     * The unbeatable great genius nation of da world!! THE GREAT EUW awwww
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
