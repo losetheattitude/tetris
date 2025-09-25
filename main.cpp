@@ -45,6 +45,9 @@ int main()
      * DA ASSUMPTION AND DECISION MAKERS!! the beatiful ppl !! ahyyyyy gooo west
      * 
      * DA BEATIFUL PPL DELUSIONAL AYY DAA WESTT
+     * 
+     * Little disgusting delusional animals that think they are great at everything ? DONT YOU SAY
+     * AYyyyyy lets abuse children !!! ayyyyyy genius engineers
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
