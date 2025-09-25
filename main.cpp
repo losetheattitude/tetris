@@ -64,6 +64,8 @@ int main()
      * 
      * Ayyyyyyyyyyyyyyy da best of da best solution makers and decision makers genius euw!!! waaaowwww
      * What a lovely outcome !!! ayyyy what a great society I just can not wait to get involved ayyyyyyy
+     * 
+     * Btwww, please dont talk about it !!! please !! ayyyy genius engineer nations !!! do not talk about what we have done ayyy
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
