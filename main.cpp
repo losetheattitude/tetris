@@ -35,6 +35,9 @@ int main()
      * 
      * Makin makin great decisions that were not yours ayyyyyyyyy what a genius best of da best universe society !!! the genius engineers of da world 
      * Ayyyyyyyyy, GET THE FUCK OUT OF MY FACE INDEFNITELY
+     * 
+     * Makin great great decisions and makin outcomes that can not be explained with reason !! THATS THE GENIUS OF DA BEST AND BEST AYYYYY
+     * GET THE FUCK OUT OF MY FACE INDEFINITELY, INDEFINITELY,INDEFINITELY,INDEFINITELY,INDEFINITELY,INDEFINITELY
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
