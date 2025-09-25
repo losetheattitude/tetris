@@ -60,6 +60,9 @@ int main()
      * You can get the fuck out of my face indefinitely
      * 
      * Disgusting ayyyyy da best of da best of da universe and world !!!
+     * 
+     * 
+     * Ayyyyyyyyyyyyyyy da best of da best solution makers and decision makers genius euw!!! waaaowwww
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
