@@ -51,6 +51,7 @@ int main()
      * 
      * The unbeatable great genius nation of da world!! THE GREAT EUW awwww
      * Stupid dumb disgusting delusional animals WHO I WILL AVOID INDEFINITELY
+     * DA GREAT DECISION MAKERS AYYYYYY SAVIORS OF DA UNIVERSE!!!
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
