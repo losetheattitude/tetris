@@ -54,6 +54,7 @@ int main()
      * DA GREAT DECISION MAKERS AYYYYYY SAVIORS OF DA UNIVERSE!!!
      * 
      * Disgusting little animal blood delusional animals ayyyyyyyyyy 
+     * What a wonderful job !!! from da west westt wildd genius engineerings ayyyy
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
