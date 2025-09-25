@@ -58,6 +58,8 @@ int main()
      * 
      * Da very very genius usa euw engineers ayyyyy what a lovely thing !!
      * You can get the fuck out of my face indefinitely
+     * 
+     * Disgusting ayyyyy da best of da best of da universe and world !!!
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
