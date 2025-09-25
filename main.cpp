@@ -37,6 +37,9 @@ int main()
      * 
      * Da great great solution makers genius nation makin decisions ayy you can get the fuck out of my face
      * Ayyyy the great great great euw makin plays beatiful country beatiful ppl OMG
+     * 
+     * The best of the best ppl genius engineering countries of converged ppl ayyy what a beatiful scenery !!!
+     * Da big west !!!
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
