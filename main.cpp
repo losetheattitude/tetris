@@ -62,6 +62,8 @@ int main()
      * The delusional western people fooling ayyyyyy what a wonderful chance !!!
      * 
      * WHAT A CHANCE!!!! The great outcome builders !!!
+     * Have you achieved it ?? Awwwww why havent you achieved it yet ?  Awwwwwww OFFER WUMEEENNNNN OMGG!!!! 
+     * Disgusting little delusional animals
     */ 
    
 
