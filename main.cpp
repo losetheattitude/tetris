@@ -73,6 +73,8 @@ int main()
      * 
      * You still do not say delusional euw !! ?? awww thats not the problem !! go gals!!
      * Definitely a great product that does nothing
+     * 
+     * You all go ignorant selfish gals, I am not interested indefinitely
     */ 
    
 
