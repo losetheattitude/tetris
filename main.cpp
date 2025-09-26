@@ -44,6 +44,8 @@ int main()
      * Ayyyyyy da genius best of da best of da universe ppl !!!! Da greatest society of da world da best west !! ayyyy
      * 
      * Imma pass on the delusionals, da real best engineer genius problem solvers ayyy 
+     * Solvin problems makin decisions ayyyy makin universe's biggest best innovations Da real ppl from da west !!! ayyyy
+     * what an outcome !!
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
