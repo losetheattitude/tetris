@@ -52,6 +52,11 @@ int main()
      * 
      * The makin assumptions and decisions and outcomes society the genius best of da best ppl can GET THE FUCK OUT OF MY FACE
      * Da europaean best of da best delusionals ayyyyy who would hesitate!!! GET THE FUCK OUT OF MY FACE indefinitely
+     * 
+     * 
+     * Da best of da best innovators who are begging ppl to NOT SPEAK ABOUT THINGSS THEY HAVE DONE ayyyyyy
+     * Who would hesitate to associate!!!!  OMGGGG !!! DA WEST!!! Numba on!!!
+     * 
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
