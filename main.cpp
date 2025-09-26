@@ -59,8 +59,9 @@ int main()
      * Get the fuck out of my face
      * 
      * Disgusting little delusional animals who ? WHO DO YOU THINK ahahahah funny stuff !! go gals!
-     * 
+     * The delusional western people fooling ayyyyyy what a wonderful chance !!!
     */ 
+   
 
     InitWindow(500, 620, "Raylib Tetris");
     SetTargetFPS(60);
