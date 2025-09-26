@@ -58,6 +58,8 @@ int main()
      * Who would hesitate to associate!!!!  OMGGGG !!! DA WEST!!! Numba on!!!
      * Get the fuck out of my face
      * 
+     * Disgusting little delusional animals who ? WHO DO YOU THINK ahahahah funny stuff !! go gals!
+     * 
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
