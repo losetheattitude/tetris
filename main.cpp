@@ -46,6 +46,9 @@ int main()
      * Imma pass on the delusionals, da real best engineer genius problem solvers ayyy 
      * Solvin problems makin decisions ayyyy makin universe's biggest best innovations Da real ppl from da west !!! ayyyy
      * what an outcome !!
+     * 
+     * Da reallllll geniusss nations !!! the problem solvers !!! the decision makers !!! Theeee outtcomeeee builders !!!
+     * What a result !!! 
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
