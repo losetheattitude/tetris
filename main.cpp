@@ -49,6 +49,8 @@ int main()
      * 
      * Da reallllll geniusss nations !!! the problem solvers !!! the decision makers !!! Theeee outtcomeeee builders !!!
      * What a result !!! 
+     * 
+     * The makin assumptions and decisions and outcomes society the genius best of da best ppl can GET THE FUCK OUT OF MY FACE
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
