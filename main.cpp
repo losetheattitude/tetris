@@ -43,7 +43,7 @@ int main()
      * 
      * Ayyyyyy da genius best of da best of da universe ppl !!!! Da greatest society of da world da best west !! ayyyy
      * 
-     * Imma pass on the delusionals
+     * Imma pass on the delusionals, da real best engineer genius problem solvers ayyy 
     */ 
 
     InitWindow(500, 620, "Raylib Tetris");
