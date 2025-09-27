@@ -91,6 +91,8 @@ int main()
      * You have done it !!!
      * The spineless disgusting animals can GET THE FUCK OUT OF MY FACE ? Does that osund complicated ? Ayyyyyyy
      * what a group of genius euw citizens !!! what a lovely chance !!
+     * 
+     * The almighty wise people who "DELUDE" geniusly ayyyyyyyyyyyyyy what a chance indeed !! GO GALS FROM OUT OF MY VICINITY
     */ 
    
 
