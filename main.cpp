@@ -89,6 +89,8 @@ int main()
      * DA REALLLL GOOODD NATION WEST OMGGG !!!! DA DISGUSTING ANIMAL TENT WEST waaawwww
      * 
      * You have done it !!!
+     * The spineless disgusting animals can GET THE FUCK OUT OF MY FACE ? Does that osund complicated ? Ayyyyyyy
+     * what a group of genius euw citizens !!! what a lovely chance !!
     */ 
    
 
