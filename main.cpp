@@ -97,6 +97,11 @@ int main()
      * 
      * Ayyyyyy unique civilization makin decision ayayay makin makin muney muney wumen decisions ayyy what a chance !!!
      * GO GALS FROM OUT OF MY VICINITY INDEFINITELY
+     * 
+     * Daa reall biggggg nation genius inventors and really really perfect eu community makin decisions and not lookin back !!! ayyyyy
+     * Thats the spirit !! GO GALSSS FROM OUT OF MY VICINITY !!! OMFGG!!! you have done a wonderful job by saving the universe!!!
+     * 
+     * The real gangsta genius engineer nations of da universe, DA WESSTTT!!! NUMBA ON !!! yayyy
     */ 
    
 
