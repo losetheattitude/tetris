@@ -84,13 +84,13 @@ int main()
      * NO THANKS INDEFNITELY 
      * NO THANKS INDEFINITELY
      * 
-     * Disgusting animals can go on 
+     * Disgusting animals can go on  
      * Disgusting stubborn all mighty wise genius ppl CAN GET THE FUCK OUT OF MY FACE INDEFINETLY TO WHERE THEY BELONG
      * DA REALLLL GOOODD NATION WEST OMGGG !!!! DA DISGUSTING ANIMAL TENT WEST waaawwww
      * 
      * You have done it !!!
      * The spineless disgusting animals can GET THE FUCK OUT OF MY FACE ? Does that osund complicated ? Ayyyyyyy
-     * what a group of genius euw citizens !!! what a lovely chance !!
+     * what a group of genius euw citizens !!! what a lovely chance !! 
      * 
      * The almighty wise people who "DELUDE" geniusly ayyyyyyyyyyyyyy what a chance indeed !! GO GALS FROM OUT OF MY VICINITY
      * Makin makin decisions ayayayay makin profits muneyy wumennn ayyyy
@@ -102,6 +102,11 @@ int main()
      * Thats the spirit !! GO GALSSS FROM OUT OF MY VICINITY !!! OMFGG!!! you have done a wonderful job by saving the universe!!!
      * 
      * The real gangsta genius engineer nations of da universe, DA WESSTTT!!! NUMBA ON !!! yayyy
+     * 
+     * Its donee !!! ayy    
+     * 
+     * 
+     * Done a wondeafull job !!! go gals
     */ 
    
 
