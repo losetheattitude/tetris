@@ -123,6 +123,10 @@ int main()
      * 
      * 
      * Real skreek genius nation shit !! Go galss !! you da numba on on the universe!!! DA WESTTTTTT OMFGGGG
+     * 
+     * 
+     * Mhhhhh, makin makin assumptions and decisions ayyyy what a privilige to be associated with the disgusting delusional animals !!!
+     * Da numba on west, lovely!!
     */ 
    
 
