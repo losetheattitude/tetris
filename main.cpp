@@ -120,6 +120,9 @@ int main()
      * DA NUMBA ON WESTERN CIVILIZATIONS OHH MYY FUCKING GODDDDD !!!!
      * You are genius !!!! nationss !!! OMFGG !!! You have done a wondaful job !!! LOVELLYYY !!! GO FROM OUT OF MY VICINITY !!! ayyy VV muneyy wumennn
      * Gangstaaaa yayyyy
+     * 
+     * 
+     * Real skreek genius nation shit !! Go galss !! you da numba on on the universe!!! DA WESTTTTTT OMFGGGG
     */ 
    
 
