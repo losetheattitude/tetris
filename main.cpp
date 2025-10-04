@@ -113,6 +113,8 @@ int main()
      * Makin makin decisions ayayayyy GOOOO GALSSSS !!!! WAAAAAOOOWWWWW what a nice job !!
      * 
      * Great decision makers genius nation da west !!! makin possible ayyyy what a lovely outcome !!
+     * The unbelievably genius nation da best of da best from the universe, the western civilization !!!!!
+     * Awwwww, what a lovely outcome !!! GO GALS
     */ 
    
 
