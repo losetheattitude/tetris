@@ -115,6 +115,11 @@ int main()
      * Great decision makers genius nation da west !!! makin possible ayyyy what a lovely outcome !!
      * The unbelievably genius nation da best of da best from the universe, the western civilization !!!!!
      * Awwwww, what a lovely outcome !!! GO GALS
+     * 
+     * 
+     * DA NUMBA ON WESTERN CIVILIZATIONS OHH MYY FUCKING GODDDDD !!!!
+     * You are genius !!!! nationss !!! OMFGG !!! You have done a wondaful job !!! LOVELLYYY !!! GO FROM OUT OF MY VICINITY !!! ayyy VV muneyy wumennn
+     * Gangstaaaa yayyyy
     */ 
    
 
