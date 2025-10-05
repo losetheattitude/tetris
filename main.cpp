@@ -137,6 +137,7 @@ int main()
      * Serious serious real nice job from da real gangstas of da universe ayyyy
      * 
      * Ehehehe puttin sleep good mode genius engineerings marvel nations ayyyyyyyyyyyy
+     * Stupid disgusting animals who have to act like they do, OMGG!!!! reallll good society education etcc muney muney wumenn ayyy solves erryything !!!
     */ 
    
 
