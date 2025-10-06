@@ -223,6 +223,9 @@ int main()
      * Ehehe runnin experiments eheheheh da very best west !!! What a lovely outcome !
      * 
      * Ehehehehe sleepin indeed eheheh get wumen get muney people sleepin scarin eheheh coercin children eheheheh deluding on eeheheheh
+     * Takin life a joke eheheh but only others !!! OMFGGG !!! what a lovely chance !!! Life a joke life a simulation eheheh non deluding !!!
+     * 
+     * Get wumen ppl makin assumptions and outcomes, What could go wrong right ? eheheheh
     */ 
 
    
