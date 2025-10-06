@@ -50,6 +50,9 @@ int main()
      * 
      * Ehehehehe really really clever ppl, makin assumptions and never lookin back, OMFGGG !!! What a lovely chance !!!
      * YOU CAN GET THE FUCK OUT OF MY FACE ! Brilliant ppl !!
+     * 
+     * 
+     * Saved da whole world !! a blessing indeed to be AUROPEAN OMFG!!!!! Act okay !! Go away
     */ 
 
    
