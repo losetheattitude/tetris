@@ -430,6 +430,11 @@ int main()
      * 
      * Ehehehehe still makin decisions great outcomes !!! WAAOWWW !!!! What a lovely outcome built by the only genius society !! DA WEST 
      * Waoww !! Good job !!
+     * 
+     * Definitely useful actions !!! A few ten years and no outcome at all !! Goood job !! You are the best of da best,
+     * The universe's genius society, Da true westerns making decisions !!! Waaaowww
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN PROVIDE
      * */ 
 
    
