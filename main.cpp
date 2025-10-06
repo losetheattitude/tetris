@@ -329,6 +329,8 @@ int main()
      * Eheheh THE GREAT INTELLIGENCE OF THE WEST !!! Impossible to compete with the western people OMFG !!! Impressive stuff !!! You have done wonderful !!
      * 
      * The perfect intelligence which can also predict THAT I WILL NEVER EVEN WASTE ANOTHER SECOND WITH ANY OF THE DISGUSTING WESTERN ANIMALS
+     * Try to guess with your immaculate unseen level of western intelligence, WHAT WILL I DO ? OMFGG !!! Yayyyy, the greatest of the great
+     * THE WEST !!
     */ 
 
    
