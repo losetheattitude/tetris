@@ -417,6 +417,9 @@ int main()
      * 
      * Wonderful genius nations together to achieved the most important task !!! What a lovely outcome indeed !!
      * You have done it !! Congrats !! Da best of da best !!
+     * 
+     * Ehehehe forget about the past !!!! Da best of da best decision makers and assumption makers !!! A wonderful outcome !!!
+     * A few ten years WONT HURT ANYONE EXCEPT OTHERS !!! Da real only true genius nations !!
      * */ 
 
    
