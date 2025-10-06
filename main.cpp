@@ -74,7 +74,9 @@ int main()
      * I AM NOT INTERESTED IN YOUR DISGUSTING ANIMALITY, !! You go on deluding
      * Perfect approach !! wumen wumen eheheheh muney cars ehehehehe life simulation eheheh genius west !!!
      * 
-     * Not interested thanks
+     * Not interested thanks, remind yourselves THE TRUE MEANING OF LIFE !! The meaning you choose to live !! WHAT AN OUTCOME !!
+     * 
+     * I WILL NEVER BE INTERESTED IN ANYTHING YOU CAN OFFER !! Thanks !! You can get the fuck out of my face!!
      * */ 
 
    
