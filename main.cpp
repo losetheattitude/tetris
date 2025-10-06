@@ -289,6 +289,8 @@ int main()
      * 
      * WAAAAAOWWWWWWWW, YOU HAVE DONE WONDERFUL !!! CONGRATS TO ALLL !!! Unseen actions !!! good outcomes !!! The genius engineering nations !!
      * And also really important detail FROM THE GENIUS NATION, "FORGET ABOUT THE PAST !!!!" because we do !!! eheheheheheh WE HAVE TOO !!! OMFGGG !!!!
+     * 
+     * The genius deluding nation is doing their BEST to avoid the reality !!!! OMFGGGGG THE BEST OUTCOME OF THE CENTURY BUILT BY GENIUS WESTERNS !!
     */ 
 
    
