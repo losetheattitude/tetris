@@ -113,6 +113,9 @@ int main()
      * 
      * Life a game no life a simulation no no, get wumen and muney !! eheheh holiday eheheheheh MAKIN MAKIN DECISIONS !!! Ayyyy
      * Get cars eheheheh Get wumen get muney, life a game no no life a simulation !! NOT INTERESTED
+     * 
+     * 
+     * NOT INTERESTED IN ANYTHING YOU CAN OFFER, good job !!
      * */ 
 
    
