@@ -459,6 +459,9 @@ int main()
      * Germany eheheh france hehehehe england Great genius nations !!! Together for making absolutely nothing !!
      * 
      * Only a few ten years of nothing !! Not marvel at all !! Not delusional at all !! Perfect !!
+     * 
+     * The true geniuses of the universe !! Makin decisions and assumptions for other people who they do not care !!
+     * What a lovely outcome indeed !! GO GALS!!! You are the best !! OF THE BEST !! I AM NOT INTERESTED
      * */ 
 
    
