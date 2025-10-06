@@ -159,6 +159,8 @@ int main()
      Disgusting animals ARE NEVER WANTED, Good job though !!
 
      You see the delusion now ? Probably not !! Good job !! 
+     Just do your best to keep it cool !!! that should solve everything !! act cool, do not make a big deal and life a game !! yayyyy
+     Da real genius nation !!! engineerings !!! OMFGG!!!! Makin decisions !!! Lovely great stuff !! NOT INTERESTED
      * */ 
 
    
