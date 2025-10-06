@@ -188,6 +188,8 @@ int main()
      * * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
+     * 
+     * From out of my vicinity, move on living your lives !! yayyy !!! You have achieved it !!! The outcome !!
      * */ 
 
    
