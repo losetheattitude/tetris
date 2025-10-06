@@ -151,6 +151,8 @@ int main()
      * You have done it !! Ehehehe wumen wumen muney !! Really good job !
      * 
      * Tough and wise and clever people, da unique western society !!! The most useful sequence of actions !! Go gals
+     * Real skreek gangstas genius wise clever advanced society shit !! Incomparable outcome !! wumen muney ppl !! FROM OUT OF MY VICINITY
+     * GET THE FUCK OUT OF MY FACE
     */ 
 
    
