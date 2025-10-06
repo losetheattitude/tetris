@@ -81,6 +81,7 @@ int main()
      * Wumen muney ppl, eheheheh delusioning eheheheh uffering eheheheheh 
      * 
      * Ehehehehe doin our jobs !! da saviors of da western great civilization genius ppl doctors phssyicispy psicologieis OMFG !!!
+     * Especially, druggin kids and coercing and threatening eheheheheh and also some genius civilization talents OMFGG !!! lovely chance
     */ 
 
    
