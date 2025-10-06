@@ -72,6 +72,7 @@ int main()
      * Eheeheheh fun and reasonable stuff !!
      * 
      * I AM NOT INTERESTED IN YOUR DISGUSTING ANIMALITY, !! You go on deluding
+     * Perfect approach !!
      * */ 
 
    
