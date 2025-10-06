@@ -399,7 +399,7 @@ int main()
      * Only a few years of someone else's life and body, USE MORE DRUGS !!! Yayyyyyy,  eehehhehe more sleep !!! more medicine !!! ehehehehehe
      * More coercing !!!! Yayyyyyy da real number one genius society FROM DA WESTTT !!!
      * 
-     * I DO NOT HAVE TIME FOR YOU
+     * I DO NOT HAVE TIME FOR YOU, eheh sayin nice stuff would solve everything !! GO FOR IT !!! I DO NOT HAVE TIME FOR YOU !
     */ 
 
    
