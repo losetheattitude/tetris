@@ -65,6 +65,10 @@ int main()
      * Definitely good job !! Wumen wumen muney genius delusional west ehehehehe
      * 
      * Da best of da best !! Lovely outcome builders !!! eheheh
+     * Carsssss, wumeennnn, muneyyyyyyy, coerced drugsssss, coerced sleepingss for a few yearsss because THE GENIUS WEST !!!!
+     * 
+     * Makin really reallly important outcomes !!!
+     * Guess who is not interested in your disgusting lies !!! Wowwww indeed
      * */ 
 
    
