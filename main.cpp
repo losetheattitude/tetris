@@ -303,6 +303,7 @@ int main()
      * You do not say, stupidity ? Woowwww, you have a done wonderful and great job !!!
      * 
      * You also ignore the reason ? OMFGG !!! Nice job !!!
+     * Perfect decision makin, great foreseeing, wonderful outcome!! Not interested !! The great west can stay great
     */ 
 
    
