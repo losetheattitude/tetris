@@ -101,6 +101,7 @@ int main()
      * 
      * Get some holiday eheheheh
      * I am not interested in anything you can offer
+     * Like the a couple of ten years that have resulted in NOTHING, thats who you are !! Good job !! Offer more FROM OUT OF MY VICINITY
      * */ 
 
    
