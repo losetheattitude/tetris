@@ -107,6 +107,7 @@ int main()
      * Lovely chance and outcome, whole mighty and knowing genius delusioning ppl !!! waaaowww
      * 
      * Definitely useful, you can go from out of my vicinity, I am not interested
+     * Ehehehehe, a wonderful chance to do absolutely nothing but harm eheheheh Go the genius nations FROM DA WEST !!
     */ 
 
    
