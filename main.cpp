@@ -105,6 +105,8 @@ int main()
      * 
      * Eehehhe especially sleeeping ppl and drugging and coercing and scaring eheheheheh
      * Lovely chance and outcome, whole mighty and knowing genius delusioning ppl !!! waaaowww
+     * 
+     * Definitely useful, you can go from out of my vicinity, I am not interested
     */ 
 
    
