@@ -88,6 +88,8 @@ int main()
      * 
      * The very most talented people of the 21. century makin assumptions !!! druggin coercing scarin children !!! OMFGG
      * What a lovely outcome !!
+     * 
+     * Ehehehe doin their most crucial jobs !! OMFGGG  Eheheheheh the western genius civilization ppl can GET THE FUCK OUT OF MY FACE indefinitely
     */ 
 
    
