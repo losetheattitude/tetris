@@ -420,6 +420,8 @@ int main()
      * 
      * Ehehehe forget about the past !!!! Da best of da best decision makers and assumption makers !!! A wonderful outcome !!!
      * A few ten years WONT HURT ANYONE EXCEPT OTHERS !!! Da real only true genius nations !!
+     * 
+     * MAKING DECISIONS THAT YOU WERE NOT ASKED FOR !! Lovely outcome !!
      * */ 
 
    
