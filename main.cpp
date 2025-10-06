@@ -80,6 +80,8 @@ int main()
      * 
      * Keep the most disgusting violent actions between "FAMILY" eheheheheh
      * Forget about the past ehehehehe eheheheheh
+     * 
+     * Eheheheh WRONG ASSUMPTIONS !!! AND NOT YOUR DECISIONS !!! ITS TOO LATE !!!
      * */ 
 
    
