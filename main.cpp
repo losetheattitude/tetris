@@ -43,6 +43,10 @@ int main()
      * BRAVOO !!! What a wonderful job !!
      * Very very accurate and wise assumptions a clear sign of quietttttt the high intelligence THAT YOU ALL POSSESS OMFG !!!
      * What a lovely chance !! GO GALSS !!!! Da numba on society of da universe !!! great ppl
+     * 
+     * 
+     * Da almiht all knowing genius societal disgusting animals, makin reall reallly wise assumptions and decisions using their 
+     * superior abilities !! FROM OUT OF MY VICINITY
     */ 
 
    
