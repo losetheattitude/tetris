@@ -47,6 +47,9 @@ int main()
      * 
      * Da almiht all knowing genius societal disgusting animals, makin reall reallly wise assumptions and decisions using their 
      * superior abilities !! FROM OUT OF MY VICINITY
+     * 
+     * Ehehehehe really really clever ppl, makin assumptions and never lookin back, OMFGGG !!! What a lovely chance !!!
+     * YOU CAN GET THE FUCK OUT OF MY FACE ! Brilliant ppl !!
     */ 
 
    
