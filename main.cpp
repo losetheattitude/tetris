@@ -357,6 +357,8 @@ int main()
      * Da real big genius engineering perfect societal disgusting western animals !! YAYYYYY what an outcome !!
      * 
      * Wonderful !!! good job !
+     * Eheheheh teaching eheheheh no delusions eheheheh good job!!! Genius nation makin genius psycologists and phsyisict and engineers !!
+     * Da reall gangstas FROM DA WEST !!! OMFG
     */ 
 
    
