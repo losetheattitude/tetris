@@ -174,6 +174,9 @@ int main()
      * pysiscty!! !OMFG !!!
      * 
      * Definitely skilled and experienced people !! Totally knowing what they do !!! GO AWAY FROM OUT OF MY VICINITY, not interested
+     * Definitely the most accurate assumptions and most useful beneficial outcomes BUILT BY WHO ?
+     * THE genius western community !! and the communities' super great wise and clever participators !!!!
+     * Eheheheheh makin assumptions makin decisions that are not yours eheheheheh
     */ 
 
    
