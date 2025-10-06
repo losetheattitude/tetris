@@ -93,7 +93,7 @@ int main()
      * Ehehehehehehehehehehehehehehehehe, wise clever ppl, not interested in your disgusting stupid "experiments"
      * 
      * Bravooo to you alll !!! you are marvelous !!! imagination stories all thatt !! you all the numba on !! the western disgusting animals !!
-     * GO GALS!!
+     * GO GALS!! Ehehehe sleepin makin assumptions, druggin eyyyyyyyy scarinn eyyyyy genius nation eyyyyy da west !!!
     */ 
 
    
