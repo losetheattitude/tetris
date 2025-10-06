@@ -118,6 +118,9 @@ int main()
      * NOT INTERESTED IN ANYTHING YOU CAN OFFER, good job !!
      * Wonderful outcome !! The real genius west !! Guess who is not interested in tens of years gone to nowhere eheheheh !!! 
      * You know the answer never ask, come up with a betta scenario THE REAL GENIUS WEST !!
+     * 
+     * Ehehehehe life a theater no no life a game no no life a simulation, nooo life is "GET WUMEN GET WUMENN MUNEY MUNEY CARSSS GTT "!!!
+     * Ehehehe only tens of years ITS NOTHING !!! Wonderful outcome !!
      * */ 
 
    
