@@ -360,7 +360,7 @@ int main()
      * Eheheheh teaching eheheheh no delusions eheheheh good job!!! Genius nation makin genius psycologists and phsyisict and engineers !!
      * Da reall gangstas FROM DA WEST !!! OMFG
      * 
-     * NOT INTERESTED IN ANYTHING YOU CAN OFFER, hope that makes sense
+     * NOT INTERESTED IN ANYTHING YOU CAN OFFER, hope that makes sense go back to your delusions
     */ 
 
    
