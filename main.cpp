@@ -331,6 +331,8 @@ int main()
      * The perfect intelligence which can also predict THAT I WILL NEVER EVEN WASTE ANOTHER SECOND WITH ANY OF THE DISGUSTING WESTERN ANIMALS
      * Try to guess with your immaculate unseen level of western intelligence, WHAT WILL I DO ? OMFGG !!! Yayyyy, the greatest of the great
      * THE WEST !!
+     * 
+     * A wonderful outcome !!! Done by specifically the very people who are never delusional !! Good job 
     */ 
 
    
