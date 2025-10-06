@@ -367,6 +367,9 @@ int main()
      * Go back to your disgusting ideas ehehehe good job though !!
      * 
      * Good job makin decisions and assumptions that you were not asked for !!! WAAOWWWWW whats the problem genius society !!! Good job!! Go on
+     * 
+     * Da only real genius group of delusional people on EARTH !!! DA WEST!!! offering muney muney wumen eheheheheh makin decisions eheheheheh
+     * THAT THEY ARE NOT ASKED FOR !!! OMFGGGG !!!! Good job !! The only true society !!! YOU CAN GET THE FUCK OUT OF MY FACE
     */ 
 
    
