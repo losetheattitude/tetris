@@ -255,6 +255,37 @@ int main()
      * 
      * Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
      * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!
+     * 
+     * 
+     * * Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!* Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!
+     * 
+     * 
+     * 
+     * THE MOST ADVANCED CIVILIZATION AND GENIUS DELUDING PEOPLE OF THAT CIVILIZATION !!! Makin great outcomes !!! WONDERFUL !!
     */ 
 
    
