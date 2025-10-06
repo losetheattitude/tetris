@@ -333,6 +333,8 @@ int main()
      * THE WEST !!
      * 
      * A wonderful outcome !!! Done by specifically the very people who are never delusional !! Good job 
+     * The greatest intelligence that when the time comes, can say anything to feel okay !!! ACT OKAYY ITS FINE !!!
+     * Life a simulation !!! wumennn get muneyyy !!! please!! DA GREAT WEST
     */ 
 
    
