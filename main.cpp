@@ -388,6 +388,9 @@ int main()
      * 
      * GOOD JOB !!
      * Eheheheheheh, the doctors the engineers the phsyisit OMFGGG !!! what a lovely outcome !!! makin decisions decisions !! GOOD JOBB !!
+     * 
+     * Truly the best of the best society !!! THE BEST OF THE UNIVERSE !!! OMFGGGG THE REALLLL GENIUS NATION FROM THE WEST !!! YAYYY
+     * Doin realllly realllyy useful actions and benefits !!! You are the number one !!
     */ 
 
    
