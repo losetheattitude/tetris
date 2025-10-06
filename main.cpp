@@ -229,6 +229,9 @@ int main()
      * Not interested indeed, good call, nice vision, immense amount of outcome built by JUST YOU ALL !! DA GREAT WEST !!
      * 
      * Ehehehe foreseeing ability is unmatchable !! The greatest of the great, the western delusions !!! GOOD CALL !!
+     * 
+     * The great engineers and foreseeing genius perfect people from the most advanced civilization making impossible possible !!
+     * What a lovely outcome !! GO GALS 
     */ 
 
    
