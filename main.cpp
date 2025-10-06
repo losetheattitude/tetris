@@ -291,6 +291,8 @@ int main()
      * And also really important detail FROM THE GENIUS NATION, "FORGET ABOUT THE PAST !!!!" because we do !!! eheheheheheh WE HAVE TOO !!! OMFGGG !!!!
      * 
      * The genius deluding nation is doing their BEST to avoid the reality !!!! OMFGGGGG THE BEST OUTCOME OF THE CENTURY BUILT BY GENIUS WESTERNS !!
+     * Da real gangstas and geniuses and also life a game and a simulation people !! wumen and also muney people !! trying not to talk too much eheheheh
+     * PAST IS PAST !!! Please!!! OMFGGGG
     */ 
 
    
