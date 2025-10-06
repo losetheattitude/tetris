@@ -67,7 +67,9 @@ int main()
      * Wonderful !!! you are the best ! you can now get the fuck out of my face
      * muney muney wumen ppl, wise definitely
      * 
-     * Really skilled 
+     * Really skilled AND "WISE" ppl who coerce and scare little kids into believing ahahahh
+     * Right ? That sounds too accurate !! OMFGGGG !!! Da numba on from the universe, Da great wise western disgusting animalss !!!
+     * makin muney wumen assumptions decisions !!!! YAYYYYY
     */ 
 
    
