@@ -391,6 +391,11 @@ int main()
      * 
      * Truly the best of the best society !!! THE BEST OF THE UNIVERSE !!! OMFGGGG THE REALLLL GENIUS NATION FROM THE WEST !!! YAYYY
      * Doin realllly realllyy useful actions and benefits !!! You are the number one !!
+     * 
+     * The numba on pickin drugss for children eheheheheh tha numba on sleepin and coercin and threatining eheheheh
+     * THE REALLL GENIUS NATION !!! Makin decisions !!! OMFGG !!! What a wonderful outcome !!
+     * 
+     * MORE DRUGSSS !!!!! ehehehehe MORE SLEEEPPP !!!! Yayyyyy a few years WONT DO ANY HARM TO NOBODY !!!  eheheheheh genius nation !!!
     */ 
 
    
