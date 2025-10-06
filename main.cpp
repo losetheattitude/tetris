@@ -160,6 +160,7 @@ int main()
      * * GET THE FUCK OUT OF MY FACE, Not interested in anything your disgusting minds can produce* GET THE FUCK OUT OF MY FACE, Not interested in anything your disgusting minds can produce
      * 
      * GOOD JOB !!! No delusions at all !!! %100 accurate !!!
+     * Wonderful outcome !!! real wise jobs !! Out of my vicinity not interested
     */ 
 
    
