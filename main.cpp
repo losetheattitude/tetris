@@ -163,6 +163,9 @@ int main()
      * Wonderful outcome !!! real wise jobs !! Out of my vicinity not interested
      * 
      * Definitely talented number one on their own leagues players, especially at makin assumptions and decisions !!! Lovely outcome !! 
+     * Ehehehe still not deluding and makin decisions for others THAT YOU DO NOT UNDERSTAND !!! ayyyyyy thats what I am talking about !! 
+     * You are the number one on the universe !!! Your society and civilization and technology IS THE BEST ON THE WORLD !!! 
+     * THE WESTERN PEOPLE !!! OMFGG!!!! Muney muney wumen cars house ayyyy, NOT INTERESTED 
     */ 
 
    
