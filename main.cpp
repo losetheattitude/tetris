@@ -55,6 +55,8 @@ int main()
      * Saved da whole world !! a blessing indeed to be AUROPEAN OMFG!!!!! Act okay !! Go away
      * Da almighty all knowing genius societal disgusting animals, makin really accurate assumptions and actions !!
      * GO FOR IT !!! 
+     * 
+     * Who could have guessed it !!! What a wonderful job and outcome !! You can get the fuck out of my face INDEFNITELY
     */ 
 
    
