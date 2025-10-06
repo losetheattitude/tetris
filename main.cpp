@@ -316,6 +316,7 @@ int main()
      * The number one western people !!! makin decisions and assumptions !!!! WONDERFUL LIFE !! GO FROM OUT OF MY VICINITY ! Not interested
      * 
      * Guess who will never be interested in the disgusting animals OF DA NUMBA ON NATION DA WEST ?
+     * Wumen wumen muney get muney eheheheh Reallly good job !!
     */ 
 
    
