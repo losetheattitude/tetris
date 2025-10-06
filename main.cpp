@@ -372,6 +372,9 @@ int main()
      * THAT THEY ARE NOT ASKED FOR !!! OMFGGGG !!!! Good job !! The only true society !!! YOU CAN GET THE FUCK OUT OF MY FACE
      * 
      * Waaowww, THE EUROPAA !! WAAAOWWW !!! What an outcome !!! Truly best of da best !!! Immaculate people !! Disgusting animals !!
+     * Ehehehehhe The europa !!! OMFG !!! eheheh hero, marvel !!! not delusion!!! ehehe imagination !! The greatest society !!! The best of the universe !!!
+     * Great engineering !!! Great psycologists !!! Great physisict !!! PERFECT !!! You have done a wonderful job !!! YOU CAN GET THE FUCK OUT OF MY FACE
+     * INDEFINITELY, I dont have time for any of the disgusting animals
     */ 
 
    
