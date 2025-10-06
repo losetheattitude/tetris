@@ -251,6 +251,7 @@ int main()
      * Wonderful guys !!! Away from my vicinity !!
      * 
      * Thinking you have done a great job right ? Ehehehehehe nice civilization !! advanced techniques !! The number one !!
+     * Greatest of the great ppl makin assumptions and decisions !!! The number one ? What did you think ?
     */ 
 
    
