@@ -365,6 +365,8 @@ int main()
      * 
      * Real immaculate perfect job !!! By the delusional genius "SOCIETY" OMFG !!! So cute !!!
      * Go back to your disgusting ideas ehehehe good job though !!
+     * 
+     * Good job makin decisions and assumptions that you were not asked for !!! WAAOWWWWW whats the problem genius society !!! Good job!! Go on
     */ 
 
    
