@@ -343,7 +343,7 @@ int main()
      * You do not have anything to say ? Awwww violence it is then !!! some more druggin as it has done wonders 
      * and also some coercing and also some sleeping !!! Indeed the most advanced and intelligent nations !! The wonders and marvelous union !! OMFG !!
      * 
-     * Best of da best !!! Great job !!
+     * Best of da best !!! Great job !! Numba one on the world !! The perfect nation !!
     */ 
 
    
