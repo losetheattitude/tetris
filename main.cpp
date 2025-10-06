@@ -100,6 +100,7 @@ int main()
      * Just a couple of ten years WONT HURT ANYBODY,
      * 
      * Get some holiday eheheheh
+     * I am not interested in anything you can offer
      * */ 
 
    
