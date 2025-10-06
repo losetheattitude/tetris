@@ -326,7 +326,7 @@ int main()
      * EHHEHEHEHEH Da realllllll reallll talented genius people FROM DA WEST BTW, what a lovely outcome !!
      * 
      * Perfect mentality, immense ability to foresee, and rightfully the outcome !! Well done !! good job !! immaculate actions thus the outcomes !!
-     * Eheheh THE GREAT INTELLIGENCE OF THE WEST !!!
+     * Eheheh THE GREAT INTELLIGENCE OF THE WEST !!! Impossible to compete with the western people OMFG !!! Impressive stuff !!! You have done wonderful !!
     */ 
 
    
