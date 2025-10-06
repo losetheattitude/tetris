@@ -164,6 +164,8 @@ int main()
      * Ehehe no delusions just a few ten years, Thats the way to go !!!! The true genius society !! DA WESTERNS OMFGGG !!! Numba on !!
      * 
      * Perfect outcome !! Move on from out of my vicinity !! Ehhehehe great western animals !!! 
+     * Ehehehe universe talkers ehheheh decision makers eheheh life advicers eheheheh REAL GENIUS SOCIETY FROM DA WEST !!!
+     * Number one !!!
      * */ 
 
    
