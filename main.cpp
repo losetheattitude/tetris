@@ -324,6 +324,8 @@ int main()
      * 
      * Bravo to the real gangstas and delusional disgusting animals FROM DA WEST waaoww pure talent people indeed
      * EHHEHEHEHEH Da realllllll reallll talented genius people FROM DA WEST BTW, what a lovely outcome !!
+     * 
+     * Perfect mentality, immense ability to foresee, and rightfully the outcome !! Well done !! good job !! immaculate actions thus the outcomes !!
     */ 
 
    
