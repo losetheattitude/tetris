@@ -304,6 +304,9 @@ int main()
      * 
      * You also ignore the reason ? OMFGG !!! Nice job !!!
      * Perfect decision makin, great foreseeing, wonderful outcome!! Not interested !! The great west can stay great
+     * 
+     * The whole mighty knowing western people who solved the life itself and makes decisions and assumptions for others who they do not care !!!
+     * Lovely outcome !!
     */ 
 
    
