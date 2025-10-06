@@ -241,6 +241,8 @@ int main()
      * Good job !! fantastic outcome !! 
      * 
      * Good job yall !!! wonderful outcome !!! Go forever !! Not interested in your minds
+     * Eheheh rolls royce wumen muney eheheh life a not game, simulation not ehehehhe, wumen wumenn get muney !!
+     * Sleepin, druggin ahahahha funny stuff indeed, 
     */ 
 
    
