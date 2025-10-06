@@ -436,6 +436,13 @@ int main()
      * 
      * I AM NOT INTERESTED IN ANYTHING YOU CAN PROVIDE
      * Definitelyt way to go!!! You have done it !!
+     * 
+     * Eheheheh problem solvers ehehehehe the genius people from the western society !!! Waaowwwwww, making decisionss !!!!! assumptions of
+     * never ever seen kind before !!! 
+     * 
+     * Perfect job !!! YOU CAN GET THE FUCK OUT OF MY FACE !!
+     * 
+     * Stupid disgusting animals who thinks they can solve everything with medicine and coercion, What makes you think ?
      * */ 
 
    
