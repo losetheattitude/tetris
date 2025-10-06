@@ -252,6 +252,8 @@ int main()
      * 
      * Thinking you have done a great job right ? Ehehehehehe nice civilization !! advanced techniques !! The number one !!
      * Greatest of the great ppl makin assumptions and decisions !!! The number one ? What did you think ?
+     * 
+     * Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
     */ 
 
    
