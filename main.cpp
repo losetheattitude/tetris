@@ -294,7 +294,7 @@ int main()
      * Da real gangstas and geniuses and also life a game and a simulation people !! wumen and also muney people !! trying not to talk too much eheheheh
      * PAST IS PAST !!! Please!!! OMFGGGG
      * 
-     * Wonderful outcome !!
+     * Wonderful outcome !! Where is it ? What have you built ? Awwww I have forgotten !!! My bad
     */ 
 
    
