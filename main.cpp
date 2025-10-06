@@ -138,7 +138,7 @@ int main()
      * and are free to get the fuck out of my face indefinetely!!* Not interested even in the slighest thing the animals like you can offer, hope that makes sense, now you have saviored the universe 
      * and are free to get the fuck out of my face indefinetely!!
      * 
-     * Wonderful !! Definitely worth 30 years !!  
+     * Wonderful !! Definitely worth 30 years !! Definitely the way to go !! Look at all the benefits YOU HAVE ALL ACHIEVED DOING NOTHİNG !!
     */ 
 
    
