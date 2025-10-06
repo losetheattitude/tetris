@@ -77,6 +77,9 @@ int main()
      * Not interested thanks, remind yourselves THE TRUE MEANING OF LIFE !! The meaning you choose to live !! WHAT AN OUTCOME !!
      * 
      * I WILL NEVER BE INTERESTED IN ANYTHING YOU CAN OFFER !! Thanks !! You can get the fuck out of my face!!
+     * 
+     * Keep the most disgusting violent actions between "FAMILY" eheheheheh
+     * Forget about the past ehehehehe eheheheheh
      * */ 
 
    
