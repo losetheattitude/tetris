@@ -449,6 +449,8 @@ int main()
      * Bravo !!! A wonderful outcome built by not delusional people who would love to ignore consistently !! Because "THE PAST IS PAST !!"
      * 
      * You see the great decisions !!! OMFG !!! You must be the best of da best from the universe !!
+     * Very very genius decision making performance FROM THE WEST !! Not delusional at all !! Only a few ten years !!!
+     * Get wumen muney !!
      * */ 
 
    
