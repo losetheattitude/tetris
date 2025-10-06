@@ -298,6 +298,8 @@ int main()
      * Just wonderful, just incomparable level of wonderfulity BUILT BY THE BEST !!! OMFG
      * 
      * Who was the delusional ? You guessed it right
+     * 
+     * Have you learnt not the make decisions FOR PEOPLE YOU DO NOT CARE ? Awwww, now you are a true genius society !!
     */ 
 
    
