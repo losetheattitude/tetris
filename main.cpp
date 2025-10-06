@@ -57,6 +57,8 @@ int main()
      * 
      * The true and only genius nation on the surface of earth !! THE WEST MAKING GREAT DECISIONS and trying miserably to hide !!
      * OMFG !! what could be the problem !!! Wonderful actions and the outcomes !!!! Waaaowww
+     * 
+     * Eheheheh just a few ten years, its fine so long as nobody knows !!! Its okay !!! forget about the past !! eheheheh genius west!!
      * */ 
 
    
