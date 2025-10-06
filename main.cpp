@@ -432,7 +432,7 @@ int main()
      * Waoww !! Good job !!
      * 
      * Definitely useful actions !!! A few ten years and no outcome at all !! Goood job !! You are the best of da best,
-     * The universe's genius society, Da true westerns making decisions !!! Waaaowww
+     * The universe's genius society, Da true westerns making   !!! Waaaowww
      * 
      * I AM NOT INTERESTED IN ANYTHING YOU CAN PROVIDE
      * Definitelyt way to go!!! You have done it !!
@@ -444,6 +444,8 @@ int main()
      * 
      * Stupid disgusting animals who thinks they can solve everything with medicine and coercion, What makes you think ?
      * WONDERFUL JOB !!! WONDERFUL ACTIONS AND INCOMPARABLE OUTCOME !!! You have done a great job !!!  Definitely !!
+     * 
+     * Useful as yourselves !!! The great genius nations !!
      * */ 
 
    
