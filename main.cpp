@@ -90,7 +90,7 @@ int main()
      * What a lovely outcome !!
      * 
      * Ehehehe doin their most crucial jobs !! OMFGGG  Eheheheheh the western genius civilization ppl can GET THE FUCK OUT OF MY FACE indefinitely
-     * Ehehehehehehehehehehehehehehehehe, wise clever ppl
+     * Ehehehehehehehehehehehehehehehehe, wise clever ppl, not interested in your disgusting stupid "experiments"
     */ 
 
    
