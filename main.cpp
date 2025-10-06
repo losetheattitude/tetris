@@ -102,6 +102,9 @@ int main()
      * 
      * Good job !! Wondaful ppl from da west !! the whole mighty knowing good qualities !!! da best of the universe!!
      * Wise and genius engineerings !!! YOU CAN GET THE FUCK OUT OF MY FACE
+     * 
+     * Eehehhe especially sleeeping ppl and drugging and coercing and scaring eheheheheh
+     * Lovely chance and outcome, whole mighty and knowing genius delusioning ppl !!! waaaowww
     */ 
 
    
