@@ -88,6 +88,11 @@ int main()
      * 
      * I AM NOT INTERESTED IN ANYTHING YOU CAN PROVIDE, hope that makes sense !! Good job ! You are the world's best society !! Genius west 
      * can GET THE FUCK OUT OF MY FACE INDEFINETELY
+     * 
+     * Like the wrong assumption of "wumen wumen muney get muney that solves everything !!!"
+     * Ehehehehe sleep some eheheh sleep eehheh medicine ehehehe coercion eheheheh
+     * 
+     * The best of the best indeed, NOT INTERESTED
      * */ 
 
    
