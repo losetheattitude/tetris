@@ -307,6 +307,8 @@ int main()
      * 
      * The whole mighty knowing western people who solved the life itself and makes decisions and assumptions for others who they do not care !!!
      * Lovely outcome !! You do not say marvelously delusional ? That could be intentional indeed !! Great job !!! da numba on nation!!
+     * 
+     * Ehehe druggin coercin scarin eheheh GOOD JOB !!
     */ 
 
    
