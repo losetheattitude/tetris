@@ -72,7 +72,7 @@ int main()
      * Eheeheheh fun and reasonable stuff !!
      * 
      * I AM NOT INTERESTED IN YOUR DISGUSTING ANIMALITY, !! You go on deluding
-     * Perfect approach !!
+     * Perfect approach !! wumen wumen eheheheh muney cars ehehehehe life simulation eheheh genius west !!!
      * */ 
 
    
