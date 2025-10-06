@@ -148,7 +148,7 @@ int main()
      * Really skilled amazing people !!! Ehehehehe its fine !!
      * 
      * Really reallly serious and businesslike people not givin a fuck about WHAT IS NOT THEIR CONCERN and actin cool !!! OMFG !!!!
-     * You have done it !! Ehehehe wumen wumen muney !!
+     * You have done it !! Ehehehe wumen wumen muney !! Really good job !
     */ 
 
    
