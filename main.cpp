@@ -82,6 +82,12 @@ int main()
      * Forget about the past ehehehehe eheheheheh
      * 
      * Eheheheh WRONG ASSUMPTIONS !!! AND NOT YOUR DECISIONS !!! ITS TOO LATE !!!
+     * Like the wrong assumption of "ehehh say some nice stuff he will feel okay !! THATS MY JOB!!!"
+     * Like the wrong assumption of "eheheh he will forget and forgive eheheheh"
+     * Like "life a simulation !!!!"
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN PROVIDE, hope that makes sense !! Good job ! You are the world's best society !! Genius west 
+     * can GET THE FUCK OUT OF MY FACE INDEFINETELY
      * */ 
 
    
