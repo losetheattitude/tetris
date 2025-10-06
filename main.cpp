@@ -70,6 +70,8 @@ int main()
      * Really skilled AND "WISE" ppl who coerce and scare little kids into believing ahahahh
      * Right ? That sounds too accurate !! OMFGGGG !!! Da numba on from the universe, Da great wise western disgusting animalss !!!
      * makin muney wumen assumptions decisions !!!! YAYYYYY
+     * 
+     * What a lovely chance !! 
     */ 
 
    
