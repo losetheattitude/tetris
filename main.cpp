@@ -85,6 +85,9 @@ int main()
      * 
      * Da outcome builders and sleepers, From da most advanced civilization, DA WEST
      * Wonderful decisions !!! You can get the fuck out of my face
+     * 
+     * The very most talented people of the 21. century makin assumptions !!! druggin coercing scarin children !!! OMFGG
+     * What a lovely outcome !!
     */ 
 
    
