@@ -167,7 +167,7 @@ int main()
      * You are the number one on the universe !!! Your society and civilization and technology IS THE BEST ON THE WORLD !!! 
      * THE WESTERN PEOPLE !!! OMFGG!!!! Muney muney wumen cars house ayyyy, NOT INTERESTED 
      * 
-     * Ehheheh keep it cool keep it cool !! eheheheh
+     * Ehheheh keep it cool keep it cool !! eheheheh its our job !! eheheh its our job !!! keep it cool ayyyy
     */ 
 
    
