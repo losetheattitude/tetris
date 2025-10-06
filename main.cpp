@@ -337,6 +337,8 @@ int main()
      * Life a simulation !!! wumennn get muneyyy !!! please!! DA GREAT WEST
      * 
      * NOT INTERESTED IN THE DISGUSTING PEOPLE WHO LOVES TO IGNORE, no brainers !!
+     * Ehehehe the all mighty wise knowing western people sayin "WARRIORS WAY" eheheheheheheh life simulationi btw also eheheheheh
+     * wumen wumen muney get muney ehehehehheeh
     */ 
 
    
