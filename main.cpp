@@ -232,6 +232,8 @@ int main()
      * 
      * The great engineers and foreseeing genius perfect people from the most advanced civilization making impossible possible !!
      * What a lovely outcome !! GO GALS 
+     * 
+     * Life a simulation, life a joke, ehehe time does not exist PEOPLE, OMFG !!!! not delusion at all !!! You have done it !!
     */ 
 
    
