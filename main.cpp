@@ -172,6 +172,9 @@ int main()
      * 
      * Lovely outcome, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * Eheheheh especially the destiny part ehehhe Really realllyy beneficial actions !!! MORE DRUGS and it will be fine 
+     * 
+     * Eheheheh usa usa !!! europa eheheh yayyy making decisions ahahahahah ehehehheeh, coercing drugs eehheheheh 
+     * The best of da best !!! NOT INTERESTED
      * */ 
 
    
