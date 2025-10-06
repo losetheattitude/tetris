@@ -317,6 +317,10 @@ int main()
      * 
      * Guess who will never be interested in the disgusting animals OF DA NUMBA ON NATION DA WEST ?
      * Wumen wumen muney get muney eheheheh Reallly good job !!
+     * 
+     * The western genius people with the most advanced understanding and foreseeing ability and also some really strong reason 
+     * and with the utmost level of disgusting animality to the extent of makin decisions and assumptions THAT THEY DO NOT GET AFFECTED
+     * Its fine, harm is done !!! WAAAOWWW
     */ 
 
    
