@@ -362,6 +362,9 @@ int main()
      * 
      * NOT INTERESTED IN ANYTHING YOU CAN OFFER, hope that makes sense go back to your delusions make it more marvelous
      * Really reallly beneficial and wise ! Do it out of my vicinity
+     * 
+     * Real immaculate perfect job !!! By the delusional genius "SOCIETY" OMFG !!! So cute !!!
+     * Go back to your disgusting ideas ehehehe good job though !!
     */ 
 
    
