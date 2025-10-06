@@ -196,7 +196,8 @@ int main()
      * CAN GET THE FUCK OUT OF MY FACE !! * Ayyy like everyone said, THE GENIUS WEST, THE BEST COMMUNITY OVER THE WORLD AND ALSO UNIVERSE !!! The best outcome builders !!!
      * CAN GET THE FUCK OUT OF MY FACE !! 
      * 
-     * Good job !!
+     * Good job !! Fine execution, perfect ideas, wise people, clever actions, incomparable outcome !!! What a legend team you have !!
+     * FROM OUT OF MY VICINITY !! Not interested 
     */ 
 
    
