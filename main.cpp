@@ -226,6 +226,7 @@ int main()
      * Takin life a joke eheheh but only others !!! OMFGGG !!! what a lovely chance !!! Life a joke life a simulation eheheh non deluding !!!
      * 
      * Get wumen ppl makin assumptions and outcomes, What could go wrong right ? eheheheh
+     * Not interested indeed, good call, nice vision, immense amount of outcome built by JUST YOU ALL !! DA GREAT WEST !!
     */ 
 
    
