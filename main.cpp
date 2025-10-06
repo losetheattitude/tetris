@@ -61,6 +61,9 @@ int main()
      * makin assumptions, GO GALS !!
      * 
      * Eheheheh crisis management, wise nations, skilled genius animals ehehehe preemptive ehehehehe really wise ppl from da west !! OMFG !!!
+     * Best of best decision and assumption makin machines FROM DA WEST !!! The most modern and advanced animals OMFG !!!!
+     * 
+     * From out of my vicinity 
     */ 
 
    
