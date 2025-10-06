@@ -400,6 +400,9 @@ int main()
      * More coercing !!!! Yayyyyyy da real number one genius society FROM DA WESTTT !!!
      * 
      * I DO NOT HAVE TIME FOR YOU, eheh sayin nice stuff would solve everything !! GO FOR IT !!! I DO NOT HAVE TIME FOR YOU !
+     * 
+     * Ehehe the people of "say nice stuff", "make it look something else than what it is", "offer wumen muney", and genius people indeed !!!
+     * I do not have time for you
     */ 
 
    
