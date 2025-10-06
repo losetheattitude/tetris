@@ -152,7 +152,7 @@ int main()
      * 
      * Tough and wise and clever people, da unique western society !!! The most useful sequence of actions !! Go gals
      * Real skreek gangstas genius wise clever advanced society shit !! Incomparable outcome !! wumen muney ppl !! FROM OUT OF MY VICINITY
-     * GET THE FUCK OUT OF MY FACE
+     * GET THE FUCK OUT OF MY FACE, Not interested in anything your disgusting minds can produce
     */ 
 
    
