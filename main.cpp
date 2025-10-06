@@ -454,6 +454,11 @@ int main()
      * 
      * Foolin foolin genius nations !!! FROM DA WEST !!
      * What a beneficial and useful outcome built by the very genius western disgusting animals !!!
+     * 
+     * Foolin medicine sleeping coercing sleeping TO CHILDREN eheheheheh, Australia ahhahah australiaa eheheheh good job !!
+     * Germany eheheh france hehehehe england Great genius nations !!! Together for making absolutely nothing !!
+     * 
+     * Only a few ten years of nothing !!
      * */ 
 
    
