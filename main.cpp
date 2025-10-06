@@ -106,7 +106,7 @@ int main()
      * From out of my vicinity indefinitely, I am not interested, do what you will, I AM NOT INTERESTED IN DISGUSTING ANIMALS 
      * 
      * Ehehe wumen wumen muney offerers can not see something BUT WHAT ?
-     * Eheheheheheheh, good job !!
+     * Eheheheheheheh, good job !! 
      * 
      * Move on ignoring please, I AM NOT INTERESTED, good job though anyone would congratulate you all !! The best of the best !!
      * Good job !! The real deal gangsta genius nation people !! GET THE FUCK OUT OF MY FACE
@@ -117,7 +117,7 @@ int main()
      * 
      * NOT INTERESTED IN ANYTHING YOU CAN OFFER, good job !!
      * Wonderful outcome !! The real genius west !! Guess who is not interested in tens of years gone to nowhere eheheheh !!! 
-     * You know the answer never ask
+     * You know the answer never ask, come up with a betta scenario THE REAL GENIUS WEST !!
      * */ 
 
    
