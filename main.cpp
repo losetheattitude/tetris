@@ -422,6 +422,9 @@ int main()
      * A few ten years WONT HURT ANYONE EXCEPT OTHERS !!! Da real only true genius nations !!
      * 
      * MAKING DECISIONS THAT YOU WERE NOT ASKED FOR !! Lovely outcome !!
+     * Not interested in the slighest thing you can ever offer, eheheh if that makes sense !! Good job !!
+     * 
+     * Achieved the most important thing !! Bravo !! Good job !! GET THE FUCK OUT OF MY FACE
      * */ 
 
    
