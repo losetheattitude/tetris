@@ -100,7 +100,8 @@ int main()
      * Ehehehe 21 21 21 21 yayyy we manipulate tech eheheheheh and feel skilled and talented at doing so messin with ppl
      * druggin scaring coercin children manipulating tech feeling intelligent, muney muney wumen !!! yayy
      * 
-     * Good job !!
+     * Good job !! Wondaful ppl from da west !! the whole mighty knowing good qualities !!! da best of the universe!!
+     * Wise and genius engineerings !!! YOU CAN GET THE FUCK OUT OF MY FACE
     */ 
 
    
