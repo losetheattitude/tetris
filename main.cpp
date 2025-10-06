@@ -142,6 +142,7 @@ int main()
      * Eheheh had to be ehehe etc had to !! ayyyy the very advanced society!!
      * 
      * Number one !!! the best !! very wise and clever people !!! assumptions and decisions !! That were not YOUR PLACE !!! GO GALS !! Da number one 
+     * I am not interested in anything you can provide, go back to your delusions marvelous ppl
     */ 
 
    
