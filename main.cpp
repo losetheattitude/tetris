@@ -321,6 +321,8 @@ int main()
      * The western genius people with the most advanced understanding and foreseeing ability and also some really strong reason 
      * and with the utmost level of disgusting animality to the extent of makin decisions and assumptions THAT THEY DO NOT GET AFFECTED
      * Its fine, harm is done !!! WAAAOWWW
+     * 
+     * Bravo to the real gangstas and delusional disgusting animals FROM DA WEST waaoww pure talent people indeed
     */ 
 
    
