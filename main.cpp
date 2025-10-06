@@ -82,6 +82,8 @@ int main()
      * 
      * Ehehehehe doin our jobs !! da saviors of da western great civilization genius ppl doctors phssyicispy psicologieis OMFG !!!
      * Especially, druggin kids and coercing and threatening eheheheheh and also some genius civilization talents OMFGG !!! lovely chance
+     * 
+     * Da outcome builders and sleepers, From da most advanced civilization, DA WEST
     */ 
 
    
