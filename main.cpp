@@ -254,6 +254,7 @@ int main()
      * Greatest of the great ppl makin assumptions and decisions !!! The number one ? What did you think ?
      * 
      * Awww you thought saying nice stuff would immediately cover 30 years ehehehehehehe GOOOD CALLL ALSO !!
+     * Eheheh druggin and scaring and coercing you also thought would DO WONDERS !!!! GOOOOOODDD CALLLLLL !!!!
     */ 
 
    
