@@ -234,6 +234,9 @@ int main()
      * What a lovely outcome !! GO GALS 
      * 
      * Life a simulation, life a joke, ehehe time does not exist PEOPLE, OMFG !!!! not delusion at all !!! You have done it !!
+     * 
+     * The greatest of the great minds !!! making decisions and assumption with the most advanced foreseeing ability bestowed on earth !!!
+     * The great civilization OF THE UNIVERSE !!! Makin outcomes incomparable to anything !! OMFG !!!
     */ 
 
    
