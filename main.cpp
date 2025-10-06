@@ -311,6 +311,9 @@ int main()
      * Ehehe druggin coercin scarin eheheh GOOD JOB !!
      * The immaculate western intelligence indeed, Makin great outcomes !!! The numba on nation
      * Congraluations to the best of the best civilizations !!! DA WESTERN INTELLIGENCE OMFG !!! MAKING DECISIONSS !!
+     * 
+     * Ehehhe its just life !!!! wonderful ignorance !!! and also the best of da best intelligence !!! Who could have guessed !!!
+     * The number one western people !!! makin decisions and assumptions !!!! WONDERFUL LIFE !! GO FROM OUT OF MY VICINITY ! Not interested
     */ 
 
    
