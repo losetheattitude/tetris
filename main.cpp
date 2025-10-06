@@ -168,6 +168,9 @@ int main()
      * Number one !!!
      * 
      * What a lovely outcome indeed, from the very geniuses of DA WEST !!! Great job !!
+     * Eheheh offering holiday wumen muney cars however life not a game !! a simulation not !! OMFG !!
+     * 
+     * Lovely outcome, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * */ 
 
    
