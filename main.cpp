@@ -249,6 +249,8 @@ int main()
      * 
      * Da european nations union, OMFG !!! What could have possibly gone wrong ?
      * Wonderful guys !!! Away from my vicinity !!
+     * 
+     * Thinking you have done a great job right ? Ehehehehehe nice civilization !! advanced techniques !! The number one !!
     */ 
 
    
