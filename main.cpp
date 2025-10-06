@@ -314,6 +314,8 @@ int main()
      * 
      * Ehehhe its just life !!!! wonderful ignorance !!! and also the best of da best intelligence !!! Who could have guessed !!!
      * The number one western people !!! makin decisions and assumptions !!!! WONDERFUL LIFE !! GO FROM OUT OF MY VICINITY ! Not interested
+     * 
+     * Guess who will never be interested in the disgusting animals OF DA NUMBA ON NATION DA WEST ?
     */ 
 
    
