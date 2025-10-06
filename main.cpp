@@ -172,6 +172,8 @@ int main()
      * 
      * Real good outcome !!! Great people !!!! Lovely things to do!!! eheheh keep him cool say nice stuff !! OMFG !!! The genius psycologists and
      * pysiscty!! !OMFG !!!
+     * 
+     * Definitely skilled and experienced people !! Totally knowing what they do !!! GO AWAY FROM OUT OF MY VICINITY, not interested
     */ 
 
    
