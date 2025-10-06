@@ -396,6 +396,10 @@ int main()
      * THE REALLL GENIUS NATION !!! Makin decisions !!! OMFGG !!! What a wonderful outcome !!
      * 
      * MORE DRUGSSS !!!!! ehehehehe MORE SLEEEPPP !!!! Yayyyyy a few years WONT DO ANY HARM TO NOBODY !!!  eheheheheh genius nation !!!
+     * Only a few years of someone else's life and body, USE MORE DRUGS !!! Yayyyyyy,  eehehhehe more sleep !!! more medicine !!! ehehehehehe
+     * More coercing !!!! Yayyyyyy da real number one genius society FROM DA WESTTT !!!
+     * 
+     * I DO NOT HAVE TIME FOR YOU
     */ 
 
    
