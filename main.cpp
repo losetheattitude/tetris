@@ -212,9 +212,11 @@ int main()
      * Foolin, scarin, drugin, violencing, sleepin also !! really good job !! An immense amount of effort and the outcome is incomparable !!!
      * Done by the delusional genius nations !! Perfect! YOU CAN GET THE FUCK OUT OF MY FACE indefinitely !
      * 
-     * Wonderful !
+     * Wonderful ! 1
      * Ehehehe sleepin people btw eheheh also makin beneficial actions and outcomes !!! Thats who we are !!! OMFG !! DA WESTERN DISGUSTING ANIMALS!!!
      * Ahh also some really strong reasoning !! GO GALS!
+     * 
+     * Da number one at deluding !! You are free to do whatever you want out of my vicinity !! eheheh
     */ 
 
    
