@@ -59,6 +59,8 @@ int main()
      * Who could have guessed it !!! What a wonderful job and outcome !! You can get the fuck out of my face INDEFNITELY
      * Trickin and geniusing and wising really reallly good society and wonderful contitent ppl !! da western ppl da very best of the universe
      * makin assumptions, GO GALS !!
+     * 
+     * Eheheheh crisis management, wise nations, skilled genius animals ehehehe preemptive ehehehehe really wise ppl from da west !! OMFG !!!
     */ 
 
    
