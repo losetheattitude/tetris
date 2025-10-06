@@ -344,7 +344,7 @@ int main()
      * and also some coercing and also some sleeping !!! Indeed the most advanced and intelligent nations !! The wonders and marvelous union !! OMFG !!
      * 
      * Best of da best !!! Great job !! Numba one on the world !! The perfect nation !! Do not forget the destiny part !! 
-     * Thats the real genius addition !! DA WEST 
+     * Thats the real genius addition !! DA WEST  
      * 
      * 
      * DA DELUSIONAL YOU DO NOT SAY ! Great outcome !! congrats you can GET THE FUCK OUT OF MY FACE INDEFINITELY Not interested
@@ -359,6 +359,8 @@ int main()
      * Wonderful !!! good job !
      * Eheheheh teaching eheheheh no delusions eheheheh good job!!! Genius nation makin genius psycologists and phsyisict and engineers !!
      * Da reall gangstas FROM DA WEST !!! OMFG
+     * 
+     * NOT INTERESTED IN ANYTHING YOU CAN OFFER, hope that makes sense
     */ 
 
    
