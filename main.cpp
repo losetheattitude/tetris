@@ -447,6 +447,8 @@ int main()
      * 
      * Useful as yourselves !!! The great genius nations !!
      * Bravo !!! A wonderful outcome built by not delusional people who would love to ignore consistently !! Because "THE PAST IS PAST !!"
+     * 
+     * You see the great decisions !!! OMFG !!! You must be the best of da best from the universe !!
      * */ 
 
    
