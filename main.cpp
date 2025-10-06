@@ -45,7 +45,7 @@ int main()
      * What a lovely chance !! GO GALSS !!!! Da numba on society of da universe !!! great ppl
      * 
      * 
-     * Da almiht all knowing genius societal disgusting animals, makin reall reallly wise assumptions and decisions using their 
+     * Da almighty all knowing genius societal disgusting animals, makin reall reallly wise assumptions and decisions using their 
      * superior abilities !! FROM OUT OF MY VICINITY
      * 
      * Ehehehehe really really clever ppl, makin assumptions and never lookin back, OMFGGG !!! What a lovely chance !!!
@@ -53,6 +53,8 @@ int main()
      * 
      * 
      * Saved da whole world !! a blessing indeed to be AUROPEAN OMFG!!!!! Act okay !! Go away
+     * Da almighty all knowing genius societal disgusting animals, makin really accurate assumptions and actions !!
+     * GO FOR IT !!! 
     */ 
 
    
