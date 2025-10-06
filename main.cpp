@@ -301,6 +301,8 @@ int main()
      * 
      * Have you learnt not the make decisions FOR PEOPLE YOU DO NOT CARE ? Awwww, now you are a true genius society !!
      * You do not say, stupidity ? Woowwww, you have a done wonderful and great job !!!
+     * 
+     * You also ignore the reason ? OMFGG !!! Nice job !!!
     */ 
 
    
