@@ -94,6 +94,13 @@ int main()
      * 
      * Bravooo to you alll !!! you are marvelous !!! imagination stories all thatt !! you all the numba on !! the western disgusting animals !!
      * GO GALS!! Ehehehe sleepin makin assumptions, druggin eyyyyyyyy scarinn eyyyyy genius nation eyyyyy da west !!!
+     * 
+     * 
+     * 
+     * Ehehehe 21 21 21 21 yayyy we manipulate tech eheheheheh and feel skilled and talented at doing so messin with ppl
+     * druggin scaring coercin children manipulating tech feeling intelligent, muney muney wumen !!! yayy
+     * 
+     * Good job !!
     */ 
 
    
