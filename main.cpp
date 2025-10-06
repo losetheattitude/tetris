@@ -246,6 +246,8 @@ int main()
      * 
      * Wonderful western intelligence !!! Makin assumptions and decisions OMFG !!! The best of the best !!
      * Da greatest of da greatest !!!
+     * 
+     * Da european nations union, OMFG !!! What could have possibly gone wrong ?
     */ 
 
    
