@@ -206,6 +206,11 @@ int main()
      * CONGRATS DA WESTT
      * 
      * Have done an incredible job !! You are the best !!
+     * Disgusting animals !!
+     * 
+     * 
+     * Foolin, scarin, drugin, violencing, sleepin also !! really good job !! An immense amount of effort and the outcome is incomparable !!!
+     * Done by the delusional genius nations !! Perfect! YOU CAN GET THE FUCK OUT OF MY FACE indefinitely !
     */ 
 
    
