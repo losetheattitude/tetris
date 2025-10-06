@@ -198,6 +198,9 @@ int main()
      * 
      * Good job !! Fine execution, perfect ideas, wise people, clever actions, incomparable outcome !!! What a legend team you have !!
      * FROM OUT OF MY VICINITY !! Not interested 
+     * 
+     * Definitely the number one actions and team and outcome by far !! Nobody has ever seen or done such a thing as you have !!!
+     * The greatest of the great, the perfect civilization the west!!! A blessing to be associated !!! OMFG !!!
     */ 
 
    
