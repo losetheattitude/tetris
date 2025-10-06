@@ -451,6 +451,8 @@ int main()
      * You see the great decisions !!! OMFG !!! You must be the best of da best from the universe !!
      * Very very genius decision making performance FROM THE WEST !! Not delusional at all !! Only a few ten years !!!
      * Get wumen muney !!
+     * 
+     * Foolin foolin genius nations !!! FROM DA WEST !!
      * */ 
 
    
