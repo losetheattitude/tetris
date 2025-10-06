@@ -161,6 +161,8 @@ int main()
      * 
      * GOOD JOB !!! No delusions at all !!! %100 accurate !!!
      * Wonderful outcome !!! real wise jobs !! Out of my vicinity not interested
+     * 
+     * Definitely talented number one on their own leagues players, especially at makin assumptions and decisions !!! Lovely outcome !! 
     */ 
 
    
