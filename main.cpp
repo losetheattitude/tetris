@@ -150,6 +150,9 @@ int main()
      * NOT INTERESTED
      * Very very talented people, genius engineers CAN GO ON FROM OUT OF MY VICINITY, I do not have anything for you
      * Keep reminding yourselves the "DESTINY" part !! Da numba on west GENIUS NATION !! I am not interested
+     * 
+     * NOT INTERESTED IN ANYTHING ANY OF YOU CAN OFFER, ehehehe live your lives !!! life already a game !!! eheheheheh
+     * We makin decisions eheheheheh disgusting animals can get the fuck out of my face
      * */ 
 
    
