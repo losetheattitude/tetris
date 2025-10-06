@@ -140,6 +140,8 @@ int main()
      * 
      * Wonderful !! Definitely worth 30 years !! Definitely the way to go !! Look at all the benefits YOU HAVE ALL ACHIEVED DOING NOTHİNG !!
      * Eheheh had to be ehehe etc had to !! ayyyy the very advanced society!!
+     * 
+     * Number one !!! the best !! very wise and clever people !!! assumptions and decisions !! That were not YOUR PLACE !!! GO GALS !! Da number one 
     */ 
 
    
