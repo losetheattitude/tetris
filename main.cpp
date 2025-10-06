@@ -370,6 +370,8 @@ int main()
      * 
      * Da only real genius group of delusional people on EARTH !!! DA WEST!!! offering muney muney wumen eheheheheh makin decisions eheheheheh
      * THAT THEY ARE NOT ASKED FOR !!! OMFGGGG !!!! Good job !! The only true society !!! YOU CAN GET THE FUCK OUT OF MY FACE
+     * 
+     * Waaowww, THE EUROPAA !! WAAAOWWW !!! What an outcome !!! Truly best of da best !!! Immaculate people !! Disgusting animals !!
     */ 
 
    
