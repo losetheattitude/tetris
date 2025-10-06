@@ -227,6 +227,8 @@ int main()
      * 
      * Get wumen ppl makin assumptions and outcomes, What could go wrong right ? eheheheh
      * Not interested indeed, good call, nice vision, immense amount of outcome built by JUST YOU ALL !! DA GREAT WEST !!
+     * 
+     * Ehehehe foreseeing ability is unmatchable !! The greatest of the great, the western delusions !!! GOOD CALL !!
     */ 
 
    
