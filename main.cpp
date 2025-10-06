@@ -110,6 +110,9 @@ int main()
      * 
      * Move on ignoring please, I AM NOT INTERESTED, good job though anyone would congratulate you all !! The best of the best !!
      * Good job !! The real deal gangsta genius nation people !! GET THE FUCK OUT OF MY FACE
+     * 
+     * Life a game no life a simulation no no, get wumen and muney !! eheheh holiday eheheheheh MAKIN MAKIN DECISIONS !!! Ayyyy
+     * Get cars eheheheh Get wumen get muney, life a game no no life a simulation !! NOT INTERESTED
      * */ 
 
    
