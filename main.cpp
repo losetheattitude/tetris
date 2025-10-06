@@ -79,6 +79,8 @@ int main()
      * Ehehehe scaring coercing sleepin children eheheheh
      * Ehehe runnin experiments ehehehe druggin little kids eheheheheh wondaful nations from da western !!! Ayyyy
      * Wumen muney ppl, eheheheh delusioning eheheheh uffering eheheheheh 
+     * 
+     * Ehehehehe doin our jobs !! da saviors of da western great civilization genius ppl doctors phssyicispy psicologieis OMFG !!!
     */ 
 
    
