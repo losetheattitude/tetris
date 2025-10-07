@@ -355,6 +355,8 @@ int main()
      * Offering wumennnnnnnn eheheheh that solves everything !! What a genius civilized nation !!! The best of the best!!! Greatly achieved !!
      * 
      * Guess who will never be interested in anything the great western genius civilization can offer
+     * Guess who does not act like THEY HAVE SOLVED THE LIFE ? I AM NOT INTERESTED IN ANYTHING THE DISGUSTING WESTERN PEOPLE CAN OFFER
+     * THATS IT
      * */
     
    
