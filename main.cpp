@@ -229,6 +229,8 @@ int main()
      * and wishes things stay same while coercing ? What ? ahahah genius you say indeed
      * 
      * Not interested in anything you can offer
+     * 
+     * Not delusional and definitely genius people now can move on with their lives, I AM NOT INTERESTED
      * */
    
 
