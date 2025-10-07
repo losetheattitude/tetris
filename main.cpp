@@ -372,6 +372,9 @@ int main()
      * 
      * The number one best of the best, greatly not delusional people, makin decisions and assumptions indeed
      * Good job !!! Be proud of yourselves, great not delusional western civilization indeed
+     * 
+     * The tech civilization genius society people !!! Makin decisions and assumptions NOT PREJUDICES AT ALL !!!
+     * Great actions !!! Great decisions !! Wonderful outcome !! 
      * */
     
    
