@@ -456,6 +456,7 @@ int main()
      * 
      * 
      * DISGUSTING WESTERN ANIMALS CAN MOVE ON, not interested
+     * I DO NOT HAVE TIME FOR DEFINITELY NOT DELUSIONAL PEOPLE, move on 
      * */
     
    
