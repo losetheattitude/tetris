@@ -257,6 +257,9 @@ int main()
      * 
      * Ehehehe making making great decisions FOR PEOPLE WE DO NOT CARE !!! Eheheheh Get wumen wumen muneyy eheheheh celebrity eheheh wumen 
      * what else could you ever ask !!!! PERFECT REASON !!
+     * 
+     * Truly truly successful people making great outcomes come reality by their sheer actions !! What a chance and THE OUTPUT OF YEARS is so nice !!
+     * Definitely the way to go, GET THE FUCK OUT OF MY FACE
      * */
    
 
