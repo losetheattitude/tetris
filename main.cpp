@@ -249,6 +249,8 @@ int main()
      * The past has to be past OBVIOUSLY !! OMFGGG !!!! Da numba on of the universe, genius nation society !!
      * 
      * I AM NOT INTERESTED in all "eheheh foolin foolin intelligence ppeople ehehehehe"
+     * A lovely outcome isnt it !!! Nice decision making and good calls !! and also genius foreseeing !! The perfect immaculate people FROM DA WEST
+     * Ehehehe is not it perfect, the outcome ehehehehe 
      * */
    
 
