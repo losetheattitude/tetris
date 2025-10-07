@@ -324,7 +324,10 @@ int main()
      * Eheheh the sciencitific eheheh achievement btw drugging sleepin abusing children, science ppl genius from da universe Da western cultured reallyy
      * good and beneficial people makin assumptions and decisions THAT DO NOT BELONG TO THEM !!! Ayyyyyyy way to go !!! OMFGGGG
      * 
-     * What a chanceee, what a lovely outcome 
+     * What a chanceee, what a lovely outcome and THE ONLY TERRORISTS Guess whooo OMFGG the genius guessing nations would do wonders at that as well,
+     * 
+     * Good job !!Fantastic imagination and not delusions indeed
+     * GET THE FUCK OUT OF MY FACE
      * */
    
 
