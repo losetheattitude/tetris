@@ -341,6 +341,8 @@ int main()
      * Reall genius gangsta medical professional people FROM DA WEST you say ? A little group of disgusting animals ?
      * 
      * Ehehehehhe had to be done !!
+     * Not prejudice, not ignorance, not intelligence, not genius, not civilization
+     * Hope that helps you
      * */
     
    
