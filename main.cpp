@@ -359,6 +359,7 @@ int main()
      * THATS IT
      * 
      * LIKE I HAVE SAID 10000000000000000000000000 TIMES, I AM NOT INTERESTED IN ANYTHING THE DELUSIONAL DISGUSTING WESTERN ANIMALS CAN OFFER
+     * Find yourselves more children to abuse and drug and eheheh put to sleep ! eheheheheh you are great !! not delusional
      * */
     
    
