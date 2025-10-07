@@ -420,6 +420,7 @@ int main()
      * Hope that makes sense, think better next time
      * 
      * Ehehe wumen muney not prejudiced ppl eheheheheh pure genius civilized western DISGUSTING ANIMALS
+     * Eheheheheheheheheehhheheeheehe, NOT INTERESTED IN ANYTHING YOU CAN OFFER, next time find more versatile children for your disgusting animality
      * */
     
    
