@@ -480,7 +480,8 @@ int main()
      * NOT A SINGLE "RESOURCE" I WILL EVER HAVE FOR THE NOT DELUSIONAL "CIVILIZED WESTERN" people
      * I DO NOT HAVE TIME FOR YOU, you are it
      * 
-     * Move on ehehehe
+     * Move on ehehehe, do you see the "intelligence" part ? 
+     * Do you really think you are intelligence ? Ehehehehehehehehhehehehehehe GOOD OUTCOME !!!
      * */
     
    
