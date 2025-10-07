@@ -275,6 +275,9 @@ int main()
      * 
      * The disgusting ignorant clowns want to coerce children more into acting stupid ? Eheheh Its for your own good !!! Please please !!!
      * We the genius society OF DA UNIVERSE, eheheheh you say what ?
+     * 
+     * Ufferin wumen ? ehehehe muney muney ? Awww wumen enough because you think so and abuse and drug and sleep ppl ?
+     * Mhhhh definitely you are it
      * */
     
    
