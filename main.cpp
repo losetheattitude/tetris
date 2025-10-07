@@ -351,6 +351,8 @@ int main()
      * Think better next time disgusting western animals,
      * Genius western animals trying their best !! THE BEST OF THE BEST FROM THE UNIVERSE, makin decisions and assumptions !! 
      * THE PROFESSIONAL MEDICALS OMFG !!! Ehehehe
+     * 
+     * Offering wumennnnnnnn eheheheh that solves everything !! What a genius civilized nation !!! The best of the best!!! Greatly achieved !!
      * */
     
    
