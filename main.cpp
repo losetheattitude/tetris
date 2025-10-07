@@ -453,6 +453,9 @@ int main()
      * Makin makin decisions !!! eheheh
      * 
      * I am not interested in anything you can offer
+     * 
+     * 
+     * DISGUSTING WESTERN ANIMALS CAN MOVE ON, not interested
      * */
     
    
