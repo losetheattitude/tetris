@@ -305,6 +305,7 @@ int main()
      * Whats the problem ? eheheh
      * 
      * I am not interested in anything the disgusting western delusional animals can offer, thats the only thing you can hear
+     * Go on the great western cultured genius animals, I AM NOT INTERESTED IN THE SLIGHESTEST THING YOU CAN OFFER
      * */
     
    
