@@ -402,6 +402,9 @@ int main()
      * 
      * Do you see your genius decision making ? 
      * How come you do not ? WHAT IS THE PROBLEM ?
+     * Ehehe wumen wumen muney muney people, not delusional westerns ? What do you say ?
+     * How about some drugging ? and abusing ?
+     * WHERE IS THE PROBLEM ?
      * */
     
    
