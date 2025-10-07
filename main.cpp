@@ -407,6 +407,9 @@ int main()
      * 
      * On what level reasoning are you ? ehehehheh profesionnal ? you say you say successfull stuff ? 
      * Eheheheh wumen wumennn just a few tens years ITS OKAY !! ? whats the problem ?
+     * 
+     * Eheheheh its just druggin abusin sleepin coercin violatin THEN just some wumen must be enough,
+     * Whats your reasoning ? Eheheheh funnny professional btw really really genius nation from da west, the best of da universe
      * */
     
    
