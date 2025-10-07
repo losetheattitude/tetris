@@ -380,6 +380,8 @@ int main()
      * 
      * The only true genius way that the most advanced civilized western animals can CHOOSE to believe
      * Ehehehehhehe numba on !!! way to go !!! The bestttt
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER, hope that makes sense
      * */
     
    
