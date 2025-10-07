@@ -251,6 +251,8 @@ int main()
      * I AM NOT INTERESTED in all "eheheh foolin foolin intelligence ppeople ehehehehe"
      * A lovely outcome isnt it !!! Nice decision making and good calls !! and also genius foreseeing !! The perfect immaculate people FROM DA WEST
      * Ehehehe is not it perfect, the outcome ehehehehe 
+     * 
+     * Genius explanation !! Like the actions that have "PAST" OMFGGG !!!! What a chance, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * */
    
 
