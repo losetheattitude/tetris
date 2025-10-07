@@ -331,6 +331,9 @@ int main()
      * 
      * Ehehehe not delusionals, not stupid you say, not terrorists, not abusers, not what else ?
      * Eheheheheheheh WONDERFUL JOB !!! True gangsta genius nation FROM DA WEST !!! Ayyy, also NOT WUMEN MUNEY PPL Thats most important
+     * 
+     * And you also say, NOT PROFESSIONAL ? The doctors eheheh the psycolgosisit ehehehe the physicitiy eheheh making really really decisions
+     * THAT ARE NOT THEIRS !!! eheheheh and ignoring whatever consequences ehehehehehehh You say you professional eheheheheheh
      * */
    
 
