@@ -412,6 +412,9 @@ int main()
      * A lovely outcome !! Just a couple tens of years WILL DO NO HARM TO NOBODY
      * Ehehehe makin decisions decisions eheheheh
      * ehehehehehh playing games over "NOT YOUR" lives, whats the pattern !!! Eheheheheh the genius tech civilized nations !!
+     * 
+     * Definitely the way to go !!! Makin assumptions makin decisions OVER NOT YOUR LIFE !!!
+     * Good job !! Lovely outcome
      * */
     
    
