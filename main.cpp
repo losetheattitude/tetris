@@ -496,6 +496,9 @@ int main()
      * Good job makin decisions !! Next time do it better
      * 
      * Congrats to the not ignorant and prejudiced and not especially fools, GOOD JOB !!! 
+     * 
+     * The one and only true intelligent spicy has already solved the TRUE MEANING OF THE LIFE !! And they also live according to it !!
+     * DA BEST OF THE BEST, THE WESTERN PEOPLE !!! ehehehehhehehe
      * */
     
    
