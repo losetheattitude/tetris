@@ -416,6 +416,11 @@ int main()
      * 
      * Whats the outcome ? !!! Yayyyyyyy a few tens of years of nothing because you have decided to harm ? 
      * Goood job !! Perfectly executed !!! What a lovely outcome
+     * 
+     * Especiially the genius engineerings part and not delusions and not assumptions and not prejudices part is so much more important !!!
+     * Lets ignore all together ehehehhehe it must be fine and okay because WE HAVE DONE IT !! eheheh ignore ignoree !! we have done it !!!
+     * 
+     * The perfect genius nations have done it!!! Now ignore !!! ehehehhehe please 
      * */
     
    
