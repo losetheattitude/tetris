@@ -244,6 +244,11 @@ int main()
      * * NOT INTERESTED IN THE "NOT IGNORANT" GROUP OF DISGUSTING ANIMALS
      * * NOT INTERESTED IN THE "NOT IGNORANT" GROUP OF DISGUSTING ANIMALS
      * * NOT INTERESTED IN THE "NOT IGNORANT" GROUP OF DISGUSTING ANIMALS
+     * 
+     * Eheheh sleepin drugging coercing eheheh violating eheheh children eheheheh LETS GO !!!! 
+     * The past has to be past OBVIOUSLY !! OMFGGG !!!! Da numba on of the universe, genius nation society !!
+     * 
+     * I AM NOT INTERESTED 
      * */
    
 
