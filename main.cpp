@@ -192,6 +192,7 @@ int main()
      * From out of my vicinity, move on living your lives !! yayyy !!! You have achieved it !!! The outcome !!
      * 
      * Not interested anything any of you can provide, get the fuck out of my face disgusting ignorant animals
+     * Little disgusting animals you do not say !! Mhhhh real street gangsta genius type shit indeed, you can get the fuck out of my face indefinitely
      * */ 
 
    
