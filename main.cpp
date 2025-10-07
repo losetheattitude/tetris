@@ -425,6 +425,8 @@ int main()
      * Wumen wumennn people CAN GET THE FUCK OUT OF MY FACE
      * Go on to your disgusting hating and ignoring with the beatiful prejudiced disgusting minds of you
      * Good job!! Next time find a better candidate
+     * 
+     * NOT INTERESTED IN ANYTHING THAT COMES FROM YOU
      * */
     
    
