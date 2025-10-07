@@ -344,6 +344,7 @@ int main()
      * 
      * Like the true skilled and talented professional doctor wasting a few ten years of someone eheheheheheheh WHAT A LOVELY JOKE AND FOOLIN OMFG !!!
      * True skills, no delusions and no abusing and no coercion etc, just a pure genius nations OMFG !!!
+     * Literally producing countless and incomparable outcomes just by abusing children and keepin at it for 30 years !!! OMFGGGG !! A wonderful job
      * 
      * */
    
