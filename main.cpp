@@ -377,6 +377,8 @@ int main()
      * 
      * Definitely not delusions nor ignorance nor prejudices, YOURS IS PURELY TALENT AND ENGINEERING MARVELS
      * I totally entirely agree with you, NOW YOU CAN GET THE FUCK OUT OF MY FACE INDEFINITELY
+     * 
+     * Hmmmm ? What happened to your %1000000000 sure assumptions and decisions ? and ? Eeheheh get wumen muney ? Whats the pattern GENIUS NATIONS Eeheheheheh
      * */
     
    
