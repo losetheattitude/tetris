@@ -405,6 +405,8 @@ int main()
      * Ehehe wumen wumen muney muney people, not delusional westerns ? What do you say ?
      * How about some drugging ? and abusing ?
      * WHERE IS THE PROBLEM ?
+     * 
+     * Eehheehehheheheh genius medical professionals makin assumptions OMFG !!!
      * */
     
    
