@@ -456,7 +456,9 @@ int main()
      * 
      * 
      * DISGUSTING WESTERN ANIMALS CAN MOVE ON, not interested
-     * I DO NOT HAVE TIME FOR DEFINITELY NOT DELUSIONAL PEOPLE, move on 
+     * I DO NOT HAVE TIME FOR DEFINITELY NOT DELUSIONAL PEOPLE, move on
+     * NOT INTERESTED ANYTHING BUT GAMES!!! ehehehehehehehhehe genius nation FROM DA WEST !! Makin decisions THAT WERE NOT THEIRS !!!
+     * WHAT A LOVELY OUTCOME !! 
      * */
     
    
