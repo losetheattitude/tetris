@@ -197,6 +197,7 @@ int main()
      * 
      * Good luck makin decisions for other people, and not caring ruining their precious career !!! GO GALS !! Da numba on of the universe
      * Makin makin decisions !!! greatly clever and wise people !!
+     * wumenwumen muney genius people, I AM NOT INTERESTED IN ANYTHING YOU CAN PROVIDE
      * */ 
 
    
