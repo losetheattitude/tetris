@@ -360,6 +360,9 @@ int main()
      * 
      * LIKE I HAVE SAID 10000000000000000000000000 TIMES, I AM NOT INTERESTED IN ANYTHING THE DELUSIONAL DISGUSTING WESTERN ANIMALS CAN OFFER
      * Find yourselves more children to abuse and drug and eheheh put to sleep ! eheheheheh you are great !! not delusional
+     * 
+     * Definitely achieving a lot of stuff, go seek for more children THE TRUE GENIUS WESTERN ANIMALS
+     * Nice job !! 30 years of nothing !! I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER 
      * */
     
    
