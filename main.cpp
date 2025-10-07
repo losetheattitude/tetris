@@ -357,6 +357,8 @@ int main()
      * Guess who will never be interested in anything the great western genius civilization can offer
      * Guess who does not act like THEY HAVE SOLVED THE LIFE ? I AM NOT INTERESTED IN ANYTHING THE DISGUSTING WESTERN PEOPLE CAN OFFER
      * THATS IT
+     * 
+     * LIKE I HAVE SAID 10000000000000000000000000 TIMES, I AM NOT INTERESTED IN ANYTHING THE DELUSIONAL DISGUSTING WESTERN ANIMALS CAN OFFER
      * */
     
    
