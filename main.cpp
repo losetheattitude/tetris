@@ -451,6 +451,8 @@ int main()
      * 
      * GET THE FUCK OUT OF MY FACE
      * Makin makin decisions !!! eheheh
+     * 
+     * I am not interested in anything you can offer
      * */
     
    
