@@ -278,6 +278,13 @@ int main()
      * 
      * Ufferin wumen ? ehehehe muney muney ? Awww wumen enough because you think so and abuse and drug and sleep ppl ?
      * Mhhhh definitely you are it
+     * 
+     * 
+     * Congrats for the immaculate performance from the western geniuses, not delusions not prejudices not inaccurate assumption makings that led to
+     * disgusting consequences of your own mind's content, right ?
+     * 
+     * Good job !! just act okay, do not say a word IT WILL BE OKAY, we just want to live ehehehehhehe and harm ppl !!
+     * Whats the problem ? Da best genius society ?
      * */
     
    
