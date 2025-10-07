@@ -580,6 +580,11 @@ int main()
      * 
      * NOT INTERESTED, NOT INTERESTED IN YOUR DELUSIONAL MINDS, Hope that makes sense, I HAVE ZERO TIME FOR YOU
      * THE DISGUSTING WESTERN ANIMALS
+     * 
+     * NO TIME FOR THE NOT "PREJUDICED" DISGUSTING WESTERN NOT DELUSIONAL ANIMALS
+     * I HAVE ZERO INTENTION AND DESIRE TO WASTE MY TIME WITH THE MOST INTELLIGENT GROUP OF PEOPLE OF THE UNIVERSE !!
+     * 
+     * You are good !! Good job !!! Perfect outcome !! Move on, I am not interested
      * */
     
    
