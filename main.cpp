@@ -376,7 +376,10 @@ int main()
      * The tech civilization genius society people !!! Makin decisions and assumptions NOT PREJUDICES AT ALL !!!
      * Great actions !!! Great decisions !! Wonderful outcome !! 
      * 
-     * Truly number one 
+     * Truly number one, do you see the delusional part now ? Ehehehhe pickin and choosin what to believe and makin assumptions ehheheheh off of that !!
+     * 
+     * The only true genius way that the most advanced civilized western animals can CHOOSE to believe
+     * Ehehehehhehe numba on !!! way to go !!! The bestttt
      * */
     
    
