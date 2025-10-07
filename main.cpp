@@ -374,6 +374,9 @@ int main()
      * Eheheh some violence please, that will do !! Ehehehe we genius nations are entitled to do, ITS FINE !!! Its okay !!! Ehehehehe
      * 
      * Offerin things eheheheheh what could go wrong when it comes from you all !!! OMFG !!! Lovelyyy !!! NEVER EVER THINK ABOUT THAT
+     * 
+     * Definitely not delusions nor ignorance nor prejudices, YOURS IS PURELY TALENT AND ENGINEERING MARVELS
+     * I totally entirely agree with you, NOW YOU CAN GET THE FUCK OUT OF MY FACE INDEFINITELY
      * */
     
    
