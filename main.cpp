@@ -216,7 +216,7 @@ int main()
      * 
      * 
      * GET THE FUCK OUT OF MY FACE
-     * Good job !
+     * Good job ! Only a few ten years of actions !!! True intelligence !! Full of pure talents !! the advanced civilization delusionals !! GO GALS 
      * */ 
 
    
