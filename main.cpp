@@ -459,6 +459,11 @@ int main()
      * I DO NOT HAVE TIME FOR DEFINITELY NOT DELUSIONAL PEOPLE, move on
      * NOT INTERESTED ANYTHING BUT GAMES!!! ehehehehehehehhehe genius nation FROM DA WEST !! Makin decisions THAT WERE NOT THEIRS !!!
      * WHAT A LOVELY OUTCOME !! 
+     * 
+     * The outcome builders, the decision makers, the true assumption inferers, the best of da best engineer society!!! 
+     * DA WESTERN CULTURED REALLLY AMAZING PEOPLE MAKIN DECISIONS THAT WERE NOT THEIRS !!!
+     * 
+     * I DO NOT HAVE TIME FOR YOU, good job !! Next time use your brain for yourself ehehehehe Good job!!
      * */
     
    
