@@ -502,6 +502,8 @@ int main()
      * 
      * The biggest of the big, intelligence !!! The west !!! technology !!! yayyy !!!! The perfect combination !!!! the great people !!!
      * I DO NOT HAVE TIME FOR YOU
+     * 
+     * I HAVE NO DESIRE TO WASTE MY "TIME" with the most advanced spicy !! THE WESTERN DISGUSTING ANIMALS
      * */
     
    
