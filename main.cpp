@@ -362,7 +362,9 @@ int main()
      * Right ? Good job professional truly unique talented people resulting in nothing eheheheheh ehehehhe just detrimention eheheheh funny 
      * 
      * Good job though definitely something you have to ignore on and on and on BECAUSE YOU ARE STUPID ? Like the real meaning of the word
+     * Yeahhhh, wumen wumen muney muney ehhh genius nation cars and engineering also eheheh rights humans etc 
      * */
+    
    
 
     InitWindow(500, 620, "Raylib Tetris");
