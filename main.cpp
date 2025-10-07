@@ -499,6 +499,9 @@ int main()
      * 
      * The one and only true intelligent spicy has already solved the TRUE MEANING OF THE LIFE !! And they also live according to it !!
      * DA BEST OF THE BEST, THE WESTERN PEOPLE !!! ehehehehhehehe
+     * 
+     * The biggest of the big, intelligence !!! The west !!! technology !!! yayyy !!!! The perfect combination !!!! the great people !!!
+     * I DO NOT HAVE TIME FOR YOU
      * */
     
    
