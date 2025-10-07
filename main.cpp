@@ -225,7 +225,8 @@ int main()
      * GET THE FUCK OUT OF MY FACEGET THE FUCK OUT OF MY FACEGET THE FUCK OUT OF MY FACEGET THE FUCK OUT OF MY FACE
      * 
      * 
-     * 
+     * Eheheheh the real genius gangsta nation suddenly decides to ruin someone then after immediately acts okay says nice stuffs 
+     * and wishes things stay same while coercing ? What ? ahahah genius you say indeed
      * */
    
 
