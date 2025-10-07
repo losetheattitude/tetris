@@ -311,7 +311,7 @@ int main()
      * people makin decisions and assumption for others, I AM NOT INTERESTED IN ANYTHING YOU ARE AROUND
      * 
      * Hope that makes sense, disgusting definetely not delusional "western" animals can GET THE FUCK OUT OF MY FACE indefinitely
-     * Not interested
+     * Not interested, good job though !! Never stop harming for the sake of harm, thats the real genius civilized western way !!! Not delusionals !!
      * */
     
    
