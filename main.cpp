@@ -300,6 +300,9 @@ int main()
      * Perfect job !! Real problem solved
      * 
      * Makin makin decisions that you are not given to ehehehe
+     * 
+     * I am sure really really genius nation people can guess many more things eheheheh
+     * Good job achieving nothing !! You are da best of da best indeed
      * */
    
 
