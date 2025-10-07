@@ -440,6 +440,9 @@ int main()
      * 
      * WUMEN WUMENNN MUNEYYY MUNEYYY GENIUS NOT DELUSIONALS !!!! I DO NOT HAVE TIME FOR YOU
      * I AM NOT INTERESTED IN ANYTHING YOU HAVE PRODUCED OR OFFER
+     * 
+     * 
+     * Ehehehehe, definitely the way to go !!! Nobody to answer to ehehehe makin decisions decisions !!! Genius western cultured PEOPLE !!!
      * */
     
    
