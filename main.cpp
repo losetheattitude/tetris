@@ -239,6 +239,7 @@ int main()
      * Genius nations !!! together to savior the universe !!
      * 
      * Eheheheheh unique western cultured people !!! Truly amazing job !!
+     * NOT INTERESTED IN THE "NOT IGNORANT" GROUP OF DISGUSTING ANIMALS
      * */
    
 
