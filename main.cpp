@@ -391,6 +391,8 @@ int main()
      * THE WESTERN DISGUSTING CULTURED ANIMALS, Most indeeedd !!! YAYYYY Not interested
      * 
      * NOT INTERESTED IN ANYTHING YOU CAN OFFER AS YOUR OFFERS ARE DISGUSTINGLY ON YOUR LEVEL
+     * 
+     * I choose others without a doubt not interested in the disgusting western delusions
      * */
     
    
