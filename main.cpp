@@ -314,6 +314,8 @@ int main()
      * Not interested, good job though !! Never stop harming for the sake of harm, thats the real genius civilized western way !!! Not delusionals !!
      * 
      * You are truly it !! Now you can get the fuck out of my face
+     * Not delusional truly genius western animals not wasting anything even for a second, Like true genius beings that they are !!!
+     * I am not interested in anything you can offer, the disgusting western NOT DELUSIONAL animals indeed
      * */
     
    
