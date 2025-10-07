@@ -193,6 +193,9 @@ int main()
      * 
      * Not interested anything any of you can provide, get the fuck out of my face disgusting ignorant animals
      * Little disgusting animals you do not say !! Mhhhh real street gangsta genius type shit indeed, you can get the fuck out of my face indefinitely
+     * 
+     * 
+     * Good luck makin decisions for other people, and not caring ruining their precious career !!! GO GALS !! Da numba on of the universe
      * */ 
 
    
