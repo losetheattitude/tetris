@@ -390,7 +390,13 @@ int main()
      * Not interested hope that makes sense
      * NOT INTERESTED IN ANYTHING-ANYTHING YOUR MINDS CAN DELUDE TO PRODUCE
      * 
-     * DA WESTERN GENIUS NATIONS !!
+     * DA WESTERN GENIUS NATIONS !! Only believing in things that matter and benefit to them!!!
+     * Ehehehe power of the words !!! Ehehehehe druggg abuseee ehehehehehhe violence heehhehe sleep !! eheheheh
+     * 
+     * THE OUTCOME !!!! OMFGG !!!! Let gooooo ehehehhe THE PASTTTT !!!! Ehehehehe THEEE PASTTTTTT !!!
+     * We geniussss nations !!!! THE WESTERN !!!! Eehehehhehhehehehhe
+     * 
+     * Muneyyyyyyyy anddd wumeeeennnnnn ehehehhe
      * */
     
    
