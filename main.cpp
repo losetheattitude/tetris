@@ -427,6 +427,10 @@ int main()
      * Good job!! Next time find a better candidate
      * 
      * NOT INTERESTED IN ANYTHING THAT COMES FROM YOU
+     * Eheheheheh professional medical people not delusional genius civilization western people !!
+     * 
+     * Absolutely generating NOTHING but harm to everyone !!!
+     * THE DESTINY !! I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * */
     
    
