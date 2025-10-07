@@ -356,6 +356,10 @@ int main()
      * So funy right ? ehehhehehe genius nation etc you say ehehehehhehe really good stuff !! 
      * 
      * Eheheheheh genius indeed, where is the result ?
+     * Definitely good job good foreseeing good outcome, whatever you want to delude on RIGHT ? YOU DA GENIUS NATION !!!
+     * 
+     * Da pure genius nation FROM DA WEST, not druggin not abusin eheheheh Just pure genius actions ehehe and "decisions" and "assumptions"
+     * Right ? Good job professional truly unique talented people resulting in nothing eheheheheh ehehehhe just detrimention eheheheh funny 
      * */
    
 
