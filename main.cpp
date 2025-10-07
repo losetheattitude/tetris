@@ -348,7 +348,9 @@ int main()
      * GO THE UNIVERSE'S BEST SOCIETY CIVILIZATION AND PROFESSIONAL MEDICAL PEOPLE !! THE TRUE GENIUS PEOPLE
      * I am not interested in anything you can say
      * 
-     * Think better next time disgusting western animals
+     * Think better next time disgusting western animals,
+     * Genius western animals trying their best !! THE BEST OF THE BEST FROM THE UNIVERSE, makin decisions and assumptions !! 
+     * THE PROFESSIONAL MEDICALS OMFG !!! Ehehehe
      * */
     
    
