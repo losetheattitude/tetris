@@ -285,6 +285,9 @@ int main()
      * 
      * Good job !! just act okay, do not say a word IT WILL BE OKAY, we just want to live ehehehehhehe and harm ppl !!
      * Whats the problem ? Da best genius society ?
+     * 
+     * Quiet the decision making ability !! Quiet the people, eheheh more coercion will solve everything BUT ONLY TOWARDS PEOPLE WHO HAVE NO DEFENCE
+     * Thats who you are right eheheheh 
      * */
     
    
