@@ -576,6 +576,8 @@ int main()
      * * IN THE DISGUSTING NOT DELUSIONAL BENEVOLENT WESTERN NOT PREJUCIDEd ANIMALS, hope that makes sense, you go on makin decisions
      * MOVE ON "NOT DELUDING" TO ACHIEVE "SOMETHING", GOOD JOB !!
      * 
+     * The true genius society that takes only others' lives to be jokes !! NO TIME, MOVE ON TO YOUR DISGUSTING ANIMALITY, I HAVE NO INTENTION TO WASTE MY TIME WITH YOU
+     * 
      * */
     
    
