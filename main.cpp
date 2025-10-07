@@ -288,6 +288,11 @@ int main()
      * I ------------- AM ------------ NOT ------------ INTERESTED.
      * I ------------- AM ------------ NOT ------------ INTERESTED.
      * 
+     * Ehehehe genius western people Da numba on
+     * 
+     * How about some more coercion to achieve literally no end then to PRESENT IT as proof for your disgusting stupidity !!! 
+     * Not ignorant da west indeed
+     * 
      * */
    
 
