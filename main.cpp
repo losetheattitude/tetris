@@ -482,6 +482,8 @@ int main()
      * 
      * Move on ehehehe, do you see the "intelligence" part ? 
      * Do you really think you are intelligence ? Ehehehehehehehehhehehehehehe GOOD OUTCOME !!!
+     * 
+     * I HAVE ZERO INTENTION AND DESIRE AND TIME TO WASTE WITH THE DISGUSTING DELUSIONAL ANIMALS 
      * */
     
    
