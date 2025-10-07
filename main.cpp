@@ -494,6 +494,8 @@ int main()
      * Ehehehehehehehehhehehehehehehheheheheehheheheheheheheheheheheheehehehheeheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheh
      * I DO NOT HAVE TIME FOR THE DISGUSTING WESTERN ANIMALS
      * Good job makin decisions !! Next time do it better
+     * 
+     * Congrats to the not ignorant and prejudiced and not especially fools, GOOD JOB !!! 
      * */
     
    
