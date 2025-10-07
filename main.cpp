@@ -415,6 +415,9 @@ int main()
      * 
      * Definitely the way to go !!! Makin assumptions makin decisions OVER NOT YOUR LIFE !!!
      * Good job !! Lovely outcome
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER OR DO,
+     * Hope that makes sense, think better next time
      * */
     
    
