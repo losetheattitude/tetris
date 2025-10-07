@@ -382,6 +382,9 @@ int main()
      * Achieving nothing ? Although you are abusing eheheh sleeping eheheh drugging ehehehehe violating eheheheh ? Is that the problem ?
      * 
      * A few tens of years is just okay 
+     * 
+     * Why is it though that you are constantly trying to come up with bullshit to COVER YOUR ACTIONS ? OMFGGGGG stories delusions marvelous job !!!
+     * Congrats !!
      * */
     
    
