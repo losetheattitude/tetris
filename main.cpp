@@ -353,6 +353,8 @@ int main()
      * THE PROFESSIONAL MEDICALS OMFG !!! Ehehehe
      * 
      * Offering wumennnnnnnn eheheheh that solves everything !! What a genius civilized nation !!! The best of the best!!! Greatly achieved !!
+     * 
+     * Guess who will never be interested in anything the great western genius civilization can offer
      * */
     
    
