@@ -489,6 +489,10 @@ int main()
      * Professional medicals heeheheheh
      * The true intelligence says a few tens of years eheheheheh IS NOTHING ehehehehehhe
      * abusin eheheheheheh
+     * 
+     * 
+     * Ehehehehehehehehhehehehehehehheheheheehheheheheheheheheheheheheehehehheeheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheh
+     * I DO NOT HAVE TIME FOR THE DISGUSTING WESTERN ANIMALS
      * */
     
    
