@@ -325,6 +325,8 @@ int main()
      * Especially the part where you offer "wumen wumen muneyyy muneyyy carsss eheheheheh" Livin lifeee eheheh king the king !! OMFG !!!
      * Eheheh say nice stuff, we the medical professional genius western socieetal disgusting animalss makin decisions for other !!! eheheheh
      * Makin assumptions as welll !!! Yayyyyy The life !!! a game !! a simulation !!! Yayyyy
+     * 
+     * Now what is the outcome ?
      * */
     
    
