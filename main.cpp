@@ -318,6 +318,9 @@ int main()
      * I am not interested in anything you can offer, the disgusting western NOT DELUSIONAL animals indeed
      * 
      * Ehehehehe professional eheheheh not delusionals
+     * 
+     * Have you done a wonderful job ? Where is the outcome of a few tens of years ?
+     * Mhhh you are definitely professional not delusional and also not ignorant !! thats where the "GO GALSSSS" !!
      * */
     
    
