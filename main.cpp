@@ -585,6 +585,12 @@ int main()
      * I HAVE ZERO INTENTION AND DESIRE TO WASTE MY TIME WITH THE MOST INTELLIGENT GROUP OF PEOPLE OF THE UNIVERSE !!
      * 
      * You are good !! Good job !!! Perfect outcome !! Move on, I am not interested
+     * 
+     * True gangsta genius not prejudiced not delusional entirely professional WESTERN ANIMALS !!!
+     * THEY NEED TO IGNORE !!!!! eheheheheheh I guess that was necessary !!! ehehehehehehhe
+     * 
+     * Good job !! Now you can move on to achieving absolutely nothing by being THE BEST STUPID PEOPLE
+     * Congrats!! 
      * */
     
    
