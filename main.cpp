@@ -320,6 +320,11 @@ int main()
      * 
      * DAWGGG a couple tens of years IS JUST FINE !! we da best of da best from da universe, AUEORPEAN DISGUSTING ANIMALS makin playsss reall baddd AWwww
      * Bravo !! Wonderful job
+     * 
+     * Eheheh the sciencitific eheheh achievement btw drugging sleepin abusing children, science ppl genius from da universe Da western cultured reallyy
+     * good and beneficial people makin assumptions and decisions THAT DO NOT BELONG TO THEM !!! Ayyyyyyy way to go !!! OMFGGGG
+     * 
+     * What a chanceee, what a lovely outcome 
      * */
    
 
