@@ -227,6 +227,8 @@ int main()
      * 
      * Eheheheh the real genius gangsta nation suddenly decides to ruin someone then after immediately acts okay says nice stuffs 
      * and wishes things stay same while coercing ? What ? ahahah genius you say indeed
+     * 
+     * Not interested in anything you can offer
      * */
    
 
