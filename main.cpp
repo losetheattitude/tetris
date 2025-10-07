@@ -468,6 +468,11 @@ int main()
      * A lovely outcome always follows THE WESTERN PEOPLE !!
      * 
      * I DO NOT HAVE TIME FOR YOU
+     * Assuming MORE THAN YOU SHOULD always yields THE BEST OF THE BEST OUTCOMES !!!
+     * THE TRUE CIVILIZED ADVANCED TECHNOLOGY SOCIETY, Guess who is it ?
+     * 
+     * THE WEST !!! A LOVELY GROUP OF PEOPLE !!!
+     * I DO NOT HAVE TIME FOR
      * */
     
    
