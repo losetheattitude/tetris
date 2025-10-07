@@ -590,7 +590,9 @@ int main()
      * THEY NEED TO IGNORE !!!!! eheheheheheh I guess that was necessary !!! ehehehehehehhe
      * 
      * Good job !! Now you can move on to achieving absolutely nothing by being THE BEST STUPID PEOPLE
-     * Congrats!! 
+     * 
+     * Congrats!! Hope you will not call any other thing destiny again!!!
+     * Good job, No time for you, move on
      * */
     
    
