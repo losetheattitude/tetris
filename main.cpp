@@ -418,6 +418,8 @@ int main()
      * 
      * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER OR DO,
      * Hope that makes sense, think better next time
+     * 
+     * Ehehe wumen muney not prejudiced ppl eheheheheh pure genius civilized western DISGUSTING ANIMALS
      * */
     
    
