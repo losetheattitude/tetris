@@ -387,6 +387,10 @@ int main()
      * Congrats !!
      * 
      * Ehehe german engineering and assumption makin mechanism ppl, really achiving so much !!
+     * Doin really really good !! Perfect job unseen level of outcome potential built by only the true geniuses of the universe
+     * THE WESTERN DISGUSTING CULTURED ANIMALS, Most indeeedd !!! YAYYYY Not interested
+     * 
+     * NOT INTERESTED IN ANYTHING YOU CAN OFFER AS YOUR OFFERS ARE DISGUSTINGLY ON YOUR LEVEL
      * */
     
    
