@@ -393,6 +393,9 @@ int main()
      * NOT INTERESTED IN ANYTHING YOU CAN OFFER AS YOUR OFFERS ARE DISGUSTINGLY ON YOUR LEVEL
      * 
      * I choose others without a doubt not interested in the disgusting western delusions
+     * Guess ehehehehhe just guess eheheheheh whats the result ehehehhehe a few tens of years ehehehehehhe
+     * eheheheh some drugs eheheh whats the result ? eheheheheh whats the outcome professional ppl ?
+     * Eheheheh wumen wumen muney ppl eheheheh, whats the outcome ?
      * */
     
    
