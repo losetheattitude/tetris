@@ -407,6 +407,7 @@ int main()
      * WHERE IS THE PROBLEM ?
      * 
      * Eehheehehheheheh genius medical professionals makin assumptions OMFG !!!
+     * The true western civilized genius nations making "ASSUMPTIONS" and not prejudiced at all !!!
      * */
     
    
