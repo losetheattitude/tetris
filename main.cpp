@@ -269,6 +269,7 @@ int main()
      * coercing eheheheheh violating hehheheh professional eheheheh genius nation eheheheh
      * 
      * I AM NOT INTERESTED in "get wumennnn muneyyyyy carsss" ehehehehehehehheh 
+     * I am sure you do not see the problem as well, just look at the "PAST" with you and without your stupid disgusting "GENIUS" assumptions and actions
      * */
     
    
