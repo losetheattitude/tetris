@@ -296,6 +296,9 @@ int main()
      * Not interested anything you can offer, Not delusionals you are still saying ? ehehehehe
      * 
      * A wonderful sequence of assumptions inferences and decisions THAT WERE NOT YOURS, thats the outcome of your stupid ignorant prejudices
+     * Do you see why I keep saying "THE OUTCOME" ? The outcome you have failingly built IS IN FRONT OF YOUR STUPID EYES
+     * 
+     * Whats the problem now ? Ehehehe more on abusing ehehe drugging eheheheheh whats next eheheheheheh
      * */
     
    
