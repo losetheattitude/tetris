@@ -346,6 +346,9 @@ int main()
      * True skills, no delusions and no abusing and no coercion etc, just a pure genius nations OMFG !!!
      * Literally producing countless and incomparable outcomes just by abusing children and keepin at it for 30 years !!! OMFGGGG !! A wonderful job
      * 
+     * 
+     * Eheheheh lyin lyin to children also some abusin and drugging and sleepin from da genius nations of da west
+     * It must be okay, no outcomes is good !!! Yayyyyy, da real numba on
      * */
    
 
