@@ -328,6 +328,9 @@ int main()
      * 
      * Good job !!Fantastic imagination and not delusions indeed
      * GET THE FUCK OUT OF MY FACE
+     * 
+     * Ehehehe not delusionals, not stupid you say, not terrorists, not abusers, not what else ?
+     * Eheheheheheheh WONDERFUL JOB !!! True gangsta genius nation FROM DA WEST !!! Ayyy, also NOT WUMEN MUNEY PPL Thats most important
      * */
    
 
