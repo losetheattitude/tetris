@@ -397,6 +397,8 @@ int main()
      * We geniussss nations !!!! THE WESTERN !!!! Eehehehhehhehehehhe
      * 
      * Muneyyyyyyyy anddd wumeeeennnnnn ehehehhe
+     * And the truly unique not delusional genius western people ALL THEY CAN SAY, "DESTINY", "LET GO OF THE PAST!!"
+     * Whats the mistake ?
      * */
     
    
