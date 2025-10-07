@@ -310,7 +310,8 @@ int main()
      * The great great western technology civilization cultured REALLLYY REALLYYY GENIUS PEOPLE AND ALSO GENIUS ENGINEERING 
      * people makin decisions and assumption for others, I AM NOT INTERESTED IN ANYTHING YOU ARE AROUND
      * 
-     * Hope that makes sense
+     * Hope that makes sense, disgusting definetely not delusional "western" animals can GET THE FUCK OUT OF MY FACE indefinitely
+     * Not interested
      * */
     
    
