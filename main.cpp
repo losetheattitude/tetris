@@ -349,6 +349,8 @@ int main()
      * 
      * Eheheheh lyin lyin to children also some abusin and drugging and sleepin from da genius nations of da west
      * It must be okay, no outcomes is good !!! Yayyyyy, da real numba on
+     * 
+     * Are you still producing reallly good outcomes, WHERE ARE THE RESULTS eheheheh foolin foolin abusing thats called genius nation eheheh
      * */
    
 
