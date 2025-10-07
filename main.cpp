@@ -473,6 +473,8 @@ int main()
      * 
      * THE WEST !!! A LOVELY GROUP OF PEOPLE !!!
      * I DO NOT HAVE TIME FOR
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER, YOU HAVE SHOWN YOUR TRUE WORTH
      * */
     
    
