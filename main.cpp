@@ -237,6 +237,8 @@ int main()
      * 
      * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER, ehehe more coercion of "medicine" !!! eheheheheh more and more !!!
      * Genius nations !!! together to savior the universe !!
+     * 
+     * Eheheheheh unique western cultured people !!! Truly amazing job !!
      * */
    
 
