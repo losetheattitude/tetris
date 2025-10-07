@@ -410,6 +410,12 @@ int main()
      * 
      * Eheheheh its just druggin abusin sleepin coercin violatin THEN just some wumen must be enough,
      * Whats your reasoning ? Eheheheh funnny professional btw really really genius nation from da west, the best of da universe
+     * 
+     * I am sure you are %10000000000 sure at what you are doing !! Eheheheh its okay, life a simulation but only others' life eheheheh
+     * We unique nations we beatiful engineerings we nice people eheheheh we so kind benevolent please eheheheh
+     * 
+     * Whats the outcome ? !!! Yayyyyyyy a few tens of years of nothing because you have decided to harm ? 
+     * Goood job !! Perfectly executed !!! What a lovely outcome
      * */
     
    
