@@ -288,6 +288,8 @@ int main()
      * 
      * Quiet the decision making ability !! Quiet the people, eheheh more coercion will solve everything BUT ONLY TOWARDS PEOPLE WHO HAVE NO DEFENCE
      * Thats who you are right eheheheh 
+     * 
+     * Ehehe life a game no no life a simulation eheheh ehehehhe western community eheheheheheh 
      * */
     
    
