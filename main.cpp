@@ -352,6 +352,10 @@ int main()
      * 
      * Are you still producing reallly good outcomes, WHERE ARE THE RESULTS eheheheh foolin foolin abusing thats called genius nation eheheh
      * Bravooo !!!! You have done it
+     * Eheheheh takin "CONTROL" from the beginning and harmin abusing to achieve nothing, THEN EXPECT WHAT ? Eheheheheh ehehehehehhe ehehehehehehh
+     * So funy right ? ehehhehehe genius nation etc you say ehehehehhehe really good stuff !! 
+     * 
+     * Eheheheheh genius indeed, where is the result ?
      * */
    
 
