@@ -305,6 +305,7 @@ int main()
      * Good job achieving nothing !! You are da best of da best indeed
      * 
      * Genius genius nation moving with their perfect assumptions and actions that led to WHERE ? Awwwww definitely not marvelous and delusional at all
+     * Hopefully you have done enough achievements with the people who you have no understanding nor any sympathy with, Good job not delusional nations
      * */
    
 
