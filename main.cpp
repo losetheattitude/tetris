@@ -272,6 +272,9 @@ int main()
      * I am sure you do not see the problem as well, just look at the "PAST" with you and without your stupid disgusting "GENIUS" assumptions and actions
      * 
      * Now you hopefully see the disgusting clowns in your stupid ignorance, The best of da best of prejudiced ignorant animals 
+     * 
+     * The disgusting ignorant clowns want to coerce children more into acting stupid ? Eheheh Its for your own good !!! Please please !!!
+     * We the genius society OF DA UNIVERSE, eheheheh you say what ?
      * */
     
    
