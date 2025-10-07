@@ -303,6 +303,8 @@ int main()
      * ignoring eheheheheh
      * 
      * Whats the problem ? eheheh
+     * 
+     * I am not interested in anything the disgusting western delusional animals can offer, thats the only thing you can hear
      * */
     
    
