@@ -218,8 +218,15 @@ int main()
      * GET THE FUCK OUT OF MY FACE
      * Good job ! Only a few ten years of actions !!! True intelligence !! Full of pure talents !! the advanced civilization delusionals !! GO GALS 
      * Ehehehhehehehe, truly unique approach !! Forget about the past eheheh the past the past !! Great western people !!
-     * */ 
-
+     * 
+     * The one of the best of the bests !!!! Lovely outcome builders !!! Not delusional genius nations !!!
+     * GET THE FUCK OUT OF MY FACE
+     * GET THE FUCK OUT OF MY FACEGET THE FUCK OUT OF MY FACEGET THE FUCK OUT OF MY FACEGET THE FUCK OUT OF MY FACE
+     * GET THE FUCK OUT OF MY FACEGET THE FUCK OUT OF MY FACEGET THE FUCK OUT OF MY FACEGET THE FUCK OUT OF MY FACE
+     * 
+     * 
+     * 
+     * */
    
 
     InitWindow(500, 620, "Raylib Tetris");
