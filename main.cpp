@@ -326,7 +326,9 @@ int main()
      * Eheheh say nice stuff, we the medical professional genius western socieetal disgusting animalss makin decisions for other !!! eheheheh
      * Makin assumptions as welll !!! Yayyyyy The life !!! a game !! a simulation !!! Yayyyy
      * 
-     * Now what is the outcome ?
+     * Now what is the outcome ? Who has managed exactly what ?
+     * You do not say, ehehe druggin sleepin abusin coercing violeatin ?
+     * Okay now you have achieved what you can not explain, Whats that ?
      * */
     
    
