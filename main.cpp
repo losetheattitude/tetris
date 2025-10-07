@@ -347,6 +347,8 @@ int main()
      * 
      * GO THE UNIVERSE'S BEST SOCIETY CIVILIZATION AND PROFESSIONAL MEDICAL PEOPLE !! THE TRUE GENIUS PEOPLE
      * I am not interested in anything you can say
+     * 
+     * Think better next time disgusting western animals
      * */
     
    
