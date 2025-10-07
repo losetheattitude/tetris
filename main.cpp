@@ -464,6 +464,8 @@ int main()
      * DA WESTERN CULTURED REALLLY AMAZING PEOPLE MAKIN DECISIONS THAT WERE NOT THEIRS !!!
      * 
      * I DO NOT HAVE TIME FOR YOU, good job !! Next time use your brain for yourself ehehehehe Good job!!
+     * Da only civilization that is as great as nothing !!! OMFG !!! THE WESTERN INTELLIGENCE CIVILIZED NOT DELUSIONAL PEOPLE MAKING DECISIONS !!
+     * A lovely outcome always follows THE WESTERN PEOPLE !!
      * */
     
    
