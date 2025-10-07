@@ -399,6 +399,14 @@ int main()
      * 
      * Stupid desperate disgusting monkeys ? WHY ARE YOU IGNORING ehehehehhehe ? Whats the outcome ?
      * Awwww you rather delude on many things as well, Good job !!
+     * 
+     * Makin makin controllin decisions to achieve nothing you say professional truly genius nations from da west ?
+     * All mighty knowing assumptions as well ? Whats the outcome ehehehhe a few ten years of nothing ?
+     * 
+     * Awww you also happen to think, just wumen wumen would be okay ehehehehe ? Whats your reasoning ??
+     * 
+     * On what level reasoning are you ? ehehehheh profesionnal ? you say you say successfull stuff ? 
+     * Eheheheh wumen wumennn just a few tens years ITS OKAY !! ? whats the problem ?
      * */
     
    
