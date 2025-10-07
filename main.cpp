@@ -248,7 +248,7 @@ int main()
      * Eheheh sleepin drugging coercing eheheh violating eheheh children eheheheh LETS GO !!!! 
      * The past has to be past OBVIOUSLY !! OMFGGG !!!! Da numba on of the universe, genius nation society !!
      * 
-     * I AM NOT INTERESTED 
+     * I AM NOT INTERESTED in all "eheheh foolin foolin intelligence ppeople ehehehehe"
      * */
    
 
