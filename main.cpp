@@ -310,6 +310,8 @@ int main()
      * More harm and more waste of time will solve everything so has the genius nations said !! Brilliant super actions that generated nothing
      * Like your delusions eheheh funy stuff 
      * Really really beneficial stuff, eheheheh just after pure harm and it will be solved eheheh
+     * 
+     * Disgusting to the most insignificant part, and you have guessed it with your unseen level of intelligence THAT I DO NOT HAVE TIME FOR YOUR BULLSHIT
      * */
    
 
