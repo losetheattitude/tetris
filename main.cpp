@@ -648,6 +648,9 @@ int main()
      * GET THE FUCK OUT OF MY FACE
      * 
      * The greatest of the great civilizations !!! Comin up with excuses !!! eheheheh yayyyy
+     * The life is a simulation people !! No delusions at all, definitely the number one civilization ON EARTH !! THE WESTERNS !!!
+     * 
+     * Makin assumptions !!! Good job!! I have nothing for you
      * */
     
    
