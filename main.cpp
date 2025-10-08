@@ -651,6 +651,9 @@ int main()
      * The life is a simulation people !! No delusions at all, definitely the number one civilization ON EARTH !! THE WESTERNS !!!
      * 
      * Makin assumptions !!! Good job!! I have nothing for you
+     * 
+     * I HAVE NOOOOOOOOOOOOOOOOOOOO DESIRE AND NO TIME AND NO PASSIONS FOR YOUR ANYTHING
+     * Good job!! next time try not to be so genius ! Eheheh
      * */
     
    
