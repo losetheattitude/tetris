@@ -755,6 +755,10 @@ int main()
      * A great outcome indeed, I HAVE NO INTENTION AND TIME FOR THE DISGUSTING WESTERN ANIMALS
      * 
      * DO WHAT YOU HAVE TO eheheheheh
+     * Ehehhehheheehhehehehehe now its time to say nice stuff keep the weather warm so that we CAN ACTUALLY ACHIEVE WHAT WE WANT TO
+     * WITHOUT SACRIFICES !!! OMFG !!!! 
+     * 
+     * What if !! ?? Eheheheh genius nation westerns !!!
      * */
     
    
