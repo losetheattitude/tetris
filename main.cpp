@@ -784,6 +784,11 @@ int main()
      * Ehehehehehhehe genius westerns !!! GET THE FUCK OUT OF MY FACE, I HAVE NOTHING FOR YOU
      * 
      * I DO NOT HAVE ANYTHING FOR YOU, GET THE FUCK OUT OF MY FACE
+     * 
+     * Just make him feel like someone, then its okay, its just a few tens of years
+     * Trust me !!! eheheheh genius western nations makin DECISIONS THAT ARE NOT THEIRS !!!
+     * 
+     * I HAVE NOTHING FOR YOU
      * */
     
    
