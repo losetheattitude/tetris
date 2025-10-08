@@ -699,6 +699,8 @@ int main()
      * 
      * Hope that makes sense, eheheheh
      * Reality ehehehe no druggin no abusin no sleepin no violencing, ITS JUST REALITY AND CIVILIZED GENIUS DELUSIONAL ENGINEERING WESTERN NATIONS !!
+     * 
+     * NOT A SINGLE THING I HAVE FOR ANY OF YOU DISGUSTING WESTERN ANIMALS
      * */
     
    
