@@ -712,6 +712,10 @@ int main()
      * Next time MIND YOUR OWN LIFE, da best of da best nations 
      * 
      * I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING FOR YOU, I AM NOT INTERESTED
+     * NOT A DISASTER INDEED, No delusions indeed, no disgusting stupid imaginations INDEED
+     * 
+     * I DO NOT HAVE ANYTHING FOR YOU, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN PRODUCE, Good job !! Move on with your delusions 
      * */
     
    
