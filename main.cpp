@@ -646,6 +646,8 @@ int main()
      * 
      * I DO NOT HAVE THE TINIEST AMOUNT OF NOTHING FOR ANY OF YOU, YOU CAN STILL DO WHATEVER YOU THINK IS DEFINITELY RIGHT AS IT HAS PROVED SO !!
      * GET THE FUCK OUT OF MY FACE
+     * 
+     * The greatest of the great civilizations !!! Comin up with excuses !!! eheheheh yayyyy
      * */
     
    
