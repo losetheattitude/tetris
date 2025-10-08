@@ -593,6 +593,8 @@ int main()
      * 
      * Congrats!! Hope you will not call any other thing destiny again!!!
      * Good job, No time for you, move on
+     * 
+     * The true western intelligent community can go fuck yourself indefinitely, I DO NOT HAVE TIME FOR DISGUSTING ANIMALS 
      * */
     
    
