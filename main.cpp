@@ -828,6 +828,8 @@ int main()
      * 
      * The disgusting little western animals offering people chance of location BECAUSE THEY DO NOT DELUDE ON WHAT THE TRUE MEANING OF THE LIFE IS !!
      * A COMPLETE PERFECT OUTCOME BUILT BY THE VERY SAME MINDS, I HAVE NO INTENTION TO WASTE MY TIME WITH ANY OF YOU
+     * 
+     * Do you understand the TRUE MEANING OF LIFE ? I DO NOT HAVE ANYTHING FOR YOU THE WESTERN GREATER INTELLIGENCE !!! Waaaowwww
      * */
     
    
