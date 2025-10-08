@@ -691,6 +691,8 @@ int main()
      * YOU HAVE DONE INCREDIBLE WITH THE "MIRACLE" THAT IS NOT GIVEN TO YOU
      * Perfect outcome !! YOU CAN GET THE FUCK OUT OF MY FACE INDEFINITELY, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * 
+     * The sayin nice stuff eheheh genius nation civilization !!! THE MIRACLE THAT IS NOT GIVEN TO YOU ? Does that make sense ? Eheheheheh
+     * 
      * */
     
    
