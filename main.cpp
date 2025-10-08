@@ -818,6 +818,9 @@ int main()
      * THE WESTERN NOT DELUSIONAL DISGUSTING INTELLIGENCE and also some PROFESSIONAL MEDICALS !!!
      * 
      * I HAVE NO TIME FOR YOU
+     * Ehehehehehehehehehehhehehehehhe, really reallly street shit, gangsta and genius no delusionals western intelligence !!!
+     * 
+     * MAKIN DECISIONS THAT ARE NOT YOURS, What a wonderful outcome!!
      * */
     
    
