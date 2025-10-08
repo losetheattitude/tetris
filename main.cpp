@@ -846,6 +846,9 @@ int main()
      * A lovely outcome built by the TRULY UNIQUE WESTERN CIVILIZED NATIONS !!
      * 
      * I DO NOT HAVE THE TINIEST OF ANYTHING FOR YOU, there is nothing on UNIVERSE you can do to change that
+     * I HAVE NOTHING FOR YOU, I AM NOT INTERESTED IN ANYTHING THAT YOU ARE RELATED TO
+     * 
+     * Perfect outcome !! Just a few tens of years of something YOU WILL HAVE TO IGNORE FOR YEARS !!!
      * */
     
    
