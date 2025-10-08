@@ -698,6 +698,7 @@ int main()
      * NOT STUPIDITY, NOT PREJUDICE, NOT DELUSIONS, NOT ENGINEERS, NOT CIVILIZED PEOPLE
      * 
      * Hope that makes sense, eheheheh
+     * Reality ehehehe no druggin no abusin no sleepin no violencing, ITS JUST REALITY AND CIVILIZED GENIUS DELUSIONAL ENGINEERING WESTERN NATIONS !!
      * */
     
    
