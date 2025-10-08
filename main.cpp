@@ -855,6 +855,10 @@ int main()
      * Good job though !! Next time keep your reason with you
      * 
      * And do not overestimate anything about yourself, Good job though
+     * Just a few years OF NOTHING that resulted in nothing as well
+     * AND WHY AM I A LITTLE ANGRY with the disgusting western animals
+     * 
+     * Ehehehehehehehehhehehehehhehehehehhehehehhehehe, its just a little harm nothing else 
      * */
     
    
