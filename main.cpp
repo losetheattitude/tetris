@@ -868,6 +868,10 @@ int main()
      * 
      * THE TRULY BENEFICIAL WESTERN GENIUS NATION PEOPLE MAKING DECISIONS THAT DO NOT BELONG TO THEM
      * Ehehehehehehe, I HAVE NO TIME FOR THE DISGUSTING WESTERN DELUSIONAL ANIMALS
+     * 
+     * Eheheheh trying to save the world eheheheheheh
+     * NO DELUSIONS AT ALL JUST SOME MARVELOUS MOVIES AND IMAGINATION PRODUCT, decisions decisions ehehehehehehehehehehehehehehehh
+     * Funny!!! Ehehehehehehe
      * */
     
    
