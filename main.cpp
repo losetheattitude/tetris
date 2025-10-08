@@ -767,6 +767,11 @@ int main()
      * Ehehehehehehehehe makin decisions decisions eheheheheheh makin assumptions ehehehehe
      * 
      * Offer wumen muney he will suddenly want to live !!! BECAUSE THATS THE SAME DISGUSTING ANIMAL WE ARE AND WE TAKE OTHERS TO BE AS WELL!! 
+     * 
+     * A lovely outcome miracle built by very wise and genius professional medicals and so advanced technological civilizations
+     * 
+     * THE DISGUSTING ANIMAL WESTERNS THAT ARE STILL LYING TO PEOPLE WHO THEY ABUSE 
+     * How, does that make sense ?
      * */
     
    
