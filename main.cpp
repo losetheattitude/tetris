@@ -824,6 +824,7 @@ int main()
      * 
      * The problem solvers are making MIRACLES not the other way around 
      * Hope that will make sense one day
+     * Little disgusting NOT DEFINITELY DELUSIONAL WESTERN ANIMALS, I DO NOT HAVE ANYTHING FOR YOU
      * */
     
    
