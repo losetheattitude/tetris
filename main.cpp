@@ -602,7 +602,11 @@ int main()
      * 
      * 
      * So, a really realllllllyyy good job DONE TO achieve most harm !!!
-     * Well done, I have no time for you
+     * Well done, I have no time for you, THE MOST ADVANCED AND CIVILIZED COMMUNITY OF DA UNIVERSE, THE TRUE WESTERN DISGUSTING ANIMALS 
+     * HARMING PEOPLE BECAUSE THEY THINK SOMETHING ehehhehehehe
+     * 
+     * Its more than enough for the most civilized and advanced civilization eheheheheheheheehehheheh
+     * Just harm a little !!! 
      * */
     
    
