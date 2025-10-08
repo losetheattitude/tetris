@@ -597,6 +597,8 @@ int main()
      * The true western intelligent community can go fuck yourself indefinitely, I DO NOT HAVE TIME FOR DISGUSTING ANIMALS 
      * 
      * I WILL NEVER BE INTERESTED IN ANYTHING YOU CAN OFFER, Hope that makes sense now
+     * Hope that my insistence makes sense, YOU ARE GREAT THE WESTERN COMMUNITY !!! YOU CAN GO GET THE FUCK OUT OF MY FACE!!!
+     * A wonderful job done by disgusting NOT DELUSIONAL WESTERN ANIMALS !!
      * */
     
    
