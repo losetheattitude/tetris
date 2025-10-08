@@ -807,6 +807,13 @@ int main()
      * Your time FOR THINGS TO MAKE SENSE will come eventually eheheeheheheheheh
      * 
      * Good job !!!! Makin decisions
+     * I am not interested in anything you can offer
+     * 
+     * DA GREAT INTELLIGENCE OF DA WESTERN DISGUSTING ANIMALS DOUBTING !!! Reallly reallllyyy good job !!
+     * Ehehehehe after tens of years of INEXPLICABLE THINGS, YOU CAN DO NORMAL STUFF !!!
+     * THE WESTERN INTELLIGENCE CAN NOT BE BEATEN !!!
+     * 
+     * I DO NOT HAVE ANYTHING FOR YOU
      * */
     
    
