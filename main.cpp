@@ -814,6 +814,10 @@ int main()
      * THE WESTERN INTELLIGENCE CAN NOT BE BEATEN !!!
      * 
      * I DO NOT HAVE ANYTHING FOR YOU
+     * Wumen wumen muney muney cars muney wumen ehehehehhe WE HAVE TO GET THROUGH THIS PHASE EHEHEHEHEHE THEN WE GOOD ehehehehehe
+     * THE WESTERN NOT DELUSIONAL DISGUSTING INTELLIGENCE and also some PROFESSIONAL MEDICALS !!!
+     * 
+     * I HAVE NO TIME FOR YOU
      * */
     
    
