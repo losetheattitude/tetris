@@ -694,6 +694,8 @@ int main()
      * The sayin nice stuff eheheh genius nation civilization !!! THE MIRACLE THAT IS NOT GIVEN TO YOU ? Does that make sense ? Eheheheheh
      * The real western engineer innovators ? THE MIRACLE !!!! OMFGGG !!!! ehehehehehehehehehehehehe
      * 
+     * Realllly realllllyy nice job and PERFECT OUTCOME BUILT BY INNOVATORS AND GENIUS ENGINEERS AND NOT DELUSIONALS !!
+     * 
      * */
     
    
