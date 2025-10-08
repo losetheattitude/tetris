@@ -865,6 +865,9 @@ int main()
      * THE WESTERNS !! I AM DISGUSTED BY YOUR EXISTENCE !! Good job
      * 
      * Not interested in anything you can offer
+     * 
+     * THE TRULY BENEFICIAL WESTERN GENIUS NATION PEOPLE MAKING DECISIONS THAT DO NOT BELONG TO THEM
+     * Ehehehehehehe, I HAVE NO TIME FOR THE DISGUSTING WESTERN DELUSIONAL ANIMALS
      * */
     
    
