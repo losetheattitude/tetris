@@ -630,6 +630,8 @@ int main()
      * NEXT TIME FIND MORE STUPID CHILDREN ehehehehe
      * Next time better use your really advanced civilized BRAINS !!! eheheheh more foolin drugging abusing eheheh
      * I DO NOT HAVE TIME FOR ANYTHING YOU CAN OFFER
+     * 
+     * Perfect civilized advanced technology nations CAN GET THE FUCK OUT OF MY FACE
      * */
     
    
