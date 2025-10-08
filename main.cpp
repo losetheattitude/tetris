@@ -686,6 +686,10 @@ int main()
      * 
      * Now I hope what you have done with the "MIRACLE" that you were not GIVEN
      * I DO NOT HAVE TIME FOR YOU, THE DISGUSTING WESTERN LITTLE ANIMALS
+     * Time does not exist !! Ehehehehe Life a simulation !!! Eheheheeheheheh
+     * 
+     * YOU HAVE DONE INCREDIBLE WITH THE "MIRACLE" THAT IS NOT GIVEN TO YOU
+     * Perfect outcome !! YOU CAN GET THE FUCK OUT OF MY FACE INDEFINITELY, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * 
      * */
     
