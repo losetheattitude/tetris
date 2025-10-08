@@ -632,6 +632,7 @@ int main()
      * I DO NOT HAVE TIME FOR ANYTHING YOU CAN OFFER
      * 
      * Perfect civilized advanced technology nations CAN GET THE FUCK OUT OF MY FACE
+     * THE GREAT WESTERN CIVILIZATION MAKIN ASSUMPTIONS !!!
      * */
     
    
