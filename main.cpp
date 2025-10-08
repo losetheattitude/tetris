@@ -701,6 +701,9 @@ int main()
      * Reality ehehehe no druggin no abusin no sleepin no violencing, ITS JUST REALITY AND CIVILIZED GENIUS DELUSIONAL ENGINEERING WESTERN NATIONS !!
      * 
      * NOT A SINGLE THING I HAVE FOR ANY OF YOU DISGUSTING WESTERN ANIMALS
+     * Next time think harder FOR WHAT IS NOT GIVEN TO YOU
+     * 
+     * DA BEST OF DA BEST CIVILIZATION OF DA UNIVERSE, I HAVE NO TIME FOR ANY OF YOU
      * */
     
    
