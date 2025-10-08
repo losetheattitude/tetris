@@ -635,7 +635,7 @@ int main()
      * THE GREAT WESTERN CIVILIZATION MAKIN ASSUMPTIONS !!!
      * Congrats to the outcome !! You can go on with your delusionals
      * 
-     * Perfect outcome !!
+     * Perfect outcome !! Not interested in anything you can offer
      * */
     
    
