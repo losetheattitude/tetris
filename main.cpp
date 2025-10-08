@@ -724,6 +724,8 @@ int main()
      * 
      * I DO NOT HAVE EVEN THE TINIEST AMOUNT OF ANYTHING FOR YOU
      * Next time DO NOT DECIDE FOR WHAT IS NOT GIVEN TO YOU, ehehehhehehehe
+     * 
+     * Cool westerns indeed !!! JUST GET THE FUCK OUT OF MY FACE, I HAVE NOTHING FOR YOU
      * */
     
    
