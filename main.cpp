@@ -695,7 +695,9 @@ int main()
      * The real western engineer innovators ? THE MIRACLE !!!! OMFGGG !!!! ehehehehehehehehehehehehe
      * 
      * Realllly realllllyy nice job and PERFECT OUTCOME BUILT BY INNOVATORS AND GENIUS ENGINEERS AND NOT DELUSIONALS !!
+     * NOT STUPIDITY, NOT PREJUDICE, NOT DELUSIONS, NOT ENGINEERS, NOT CIVILIZED PEOPLE
      * 
+     * Hope that makes sense, eheheheh
      * */
     
    
