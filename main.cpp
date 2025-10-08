@@ -708,6 +708,10 @@ int main()
      * THATS WHERE YOU BELONG, NOT AROUND ME
      * 
      * Perfect outcome !
+     * NO DELUSIONS THAT BELONG TO THE "MARVELOUS" MOVIES THAT YOU DELUDE INDEED,
+     * Next time MIND YOUR OWN LIFE, da best of da best nations 
+     * 
+     * I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING FOR YOU, I AM NOT INTERESTED
      * */
     
    
