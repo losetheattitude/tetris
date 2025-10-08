@@ -643,6 +643,9 @@ int main()
      * 
      * I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING FOR YOU
      * NO DELUSIONS AT ALL !! Pure genius western civilized people makin decisions because they think they reallly do know better !
+     * 
+     * I DO NOT HAVE THE TINIEST AMOUNT OF NOTHING FOR ANY OF YOU, YOU CAN STILL DO WHATEVER YOU THINK IS DEFINITELY RIGHT AS IT HAS PROVED SO !!
+     * GET THE FUCK OUT OF MY FACE
      * */
     
    
