@@ -599,6 +599,10 @@ int main()
      * I WILL NEVER BE INTERESTED IN ANYTHING YOU CAN OFFER, Hope that makes sense now
      * Hope that my insistence makes sense, YOU ARE GREAT THE WESTERN COMMUNITY !!! YOU CAN GO GET THE FUCK OUT OF MY FACE!!!
      * A wonderful job done by disgusting NOT DELUSIONAL WESTERN ANIMALS !!
+     * 
+     * 
+     * So, a really realllllllyyy good job DONE TO achieve most harm !!!
+     * Well done, I have no time for you
      * */
     
    
