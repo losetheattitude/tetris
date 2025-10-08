@@ -750,6 +750,11 @@ int main()
      * I DO NOT HAVE ANYTHING FOR YOU, GET THE FUCK OUT OF MY FACE
      * THE TRUE PROFESSIONAL MEDICALS AND GENIUSES OF DA WESTERN PERFECT WORLD !!!!
      * I do not have anything for you
+     * 
+     * Delusions for what you want, thats not the first mistake in the history !!
+     * A great outcome indeed, I HAVE NO INTENTION AND TIME FOR THE DISGUSTING WESTERN ANIMALS
+     * 
+     * DO WHAT YOU HAVE TO eheheheheh
      * */
     
    
