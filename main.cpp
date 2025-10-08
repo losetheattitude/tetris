@@ -821,6 +821,9 @@ int main()
      * Ehehehehehehehehehehhehehehehhe, really reallly street shit, gangsta and genius no delusionals western intelligence !!!
      * 
      * MAKIN DECISIONS THAT ARE NOT YOURS, What a wonderful outcome!!
+     * 
+     * The problem solvers are making MIRACLES not the other way around 
+     * Hope that will make sense one day
      * */
     
    
