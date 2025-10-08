@@ -654,6 +654,8 @@ int main()
      * 
      * I HAVE NOOOOOOOOOOOOOOOOOOOO DESIRE AND NO TIME AND NO PASSIONS FOR YOUR ANYTHING
      * Good job!! next time try not to be so genius ! Eheheh
+     * 
+     * Disgusting western animals can move on with other people now, I HAVE NO TIME FOR ANY OF YOU
      * */
     
    
