@@ -802,6 +802,8 @@ int main()
      * I HAVE NOTHING FOR YOU
      * LEARN FROM YOUR MISTAKES FOR THE NEXT TIME !!! PERFECT OUTCOME BUILDERS !! eheheheh wumen wumen !!! ehehehe west west !! da best !!!
      * Engineerings heeheheh westtttt
+     * 
+     * Ehehehehehehehehhehhehehehheehehehehehehehehehee, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * */
     
    
