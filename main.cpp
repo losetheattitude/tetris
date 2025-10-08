@@ -839,6 +839,9 @@ int main()
      * because THE WESTERNS NOT DELUSIONALS !!!!!!!!!
      * 
      * Eheheheheh wumen wumennn get wumenn ehheheh just wumennn wumennn, now its wumennn !!! Yayyyyy
+     * Just a few tens of years FROM DA BEST OF DA BEST WESTERN INTELLIGENCE PEOPLE !!!
+     * 
+     * Its okay !!
      * */
     
    
