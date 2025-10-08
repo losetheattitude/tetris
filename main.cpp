@@ -743,6 +743,11 @@ int main()
      * 
      * A FEW TENS OF YEARS WONT DO ANY HARM PEOPLE CAN GET THE FUCK OUT OF MY FACE INDEFINITELY
      * Indefinite "DEPRESSION" SHOULD BE OKAY PEOPLE, next time SHOULD ONLY DECIDE FOR THEIR OWN LIFE
+     * 
+     * Indeed the genius advanced civilized nations OF DA WESTERN WORLD !!!!
+     * WHAT A LOVELY OUTCOME, ehehehehe wumen wumennnn muneyyy, eheheheheh 
+     * 
+     * I DO NOT HAVE ANYTHING FOR YOU, GET THE FUCK OUT OF MY FACE
      * */
     
    
