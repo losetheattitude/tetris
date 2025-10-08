@@ -832,6 +832,13 @@ int main()
      * Do you understand the TRUE MEANING OF LIFE ? I DO NOT HAVE ANYTHING FOR YOU THE WESTERN GREATER INTELLIGENCE !!! Waaaowwww
      * Next time WATCH MORE MARVELOUS IMAGINATIVE MOVIES BEFORE YOU GET YOURSELF INTO SOMETHING THAT YOU DO NOT BELONG
      * THE GREATEST INTELLIGENCE OF THE UNIVERSE THE WESTERN DISGUSTING ANIMALS, who have no idea
+     * 
+     * 
+     * The true western intelligence that fucking ruins everything they touch !!! THE WAY TO GO !!!!
+     * Genius people !!! No delusions AT ALL !!! Eheheheheh just some drugs put to sleep !!! and some violence 
+     * because THE WESTERNS NOT DELUSIONALS !!!!!!!!!
+     * 
+     * Eheheheheh wumen wumennn get wumenn ehheheh just wumennn wumennn, now its wumennn !!! Yayyyyy
      * */
     
    
