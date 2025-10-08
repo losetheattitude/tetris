@@ -657,6 +657,12 @@ int main()
      * 
      * Disgusting western animals can move on with other people now, I HAVE NO TIME FOR ANY OF YOU
      * Hope it will all make sense to you one day !!! Eheheheh
+     * 
+     * Hope sayin nice stuff and makin people think certain way WILL NOT WORK ALWAYS will occur to you
+     * Definitely not delusional western digusting animals, makin what they do not belong to them, Eheheheh decisions decisions ehehehehehh assumptions eheheheh
+     * 
+     * I HAVE ZERO INTENTION AND ZERO DESIRE TO WASTE ANOTHER SECOND WITH THE DISGUSTING "WESTERN" CIVILIZATIONS
+     * I DO NOT HAVE TIME FOR YOU
      * */
     
    
