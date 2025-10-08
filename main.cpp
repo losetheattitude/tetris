@@ -842,6 +842,10 @@ int main()
      * Just a few tens of years FROM DA BEST OF DA BEST WESTERN INTELLIGENCE PEOPLE !!!
      * 
      * Its okay !!
+     * Real confident genius not delusional western professionals making decisions THAT DO NOT BELONG TO THEM
+     * A lovely outcome built by the TRULY UNIQUE WESTERN CIVILIZED NATIONS !!
+     * 
+     * I DO NOT HAVE THE TINIEST OF ANYTHING FOR YOU, there is nothing on UNIVERSE you can do to change that
      * */
     
    
