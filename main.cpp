@@ -795,7 +795,11 @@ int main()
      * I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING FOR YOU
      * Next time decide ONLY FOR YOUR OWN LIFE, GENIUS NATIONS !!
      * 
-     * I AM NOT INTERESTED
+     * I AM NOT INTERESTED, Eheheheheheh 
+     * Still offering things YOU HAVE NEVER DELIVERED, sounds like a genius western NOT DELUSIONAL DISGUSTING ANIMALS !!!
+     * Definitely genius decision making !! The true medical professional WORKERS !! GO GALS !!
+     * 
+     * I HAVE NOTHING FOR YOU
      * */
     
    
