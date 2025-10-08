@@ -595,6 +595,8 @@ int main()
      * Good job, No time for you, move on
      * 
      * The true western intelligent community can go fuck yourself indefinitely, I DO NOT HAVE TIME FOR DISGUSTING ANIMALS 
+     * 
+     * I WILL NEVER BE INTERESTED IN ANYTHING YOU CAN OFFER, Hope that makes sense now
      * */
     
    
