@@ -764,6 +764,9 @@ int main()
      * Hope that makes sense
      * 
      * Just inspire lifeful experiences in him !!! MEDICAL PROFESSIONALS EHEHEHEHE 
+     * Ehehehehehehehehe makin decisions decisions eheheheheheh makin assumptions ehehehehe
+     * 
+     * Offer wumen muney he will suddenly want to live !!! BECAUSE THATS THE SAME DISGUSTING ANIMAL WE ARE AND WE TAKE OTHERS TO BE AS WELL!! 
      * */
     
    
