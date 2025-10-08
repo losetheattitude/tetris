@@ -656,6 +656,7 @@ int main()
      * Good job!! next time try not to be so genius ! Eheheh
      * 
      * Disgusting western animals can move on with other people now, I HAVE NO TIME FOR ANY OF YOU
+     * Hope it will all make sense to you one day !!! Eheheheh
      * */
     
    
