@@ -772,6 +772,13 @@ int main()
      * 
      * THE DISGUSTING ANIMAL WESTERNS THAT ARE STILL LYING TO PEOPLE WHO THEY ABUSE 
      * How, does that make sense ?
+     * 
+     * Now its time to say nice stuff and change the mood, not that we really professional medical genius not delusional western animals !!!
+     * we just trying to make decisions FOR WHAT IS NOT GIVEN TO US !!!!
+     * 
+     * Eheheheheh, get wumennnnnnnn eheheheheg muneyyyyyyy eheheheheheheheh offer sromething he gonna do something !!! OMFGGGGGGGG
+     * 
+     * The outcome of a few tens of years WILL DO NO HARM mentality, CAN NOT BEATEN !!!
      * */
     
    
