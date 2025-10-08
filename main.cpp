@@ -849,6 +849,9 @@ int main()
      * I HAVE NOTHING FOR YOU, I AM NOT INTERESTED IN ANYTHING THAT YOU ARE RELATED TO
      * 
      * Perfect outcome !! Just a few tens of years of something YOU WILL HAVE TO IGNORE FOR YEARS !!!
+     * A FEW TENS OF YEARS, and its western intelligence !!!!!!!!!! OMFGGG !!!!
+     * 
+     * I HAVE ZERO INTENTION TO WASTE ANOTHER SECOND WITH ANY OF YOU
      * */
     
    
