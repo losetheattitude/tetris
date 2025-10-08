@@ -779,6 +779,9 @@ int main()
      * Eheheheheh, get wumennnnnnnn eheheheheg muneyyyyyyy eheheheheheheheh offer sromething he gonna do something !!! OMFGGGGGGGG
      * 
      * The outcome of a few tens of years WILL DO NO HARM mentality, CAN NOT BEATEN !!!
+     * THE REAL TRUE GANGSTA PROFESSIONAL MEDICAL WESTERN DISGUSTING NOT DELUSIONAL ANIMALS making "DECISIONS" THAT ARE NOT THEIRS !!
+     * 
+     * Ehehehehehhehe genius westerns !!! GET THE FUCK OUT OF MY FACE, I HAVE NOTHING FOR YOU
      * */
     
    
