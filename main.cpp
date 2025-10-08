@@ -859,6 +859,10 @@ int main()
      * AND WHY AM I A LITTLE ANGRY with the disgusting western animals
      * 
      * Ehehehehehehehehhehehehehhehehehehhehehehhehehe, its just a little harm nothing else 
+     * Coercing people to do nothing and say some stuff !!!
+     * 
+     * What a lovely outcome BY THE BEST OF DA BEST CIVILIZED NATIONS OF THE UNIVERSE
+     * THE WESTERNS !! I AM DISGUSTED BY YOUR EXISTENCE !! Good job
      * */
     
    
