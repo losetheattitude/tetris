@@ -804,6 +804,9 @@ int main()
      * Engineerings heeheheh westtttt
      * 
      * Ehehehehehehehehhehhehehehheehehehehehehehehehee, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
+     * Your time FOR THINGS TO MAKE SENSE will come eventually eheheeheheheheheh
+     * 
+     * Good job !!!! Makin decisions
      * */
     
    
