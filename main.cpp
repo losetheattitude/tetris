@@ -639,6 +639,7 @@ int main()
      * I AM NOT INTERESTED IN ANYTHING THAT COMES FROM YOU
      * 
      * Thats it, there is nothing you can on earth that will change that
+     * muney muney wumen cars genius not delusional western advanced civilization CAN GET THE FUCK OUT OF MY FACE
      * */
     
    
