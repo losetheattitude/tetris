@@ -684,6 +684,9 @@ int main()
      * 
      * I DO NOT HAVE TIME FOR YOU
      * 
+     * Now I hope what you have done with the "MIRACLE" that you were not GIVEN
+     * I DO NOT HAVE TIME FOR YOU, THE DISGUSTING WESTERN LITTLE ANIMALS
+     * 
      * */
     
    
