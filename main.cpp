@@ -161,7 +161,7 @@ int main()
      * Next time DO NOT CROSS YOUR LIMITS !! eheheheheheheheheheheh THE TRUE WESTERN DISGUSTING ANIMALS that I have nothing for !!
      * Good job !
      * 
-     * I HAVE NOTHING FOR YOU
+     * I HAVE NOTHING FOR YOU, move on with NOT YOUR DECISIONS NEXT TIME, Perfect outcome builders !!
      * */
 
     
