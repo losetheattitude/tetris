@@ -354,6 +354,11 @@ int main()
      * 
      * Good job violating people around you !! Congrats for the outcome 
      * I AM NOT INTERESTED IN THE SLIGHEST THING YOU HAVE IN MIND, Keep in your disgusting limits next time
+     * 
+     * Soon your perfect genius intelligence intervenes, THINGS ALWAYS GET MUCH BETTER !!! THE PAST THE PAST !!!
+     * AN AMAZING OUTCOME BY THE VERY GENIUS AND CIVILIZED COMMUNITIES OF THE UNIVERSE, ONE AND ONLY BEST THE WESTERNS !!
+     * 
+     * I HAVE GOT NOTHING FOR YOU
      * */
 
     
