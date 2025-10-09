@@ -401,6 +401,11 @@ int main()
      * 
      * THE TRUE MEDICAL PROFESSIONALS MAKING NOT THEIR DECISIONS AND DO NOT GIVE A FUCK !!!!
      * OMFG !!!!! A lovely chance and outcome, I HAVE GOT NOTHING FOR ANY OF YOU
+     * 
+     * Good luck sleeping drugging people CHILDREN next time, and DO NOT DELUDE ON YOUR DISGUSTING NON DELUSIONAL STUPID MINDS
+     * Its observable that you have only caused harm, Thats where I will never be around
+     * 
+     * I HAVE GOT NOTHING FOR YOU
      * */
 
     
