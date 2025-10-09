@@ -340,7 +340,8 @@ int main()
      * I DO NOT CARE IN THE SLIGHTEST WHATEVER YOU THINK IS RIGHT OR REASONABLE,
      * I HAVE NO TIME FOR YOU, continue believing that or this
      * 
-     * Ehehehehe
+     * Ehehehehe, I HAVE GOT ONLY THE DISGUSTING CONTENT THAT YOU ARE AKIN TO
+     * I AM NOT INTERESTED IN ANYTHING ELSE 
      * */
 
     
