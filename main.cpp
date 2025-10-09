@@ -202,6 +202,11 @@ int main()
      * Not interested in the tiniest disgusting thing you disgusting westerns CAN OFFER
      * 
      * Make more assumptions and predictions next time, eheheheheh
+     * That will without a doubt solve every little problem you have and produce the outcome eheheheheh
+     * A few tens of years of THE PAST !!!!! Eehehehehehehehehh
+     * THE PASTTTT !!!!
+     * 
+     * I have zero interest to call it THE PASTTTTTT, eheheheh 
      * */
 
     
