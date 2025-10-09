@@ -895,6 +895,8 @@ int main()
      *
      * Good job making nothing out of something !! 
      * Just like the not delusional professional genius gangsta engineer medicals, I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING FOR YOU
+     * Congrats to the best of the best civilization geniuses THE WESTERN NON DELUSIONALS ! Good job
+     * I DO NOT HAVE TIME FOR YOU
      * */
     
    
