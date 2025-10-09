@@ -974,6 +974,7 @@ int main()
      * Eheheheh life a game life a simulation, makin makin decisions ehehehehehehheheh OMFG !!!!! A STICKY SITUATION !!! THE SAVIORS OF DA UNIVERSE !!!
      * 
      * Good job for 30 years !! eheheh western professional medical geniuses !!
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * */
 
     
