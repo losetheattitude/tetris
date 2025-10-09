@@ -345,6 +345,8 @@ int main()
      * 
      * The best of the best medical professional NON DELUSIONAL, NON REASONABLE DISGUSTING WESTERN ANIMALS
      * Stay within your limits next time eheheheheh
+     * 
+     * Next time do not count on your immaculate fooling and coercing ability, The western civilized the most advanced modern community 
      * */
 
     
