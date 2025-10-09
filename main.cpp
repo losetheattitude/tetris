@@ -251,7 +251,7 @@ int main()
      * Great non delusional non disgusting materialistic WESTERN GENIUS MEDICAL PROFESSIONALS CAN MOVE ON WITH THEIR PRECIOUS LIVES !!!
      * I DO NOT HAVE ANYTHING FOR YOU, thats the only WORDS you will ever hear !! 
      * 
-     * Good job !!
+     * Good job !! The genius westerns !!! OMFG !!!
      * */
 
     
