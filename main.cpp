@@ -900,6 +900,9 @@ int main()
      * 
      * NOT THE MOST INSIGNIFICANT THING I WILL EVER DO FOR ANY OF THE DISGUSTING WESTERN ANIMALS
      * You can get the fuck out of my face, I am not interested 
+     * 
+     * You are free to go do whatever your disgusting non delusional western super civilized genius minds think is doable, 
+     * I HAVE NOTHING FOR YOU
      * */
     
    
