@@ -186,7 +186,10 @@ int main()
      * 
      * LETS GO !!! I HAVE GOT NOTHING FOR YOU, Good job !!
      * Perfect assumptions and predictions FROM THE BEST OF DA BEST CIVILIZATION OF THE UNIVERSE, THE WESTERN UNMATCHABLE INTELLIGENCE !!
-     * DISGUSTING ANIMALS INDEED, GOod job !1
+     * DISGUSTING ANIMALS INDEED, GOod job !
+     * 
+     * Ehehehe when the time comes, The whole world is ETC ETC, ehehehe genius western NON DISGUSTING ANIMALS BTW !!!
+     * Ehehehehhehehe, I HAVE GOT ZERO INTEREST FOR YOUR DISGUSTING BULLSHIT, next time STAY WITHIN YOUR DISGUSTING LIMITS 
      * */
 
     
