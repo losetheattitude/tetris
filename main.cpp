@@ -211,6 +211,12 @@ int main()
      * A huge problem now solved, CONGRATS !!!
      * 
      * I HAVE NO TIME NO DESIRE NO INTENTION to ever spend another second eheheheh
+     * I HAVE ZERO NOTHING FOR YOU, go seek for more children to violate WITH THE TRUE HONORABLE WESTERN SOLDIERS !!!
+     * 
+     * Stupid dumb disgusting monkey western soldiers !!! Ayyyyyy the outcome of a few tens of years eheheheheh
+     * There was definitely MORE THAN ONE PROBLEMS WHEN YOU JUST DID THE PERFECT THING !!! 
+     * 
+     * OMFG !!!! Good job !!!
      * */
 
     
