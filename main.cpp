@@ -243,6 +243,8 @@ int main()
      * Professional medical western genius gangsta DISGUSTING ANIMALS !!! You can get the fuck out of my face believing whatever you want to believe
      * 
      * I have got nothing FOR YOU
+     * I AM NOT INTERESTED IN THE TINIEST INSIGNIFICANT THING THAT YOUR MIND HAS PRODUCED
+     * Hope that makes sense
      * */
 
     
