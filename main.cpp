@@ -910,6 +910,9 @@ int main()
      * Ehehehehhehe, good job !!
      * 
      * Good job !!! eheheheh makin makin decisions eheheheheheh Super great intelligence FROM DA WESTERN EHEHEHEHEH
+     * 
+     * Super unseen western genius intelligence takin a few tens of years FOR NOTHING ehehehe, I have got NOTHING FOR YOU
+     * Good job!! A wonderful outcome built by disgusting western animals
      * */
     
    
