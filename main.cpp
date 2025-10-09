@@ -993,7 +993,10 @@ int main()
      * No delusions !! no marvelous movies eheheh no imaginations ehehehehehh 
      * THE ONE AND ONLY TRUE WESTERN DISGUSTING NON INTELLIGENCE !!!
      * 
-     * Good job !
+     * Good job ! Sleepin sleepinnnn drugginggg NO ANGYR ehehehe do not ehehehehhe
+     * Coercin coercin intelligence western non delusional DISGUSTING ehehehehehhe
+     * 
+     * Perfect job !! I HAVE GOT NOTHING FOR YOU
      * */
 
     
