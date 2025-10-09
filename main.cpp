@@ -275,6 +275,12 @@ int main()
      * 
      * Hope that will make sense eventually eheheheh tens of years eheheheh
      * Bravo !!! I have got nothing for any of you, start perceiving instead of disgusting delusions
+     * 
+     * The assumptions and the nonaccurate predictions OF THE GREATLY GENIUS WESTERN SOCIETAL ANIMALS !!
+     * Waaowwwwwwwwww, impressive imaginations, better MOVE ON WITH YOUR MOVIES instead of harming real people !!
+     * 
+     * Good job !! A definite beneficial outcome !!
+     * I HAVE GOT NOTHING FOR YOU
      * */
 
     
