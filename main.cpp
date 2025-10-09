@@ -153,6 +153,11 @@ int main()
      * YOU HAVE ACHIEVED THE NOTHING !! What a lovely outcome and definitely unique chance and product THAT YOU WILL NEVER EVER UTILIZE !!
      * 
      * Good job though, I have no time for you
+     * 
+     * THE ONE AND ONLY TRUE INTELLIGENT WESTERN ANIMALS WHO HAVE TO IGNORE "WHAT THEY HAVE DONE" !!
+     * Good job !! Professional medical genius nations !! Achieving nothing, just a few tens of years eheheh with violence heheheh
+     * 
+     * The one and only genius imaginative way !!
      * */
 
     
