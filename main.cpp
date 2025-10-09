@@ -200,6 +200,8 @@ int main()
      * 
      * Eheheh life a game !!!!! I am not interested 
      * Not interested in the tiniest disgusting thing you disgusting westerns CAN OFFER
+     * 
+     * Make more assumptions and predictions next time, eheheheheh
      * */
 
     
