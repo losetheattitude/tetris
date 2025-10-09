@@ -382,6 +382,9 @@ int main()
      * I HAVE NOTHING FOR YOU, GOOD JOB next time NEVER MAKE DECISIONS THAT WERE NOT YOURS
      * Definitely good job FROM THE NOT DELUDING ON THEIR ABILITIES AND PERCEPTION WESTERN ANIMALS !!
      * I HAVE GOT NOTHING FOR YOU, I do not want to see any of you around me for whatsoever purpose you think you HAVE
+     * 
+     * Stay within your limits THE WESTERN NON DELUSIONAL GREAT SOCIETY PEOPLE !!!
+     * YOU HAVE DONE IT nobody else eheheh
      * */
 
     
