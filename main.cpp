@@ -977,6 +977,11 @@ int main()
      * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * 
      * Eheheh good job for 30 years ehehehehhe makin makin decisions eheheheheh
+     * 
+     * Ten out of ten !! Intelligent spark people !!! THE ONE AND ONLY TRUE INTELLIGENT SPECIES OF THE UNIVERSE
+     * THE WESTERN INTELLIGENCE !!!! A few tens of years of someone else's life !!!
+     * 
+     * Perfect outcome !!
      * */
 
     
