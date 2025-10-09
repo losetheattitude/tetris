@@ -385,6 +385,9 @@ int main()
      * 
      * Stay within your limits THE WESTERN NON DELUSIONAL GREAT SOCIETY PEOPLE !!!
      * YOU HAVE DONE IT nobody else eheheh
+     * 
+     * Wonderful outcome!!, You have done a wonderful DECISION THAT WAS NOT YOURS !!! GOOD JOB !!!! 
+     * THE NON DELUSIONAL WESTERN GREAT INTELLIGENCE PEOPLE !!!! I DO NOT CARE THE SLIGHEST
      * */
 
     
