@@ -330,6 +330,7 @@ int main()
      * I AM NOT INTERESTED IN MAKING UP ANYTHING FOR YOU
      * 
      * I HAVE NOTHING FOR YOU, "professional expert genius medicals" are not dealing with THE MISTAKE THEY CAN NOT TALK ABOUT !!
+     * What a professionality eheheh like the genius true one and only civilized nations !! NO DELUSIONAL WESTERN DISGUSTING ANIMALS
      * */
 
     
