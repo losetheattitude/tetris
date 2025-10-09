@@ -371,6 +371,7 @@ int main()
      * Must be a real genius gangsta advanced civilization NON DELUSIONAL DISGUSTING WESTERNS INDEED
      * 
      * Hope he does not remember everything eheheheheh
+     * Definitely genius western people NOT CROSSING THEIR LIMITS and ignoring the OUTCOME !!
      * */
 
     
