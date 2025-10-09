@@ -391,6 +391,11 @@ int main()
      * 
      * * NOT ON EARTH ANY WHATSOEVER CHANCE WILL I EVER WASTE ANOTHER SECOND "HELPING" ANY ONE OF THE DISGUSTING WESTERN ANIMALS EVER
      * I AM NOT INTERESTED IN MAKING UP ANYTHING FOR YOU
+     * 
+     * NEVER EVER AGAIN THINK OR DELUDE THAT YOU KNOW WHAT YOU ARE DOING, ehehehehe NO FUCKING GENIUS ANY OF YOU
+     * Good job !!! Stay within your limits next time
+     * 
+     * The great western people !!
      * */
 
     
