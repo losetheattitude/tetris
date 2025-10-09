@@ -376,6 +376,8 @@ int main()
      * I have got nothing for you, disgusting western animals !! GOOD JOB, next time stay within your limits !
      * Stop your delusions, GOOD JOB ! Like "DESTINY" ehehhheheheheh Right ? eheheheh THE MOST REASONABLE CIVILIZED ADVANCED COMMUNITY ON THE UNIVERSE
      * THE WESTERN PEOPLE !!
+     * 
+     * THE DESTINY AND GENIUS REASONABLE CIVILIZED WESTERN PEOPLE EHHEHEH HAVE TO IGNORE EHEHEHEHEHHEHEHEHEHEHEHEHEHEHEHEHEHE SO COMICCC !!
      * */
 
     
