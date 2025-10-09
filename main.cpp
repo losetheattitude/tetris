@@ -927,6 +927,10 @@ int main()
      * THE WEST !!! eheheheh Not interested
      * 
      * Good job !! No time for you
+     * Perfect observation skills FROM THE WESTERN GENIUS PROFESSIONAL MEDICALS ehehehe sleepin druggin eheheh coercing ehehehehe violatin eheheheh
+     * Move on with your disgusting actions, seek for more resilient children !!
+     * 
+     * I DO NOT HAVE TIME FOR ANY OF YOU
      * */
     
    
