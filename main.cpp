@@ -395,7 +395,11 @@ int main()
      * NEVER EVER AGAIN THINK OR DELUDE THAT YOU KNOW WHAT YOU ARE DOING, ehehehehe NO FUCKING GENIUS ANY OF YOU
      * Good job !!! Stay within your limits next time
      * 
-     * The great western people !!
+     * The great western people !! Makin DELUSIONAL THINGS THEY CAN NOT ANSWER FOR, THE OUTCOME ? Ehehehehe Nothing !!
+     * Just a few tens of years, life a game ONLY OTHERS' LIFE !!1 THE TRUE WESTERN CIVILIZED WAY !!
+     * 
+     * 
+     * 
      * */
 
     
