@@ -143,6 +143,11 @@ int main()
      * Achieving a lot of good deal beneficial outcomes !!
      * 
      * Definitely the one and only western true professional medical genius engineering DISGUSTING ANIMALS
+     * 
+     * I HAVE ZERO TIME AND INTENTION AND DESIRE TO WASTE ANY INSIGNIFICANT THING WITH YOU
+     * The true western animals can GET THE FUCK OUT OF MY FACE doing what they think is right 
+     * 
+     * I have nothing for you
      * */
 
     
