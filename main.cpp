@@ -888,6 +888,7 @@ int main()
      * Not interested in anything you can PRESENT as the past proves
      * 
      * Drugging coercin good job !! No time for anything you can offer, move on 
+     * Definitely professional medicals making DECISIONS THAT ARE NOT THEIRS !! I DO NOT HAVE TIME FOR YOU 
      * */
     
    
