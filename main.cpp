@@ -336,6 +336,11 @@ int main()
      * GOOOOOOODDDD JOBBBBB !! I HAVE GOT NOTHING FOR YOU
      * 
      * GOOOOOD JOBBB !!!! THE ONLY THING YOU WILL EVER HEAR, "EHEHEHEHEHHE I HAVE GOT NOTHING FOR YOU"
+     * 
+     * I DO NOT CARE IN THE SLIGHTEST WHATEVER YOU THINK IS RIGHT OR REASONABLE,
+     * I HAVE NO TIME FOR YOU, continue believing that or this
+     * 
+     * Ehehehehe
      * */
 
     
