@@ -178,6 +178,13 @@ int main()
      * That solves everything !!!!  GOOODDD JOBBBB!!!
      * 
      * Bravo to the best civilization ON EARTH !! THE WESTERN INTELLIGENCE !!
+     * THE REALLLY GREAT PERFECT IMMACULATE OUTCOME BUILDERS FROM THE WESTERN INTELLIGENT COMMUNITY !!!
+     * 
+     * I HAVE NOT THE MOST INSIGNIFICANT LITTLE THING FOR YOU, What a lovely outcome !!
+     * You are free to move on with your LIVES !! LETS GOO Life goes on !! life a game !! life a simulation !!!
+     * Yayyyyyy !!!! eheheheheheh we need make more decisions FOR OTHER PEOPLE THAT WE ARE NOT AFFECTED OF !!
+     * 
+     * LETS GO !!! I HAVE GOT NOTHING FOR YOU, Good job !!
      * */
 
     
