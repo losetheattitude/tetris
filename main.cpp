@@ -360,6 +360,11 @@ int main()
      * 
      * I HAVE GOT NOTHING FOR YOU
      * JUST GET THE FUCK OUT OF MY FACE, GOOD JOB !!
+     * 
+     * Makin assumptions and decisions and predictions, Next time you should remember it though !!!
+     * Great job, unseen intelligence actions resulting in incomparable OUTCOME !!
+     * 
+     * A few tens of years eheheheh
      * */
 
     
