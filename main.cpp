@@ -982,6 +982,8 @@ int main()
      * THE WESTERN INTELLIGENCE !!!! A few tens of years of someone else's life !!!
      * 
      * Perfect outcome !!
+     * A reallly nice story WE MUST BUILT to convince people ehehehehh Gooodd jobb  !!!!
+     * Ehehehehehhehehehehehehehehe, THE WESTERN INTELLIGENCE !!
      * */
 
     
