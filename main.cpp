@@ -885,6 +885,7 @@ int main()
      * Foolinnn drugging coercin and Eheheheh the outcome builders no delusion eheheh
      * 
      * I do not have time for people who are unaware of NOT MAKIN DECISIONS THAT ARE NOT YOURS ANYMORE
+     * Not interested in anything you can PRESENT as the past proves
      * */
     
    
