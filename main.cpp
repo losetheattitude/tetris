@@ -913,6 +913,10 @@ int main()
      * 
      * Super unseen western genius intelligence takin a few tens of years FOR NOTHING ehehehe, I have got NOTHING FOR YOU
      * Good job!! A wonderful outcome built by disgusting western animals
+     * 
+     * A sequence of tens of GREAT INTELLIGENCE DECISIONS, eheheheh and a few tens of years of HARM led to NOTHING
+     * THE WESTERN TRUE INTELLIGENCE THAT NOBODY CAN EVER MATCH ehehehehehehe OMFG !!! Good professional medical genius engineerings disgusting non delusional western animals !!!
+     * Good job !! Druggin abusin sleepin people Ehehehe makin makin decisions, I HAVE NOTHING FOR YOU
      * */
     
    
