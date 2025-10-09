@@ -963,6 +963,9 @@ int main()
      * 
      * Only a few tens of years TO NOWHERE !!! Like the true medical professional genius gangsta non delusional WESTERN disgusting ANIMALS
      * I HAVE ZERO TIME FOR YOU
+     * 
+     * Go with the stupid "ASSUMPTIONS", I have nothing for you, I AM NOT INTERESTED IN ANYTHING THAT YOU ARE AROUND
+     * Get the fuck out of my face
      * */
     
    
