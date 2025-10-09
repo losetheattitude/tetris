@@ -331,6 +331,9 @@ int main()
      * 
      * I HAVE NOTHING FOR YOU, "professional expert genius medicals" are not dealing with THE MISTAKE THEY CAN NOT TALK ABOUT !!
      * What a professionality eheheh like the genius true one and only civilized nations !! NO DELUSIONAL WESTERN DISGUSTING ANIMALS
+     * 
+     * Like the one and only medical professionals NOT DEALING WITH THE MISTAKE eheheh callin it the past !!!
+     * GOOOOOOODDDD JOBBBBB !! I HAVE GOT NOTHING FOR YOU
      * */
 
     
