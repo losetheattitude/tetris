@@ -148,6 +148,11 @@ int main()
      * The true western animals can GET THE FUCK OUT OF MY FACE doing what they think is right 
      * 
      * I have nothing for you
+     * 
+     * Wumen wumen muney offerers CAN MOVE ON WITH THEIR DISGUSTING LIVES !! YOU HAVE DONE IT !!
+     * YOU HAVE ACHIEVED THE NOTHING !! What a lovely outcome and definitely unique chance and product THAT YOU WILL NEVER EVER UTILIZE !!
+     * 
+     * Good job though, I have no time for you
      * */
 
     
