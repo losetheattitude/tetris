@@ -922,6 +922,9 @@ int main()
      * 
      * I HAVE NOT THE TINIEST AND INSIGNIFICANT THING FOR ANY OF YOU, I DO NOT HAVE TIME, Move on with your disgusting acts
      * OUT OF MY VICINITY !! Great job !!
+     * 
+     * The true western non delusional intelligence actions !!! Greatest of da great from THE UNIVERSE !!
+     * THE WEST !!! eheheheh Not interested
      * */
     
    
