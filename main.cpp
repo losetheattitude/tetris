@@ -951,6 +951,10 @@ int main()
      * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * Foolin foolin indeed, definitely good outcome built by the true medical professional western animals !!
      * I HAVE NO TIME FOR YOU
+     * 
+     * I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING FOR ANY OF YOU, I do not have one second to waste with you
+     * 
+     * You are not wanted around me
      * */
     
    
