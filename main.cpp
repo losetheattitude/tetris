@@ -886,6 +886,8 @@ int main()
      * 
      * I do not have time for people who are unaware of NOT MAKIN DECISIONS THAT ARE NOT YOURS ANYMORE
      * Not interested in anything you can PRESENT as the past proves
+     * 
+     * Drugging coercin good job !! No time for anything you can offer, move on 
      * */
     
    
