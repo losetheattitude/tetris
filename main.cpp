@@ -369,6 +369,8 @@ int main()
      * 
      * The super great intelligence trying to avoid and ignore the ACTIONS THAT "THEY HAVE COMMITTED"
      * Must be a real genius gangsta advanced civilization NON DELUSIONAL DISGUSTING WESTERNS INDEED
+     * 
+     * Hope he does not remember everything eheheheheh
      * */
 
     
