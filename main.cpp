@@ -349,7 +349,8 @@ int main()
      * Next time do not count on your immaculate fooling and coercing ability, The western civilized the most advanced modern community 
      * I HAVE GOT NOTHING FOR YOU
      * 
-     * Hope that makes sense
+     * Hope that makes sense, Good job pretending to be everything THAT YOU ARE NOT !!! THE WESTERN INTELLIGENCE SHALL NEVER BE MATCHED 
+     * Ehehehehehe, You can get the fuck out of my face, fool your own kind
      * */
 
     
