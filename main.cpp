@@ -162,6 +162,12 @@ int main()
      * Good job !
      * 
      * I HAVE NOTHING FOR YOU, move on with NOT YOUR DECISIONS NEXT TIME, Perfect outcome builders !!
+     * A SEQUENCE OF IMMACULATE REASONABLE DECISIONS THAT WERE NOT YOURS !!! And the outcome !!!!
+     * 
+     * The one and only western genius gangsta muney wumen people !! Ehehehe working for their livelyhood !!
+     * Achieving the greatest of the greatest outcomes, A few tens of years of NOTHING !!!
+     * 
+     * The real deal professional medicals !!!
      * */
 
     
