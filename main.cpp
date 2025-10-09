@@ -372,6 +372,9 @@ int main()
      * 
      * Hope he does not remember everything eheheheheh
      * Definitely genius western people NOT CROSSING THEIR LIMITS and ignoring the OUTCOME !!
+     * 
+     * I have got nothing for you, disgusting western animals !! GOOD JOB, next time stay within your limits !
+     * Stop your delusions, GOOD JOB !
      * */
 
     
