@@ -942,6 +942,13 @@ int main()
      * Who has to ignore some disgusting acts THEY HAVE DONE !!! Good job !
      * 
      * I have nothing for you
+     * Eheheh except the genius medical professional engineering non delusional western animals can only offer some 
+     * drugginggg eheheheh sleeepingg eheheh abusinggg ehehehhe children ehehhehehehe
+     * 
+     * The one and only true civilization OF DA UNIVERSE !!! ehehehe More marvelous movies for your disgusting imagination !!!
+     * Eheheheh, fine outcome !! Good job!!
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * */
     
    
