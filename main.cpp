@@ -374,7 +374,8 @@ int main()
      * Definitely genius western people NOT CROSSING THEIR LIMITS and ignoring the OUTCOME !!
      * 
      * I have got nothing for you, disgusting western animals !! GOOD JOB, next time stay within your limits !
-     * Stop your delusions, GOOD JOB !
+     * Stop your delusions, GOOD JOB ! Like "DESTINY" ehehhheheheheh Right ? eheheheh THE MOST REASONABLE CIVILIZED ADVANCED COMMUNITY ON THE UNIVERSE
+     * THE WESTERN PEOPLE !!
      * */
 
     
