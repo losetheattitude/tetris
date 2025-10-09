@@ -261,7 +261,13 @@ int main()
      * The true genius westerns !! Savioring the universe !!! A perfect outcome THAT HAS HELPED NOBODY !!!!
      * 
      * The reason !! THE UNBEATABLE REASONABLE GENIUS WESTERN ANIMALS !!
-     * Good job !!
+     * Good job !! YOU HAVE HEARD IT !!!  EHEHEHEHEHEEHEHHEHEH GENIUS ENGINEERING DISGUSTING NON DELUSIONAL WESTERN ANIMALS !!!
+     * A few tens of years ONLY ehehehe and some sleepingg druggingg as welll !! THE ONLY TRUE GENIUS WAY!!
+     * 
+     * I HAVE GOT NOTHING FOR YOU, YOU HAVE HEARD IT !! ehehehehehh
+     * 
+     * * NOT ON EARTH ANY WHATSOEVER CHANCE WILL I EVER WASTE ANOTHER SECOND "HELPING" ANY ONE OF THE DISGUSTING WESTERN ANIMALS EVER
+     * I AM NOT INTERESTED IN MAKING UP ANYTHING FOR YOU
      * */
 
     
