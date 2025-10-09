@@ -270,7 +270,10 @@ int main()
      * I AM NOT INTERESTED IN MAKING UP ANYTHING FOR YOU
      * 
      * WESTERN GENIUS NON DISGUSTING EHEEHEHEHEHEHEHEHEH
-     * I HAVE NOTHING FOR YOU
+     * I HAVE NOTHING FOR YOU, THE NON DELUSIONAL DISGUSTING "TAKIN CONTROL" PEOPLE CAN GET THE FUCK OUT OF MY FACE INDEFINITELY AND THINK ABOUT THE 
+     * OUTCOME THEY HAVE COMMITTED !! Ehehehehe pure genius western professional medicals !!
+     * 
+     * Hope that will make sense eventually eheheheh tens of years eheheheh
      * */
 
     
