@@ -252,6 +252,9 @@ int main()
      * I DO NOT HAVE ANYTHING FOR YOU, thats the only WORDS you will ever hear !! 
      * 
      * Good job !! The genius westerns !!! OMFG !!!
+     * Definitely a useful and beneficial outcome eheheh sleepin sleepin drugging not abusing at all !!
+     * Wumen wumen people the western unique cultured civilization !!!
+     * Good job !!
      * */
 
     
