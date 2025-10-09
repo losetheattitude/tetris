@@ -168,6 +168,8 @@ int main()
      * Achieving the greatest of the greatest outcomes, A few tens of years of NOTHING !!!
      * 
      * The real deal professional medicals !!!
+     * The true and only way to handle CERTAIN situations !!! Do not worry about the FUTURE AND THE PAST !!!
+     * The past !!!!! The true genius medical professional gangsta WESTERN DISGUSTING ANIMALS !!!
      * */
 
     
