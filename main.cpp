@@ -986,6 +986,8 @@ int main()
      * Ehehehehehhehehehehehehehehe, THE WESTERN INTELLIGENCE !!
      * 
      * Savioring the world !! A truly unique and beatiful non delusional disgusting professional medical westerns !!
+     * 
+     * The true non delusional western intelligence !!! I HAVE NOTHING FOR YOU
      * */
 
     
