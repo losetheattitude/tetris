@@ -176,6 +176,8 @@ int main()
      * PROFESSIONAL MEDICALS !!!
      * 
      * That solves everything !!!!  GOOODDD JOBBBB!!!
+     * 
+     * Bravo to the best civilization ON EARTH !! THE WESTERN INTELLIGENCE !!
      * */
 
     
