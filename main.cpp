@@ -917,6 +917,11 @@ int main()
      * A sequence of tens of GREAT INTELLIGENCE DECISIONS, eheheheh and a few tens of years of HARM led to NOTHING
      * THE WESTERN TRUE INTELLIGENCE THAT NOBODY CAN EVER MATCH ehehehehehehe OMFG !!! Good professional medical genius engineerings disgusting non delusional western animals !!!
      * Good job !! Druggin abusin sleepin people Ehehehe makin makin decisions, I HAVE NOTHING FOR YOU
+     * 
+     * Genius engineering western civilized nations !! A wonderful NON DELUSIONAL OUTCOME !!! Eheheheh no results other than ehehehehehh just a few tens of years eheheh with harm eheheheh
+     * 
+     * I HAVE NOT THE TINIEST AND INSIGNIFICANT THING FOR ANY OF YOU, I DO NOT HAVE TIME, Move on with your disgusting acts
+     * OUT OF MY VICINITY !! Great job !!
      * */
     
    
