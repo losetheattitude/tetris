@@ -185,6 +185,8 @@ int main()
      * Yayyyyyy !!!! eheheheheheh we need make more decisions FOR OTHER PEOPLE THAT WE ARE NOT AFFECTED OF !!
      * 
      * LETS GO !!! I HAVE GOT NOTHING FOR YOU, Good job !!
+     * Perfect assumptions and predictions FROM THE BEST OF DA BEST CIVILIZATION OF THE UNIVERSE, THE WESTERN UNMATCHABLE INTELLIGENCE !!
+     * DISGUSTING ANIMALS INDEED, GOod job !1
      * */
 
     
