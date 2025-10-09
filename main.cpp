@@ -207,6 +207,8 @@ int main()
      * THE PASTTTT !!!!
      * 
      * I have zero interest to call it THE PASTTTTTT, eheheheh 
+     * NOT EVEN THE MOST INSIGNIFICANT THING I WILL EVER TRY FOR ANY ONE OF YOUR DISGUSTING WESTERN MINDS !!
+     * A huge problem now solved, CONGRATS !!!
      * */
 
     
