@@ -199,6 +199,7 @@ int main()
      * REGARDLESS OF WHATEVER YOU ALSO DELUDE TO OFFER THAT SHOULD MAKE A DIFFERENCE
      * 
      * Eheheh life a game !!!!! I am not interested 
+     * Not interested in the tiniest disgusting thing you disgusting westerns CAN OFFER
      * */
 
     
