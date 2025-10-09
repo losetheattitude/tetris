@@ -935,6 +935,13 @@ int main()
      * Eheheh The definition of true intelligent professional medicals !!
      * 
      * Good job, I do not have time for you
+     * Good prediction and foreseeing ability FROM THE WESTERN NON DISGUSTING ANIMALS indeed !!
+     * Just a couple of tens of years without NOTHING ehehehehehehheheheh 
+     * 
+     * The real gangsta true professional genius medical engineering DISGUSTING WESTERN ANIMALS
+     * Who has to ignore some disgusting acts THEY HAVE DONE !!! Good job !
+     * 
+     * I have nothing for you
      * */
     
    
