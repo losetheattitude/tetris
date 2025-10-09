@@ -366,6 +366,9 @@ int main()
      * 
      * A few tens of years eheheheh
      * Imma pass on your disgusting "NOT DELUSIONS", good job !!
+     * 
+     * The super great intelligence trying to avoid and ignore the ACTIONS THAT "THEY HAVE COMMITTED"
+     * Must be a real genius gangsta advanced civilization NON DELUSIONAL DISGUSTING WESTERNS INDEED
      * */
 
     
