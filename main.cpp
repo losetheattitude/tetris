@@ -351,6 +351,8 @@ int main()
      * 
      * Hope that makes sense, Good job pretending to be everything THAT YOU ARE NOT !!! THE WESTERN INTELLIGENCE SHALL NEVER BE MATCHED 
      * Ehehehehehe, You can get the fuck out of my face, fool your own kind
+     * 
+     * Good job violating people around you !! Congrats for the outcome 
      * */
 
     
