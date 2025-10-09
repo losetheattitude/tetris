@@ -284,6 +284,12 @@ int main()
      * 
      * Ehehehe good western community non disgusting animals, I have got nothing for you, you can move on with your lives !
      * Good job!! Keep it up always this way !!! eheheheh
+     * A sequence of perfectly PREDICTED AND ASSUMPTIONED "DECISIONS" THAT WERE NOT YOURS NOT EVEN DELUSIONALLY !!
+     * Good job !! Achieving GREAT GREAT OUTCOMES, the true civilized western NON DISGUSTING ANIMALS can move on watching more movies with
+     * imagination fueled content !! 
+     * 
+     * Perfect job !! Done by the one and only genius civilization ON THE UNIVERSE, THE WESTERN CULTURE !!! Good job !!
+     * I HAVE GOT NOTHING FOR YOU
      * */
 
     
