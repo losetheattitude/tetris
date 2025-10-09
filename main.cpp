@@ -365,6 +365,7 @@ int main()
      * Great job, unseen intelligence actions resulting in incomparable OUTCOME !!
      * 
      * A few tens of years eheheheh
+     * Imma pass on your disgusting "NOT DELUSIONS", good job !!
      * */
 
     
