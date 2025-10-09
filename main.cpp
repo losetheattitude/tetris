@@ -966,7 +966,16 @@ int main()
      * 
      * Go with the stupid "ASSUMPTIONS", I have nothing for you, I AM NOT INTERESTED IN ANYTHING THAT YOU ARE AROUND
      * Get the fuck out of my face
+     * 
+     *
+     * Definitely no delusional scenarios for your disgusting imaginations !! Ehehe just a few tens of years WITHOUT ANYTHING
+     * To "CONVINCE" THE ONLY TRUE INTELLIGENCE WESTERN DISGUSTING ANIMALS !!!
+     * 
+     * Eheheheh life a game life a simulation, makin makin decisions ehehehehehehheheh OMFG !!!!! A STICKY SITUATION !!! THE SAVIORS OF DA UNIVERSE !!!
+     * 
+     * Good job for 30 years !! eheheh western professional medical geniuses !!
      * */
+
     
    
 
