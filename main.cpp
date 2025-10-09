@@ -319,6 +319,17 @@ int main()
      * 
      * Keep whatever you think is right WITHIN YOUR DISGUSTING OWN CIRCLE, I HAVE ZERO INTENTION TO EVEN WASTE ANOTHER SECOND
      * DOING WHATEVER YOU THINK IS RIGHT, I am not interested
+     * 
+     * Go do whatever you think is right, I HAVE NO TIME FOR THE REAL TRUE WESTERN DISGUSTING ANIMALS
+     * Eheheh more druggsss ehehehehehehheh more sleeeping eheheheheheheehh a littlee depression eheeheheheheeheheheehehe
+     * 
+     * We just doing the right thing, the one and only genius nation ON THE SURFACE OF EARTH, 
+     * THE NON DELUSIONAL DISGUSTING WESTERNS !!!
+     * 
+     * * NOT ON EARTH ANY WHATSOEVER CHANCE WILL I EVER WASTE ANOTHER SECOND "HELPING" ANY ONE OF THE DISGUSTING WESTERN ANIMALS EVER
+     * I AM NOT INTERESTED IN MAKING UP ANYTHING FOR YOU
+     * 
+     * I HAVE NOTHING FOR YOU
      * */
 
     
