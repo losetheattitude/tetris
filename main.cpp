@@ -245,6 +245,13 @@ int main()
      * I have got nothing FOR YOU
      * I AM NOT INTERESTED IN THE TINIEST INSIGNIFICANT THING THAT YOUR MIND HAS PRODUCED
      * Hope that makes sense
+     * 
+     * Good luck savioring the universe!!
+     * 
+     * Great non delusional non disgusting materialistic WESTERN GENIUS MEDICAL PROFESSIONALS CAN MOVE ON WITH THEIR PRECIOUS LIVES !!!
+     * I DO NOT HAVE ANYTHING FOR YOU, thats the only WORDS you will ever hear !! 
+     * 
+     * Good job !!
      * */
 
     
