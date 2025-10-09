@@ -190,6 +190,11 @@ int main()
      * 
      * Ehehehe when the time comes, The whole world is ETC ETC, ehehehe genius western NON DISGUSTING ANIMALS BTW !!!
      * Ehehehehhehehe, I HAVE GOT ZERO INTEREST FOR YOUR DISGUSTING BULLSHIT, next time STAY WITHIN YOUR DISGUSTING LIMITS 
+     * 
+     * I AM NOT INTERESTED IN TENS OF YEARS OF HEHEHEHEHEHEHEHEHE,
+     * I HAVE GOT NO TIME FOR YOU whether you think it MUST BE
+     * 
+     * I have zero time and desire to waste another second with you
      * */
 
     
