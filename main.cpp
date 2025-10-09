@@ -399,7 +399,8 @@ int main()
      * Just a few tens of years, life a game ONLY OTHERS' LIFE !!1 THE TRUE WESTERN CIVILIZED WAY !!
      * 
      * 
-     * 
+     * THE TRUE MEDICAL PROFESSIONALS MAKING NOT THEIR DECISIONS AND DO NOT GIVE A FUCK !!!!
+     * OMFG !!!!! A lovely chance and outcome, I HAVE GOT NOTHING FOR ANY OF YOU
      * */
 
     
