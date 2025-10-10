@@ -499,6 +499,9 @@ int main()
      * I HAVE GOT NOTHING FOR ANY OF YOU
      * Find out for yourselves !!! hope that will also make sense one day
      * I WILL NEVER BE INTERESTED IN THE MOST DISGUSTING ACTIONS OF THE WESTERNS!! Perfect outcome
+     * 
+     * Ehehehehehehehhehehehehehehehehehhehehehehehehehehhe, a wumen wumen eheheh a disgusting room ehehehehehheheheheheheheheh
+     * Some violence hehehehehehehehehehehehehehehehehehhehehehehehehehehe
      * */
 
     
