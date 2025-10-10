@@ -467,6 +467,11 @@ int main()
      * 
      * I do not want any of the disgusting non delusional western animals AROUND ME
      * Hope that makes sense one day, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
+     * 
+     * I DO NOT WANT TO SEE ANY OF THE DISGUSTING WESTERN ANIMALS WHO HAVE TO IGNORE AND ACT OKAY AROUND ME
+     * It is what it is eheheh indeed most funny and useful sequence of actions and correspounding OUTCOME !!
+     * 
+     * One of da best of da best civilizations ON UNIVERSE ! I HAVE GOT NOTHING FOR ANY OF YOU, I do not want any of you around me
      * */
 
     
