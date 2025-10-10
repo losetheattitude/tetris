@@ -460,6 +460,9 @@ int main()
      * I HAVE GOT NOTHING-NOTHINGGGGG- NOTHING for any of you, hope that will make sense when the TIME COMES eheheheh
      * 
      * Foolin has always been considered intelligent !! I HAVE GOT NOTHING FOR ANY OF YOU
+     * GO ON WITH YOUR DISGUSTING DELUSIONS, I am not interested in anything you can offer
+     * 
+     * I HAVE GOT NOT EVEN THE TINIEST AMOUNT OF ANYTHING FOR YOU
      * */
 
     
