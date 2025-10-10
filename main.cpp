@@ -477,6 +477,11 @@ int main()
      * The non delusional disgusting western animals takin a few tens of years for joke !! definitely the professional genius engineering medicals
      * 
      * Eheheh uffering wumen wumen WHAT A DISGUSTING ANIMAL YOU ALL ARE must be the sole thing you are thinking, guess who is ignorant though
+     * Next time STAY WITHIN YOUR DISGUSTING MIND before you ruin peoples lives for nothing, I AM NOT INTERESTED IN THE TINIEST THING THE DISGUSTING
+     * WESTERN ANIMALS CAN OFFER
+     * 
+     * Thats it !!
+     * GO BACK TO YOUR DISGUSTING MOVIES THE NON DELUSIONAL WESTERN ANIMALS
      * */
 
     
