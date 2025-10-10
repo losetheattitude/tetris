@@ -533,6 +533,11 @@ int main()
      * 
      * A few tens of years and you know the rest !! Ehehehehehehehehhehehehhehehhehehehhehehehhehehhehehehhehehheheheh
      * I HAVE GOT NOTHING FOR ANY OF YOU
+     * 
+     * NOT EVEN THE TINIEST OF THE TINIEST OF ANYTHING THAT I WILL EVER WASTE FOR ANY OF YOU NON DELUSIONAL FULLY SURE DISGUSTING WESTERN ANIMALS
+     * THE TRUE SAVIORS THE DA UNIVERSE, the best engineering professional medical geniuses !!
+     * 
+     * I have no time for any of you
      * */
 
     
