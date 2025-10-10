@@ -444,6 +444,10 @@ int main()
      * Next time hope you do not make the same mistakes eheheheh just note little disgusting mistake FOR THE NEXT GENERATIONS OF THE GREAT WESTERN PEOPLE !!
      * 
      * DA NUMBER ONE OF DA BEST OF DA BEST WESTERN DISGUSTING NON DELUSIONAL ANIMALS should not make the same mistakes as you did !! eheheheh
+     * Ehehehehe drugging ehehehhehe so fun !! GOOD JOB
+     * 
+     * I AM NOT INTERESTED IN THE TINIEST MOST INSIGNIFICANT DISGUSTING CONTENT THAT YOUR MINDS HAS PRODUCED !!
+     * Great achievements, no delusions !!
      * */
 
     
