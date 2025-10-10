@@ -539,6 +539,11 @@ int main()
      * 
      * I have no time for any of you
      * I HAVE NOTHING FOR YOU, good job ! Next time stay within your imagination
+     * 
+     * No delusion western really gangsta aggressive genius engineering animals, guessing assuming coercing !!!
+     * 
+     * A fine outcome that benefits nobody just like the very disgusting yourselves, NO DELUSIONS AT ALL !! Good job
+     * I HAVE NOTHING FOR YOU
      * */
 
     
