@@ -510,6 +510,8 @@ int main()
      * Ehehehehhehehe, eheheheheheheh, its just so simple hehehhehehe
      * 
      * Hope it will allllll make sense to the best of the best western civilized non disgusting animals
+     * I HAVE GOT NOTHING FOR ANY OF YOU, Move on with some other children you can make useless !!
+     * A few tens of years indeed !
      * */
 
     
