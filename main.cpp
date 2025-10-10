@@ -489,6 +489,14 @@ int main()
      * Like the true western genius non delusionals offering wumen wumen eheheh and a few tens of years wont hurt
      * 
      * The perfect combination for the disgusting western animals
+     * Ehehe a wumen and a room for 10 years and some violence without any direction, THE TRUE ONE AND ONLY WESTERN NON DELUSIONAL DISGUSTING ANIMALS
+     * The product of those minds !!
+     * 
+     * Ehehehehehe, wumen only eheheh wumen wumen only ehehehehehe,ehehehe a room ehehehehehe a useless computer eheheheheh
+     * Eheheheheh the true western way ehehehe, a wumen eheheheh a computer that is shit ehehehehehe wumen wumen a few tens of years eheheheh
+     * Violence hehehehe HAD TO BE DONE !! The genius western engineerings !!!
+     * 
+     * I HAVE GOT NOTHING FOR ANY OF YOU
      * */
 
     
