@@ -438,6 +438,8 @@ int main()
      * I DO NOT HAVE EVEN A SECOND FOR ANY OF YOU
      * 
      * Next time try to stay in your limits, instead of callin people different names !! Ehehehe
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER, I DO NOT WANT YOU AROUND ME
      * */
 
     
