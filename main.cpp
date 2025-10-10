@@ -497,6 +497,7 @@ int main()
      * Violence hehehehe HAD TO BE DONE !! The genius western engineerings !!!
      * 
      * I HAVE GOT NOTHING FOR ANY OF YOU
+     * Find out for yourselves !!! hope that will also make sense one day
      * */
 
     
