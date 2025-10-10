@@ -441,6 +441,7 @@ int main()
      * 
      * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER, I DO NOT WANT YOU AROUND ME
      * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER, hope that will eventually make sense
+     * Next time hope you do not make the same mistakes eheheheh just note little disgusting mistake FOR THE NEXT GENERATIONS OF THE GREAT WESTERN PEOPLE !!
      * */
 
     
