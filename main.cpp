@@ -502,6 +502,9 @@ int main()
      * 
      * Ehehehehehehehhehehehehehehehehehhehehehehehehehehhe, a wumen wumen eheheh a disgusting room ehehehehehheheheheheheheheh
      * Some violence hehehehehehehehehehehehehehehehehehhehehehehehehehehe
+     * 
+     * Da true and one and only western way THAT NOOTHER GENIUS PROFESSIONAL MEDICAL WESTERNS WILL EVER BE OKAY TO GO ON WITH !!
+     * Ehehehehehehhehehehhehehe a wumen wumenn eheheheheh a room ehehehehehehhehe !!! Da genius western civilized community DISGUSTING ANIMALS !!!
      * */
 
     
