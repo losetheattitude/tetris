@@ -408,6 +408,12 @@ int main()
      * I HAVE GOT NOTHING FOR YOU
      * Real true street genius civilized people not knowin they limits !!
      * Eheheh next time, you would be much cautious knowin you limits !!! Good job
+     * 
+     * 
+     * NOT EVEN THE TINIEST OF THE TINIEST INSIGNIFICANT THING THAT I WILL EVER HAVE FOR ANY ONE OF YOU DISGUSTING WESTERN NON DELUSIONAL ANIMALS
+     * Good job! Never delude on your TRUE ACHIEVEMENT OF NOTHING !!
+     * 
+     * Da professional highly intelligent medicals !!! Eehehehe
      * */
 
     
