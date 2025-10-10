@@ -486,6 +486,9 @@ int main()
      * Next time, think hundred times 
      * 
      * Just a few tens of years wont hurt people will never be considered, hope that will make sense one day
+     * Like the true western genius non delusionals offering wumen wumen eheheh and a few tens of years wont hurt
+     * 
+     * The perfect combination for the disgusting western animals
      * */
 
     
