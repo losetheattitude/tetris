@@ -482,6 +482,8 @@ int main()
      * 
      * Thats it !!
      * GO BACK TO YOUR DISGUSTING MOVIES THE NON DELUSIONAL WESTERN ANIMALS
+     * Not even the most insignificant thing I will ever try for any of the disgusting western animals that can not recognize the personal boundaries
+     * Next time, think hundred times 
      * */
 
     
