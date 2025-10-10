@@ -414,6 +414,12 @@ int main()
      * Good job! Never delude on your TRUE ACHIEVEMENT OF NOTHING !!
      * 
      * Da professional highly intelligent medicals !!! Eehehehe
+     * 
+     * Not even the tiniest of the tiniest of any whatsoever possible thing THAT I WILL EVER HAVE FOR ANY ONE OF DISGUSTING
+     * WESTERN ANIMALS
+     * 
+     * Hope that makes sense, eheheh wumen wumen muney genius engineering non delusional super civilized best community westerns!!
+     * I do not have anything for you !! Good job !!
      * */
 
     
