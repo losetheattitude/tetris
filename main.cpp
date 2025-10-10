@@ -546,6 +546,9 @@ int main()
      * I HAVE NOTHING FOR YOU
      * 
      * NEXT TIME STAY WITHIN YOUR IMAGINATION eheheheh
+     * Awww the world was about to explode !!! YOU ALL HAVE SAVED IT AGAIN !!! THE WESTERN GENIUS PROFESSIONAL MEDICAL GANGSTA INTELLIGENT PEOPLE !!
+     * 
+     * I HAVE NOT THE TINIEST AMOUNT OF ANYTHING FOR YOU , GOOD JOB !!
      * */
 
     
