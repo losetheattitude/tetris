@@ -522,6 +522,9 @@ int main()
      * 
      * Good medical professional practice OF ALL TIME, Guess who will never be interested ?? Ehehehehehehhehehehhehehe
      * Hope you will find out one day
+     * 
+     * Next time let other WESTERN GENIUS NON DELUSIONAL PEOPLE know that they should not have done the same MISTAKES that you have
+     * Take notes the great western civilization !! ehehehehehehehhehe medical professionals etc eheheheheheheh
      * */
 
     
