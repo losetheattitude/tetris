@@ -429,6 +429,15 @@ int main()
      * 
      * The unseen outcome !!
      * I do not have anything for you !!! Good job though !! Next time stay within your LIMITS eheheheh intelligent actions !!
+     * 
+     * Good stuff !!! More imagination for you !!! The western non delusional animals !!
+     * Follow your gut eheheheheh one of the movies said !! OMFG !!!
+     * 
+     * What a great achievement !!I HAVE GOT NOTHING FOR ANY OF YOU
+     * I am not interested in anything you can offer
+     * I DO NOT HAVE EVEN A SECOND FOR ANY OF YOU
+     * 
+     * Next time try to stay in your limits, instead of callin people different names !! Ehehehe
      * */
 
     
