@@ -514,6 +514,9 @@ int main()
      * A few tens of years indeed !
      * 
      * Ehehe more children more children eheheheh for the great western civilization eheheheheheh
+     * a wumen wumenn a room ehehehehehehhehe just eheheheh life a game !! life a simulation eheheh for the great non DELUSIONAL westerns!!!
+     * 
+     * I HAVE GOT NOTHING FOR ANY OF YOU
      * */
 
     
