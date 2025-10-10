@@ -458,6 +458,8 @@ int main()
      * 
      * Eheheh fallin for "FEAR", good job !!
      * I HAVE GOT NOTHING-NOTHINGGGGG- NOTHING for any of you, hope that will make sense when the TIME COMES eheheheh
+     * 
+     * Foolin has always been considered intelligent !! I HAVE GOT NOTHING FOR ANY OF YOU
      * */
 
     
