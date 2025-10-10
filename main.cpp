@@ -448,6 +448,13 @@ int main()
      * 
      * I AM NOT INTERESTED IN THE TINIEST MOST INSIGNIFICANT DISGUSTING CONTENT THAT YOUR MINDS HAS PRODUCED !!
      * Great achievements, no delusions !!
+     * 
+     * Professionall super duper highly intelligent medical genius engineering western highly regarded ANIMALS without even the tiniest
+     * delusion makin decisions THAT WERE NOT EVEN CLOSELY THEIR PLACE !!OMFG !! Thats the outcome !!!! 
+     * 
+     * OMFG !!! What sort of excuse should the great western non delusional disgusting animals should come up with ?
+     * Yayyyy the outcome builders !!The universes' best of the best humanbeings ehehehehhe trying to hide ehheheheheh
+     * Waaaowwwww, good imagination good movies !!
      * */
 
     
