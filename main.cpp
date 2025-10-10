@@ -472,6 +472,10 @@ int main()
      * It is what it is eheheh indeed most funny and useful sequence of actions and correspounding OUTCOME !!
      * 
      * One of da best of da best civilizations ON UNIVERSE ! I HAVE GOT NOTHING FOR ANY OF YOU, I do not want any of you around me
+     * 
+     * NOT EVEN THE MOST INSIGNIFICANT THING I WILL EVER SPEND FOR ANY OF YOU, I HAVE GOT NOTHING FOR YOU
+     * The non delusional disgusting western animals takin a few tens of years for joke !! definitely the professional genius engineering medicals
+     * 
      * */
 
     
