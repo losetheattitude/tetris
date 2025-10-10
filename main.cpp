@@ -525,6 +525,11 @@ int main()
      * 
      * Next time let other WESTERN GENIUS NON DELUSIONAL PEOPLE know that they should not have done the same MISTAKES that you have
      * Take notes the great western civilization !! ehehehehehehehhehe medical professionals etc eheheheheheheh
+     * 
+     * A few tens of years eheheh some sleepin and drugging together with violence and coercion and no life at all IS JUST A DRAMA STORY
+     * Eheheheheheh just like the non delusional western genius great engineerings makin marvelous movies because they think its reality !!
+     * 
+     * Ehehehehehehheheheh, OMFG !!! Good job !! I have got nothing for you
      * */
 
     
