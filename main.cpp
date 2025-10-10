@@ -464,6 +464,9 @@ int main()
      * 
      * I HAVE GOT NOT EVEN THE TINIEST AMOUNT OF ANYTHING FOR YOU
      * You must follow more MARVELOUS MOVIES, good job !!
+     * 
+     * I do not want any of the disgusting non delusional western animals AROUND ME
+     * Hope that makes sense one day, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * */
 
     
