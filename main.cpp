@@ -517,6 +517,8 @@ int main()
      * a wumen wumenn a room ehehehehehehhehe just eheheheh life a game !! life a simulation eheheh for the great non DELUSIONAL westerns!!!
      * 
      * I HAVE GOT NOTHING FOR ANY OF YOU
+     * I HAVE GOT NOTHING FOR ANY OF YOU, You are free to do whatever you think is right as YOUR ACTIONS HAVE PROVED SO USEFUL !!
+     * I HAVE GOT NO TIME FOR ANY OF THE DISGUSTING WESTERN ANIMALS
      * */
 
     
