@@ -786,6 +786,10 @@ int main()
      * Good job !! Achieving what you are not perceiving, ehehehe life a game
      * 
      * Not even a second I will ever have for the disgusting western ANIMALS, THAT WILL MAKE SENSE TO YOU
+     * The non delusional ignorant disgusting western animals makin assumptions and decisions and tests and predictions
+     * for things they do not care nor understand
+     * 
+     * THAT WILL MAKE SENSE TO YOU AS WELL
      * */
 
     
