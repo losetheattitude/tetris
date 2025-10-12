@@ -731,6 +731,8 @@ int main()
      * 
      * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER, hope that makes sense
      * Next time remember to make sense about life before you harm OTHER PEOPLE indeed !!
+     * 
+     * IGNORE WITHOUT ME, FROM OUT OF MY VICINITY !! Good job !
      * */
 
     
