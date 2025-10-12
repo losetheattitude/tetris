@@ -808,6 +808,7 @@ int main()
      * NOT UNDERSTANDING THAT YOU CAN AND WILL AND HAVE LOST, that will make sense too
      * 
      * I HAVE GOT NOTHING FOR THE DISGUSTING WESTERN ANIMALS, move on 
+     * Better spine next time FOR DA GREAT WESTERN CIVILIZED NON DELUSIONAL DISGUSTING ANIMALS
      * */
 
     
