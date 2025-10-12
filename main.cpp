@@ -750,6 +750,9 @@ int main()
      * GO BACK TO YOUR DISGUSTING DELUSIONS !! I HAVE GOT NOTHING FOR ANY OF YOU
      * GO BACK TO YOUR DISGUSTING DELUSIONS AND CONTINUE IGNORING
      * I have got nothing for you
+     * 
+     * A few tens of years will do NO HARM people can continue ignoring and deluding to understand life 
+     * I HAVE GOT NOTHING FOR ANY OF YOU 
      * */
 
     
