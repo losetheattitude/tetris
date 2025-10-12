@@ -633,6 +633,11 @@ int main()
      * Move on deluding, hope that will also make sense
      * Next time know what a disgusting animal you are first before makin "assumptions" and "predictions" for people you do not care
      * Ehehehe genius western non ignorant civilized disgusting animals CAN GET THE FUCK OUT OF MY FACE, I have got nothing for any of you
+     * 
+     * Non disgusting really advanced super intelligent non ignorant western animals can continue whatever think is definitely right !!
+     * I HAVE GOT NOTHING FOR ANY OF YOU
+     * 
+     * Wasting time hehehehe lucky that its not your time eheheh
      * */
 
     
