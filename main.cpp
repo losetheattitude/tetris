@@ -695,6 +695,9 @@ int main()
      * 
      * I HAVE GOT NOTHING FOR ANY OF YOU !!
      * Good job !
+     * 
+     * Like I am not the one eheheheheh a wumen and a room with some violence heheheh WESTERN GENIUS INTELLIGENCE NON DELUSIONAL DISGUSTING ANIMALS !!
+     * I HAVE GOT NOT THE TINIEST OF ANYTHING FOR ANY OF YOU, keep ignoring
      * */
 
     
