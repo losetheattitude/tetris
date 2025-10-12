@@ -721,6 +721,15 @@ int main()
      * Move on ignoring, eheheheh a few tens of years of nothing to CREATE AN OUTCOME UNSEEN FROM DA WORLD !!!
      * 
      * I HAVE GOT NOTHING TO DO WITH ANY OF YOU
+     * Really really good assumption skills and tests and decision making ability with the most unseen level of greatness FROM DA WESTERN PEOPLE !!
+     * Ehehehehehehe just a few tens of years of coercion and drugging and violence and a wumen and a room eheheh some drugs because WE KNOW THE BEST !!
+     * 
+     * THE ALMIGHTY VERY KNOWING WISE AND GREAT GENIUS WESTERN NON DELUSIONAL DISGUSTING ANIMALS MAKING DECISIONS THAT ARE NOT THEIRS
+     * THE ALMIGHTY VERY KNOWING WISE AND GREAT GENIUS WESTERN NON DELUSIONAL DISGUSTING ANIMALS MAKING DECISIONS THAT ARE NOT THEIRS
+     * THE ALMIGHTY VERY KNOWING WISE AND GREAT GENIUS WESTERN NON DELUSIONAL DISGUSTING ANIMALS MAKING DECISIONS THAT ARE NOT THEIRS
+     * THE ALMIGHTY VERY KNOWING WISE AND GREAT GENIUS WESTERN NON DELUSIONAL DISGUSTING ANIMALS MAKING DECISIONS THAT ARE NOT THEIRS
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER, hope that makes sense
      * */
 
     
