@@ -746,6 +746,10 @@ int main()
      * 
      * The real gangsta genius western NON DELUSIONAL HONEST WISE AND ALMIGHTHY KNOWING professional medicals !!
      * THE REAL ALMIGHT GREAT WESTERN CIVILIZATION THAT LEARNS EVERYTHING !!! Eheheheheheeheheheheh I HAVE GOT NOTHING FOR ANY OF YOU
+     * 
+     * GO BACK TO YOUR DISGUSTING DELUSIONS !! I HAVE GOT NOTHING FOR ANY OF YOU
+     * GO BACK TO YOUR DISGUSTING DELUSIONS AND CONTINUE IGNORING
+     * I have got nothing for you
      * */
 
     
