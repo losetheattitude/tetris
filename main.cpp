@@ -710,6 +710,9 @@ int main()
      * Hope it will all make sense to you ONCE YOU understand that I WILL NEVER EVER HAVE ANYTHING WITH ANY OF YOU !!
      * 
      * Good job !! I am not interested in anything you can offer, ehehehe wumen wumen people 
+     * 
+     * Hope you still remember the next time !!
+     * The non delusional non coerceful disgusting western animals
      * */
 
     
