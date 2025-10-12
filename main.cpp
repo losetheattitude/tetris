@@ -597,6 +597,8 @@ int main()
      * A genius modern civilized community the non ignorant and non disgusting western ANIMALS !! Makin assumptions predictions decisions ehehehehehe
      * 
      * A master work THAT I WILL NOT EVEN WASTE A SECOND !! True unique talented people
+     * Foolin drugging violating coercin sleeping people without anything is the true definiton of talented non ignorant non disgusting western animals
+     * Ehehehehehe, trying to cope with the reality of not their decisions eheheheheh
      * */
 
     
