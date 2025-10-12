@@ -701,6 +701,11 @@ int main()
      * 
      * KEEP IGNORING, There is not even the tiniest thing for you
      * ehehehehehehehe controllin to achieve absolute nothing FROM DA BEST OF DA BEST WESTERN NON DELUSIONAL CIVILIZATIONS !!
+     * 
+     * NEVER EVER MENTION ANYTHING RELATED TO THE DISGUSTING NON DELUSIONAL WESTERN ANIMALS WHO LOVE TO MAKE DECISIONS AND ASSUMPTIONS
+     * FOR PEOPLE THEY DO NOT CARE !!
+     * 
+     * Not even the most insignificant thing I will ever accept from any of you
      * */
 
     
