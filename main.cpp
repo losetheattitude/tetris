@@ -794,6 +794,11 @@ int main()
      * 
      * I will never ever have anything FOR ANY OF THE DISGUSTING WESTERN ANIMALS
      * Remember all the PAST, that will make sense too
+     * 
+     * The almighty ever knowing western professional medical non ignorant disgusting animals with the intelligence of unseen level 
+     * WILL MAKE IT SENSE TO THEMSELVES ONE DAY
+     * 
+     * Ehehehe I HAVE GOT NOTHING FOR THE DISGUSTING WESTERNS NEITHER WILL I EVER HAVE 
      * */
 
     
