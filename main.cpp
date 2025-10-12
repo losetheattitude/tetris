@@ -733,6 +733,10 @@ int main()
      * Next time remember to make sense about life before you harm OTHER PEOPLE indeed !!
      * 
      * IGNORE WITHOUT ME, FROM OUT OF MY VICINITY !! Good job !
+     * Da great western intelligent non delusional professional medicals makin sleepin drugging coercin violencing people 
+     * to evidence ehehehehhehe, hope that makes sense 
+     * 
+     * I HAVE GOT NOTHING TO DO WITH ANY OF YOU eheheheh
      * */
 
     
