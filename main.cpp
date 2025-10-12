@@ -627,6 +627,8 @@ int main()
      * 
      * Ehehe not delusions not ignorance at all eheheheheh, I have got not even the most disgusting little thing for any of you
      * Why are you still acting so intelligent now ? I have got NOTHING for any of you, I am not interested in anything you are around
+     * 
+     * Stupid little disgusting non ignorant western animals, I have got nothing for any of you
      * */
 
     
