@@ -599,6 +599,10 @@ int main()
      * A master work THAT I WILL NOT EVEN WASTE A SECOND !! True unique talented people
      * Foolin drugging violating coercin sleeping people without anything is the true definiton of talented non ignorant non disgusting western animals
      * Ehehehehehe, trying to cope with the reality of not their decisions eheheheheh
+     * 
+     * Eheheheh only true unique talented way to cope with the reality, Ehehehe extremely unfair etc etc mode because you have got nothing to say eheheheh
+     * 
+     * I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING INSIGNIFICANT FOR ANY OF YOU
      * */
 
     
