@@ -730,6 +730,7 @@ int main()
      * THE ALMIGHTY VERY KNOWING WISE AND GREAT GENIUS WESTERN NON DELUSIONAL DISGUSTING ANIMALS MAKING DECISIONS THAT ARE NOT THEIRS
      * 
      * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER, hope that makes sense
+     * Next time remember to make sense about life before you harm OTHER PEOPLE indeed !!
      * */
 
     
