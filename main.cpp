@@ -791,6 +791,8 @@ int main()
      * 
      * THAT WILL MAKE SENSE TO YOU AS WELL
      * A few tens of years ehehe
+     * 
+     * I will never ever have anything FOR ANY OF THE DISGUSTING WESTERN ANIMALS
      * */
 
     
