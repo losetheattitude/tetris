@@ -555,6 +555,14 @@ int main()
      * Eheheheheh, funny as much
      * 
      * Professional medical geniuses eheheheh, incredible outcome builders FROM DA BEST OF DA BEST CIVILIZATIONS, THE WESTERN GENIUS ENGINEERS MEDICALS
+     * A few tens of years people makin not their decisions and looking at each other, WHAT ? WHO ? eheheheheh disgusting people can get the fuck out of my face
+     * INDEFINITELY
+     * 
+     * I DO NOT EVEN HAVE THE TINIEST OF ANYTHING INSIGNIFACANT FOR ANY OF YOU
+     * More children for the professional medicals who are truly unique talents FROM DA DISGUSTING NON DELUSIONAL COUNTRIES !! 
+     * Good job!!
+     * 
+     * I am not interested in anything you can offer
      * */
 
     
