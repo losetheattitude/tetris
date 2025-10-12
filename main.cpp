@@ -799,6 +799,7 @@ int main()
      * WILL MAKE IT SENSE TO THEMSELVES ONE DAY
      * 
      * Ehehehe I HAVE GOT NOTHING FOR THE DISGUSTING WESTERNS NEITHER WILL I EVER HAVE 
+     * Good job not moving to anywhere, I do not have time for you
      * */
 
     
