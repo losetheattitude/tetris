@@ -620,6 +620,8 @@ int main()
      * 
      * Non ignorant, non delusional, non stubborn, non rookie, great western genius unique talented people
      * Ehehehehe it is what it is eheheheheh
+     * 
+     * I do not have the slighest of anything insignificant for any of you, hope that will eventually make sense 
      * */
 
     
