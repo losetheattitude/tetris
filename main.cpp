@@ -575,6 +575,11 @@ int main()
      * I have got nothing for any of you
      * Druggings, genius engineerings, non delusional professional medicals, sleepings ehehehheeh
      * Great fucking amazing talented genius western people, Good job !! 
+     * 
+     * Professional medicals ehehehehh medical genius engineering western perfect non ignorant disgusting animals
+     * Eheheheh not stayin in limits !!! OMFG !!! a lovely successful job FROM DA BEST CIVILIZATION ON EARTH, DA WESTERN PERFECTION OMFG !!!
+     * 
+     * The professional medicals !!
      * */
 
     
