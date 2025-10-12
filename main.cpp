@@ -617,6 +617,9 @@ int main()
      * Perfect action and incomparable outcome !!
      * From da best of da best civilization on universe takin everything they do for joke !! eheheh
      * A few tens of years is nothing ! eheheh
+     * 
+     * Non ignorant, non delusional, non stubborn, non rookie, great western genius unique talented people
+     * Ehehehehe it is what it is eheheheheh
      * */
 
     
