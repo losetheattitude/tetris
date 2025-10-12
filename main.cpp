@@ -766,6 +766,11 @@ int main()
      * WOWWWWWWWW, I HAVE GOT NOTHING FOR YOU
      * I do not have time for you
      * Move on ignoring,
+     * 
+     * The almighthy ever knowing non delusional great western civilized disgusting animals ARE STILL UNABLE PERCEIVE THE OUTCOME
+     * What a lovely chance !!
+     * 
+     * I HAVE GOT NOTHING OF ANYTHING FOR ANY OF YOU
      * */
 
     
