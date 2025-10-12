@@ -586,6 +586,12 @@ int main()
      * Ehehehehehehe so fun !!
      * 
      * Immaculate ignorance !!! Nice job !! I have got nothing for you eheheh
+     * 
+     * Foolin foolin people without anyone eheheh druggin druggin people without anyone eheheheh sleepin coercing eheheheheh
+     * The true western genius engineering professional medicals way !!! Ehehehe a few tens of year eheheheheh, a wumen a wumen a room ehehehe
+     * 
+     * Its so fun !!! The professional non ignorant disgusting western animals trying to make sure heehhehehe
+     * I HAVE GOT NOTHING FOR ANY OF YOU, next time stay within your limits !! Ehehehehehehe
      * */
 
     
