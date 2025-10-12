@@ -638,6 +638,12 @@ int main()
      * I HAVE GOT NOTHING FOR ANY OF YOU
      * 
      * Wasting time hehehehe lucky that its not your time eheheh
+     * Truly western NON DELUSIONAL professional medical physyscits engineers genius nation western people !!
+     * Awwww, what a lovely chance, good job !!! Make more decisions you are great !
+     * 
+     * I have got nothing for you any of you 
+     * Ehehe druggin coercing genius western non disgusting and delusional animals CAN GET THE FUCK OUT OF MY FACE INDEFINITELY !!
+     * Good job !!
      * */
 
     
