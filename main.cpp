@@ -574,6 +574,7 @@ int main()
      * 
      * I have got nothing for any of you
      * Druggings, genius engineerings, non delusional professional medicals, sleepings ehehehheeh
+     * Great fucking amazing talented genius western people, Good job !! 
      * */
 
     
