@@ -771,6 +771,8 @@ int main()
      * What a lovely chance !!
      * 
      * I HAVE GOT NOTHING OF ANYTHING FOR ANY OF YOU
+     * Good job the western impeccable great disgusting delusional animals
+     * I HAVE NOTHING FOR YOU
      * */
 
     
