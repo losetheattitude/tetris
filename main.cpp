@@ -644,6 +644,12 @@ int main()
      * I have got nothing for you any of you 
      * Ehehe druggin coercing genius western non disgusting and delusional animals CAN GET THE FUCK OUT OF MY FACE INDEFINITELY !!
      * Good job !!
+     * 
+     * A few tens of years is nothing people offerin wumen wumen a room eheheh a few tens of years
+     * A lovely genius western society eheheheh and some medical professional expert people hehehehe some coercion heheh drugging and a little sleep 
+     * and eheheheh a room and a wumen with 20 years of depression heehehheheheh BECAUSE THE WESTERN GENIUS PROFESSIONAL MEDICAL EXPERTS !!!
+     * 
+     * OMFG !! THE OUTCOME !!!
      * */
 
     
