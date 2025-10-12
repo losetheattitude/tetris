@@ -673,6 +673,11 @@ int main()
      * 
      * Makin decisions decisions because you feel like heehhehe assumptions and tests and preemptive genius professional medical actions !!
      * The outcome eheheheheheheheheheheheh
+     * 
+     * Kind of not even closely ignorant people eheheheh makin decisions that are not theirs eheheheh
+     * Copin copin genius westerns professional medicals heehehh
+     * 
+     * I HAVE GOT NOTHING FOR ANY OF YOU
      * */
 
     
