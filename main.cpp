@@ -679,10 +679,18 @@ int main()
      * 
      * I HAVE GOT NOTHING FOR ANY OF YOU
      * The evidence OF THE GREAT OUTCOME !!
+     * 
+     * The really wise and sceptical genius westerns picking up only the WISE AND CLEVER ACTIONS THEY THINK THEY WILL SUIT TO THEM
+     * 
+     * NON IGNORANT WESTERN FULLY DISGUSTING ENTIRELY NON DELUSIONAL ANIMALS FEELING SO SAFE HARMIN OTHER PEOPLE THEY DO NOT CARE
+     * Ehehe a wumen and a room eheheheheh ehehheheheh the true western genius community !!
+     * 
+     * I HAVE GOT NOTHING FOR ANY OF YOU
      * */
 
     
    
+    // SetConfigFlags(FLAG_FULLSCREEN_MODE);  
 
     InitWindow(500, 620, "Raylib Tetris");
     SetTargetFPS(60);
