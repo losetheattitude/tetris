@@ -809,6 +809,11 @@ int main()
      * 
      * I HAVE GOT NOTHING FOR THE DISGUSTING WESTERN ANIMALS, move on 
      * Better spine next time FOR DA GREAT WESTERN CIVILIZED NON DELUSIONAL DISGUSTING ANIMALS
+     * A few tens of years ehehehehhe
+     * 
+     * HOPE YOU WILL PERCEIVE ONE DAY eheheheheh, I HAVE GOT NOT THE MOST DISGUSTING THING FOR ANY OF YOU
+     * 
+     * I do not have time for anything you can offer, Western animals can delude on
      * */
 
     
