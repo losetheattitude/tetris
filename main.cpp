@@ -569,6 +569,10 @@ int main()
      * Truly unique talents !
      * 
      * I am not interested in anything you can offer
+     * Ehehehe get a wumen wumen enough for ehehehehe a few tens of years ehehehehee,
+     * a wumen a wumen eheheheh
+     * 
+     * I have got nothing for any of you
      * */
 
     
