@@ -607,6 +607,9 @@ int main()
      * Good job !! True professional western medical talented people
      * 
      * I HAVE GOT NOTHING FOR ANY OF YOU
+     * 
+     * Great western highly modern civilized non ignorant and non delusional highly important disgusting western animals CAN GET THE FUCK OUT OF MY FACE
+     * INDEFINITELY, I have got not the most insignificant thing for any of you, hope that makes sense
      * */
 
     
