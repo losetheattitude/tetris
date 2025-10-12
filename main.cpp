@@ -690,6 +690,11 @@ int main()
      * I HAVE GOT NOT THE TINIEST AMOUNT OF ANYTHING INSIGNIFICANT FOR ANY OF YOU
      * 
      * Remember that !! 
+     * NOT INTERESTED IN ANOTHER TENS OF YEARS OF NOTHING WITH THE MOST DELUSIONAL DISGUSTING WESTERN ANIMALS
+     * Hope that will make sense as well
+     * 
+     * I HAVE GOT NOTHING FOR ANY OF YOU !!
+     * Good job !
      * */
 
     
