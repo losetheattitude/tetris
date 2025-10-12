@@ -755,6 +755,15 @@ int main()
      * I HAVE GOT NOTHING FOR ANY OF YOU 
      * 
      * Eheheheehehehhe asking for more things FROM PEOPLE heehhehehehehehhehehehehehhehehehehehehehhehehh
+     * 
+     * Great western non delusional disgusting animals CAN NOT PERCEIVE THE REALITY !!
+     * Hope that will make sense as well, eheheh foolin drugging coercing violating sleeping people now suddenly starts paying the price ehehehehehehehehehehehe
+     * 
+     * GENIUS WESTERNS !!
+     * I HAVE GOT NOT THE TINIEST AMOUNT OF ANYTHING WHATSOEVER, eheheheh hope you will find out eheheheh
+     * PRECIOUS LIVES OF DA BEST OF DA BEST WESTERNS !!! THE UNIVERSE'S GREATEST OF THE GREATEST CIVILIZED COUNTRY ANIMALS
+     * 
+     * WOWWWWWWWW, I HAVE GOT NOTHING FOR YOU
      * */
 
     
