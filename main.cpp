@@ -800,6 +800,10 @@ int main()
      * 
      * Ehehehe I HAVE GOT NOTHING FOR THE DISGUSTING WESTERNS NEITHER WILL I EVER HAVE 
      * Good job not moving to anywhere, I do not have time for you
+     * 
+     * MOVE ON MAKING DECISIONS AND BLINDLY FOLLOW IT, good job!!
+     * 
+     * I DO NOT NEED ANY OF THAT
      * */
 
     
