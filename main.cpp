@@ -743,6 +743,8 @@ int main()
      * I HAVE NOTHING FOR ANY OF YOU 
      * Perfect outcome ! A few tens of years will do no harm
      * Professional medicals are without option !!
+     * 
+     * The real gangsta genius western NON DELUSIONAL HONEST WISE AND ALMIGHTHY KNOWING professional medicals !!
      * */
 
     
