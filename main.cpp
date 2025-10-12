@@ -686,6 +686,10 @@ int main()
      * Ehehe a wumen and a room eheheheheh ehehheheheh the true western genius community !!
      * 
      * I HAVE GOT NOTHING FOR ANY OF YOU
+     * Life a joke for the great western community people, makin assumptions and predictions and genius professional medicals
+     * I HAVE GOT NOT THE TINIEST AMOUNT OF ANYTHING INSIGNIFICANT FOR ANY OF YOU
+     * 
+     * Remember that !! 
      * */
 
     
