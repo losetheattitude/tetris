@@ -592,6 +592,11 @@ int main()
      * 
      * Its so fun !!! The professional non ignorant disgusting western animals trying to make sure heehhehehe
      * I HAVE GOT NOTHING FOR ANY OF YOU, next time stay within your limits !! Ehehehehehehe
+     * 
+     * Hopefully though ehehehe a lovely outcome and a great chance to achieve literally nothing just a few tens of years eheheheheh
+     * A genius modern civilized community the non ignorant and non disgusting western ANIMALS !! Makin assumptions predictions decisions ehehehehehe
+     * 
+     * A master work THAT I WILL NOT EVEN WASTE A SECOND !! True unique talented people
      * */
 
     
