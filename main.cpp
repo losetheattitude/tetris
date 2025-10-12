@@ -784,6 +784,8 @@ int main()
      * Hope that makes sense
      * Hope your ability to delude will never cease THE WESTERN NON DELUSIONAL BENEFICIAL DISGUSTING ANIMALS THAT I WILL NEVER EVER BE AROUND
      * Good job !! Achieving what you are not perceiving, ehehehe life a game
+     * 
+     * Not even a second I will ever have for the disgusting western ANIMALS, THAT WILL MAKE SENSE TO YOU
      * */
 
     
