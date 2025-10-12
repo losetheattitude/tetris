@@ -777,6 +777,11 @@ int main()
      * Hope the imperceivable outcome WILL MAKE SENSE TO YOU ALL ONE DAY eheheheh
      * Until then please move on with your disgusting existence FROM OUT OF MY VICINITY, No ignorant no delusional great intelligent DISGUSTING WESTERN
      * I AM NOT INTERESTED OF 
+     * 
+     * Continue on MAKING DECISIONS THAT ARE NOT YOURS, I AM NOT INTERESTED IN THE DISGUSTING WESTERN ANIMALS
+     * Thats the only thing THAT YOU WILL EVER HEAR FROM ME
+     * 
+     * Hope that makes sense
      * */
 
     
