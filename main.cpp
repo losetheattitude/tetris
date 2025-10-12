@@ -713,6 +713,9 @@ int main()
      * 
      * Hope you still remember the next time !!
      * The non delusional non coerceful disgusting western animals
+     * 
+     * Not ignorant you say, definitely !!
+     * I HAVE GOT NOT EVEN THE TINIEST OF ANYTHING, that will make sense soon enough eheheheheh
      * */
 
     
