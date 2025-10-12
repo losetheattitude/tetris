@@ -650,6 +650,15 @@ int main()
      * and eheheheh a room and a wumen with 20 years of depression heehehheheheh BECAUSE THE WESTERN GENIUS PROFESSIONAL MEDICAL EXPERTS !!!
      * 
      * OMFG !! THE OUTCOME !!!
+     * Ehehehe the true western great civilized society with so many people who are master at everything they do !!
+     * The professional medical experts !!!
+     * The really really disgusting stupid group of zombies !!
+     * The great great super highly clever wise and almighthy knowing group of people making assumptions and decisions FOR OTHER PEOPLE
+     * THE DO NOT CARE
+     * 
+     * THE WESTERNS !!!
+     * I HAVE GOT NOT EVEN THE TINIEST THING FOR ANY OF YOU !!
+     * GOOD JOB !!! The achievers !!! Waaowwwww, the outcome !!
      * */
 
     
