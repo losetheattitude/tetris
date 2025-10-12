@@ -706,6 +706,10 @@ int main()
      * FOR PEOPLE THEY DO NOT CARE !!
      * 
      * Not even the most insignificant thing I will ever accept from any of you
+     * All mighthy very knowing wise and intelligent western animals CAN CONTINUE MAKING DECISIONS THEY ARE NOT AFFECTED OF
+     * Hope it will all make sense to you ONCE YOU understand that I WILL NEVER EVER HAVE ANYTHING WITH ANY OF YOU !!
+     * 
+     * Good job !! I am not interested in anything you can offer, ehehehe wumen wumen people 
      * */
 
     
