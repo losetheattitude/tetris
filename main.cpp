@@ -629,6 +629,8 @@ int main()
      * Why are you still acting so intelligent now ? I have got NOTHING for any of you, I am not interested in anything you are around
      * 
      * Stupid little disgusting non ignorant western animals, I have got nothing for any of you
+     * 
+     * Move on deluding, hope that will also make sense
      * */
 
     
