@@ -745,6 +745,7 @@ int main()
      * Professional medicals are without option !!
      * 
      * The real gangsta genius western NON DELUSIONAL HONEST WISE AND ALMIGHTHY KNOWING professional medicals !!
+     * THE REAL ALMIGHT GREAT WESTERN CIVILIZATION THAT LEARNS EVERYTHING !!! Eheheheheheeheheheheh I HAVE GOT NOTHING FOR ANY OF YOU
      * */
 
     
