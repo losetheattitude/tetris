@@ -659,6 +659,8 @@ int main()
      * THE WESTERNS !!!
      * I HAVE GOT NOT EVEN THE TINIEST THING FOR ANY OF YOU !!
      * GOOD JOB !!! The achievers !!! Waaowwwww, the outcome !!
+     * 
+     * NO DELUSIONS AT ALL !!
      * */
 
     
