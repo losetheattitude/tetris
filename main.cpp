@@ -610,6 +610,12 @@ int main()
      * 
      * Great western highly modern civilized non ignorant and non delusional highly important disgusting western animals CAN GET THE FUCK OUT OF MY FACE
      * INDEFINITELY, I have got not the most insignificant thing for any of you, hope that makes sense
+     * 
+     * Makin makin decisions assumptions predictions and also really talented unique tests eheheheheheh
+     * Like a real genius gangsta true western intelligent non ignorant disgusting stupid animal !!
+     * 
+     * Perfect action and incomparable outcome !!
+     * From da best of da best civilization on universe takin everything they do for joke !! eheheh
      * */
 
     
