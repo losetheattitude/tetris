@@ -664,6 +664,12 @@ int main()
      * 
      * A few tens of years and years wont do any harm to nobody
      * No delusional western disgusting stupid animals,
+     * 
+     * REMEMBER IF YOU HAVE FORGOTTEN, eheheheheh The genius engineering professional medicals makin assumptions and predictions 
+     * because they do not care due to their impeccable reallly gangsta attitude towards only others' lives ehehehehehe
+     * 
+     * 
+     * I HAVE GOT NOT EVEN THE TINIEST AMOUNT OF MOST INSIGNIFICANT THING FOR ANY OF YOU, hope that will make sense one day
      * */
 
     
