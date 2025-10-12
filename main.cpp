@@ -603,6 +603,10 @@ int main()
      * Eheheheh only true unique talented way to cope with the reality, Ehehehe extremely unfair etc etc mode because you have got nothing to say eheheheh
      * 
      * I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING INSIGNIFICANT FOR ANY OF YOU
+     * Stupid disgusting careless ignorant animals can get the fuck out of my face disgusting children to become nothing eheheheh
+     * Good job !! True professional western medical talented people
+     * 
+     * I HAVE GOT NOTHING FOR ANY OF YOU
      * */
 
     
