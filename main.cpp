@@ -661,6 +661,8 @@ int main()
      * GOOD JOB !!! The achievers !!! Waaowwwww, the outcome !!
      * 
      * NO DELUSIONS AT ALL !!
+     * 
+     * A few tens of years and years wont do any harm to nobody
      * */
 
     
