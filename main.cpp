@@ -716,6 +716,11 @@ int main()
      * 
      * Not ignorant you say, definitely !!
      * I HAVE GOT NOT EVEN THE TINIEST OF ANYTHING, that will make sense soon enough eheheheheh
+     * 
+     * Hope that will make sense one day, I HAVE GOT NOT EVEN THE TINIEST OF ANYTHING INSIGNIFICANT FOR ANY OF YOU
+     * Move on ignoring, eheheheh a few tens of years of nothing to CREATE AN OUTCOME UNSEEN FROM DA WORLD !!!
+     * 
+     * I HAVE GOT NOTHING TO DO WITH ANY OF YOU
      * */
 
     
