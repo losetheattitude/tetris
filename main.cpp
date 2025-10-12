@@ -549,6 +549,10 @@ int main()
      * Awww the world was about to explode !!! YOU ALL HAVE SAVED IT AGAIN !!! THE WESTERN GENIUS PROFESSIONAL MEDICAL GANGSTA INTELLIGENT PEOPLE !!
      * 
      * I HAVE NOT THE TINIEST AMOUNT OF ANYTHING FOR YOU , GOOD JOB !!
+     * 
+     * 
+     * A few tens of years wont do harm genius intelligence engineer civilized non delusional disgusting animals trying to cope
+     * Eheheheheh, funny as much
      * */
 
     
