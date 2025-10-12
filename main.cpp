@@ -737,6 +737,11 @@ int main()
      * to evidence ehehehehhehe, hope that makes sense 
      * 
      * I HAVE GOT NOTHING TO DO WITH ANY OF YOU eheheheh
+     * HOPE THAT WILL MAKE SENSE someday to the best of the best genius engineering western NON DELUSIONAL ANIMALS !!
+     * Good job !!
+     * 
+     * I HAVE NOTHING FOR ANY OF YOU 
+     * Perfect outcome ! A few tens of years will do no harm
      * */
 
     
