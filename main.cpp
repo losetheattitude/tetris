@@ -670,6 +670,9 @@ int main()
      * 
      * 
      * I HAVE GOT NOT EVEN THE TINIEST AMOUNT OF MOST INSIGNIFICANT THING FOR ANY OF YOU, hope that will make sense one day
+     * 
+     * Makin decisions decisions because you feel like heehhehe assumptions and tests and preemptive genius professional medical actions !!
+     * The outcome eheheheheheheheheheheheh
      * */
 
     
