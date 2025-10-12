@@ -773,6 +773,10 @@ int main()
      * I HAVE GOT NOTHING OF ANYTHING FOR ANY OF YOU
      * Good job the western impeccable great disgusting delusional animals
      * I HAVE NOTHING FOR YOU
+     * 
+     * Hope the imperceivable outcome WILL MAKE SENSE TO YOU ALL ONE DAY eheheheh
+     * Until then please move on with your disgusting existence FROM OUT OF MY VICINITY, No ignorant no delusional great intelligent DISGUSTING WESTERN
+     * I AM NOT INTERESTED OF 
      * */
 
     
