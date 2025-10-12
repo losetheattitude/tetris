@@ -622,6 +622,11 @@ int main()
      * Ehehehehe it is what it is eheheheheh
      * 
      * I do not have the slighest of anything insignificant for any of you, hope that will eventually make sense 
+     * A few tens of years because makin tests makin drugs makin sleeping eheheheheh
+     * Hope that will make sense as well
+     * 
+     * Ehehe not delusions not ignorance at all eheheheheh, I have got not even the most disgusting little thing for any of you
+     * Why are you still acting so intelligent now ? I have got NOTHING for any of you, I am not interested in anything you are around
      * */
 
     
