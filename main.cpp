@@ -753,6 +753,8 @@ int main()
      * 
      * A few tens of years will do NO HARM people can continue ignoring and deluding to understand life 
      * I HAVE GOT NOTHING FOR ANY OF YOU 
+     * 
+     * Eheheheehehehhe asking for more things FROM PEOPLE heehhehehehehehhehehehehehhehehehehehehehhehehh
      * */
 
     
