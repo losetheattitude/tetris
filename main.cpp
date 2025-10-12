@@ -580,6 +580,10 @@ int main()
      * Eheheheh not stayin in limits !!! OMFG !!! a lovely successful job FROM DA BEST CIVILIZATION ON EARTH, DA WESTERN PERFECTION OMFG !!!
      * 
      * The professional medicals !!
+     * Offerin wumen wumen genius nation !!! ehehehhehe all mighthy knowing too intelligence genius western people
+     * 
+     * I am not interested in anything you can offer
+     * Ehehehehehehe so fun !!
      * */
 
     
