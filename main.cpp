@@ -932,6 +932,9 @@ int main()
      * 
      * I WILL NEVER EVER HAVE ANYTHING TO DO WITH YOU WILL ALSO MAKE SENSE, life a game eheheh remember !!  SO FUN !!!
      * HOPE THAT WILL ALSO MAKE SENSE 
+     * 
+     * Disgusting delusional western GREAT ANIMALS ARE NOT PERCEIVING WHAT THEY HAVE DONE !!!
+     * REALLY REALLLYY GREAT JOB ONE DAY THAT WILL ALSO MAKE SENSE
      * */
 
     
