@@ -860,6 +860,12 @@ int main()
      * Good job ! offerin wumen wumen like a real disgusting low animal eheheheeheheh 
      * 
      * Like true disgusting low animal eheheheh makin people ignore things eheheheh offerin wumen wumen eheheheh a room eheheheheheheheh
+     * 
+     * Like a real all knowing wise intelligent super highly honored NON IGNORANT DISGUSTING WESTERN ANIMAL
+     * Feelin really great !!!
+     * 
+     * Eheheheheehehehe, a master outcome !!! OMFG !!! Eheheheheh we think we just have to heeheheheheheheheheeh
+     * NON IGNORANT MOST CIVILIZED EDUCATED AND ADVANCED ALSO MODERN NON DISGUSTING WESTERN ANIMALS thinkin they have to ehehehehehehe
      * */
 
     
