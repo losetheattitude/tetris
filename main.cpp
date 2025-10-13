@@ -883,6 +883,9 @@ int main()
      * 
      * I HAVE LAUGHED SO MUCH !!! What a simple disgusting western highly intelligent MIND you all have !!! 
      * GOOD JOB !!
+     * 
+     * THE PROBLEM SOLVERS REAL TALENTED DRUGGERS eheheheheheh no ignorant AT ALL PEOPLE FROM DA BEST CIVILIZATION ON UNIVERSE
+     * THE GREAT MAGNIFICENT WESTERN DISGUSTING ANIMALS !!! YAYYYYYYY !!!!!
      * */
 
     
