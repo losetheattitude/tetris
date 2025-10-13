@@ -923,6 +923,9 @@ int main()
      * Hope that makes sense
      * 
      * That will also make sense one day !! Ehehehe definitely great civilized modern genius engineering community NON IGNORANT animals
+     * Eheheheheheheheheheheheheheh, THE NUMBA ONE OF EVERYTHING, THE DISGUSTING NON DELUSIONAL WESTERN ANIMALS !!!
+     * A few tens years wont harm level of intelligence, that too will make sense eheheheheheh
+     * Life a game people makin decisions heehehhehe Realllly funny stuff !! GOOD JOB !
      * */
 
     
