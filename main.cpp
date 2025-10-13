@@ -938,6 +938,10 @@ int main()
      * 
      * Real gangsta true talented people just do ignore ehehehehhehe life no fair is a game eheheheheheh
      * A few tens of years of ignorance, mhhh hope that will make sense too
+     * 
+     * 
+     * LITTLE DISGUSTING WESTERN GENIUS ANIMALS ? EHEHEHEHEHEH MUNEY MUNEY AYYYYYYYYY GANGSTA ENGINEERING GREAT PEOPLE 
+     * LIFE GOOD EHEHEHEHEHEHEHE
      * */
 
     
