@@ -875,6 +875,8 @@ int main()
      * I HAVE GOT NOTHING FOR ANY OF YOU, hope that will make sense one day ehehehebehehe
      * 
      * Makin makin decisions talented professional medical western DISGUSTING ANIMALS eheheheheheheheheh
+     * Eheheh takin takin control eheheheheheheheheehehehehehehehehehehehehehhe druggin heheheheheheh sleepin eheheheheh thinkin will do no harm ehehehehehehehehe
+     * Life a game life a simulation eheheh western intelligence !!!! I WILL NEVER EVER UNDER WHATSOEVER CIRCUMSTANCE eheheheheheheh
      * */
 
     
