@@ -867,6 +867,9 @@ int main()
      * Eheheheheehehehe, a master outcome !!! OMFG !!! Eheheheheh we think we just have to heeheheheheheheheheeh
      * NON IGNORANT MOST CIVILIZED EDUCATED AND ADVANCED ALSO MODERN NON DISGUSTING WESTERN ANIMALS thinkin they have to ehehehehehehe
      * Ehehehe makin people believe somehow ehehehehe drugging ehehehe we have to eheheheheheheheh sleeping we have to ehehehehehehhehehehehehehehehe
+     * 
+     * I DO NOT HAVE THE MOST TINY INSIGNIFICANT DISGUSTING THING FOR ANY OF YOU WHETHER YOU THINK EHEHEH MONEY IS NOT RELEVANT eheheheheheheheheh
+     * GET A WUMENN eheheh WUMENNNN ehehehehehehe everyone has family has life hehehehehe we just want to live hehehehehehehe
      * */
 
     
