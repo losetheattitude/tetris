@@ -820,6 +820,10 @@ int main()
      * Ehehehe making decisions eheheh assumptions drugs sleeps bed a wumen ehehehehe western great intelligence 
      * 
      * I HAVE GOT NOTHING FOR YOU
+     * THE DISGUSTING NON DELUSIONAL NON IGNORANT WESTERN ANIMALS STILL ARE NOT CAPABLE OF UNDERSTANDING THAT THEY DO NOT GET TO MAKE THE DECISIONS THAT ARE NOT THEIRS
+     * Ehhehehehehehehehehehehehehe, what a lovely outcome
+     * 
+     * I HAVE GOT NOTHING FOR ANY OF THE DISGUSTING IGNORANT WESTERN DELUDED ANIMALS
      * */
 
     
