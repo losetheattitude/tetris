@@ -842,6 +842,9 @@ int main()
      * 
      * WHAT A LOVELY OUTCOME BY THE NON DELUSIONAL EXCELLENT DECISION MAKERS WESTERN DISGUSTING ANIMALS !!!
      * I DO NOT HAVE TIME FOR YOU
+     * 
+     * The true intelligent western are also making plans and plans and perception eheheheheheeheheheh
+     * A true unique wise and talented all knowing people without any reason eheheheh Perfect outcome !! eheheh
      * */
 
     
