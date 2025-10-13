@@ -854,6 +854,10 @@ int main()
      * 
      * I HAVE GOT NOT EVEN THE MOST DISGUSTING THING FOR YOU
      * HOPE THAT WILL MAKE SENSE SOME DAY, I am not interested in anything you can offer
+     * 
+     * Ehehehe coercin sleepin druggin eheheh violating eheheheeh 
+     * The western intelligence are not reasoning well ehehehehehh that will make sense hopefully eheheheheheheh
+     * Good job ! offerin wumen wumen like a real disgusting low animal eheheheeheheh 
      * */
 
     
