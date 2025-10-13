@@ -914,6 +914,13 @@ int main()
      * 
      * THAT WILL MAKE SENSE TO YOU ALSO
      * I AM NOT INTERESTED IN ANYTHING YOU ARE AROUND
+     * That will make sense to you eventually
+     * 
+     * Non delusional highly intelligence super great western genius community people NOT IGNORING !!
+     * Ehehe only option the great educated modern society animals have
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
+     * Hope that makes sense
      * */
 
     
