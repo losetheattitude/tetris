@@ -944,6 +944,8 @@ int main()
      * LIFE GOOD EHEHEHEHEHEHEHE
      * SO INTELLIGENT ONLY QUALITY OF IT IS TO FOOL PEOPLE EHEHEH DRUGGGING EHEHEHEHEHE
      * Ehehehehehehehehehehehehehehe, great stuff !!
+     * 
+     * REALITY OF NON IGNORANT DISGUSTING WESTERN ANIMALS
      * */
 
     
