@@ -985,6 +985,8 @@ int main()
      * Ancient knowledge eheheheh really funny 
      * A few tens of years ehehehehehehehhehehehehehehehehehehehehhehehehehehehehehehehheheheh, assumptions ehehehheheheh 
      * Chosen eheheheheheheheheheheh the intelligence great people heehehehehehehehe think and note more next time LIKE YOU STUDY AN EXAM
+     * 
+     * Hope that makes sense, the way you start things etc etc, good intelligence unseen level of perception
      * */
 
     
