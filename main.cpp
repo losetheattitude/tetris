@@ -965,6 +965,8 @@ int main()
      * I AM NOT INTERESTED IN THE SAME STUPID ANIMALS WHO ARE UNAWARE ENTIRELY
      * Good job though, next time think a hundred
      * Eheheh wumen wumen wumen ehehhehe
+     * 
+     * Ehehehe life good short eeheh simulation ehehehehheheheh 
      * */
 
     
