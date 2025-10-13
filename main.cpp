@@ -837,6 +837,11 @@ int main()
      * Ehehehehehh, so beneficial though eheheheheh time a game life a simulation ehehehehe please wumen muneyyy eheheh a few tens of years ehehehe
      * 
      * I HAVE NOTHING FOR YOU, hope one day it will make sense to you
+     * Ehehehehehehehhehehehehehehhehehe making decisions eheheh assumptions tests predictions eheheheheheeh
+     * a few tens of years hehehehe and mostly sleeping eheheheheheh feeling bad eheheheheheheheheheheheheheheheheheheheheheheheheheheheh
+     * 
+     * WHAT A LOVELY OUTCOME BY THE NON DELUSIONAL EXCELLENT DECISION MAKERS WESTERN DISGUSTING ANIMALS !!!
+     * I DO NOT HAVE TIME FOR YOU
      * */
 
     
