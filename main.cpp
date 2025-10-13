@@ -980,6 +980,9 @@ int main()
      * Eheheheheheh deludin movin on eheheheh non ignoring on eheheheheh
      * 
      * Fun stuff, no delusions at all, wumen wumen ppl ehehehehh
+     * Think and NOTE more for next time ! Eheheheheh
+     * 
+     * Ancient knowledge eheheheh really funny 
      * */
 
     
