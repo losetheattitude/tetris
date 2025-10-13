@@ -828,6 +828,15 @@ int main()
      * 
      * NOT INTERESTED IN THE SLIGHTEST ANYTHING YOUR MINDS CAN PRODUCE, Eheheheheh I have got nothing for you
      * HOPE IT WILL MAKE SENSE TO YOU ehehehehe
+     * 
+     * Really really sacrificeful honorful intelligent innovative genius western NON IGNORANT AND DELUSIONAL DISGUSTING ANIMALS 
+     * I WILL NEVER EVER HAVE ANYTHING FOR
+     * Good job deciding assumin testin ehehehehheeehhehehe
+     * 
+     * I WILL NEVER HAVE ANYTHING FOR YOU
+     * Ehehehehehh, so beneficial though eheheheheh time a game life a simulation ehehehehe please wumen muneyyy eheheh a few tens of years ehehehe
+     * 
+     * I HAVE NOTHING FOR YOU, hope one day it will make sense to you
      * */
 
     
