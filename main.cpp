@@ -825,6 +825,8 @@ int main()
      * 
      * I HAVE GOT NOTHING FOR ANY OF THE DISGUSTING IGNORANT WESTERN DELUDED ANIMALS
      * Hope that will make sense one day
+     * 
+     * NOT INTERESTED IN THE SLIGHTEST ANYTHING YOUR MINDS CAN PRODUCE, Eheheheheh I have got nothing for you
      * */
 
     
