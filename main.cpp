@@ -955,6 +955,7 @@ int main()
      * Dumb monkeys
      * 
      * Next time do not play the god and that will also make sense to you all !! Good job !!
+     * Eheheheheh intelligence !!! no ignorance full playin god !!
      * */
 
     
