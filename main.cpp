@@ -971,6 +971,7 @@ int main()
      * Violence violence ayyyyy real gangstas !!! intellectuals etc eheheheh comic
      * 
      * A dumb must be a dumb !!! eheheheheheh its kinda life destiny eheheh chosen etc eheheheh INTELLIGENCE WESTERN EHEHEHEHEH
+     * Next time have a little what ? Eheheheheheheh some a little straightness, GOOD JOB !!
      * */
 
     
