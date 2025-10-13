@@ -850,6 +850,9 @@ int main()
      * makin DECISIONS THAT ARE NOT THEIRS eheheheheh 
      * 
      * WISE ALMIGHTY EVER KNOWING HEEHHEHEHEHEHEHE just non ignorant as well !! Good job
+     * Ehehehehehehehehehehehehehehehehehhehehehehehehehehhehehehehehehehehhehehehehehhehehehehehehhehehehehehehehehehehheheheheheheheheheheheheheheheheh
+     * 
+     * I HAVE GOT NOT EVEN THE MOST DISGUSTING THING FOR YOU
      * */
 
     
