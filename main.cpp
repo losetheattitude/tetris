@@ -815,6 +815,11 @@ int main()
      * 
      * I do not have time for anything you can offer, Western animals can delude on
      * DELUDE ON FROM OUT OF MY VICINITY, Good job ! Unseen outcome
+     * 
+     * Next time TRY NOT TO BE A DISGUSTING ALL KNOWING WISE ACTING DISGUSTING ANIMAL
+     * Ehehehe making decisions eheheh assumptions drugs sleeps bed a wumen ehehehehe western great intelligence 
+     * 
+     * I HAVE GOT NOTHING FOR YOU
      * */
 
     
