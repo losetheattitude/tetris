@@ -879,6 +879,10 @@ int main()
      * Life a game life a simulation eheheh western intelligence !!!! I WILL NEVER EVER UNDER WHATSOEVER CIRCUMSTANCE eheheheheheheh
      * 
      * THE WESTERN UNIQUE TALENTED PEOPLE CIVILIZATION, no jokes ehehehehe really really efficient and clever wise people NOT PERCEIVING eheehhehehehehehehehehehehheheheheheheheheh
+     * Offerin materials eheheheheheheheheheh after a few tens of years ehehehehehehehehehehehh
+     * 
+     * I HAVE LAUGHED SO MUCH !!! What a simple disgusting western highly intelligent MIND you all have !!! 
+     * GOOD JOB !!
      * */
 
     
