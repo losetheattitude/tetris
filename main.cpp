@@ -969,6 +969,8 @@ int main()
      * Ehehehe life good short eeheh simulation ehehehehheheheh 
      * Its easy !!! eheheheheh the all knowing "INFORMATION" modern civilized people eheheheh
      * Violence violence ayyyyy real gangstas !!! intellectuals etc eheheheh comic
+     * 
+     * A dumb must be a dumb !!! eheheheheheh its kinda life destiny eheheh chosen etc eheheheh INTELLIGENCE WESTERN EHEHEHEHEH
      * */
 
     
