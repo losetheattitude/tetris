@@ -877,6 +877,8 @@ int main()
      * Makin makin decisions talented professional medical western DISGUSTING ANIMALS eheheheheheheheheh
      * Eheheh takin takin control eheheheheheheheheehehehehehehehehehehehehehhe druggin heheheheheheh sleepin eheheheheh thinkin will do no harm ehehehehehehehehe
      * Life a game life a simulation eheheh western intelligence !!!! I WILL NEVER EVER UNDER WHATSOEVER CIRCUMSTANCE eheheheheheheh
+     * 
+     * THE WESTERN UNIQUE TALENTED PEOPLE CIVILIZATION, no jokes ehehehehe really really efficient and clever wise people NOT PERCEIVING eheehhehehehehehehehehehehheheheheheheheheh
      * */
 
     
