@@ -961,6 +961,10 @@ int main()
      * 
      * Figure out your own life before makin suggestions to people about WHAT ? eheheheheheh
      * I do not have another tens of years FOR THE NON IGNORANT PEOPLE
+     * 
+     * I AM NOT INTERESTED IN THE SAME STUPID ANIMALS WHO ARE UNAWARE ENTIRELY
+     * Good job though, next time think a hundred
+     * Eheheh wumen wumen wumen ehehhehe
      * */
 
     
