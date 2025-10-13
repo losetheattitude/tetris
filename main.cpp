@@ -958,6 +958,9 @@ int main()
      * Eheheheheh intelligence !!! no ignorance full playin god !!
      * Ehehe coercion indeed eheheh sleepin druggin ehehehehehh MAKIN ASSUMPTIONS WITH YOUR IMMACULATE INTELLIGENCE !!
      * OMFG !!! A lovely outcome eheheheheh NO PREJUDICE eheheheheheheh
+     * 
+     * Figure out your own life before makin suggestions to people about WHAT ? eheheheheheh
+     * I do not have another tens of years FOR THE NON IGNORANT PEOPLE
      * */
 
     
