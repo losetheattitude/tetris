@@ -983,6 +983,7 @@ int main()
      * Think and NOTE more for next time ! Eheheheheh
      * 
      * Ancient knowledge eheheheh really funny 
+     * A few tens of years ehehehehehehehhehehehehehehehehehehehehhehehehehehehehehehehheheheh, assumptions ehehehheheheh 
      * */
 
     
