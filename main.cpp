@@ -845,6 +845,9 @@ int main()
      * 
      * The true intelligent western are also making plans and plans and perception eheheheheheeheheheh
      * A true unique wise and talented all knowing people without any reason eheheheh Perfect outcome !! eheheh
+     * 
+     * Eheheh a few tens of years ehehheheh because we think we know and foresee everything !! Eeheheheheh the western non delusional disgusting animals
+     * makin DECISIONS THAT ARE NOT THEIRS eheheheheh 
      * */
 
     
