@@ -926,6 +926,11 @@ int main()
      * Eheheheheheheheheheheheheheh, THE NUMBA ONE OF EVERYTHING, THE DISGUSTING NON DELUSIONAL WESTERN ANIMALS !!!
      * A few tens years wont harm level of intelligence, that too will make sense eheheheheheh
      * Life a game people makin decisions heehehhehe Realllly funny stuff !! GOOD JOB !
+     * 
+     * Everything is so easy genius western animals ARE NOT CAPABLE OF UNDERSTANDING ehehehehehehehhehehehehehehehhehehehehehehhehehehehehe
+     * Really reallly immaculate outcome, just a few tens of years 
+     * 
+     * I WILL NEVER EVER HAVE ANYTHING TO DO WITH YOU WILL ALSO MAKE SENSE, life a game eheheh remember !!  SO FUN !!!
      * */
 
     
