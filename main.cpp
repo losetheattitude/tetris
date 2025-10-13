@@ -848,6 +848,8 @@ int main()
      * 
      * Eheheh a few tens of years ehehheheh because we think we know and foresee everything !! Eeheheheheh the western non delusional disgusting animals
      * makin DECISIONS THAT ARE NOT THEIRS eheheheheh 
+     * 
+     * WISE ALMIGHTY EVER KNOWING HEEHHEHEHEHEHEHE just non ignorant as well !! Good job
      * */
 
     
