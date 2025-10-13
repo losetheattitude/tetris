@@ -935,6 +935,8 @@ int main()
      * 
      * Disgusting delusional western GREAT ANIMALS ARE NOT PERCEIVING WHAT THEY HAVE DONE !!!
      * REALLY REALLLYY GREAT JOB ONE DAY THAT WILL ALSO MAKE SENSE
+     * 
+     * Real gangsta true talented people just do ignore ehehehehhehe life no fair is a game eheheheheheh
      * */
 
     
