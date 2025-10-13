@@ -967,6 +967,8 @@ int main()
      * Eheheh wumen wumen wumen ehehhehe
      * 
      * Ehehehe life good short eeheh simulation ehehehehheheheh 
+     * Its easy !!! eheheheheh the all knowing "INFORMATION" modern civilized people eheheheh
+     * Violence violence ayyyyy real gangstas !!! intellectuals etc eheheheh comic
      * */
 
     
