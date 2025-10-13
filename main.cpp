@@ -946,6 +946,12 @@ int main()
      * Ehehehehehehehehehehehehehehe, great stuff !!
      * 
      * REALITY OF NON IGNORANT DISGUSTING WESTERN ANIMALS
+     * Offering offering ayyyyy
+     * 
+     * Assumin things eheheheheheh professional intelligent medical experts ehehehe look how funny it is
+     * 
+     * A few tens of years !!! Ayyyyy no time nor interest nor desire to waste another "second" of a few tens of years !!
+     * Thats what I think now heehhehe super highly talented people can delude on a little more
      * */
 
     
