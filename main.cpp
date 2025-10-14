@@ -1116,6 +1116,8 @@ int main()
      * The true intelligence WESTERN ANIMALS, NOT KNOWING JUST PROFESSIONAL MEDICAL EXPERTS !!!
      * 
      * I HAVE GOT NOT EVEN ANOTHER SECOND FOR ANY OF YOU, good job !! Move on btw eheheheh
+     * Not a single thing on earth or universe WILL EVER MAKE ME CHANGE MY MIND ABOUT YOUR DISGUSTING IGNORANCE
+     * HOPE THAT WILL MAKE SENSE
      * */
 
     
