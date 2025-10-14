@@ -1124,6 +1124,8 @@ int main()
      * HOPE THAT WILL EVENTUALLY MAKE SENSE LIKE CRAZY !!!
      * 
      * Eheheheheh professional indeed
+     * Hope next time YOUR DISGUSTING FEAR "VIOLENCE" will make you understand instantly THAT NOT EVERYONE IS AS DISGUSTING AS THE WESTERN DELUSIONALS !!
+     * GOOD JOB !!  Offerin wumen ehehehhehe
      * 
      * */
 
