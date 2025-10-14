@@ -1111,6 +1111,11 @@ int main()
      * Had to be done hehehehehe good ppl
      * 
      * Not seeing the problem ? ehehehehehhe The true intelligence western NON DELUSIONAL INDEED DISGUSTING ANIMALS !!
+     * 
+     * HOPE YOU ARE INTELLIGENT ENOUGH TO UNDERSTAND "THE REALITY" IS BECAUSE OF YOUR "NOT DECISIONS" THAT YOU WERE WARNED OF !!
+     * The true intelligence WESTERN ANIMALS, NOT KNOWING JUST PROFESSIONAL MEDICAL EXPERTS !!!
+     * 
+     * I HAVE GOT NOT EVEN ANOTHER SECOND FOR ANY OF YOU, good job !! Move on btw eheheheh
      * */
 
     
