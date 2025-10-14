@@ -1234,6 +1234,27 @@ int main()
      * 
      * Please blindly follow ideas, I AM NOT INTERESTED IN DISGUSTING WESTERN ANIMALS
      * Better fool next time
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * I DO NOT HAVE TIME FOR YOU, NEVER EVER WILL
      * */
 
     
