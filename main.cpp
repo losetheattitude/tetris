@@ -1134,6 +1134,9 @@ int main()
      * 
      * A brilliant sequence OF DISGUSTING UNAWARE IGNORANT "NOT YOUR DECISIONS"
      * AND THE OUTCOME !!!!! Ignore ON PLEASE !!!! I DO NOT HAVE ANYTHING FOR YOU
+     * 
+     * NEXT TIME FIGURE EVERYTHING OUT BETTER !!!! Ehehehehheheh that seems like a major mistake !!!
+     * Good job !! The western true intelligence people !!
      * */
 
     
