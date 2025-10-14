@@ -1118,6 +1118,13 @@ int main()
      * I HAVE GOT NOT EVEN ANOTHER SECOND FOR ANY OF YOU, good job !! Move on btw eheheheh
      * Not a single thing on earth or universe WILL EVER MAKE ME CHANGE MY MIND ABOUT YOUR DISGUSTING IGNORANCE
      * HOPE THAT WILL MAKE SENSE
+     * 
+     * 
+     * THE CHEAPEST OF THE CHEAPEST "mistake" ever FROM THE NON PERCEIVING DISGUSTING IGNORANT WESTERN ANIMALS !!!
+     * HOPE THAT WILL EVENTUALLY MAKE SENSE LIKE CRAZY !!!
+     * 
+     * Eheheheheh professional indeed
+     * 
      * */
 
     
