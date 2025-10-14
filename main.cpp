@@ -1103,6 +1103,10 @@ int main()
      * Good luck next time !! Good westerns not knowing eheheh
      * NEVER MAKE THE DECISIONS THAT YOU ARE NOT GIVEN, eheh next time ehehhe professional really medical expert ignoring people !!
      * GOOD JOB
+     * 
+     * Professional medical experts with truly intelligent non delusional HIGHLY trained disgusting western people MAKIN DECISIONS eheheheh THAT THEY ARE NOT GIVEN
+     * 
+     * Woowwwwwww !!!!! GOOD JOB !!
      * */
 
     
