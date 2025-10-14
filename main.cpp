@@ -1171,6 +1171,9 @@ int main()
      * Eheheh the past the past the past ehehheheheh the past !!! ayyy intelligence !!!!!!
      * 
      * Wonder where that ignorant prejudiced come from ehehehehehhe GENIUS WESTERN CIVILIZATION MODERN ADVANCED ANIMALS !!
+     * Ufferin wumen wumennn ehehehhe just a room eheheheheheh THE PAST THE PAST !!! NEVA FORGET THE PAST !!
+     * 
+     * Good job !! I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * */
 
     
