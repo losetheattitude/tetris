@@ -1147,6 +1147,9 @@ int main()
      * Eheheheh just a few tens of years of violence !!! THE INTELLIGENCE !!!! Ehehehehehehheheheh life a game !!!
      * 
      * I AM NOT INTERESTED IN YOUR STUPID DISGUSTING "PRETENDS", good job !
+     * Makin professional medical expert decisions ? Whats the problem ?
+     * 
+     * Eheheheh a few tens of years !! ? EHEHEHEHEHEHEHEHEHEHH truly funny
      * */
 
     
