@@ -1151,6 +1151,8 @@ int main()
      * 
      * Eheheheh a few tens of years !! ? EHEHEHEHEHEHEHEHEHEHH truly funny
      * Makin decisions THAT ARE NOT YOURS ?!!! Ehehehehehehehhe experts indeed !!
+     * 
+     * STUDY BETTER NEXT TIME, that will make sense hopefully !
      * */
 
     
