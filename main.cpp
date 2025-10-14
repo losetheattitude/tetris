@@ -1180,6 +1180,10 @@ int main()
      * 
      * How to fool ?? NEXT TIME COME UP WITH MORE EXCUSE !!!
      * NOW YOU HAVE SOLVED THE PROBLEM !!! Ayyyyyyyyyyyyyyyyyyyy, I have got nothing for you
+     * 
+     * 
+     * EHEHEHEHEHEH GOOOD JOB !!!! I AM NOT INTERESTED IN ANYTHING THAT YOU ARE AROUND !!! Hope that will make sense 
+     * PROFESSIONAL MEDICALS !!
      * */
 
     
