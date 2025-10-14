@@ -1007,6 +1007,24 @@ int main()
      * 
      * Assumptions assumptions with delusionss and decisions eheheheh Good job 
      * Yaaayyy some violence would definitely help any situation, great great intelligence actions
+     * 
+     * 
+     * Ehehehehe THE WESTERN GENIUS PROFESSIONAL MEDICAL EXPERTS MAKIN ASSUMPTIONS THEN DECISIONS THEN MAKIN NON REASONABLE OUTCOME 
+     * THEN JUST IGNORE THE WHOLE THING AND BEG FOR SILENCE TO PEOPLE EHEHEHEHEHEH
+     * 
+     * 
+     * 
+     * A few tens of years because they feel like hehehehehehe 
+     * Like true non disgusting non delusional STUPID WESTERN ANIMALS !!!!
+     * 
+     * * Makin makin decisions with assumptions eheheh western great etc non ignorant marvelous imaginatiary SCENARIOS !! 
+     * Get more books for decoration
+     * 
+     * Western ppl makin assumptions and decisions ehehehehhe
+     * Cant afford to lose a few minutes eheheheh
+     * 
+     * 
+     * I DO NOT HAVE ANYTHING FOR ANY OF YOU
      * */
 
     
