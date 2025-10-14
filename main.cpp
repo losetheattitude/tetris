@@ -1216,6 +1216,9 @@ int main()
      * 
      * A sequence of REALITY THAT YOU HAVE GARNERED and lookin around for "PROBLEMS" AYYYYYYYYYYYYYYYYYYYYYY
      * The western genius intelligence people ARE NOT AWARE !!!!! That will make sense hopefully
+     * 
+     * Wooooww, DELUDE ON OUT OF MY VICINITY, THANKS !!!
+     * Da saviors !!! REALLY GREAT STUFF !! I AM NOT INTERESTED
      * */
 
     
