@@ -1046,6 +1046,8 @@ int main()
      * CUZ YOU IGNORE !!! GOOD JOB
      * 
      * Hope that will make sense as well
+     * Hope that will make sense EVENTUALLY to the non delusional disgusting animals who are trying their hardest to CONVINCE PEOPLE
+     * THEN SUDDENLY COERCING "MEDICINE" EHEHEHEHE THATS DEFINITELY NOT DELUSION!!! THATS YOUR DISGUSTING OUTCOME YOU HAVE TO PRETEND eheheheh
      * */
 
     
