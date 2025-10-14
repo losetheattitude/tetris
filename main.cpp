@@ -1079,6 +1079,9 @@ int main()
      * GOOD OUTCOME !! I have nothing for you
      * A few tens of years eheheh
      * I HAVE GOT NOTHING FOR THE DISGUSTING WESTERN ANIMALS WHO ARE UNAWARE !! Good professional medical experts Eheheheheh
+     * 
+     * HOPE THAT WILL MAKE SENSE ONE DAY TO YOU ehehehehehhehehehehe GOOD JOB !! I have no interest wasting another a few tens of years
+     * with people WHO ARE UNAWARE AND DO NOT CARE ABOUT THE TIME THAT "DO NOT BELONG TO THEM", the disgusting western indeed
      * */
 
     
