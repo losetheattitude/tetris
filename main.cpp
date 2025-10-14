@@ -1042,6 +1042,10 @@ int main()
      * that has never seen ehehehehehehehe
      * 
      * THE WESTERN INTELLIGENCE PEOPLE !! Ehehehehehe ignoring on eheheheheh
+     * Ehehehehehe A CHANCE !! LOVELY CHANCE !!! AND YOU HAVE DONE IT !!! YOU DO NOT EVEN KNOW !! EHEHEH
+     * CUZ YOU IGNORE !!! GOOD JOB
+     * 
+     * Hope that will make sense as well
      * */
 
     
