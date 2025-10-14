@@ -1202,6 +1202,10 @@ int main()
      * 
      * I AM NOT INTERESTED IN THE SLIGHEST OF YOUR DISGUSTING MINDS' CONTENT
      * WHAT WAS THE PROBLEM ? ehehehhe a few tens of years eheheheh FUNNY INDEED
+     * 
+     * PLEASE DO PRETEND OUT OF MY VICINITY, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
+     * HOPE THAT WILL ALSO MAKE SENSE ONE DAY !!! Ehehheh life good !!!! life a game !!! life short !!! MAKIN DECISIONS DECISIONSS !!!
+     * Ehehehehe
      * */
 
     
