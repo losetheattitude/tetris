@@ -999,6 +999,9 @@ int main()
      * 
      * Makin makin decisions with assumptions eheheh western great etc non ignorant marvelous imaginatiary SCENARIOS !! 
      * Get more books for decoration
+     * 
+     * Western ppl makin assumptions and decisions ehehehehhe
+     * Cant afford to lose a few minutes eheheheh
      * */
 
     
