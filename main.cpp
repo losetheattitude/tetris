@@ -1107,6 +1107,7 @@ int main()
      * Professional medical experts with truly intelligent non delusional HIGHLY trained disgusting western people MAKIN DECISIONS eheheheh THAT THEY ARE NOT GIVEN
      * 
      * Woowwwwwww !!!!! GOOD JOB !!
+     * Plan better for the next time !! Good intelligence
      * */
 
     
