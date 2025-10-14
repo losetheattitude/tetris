@@ -1004,6 +1004,9 @@ int main()
      * Cant afford to lose a few minutes eheheheh
      * 
      * Take more notes NEXTTIME eeheheheh offer monkeys AYYYYYY ehehehee intelligence foolin OMFG lovely outcome
+     * 
+     * Assumptions assumptions with delusionss and decisions eheheheh Good job 
+     * Yaaayyy some violence would definitely help any situation, great great intelligence actions
      * */
 
     
