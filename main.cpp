@@ -1209,6 +1209,8 @@ int main()
      * 
      * Good job makin decisions !!
      * GOOD JOB PERCEIVING !!! GOOD JOB DECIDING ASSUMPTIONS !!
+     * 
+     * NOT INTERESTED IN THE SLIGHEST DISGUSTING CONTENT OF YOUR MINDS, THAT IS GOING TO MAKE SENSE !!
      * */
 
     
