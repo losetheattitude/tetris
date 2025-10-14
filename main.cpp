@@ -1101,6 +1101,8 @@ int main()
      * Next time be more CAREFULLLL ehehehehhehehehehehhehhe NOT INTERESTED IN YOUR OBVIOUS TO ME LIES AND COOL PROFESSIONAL MEDICALS eheheheheh
      * 
      * Good luck next time !! Good westerns not knowing eheheh
+     * NEVER MAKE THE DECISIONS THAT YOU ARE NOT GIVEN, eheh next time ehehhe professional really medical expert ignoring people !!
+     * GOOD JOB
      * */
 
     
