@@ -1031,6 +1031,11 @@ int main()
      * Professional medical expert genius westerns eheheheheheheheheheh takin life for a JOKE !! EHEHEHEHEHEHEH
      * 
      * I DO NOT HAVE ANYTHING FOR YOU 
+     * You want more ? eheheheheheheheh Just like expected eheheh GOOD JOB!!
+     * 
+     * GOOD JOB ACHIEVING NOTHING, THE TRUE ONE AND ONLY ADVANCED MODERN CIVILIZATION, THE WESTERN CIVILIZATION !!!!
+     * 
+     * Ayyyyyyy, lovely outcome good chance !! I HAVE GOT NOTHING FOR YOU
      * */
 
     
