@@ -1002,6 +1002,8 @@ int main()
      * 
      * Western ppl makin assumptions and decisions ehehehehhe
      * Cant afford to lose a few minutes eheheheh
+     * 
+     * Take more notes NEXTTIME eeheheheh offer monkeys AYYYYYY ehehehee intelligence foolin OMFG lovely outcome
      * */
 
     
