@@ -1132,6 +1132,8 @@ int main()
      * 
      * Not interested ! Move on to your perfect TECH INNOVATIONS eheheh !! Eheheheh fun indeed
      * 
+     * A brilliant sequence OF DISGUSTING UNAWARE IGNORANT "NOT YOUR DECISIONS"
+     * AND THE OUTCOME !!!!! Ignore ON PLEASE !!!! I DO NOT HAVE ANYTHING FOR YOU
      * */
 
     
