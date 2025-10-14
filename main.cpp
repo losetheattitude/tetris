@@ -1078,6 +1078,7 @@ int main()
      * 
      * GOOD OUTCOME !! I have nothing for you
      * A few tens of years eheheh
+     * I HAVE GOT NOTHING FOR THE DISGUSTING WESTERN ANIMALS WHO ARE UNAWARE !! Good professional medical experts Eheheheheh
      * */
 
     
