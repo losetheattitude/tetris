@@ -1225,6 +1225,9 @@ int main()
      * 
      * Take more notes next time
      * PAY MORE ATTENTION NEXT TIME eheheheheh
+     * 
+     * Try harder next time to NOT PLAY THE ALLMIGHT EVER KNOWING GODS !!
+     * Ehehehehehehehehehe makin decisions
      * */
 
     
