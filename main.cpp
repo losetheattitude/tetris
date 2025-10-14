@@ -995,6 +995,7 @@ int main()
      * A few tens years heheeheh
      * 
      * BEST OF LUCK, I HAVE GOT NOTHING FOR ANY OF THE IGNORANT ANIMALS
+     * You do not say Awww wwoooowwwww GOOD JOB western ppl solvin all the problems eheheheh no delusions at all
      * */
 
     
