@@ -996,6 +996,9 @@ int main()
      * 
      * BEST OF LUCK, I HAVE GOT NOTHING FOR ANY OF THE IGNORANT ANIMALS
      * You do not say Awww wwoooowwwww GOOD JOB western ppl solvin all the problems eheheheh no delusions at all
+     * 
+     * Makin makin decisions with assumptions eheheh western great etc non ignorant marvelous imaginatiary SCENARIOS !! 
+     * Get more books for decoration
      * */
 
     
