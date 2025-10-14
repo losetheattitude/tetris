@@ -1127,6 +1127,9 @@ int main()
      * Hope next time YOUR DISGUSTING FEAR "VIOLENCE" will make you understand instantly THAT NOT EVERYONE IS AS DISGUSTING AS THE WESTERN DELUSIONALS !!
      * GOOD JOB !!  Offerin wumen ehehehhehe
      * 
+     * Hope the scene slowly starts making sense to you !!
+     * Ehehehehhe, I WILL NEVER EVER HAVE ANYTHING FOR YOU
+     * 
      * */
 
     
