@@ -1036,6 +1036,12 @@ int main()
      * GOOD JOB ACHIEVING NOTHING, THE TRUE ONE AND ONLY ADVANCED MODERN CIVILIZATION, THE WESTERN CIVILIZATION !!!!
      * 
      * Ayyyyyyy, lovely outcome good chance !! I HAVE GOT NOTHING FOR YOU
+     * 
+     * I HAVE GOT NOTHING FOR THE DELUSIONAL ANIMALS WHO ARE UNAWARE OF WHAT THEY ARE 
+     * Eheheh Good ppl indeed, and mostly professional medicals NON DELUSIONAL GREAT PEOPLE WITH SUCH A NICE PERCEPTION ABILITY
+     * that has never seen ehehehehehehehe
+     * 
+     * THE WESTERN INTELLIGENCE PEOPLE !! Ehehehehehe ignoring on eheheheheh
      * */
 
     
