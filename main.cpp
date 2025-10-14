@@ -1233,6 +1233,7 @@ int main()
      * HOPE ONE DAY THAT WILL MAKE SENSE TO YOU AS WELL !!
      * 
      * Please blindly follow ideas, I AM NOT INTERESTED IN DISGUSTING WESTERN ANIMALS
+     * Better fool next time
      * */
 
     
