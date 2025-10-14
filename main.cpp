@@ -1168,6 +1168,9 @@ int main()
      * Hope you have the disgusting whatever you want to call it TO OWN YOUR DISGUSTING "NOT YOUR DECISIONS"
      * 
      * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER, GET THE FUCK OUT OF MY FACE
+     * Eheheh the past the past the past ehehheheheh the past !!! ayyy intelligence !!!!!!
+     * 
+     * Wonder where that ignorant prejudiced come from ehehehehehhe GENIUS WESTERN CIVILIZATION MODERN ADVANCED ANIMALS !!
      * */
 
     
