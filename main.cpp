@@ -1213,6 +1213,9 @@ int main()
      * NOT INTERESTED IN THE SLIGHEST DISGUSTING CONTENT OF YOUR MINDS, THAT IS GOING TO MAKE SENSE !!
      * 
      * Muneyyyyy ayyyyyyyyyy WHAT WAS THE PROBLEM eheheheheheh a few tens of years ehehehehehheehheheehehhe
+     * 
+     * A sequence of REALITY THAT YOU HAVE GARNERED and lookin around for "PROBLEMS" AYYYYYYYYYYYYYYYYYYYYYY
+     * The western genius intelligence people ARE NOT AWARE !!!!! That will make sense hopefully
      * */
 
     
