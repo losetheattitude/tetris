@@ -1096,6 +1096,8 @@ int main()
      * NOT KNOWING NOT AWARE EHEHEHEHEHEHEHEHHEH THE DISGUSTING ANIMALSSS !!!! Ayyyyyyy
      * Ehehehehehehehhehehehehehhehehehehehehheheh medical professional NOT UNDERSTAND THE MEANING OF THE WORD !!! Ehehehehehheheheh
      * Just professional medicals eheheheheh they do like the feelin ehehehehehhe GOOD JOB !!!!!!!
+     * 
+     * I AM NOT INTERESTED IN ANYTHING THE DISGUSTING NON DEFINITELY DELUSIONAL WESTERN ANIMALS WITH A COOL DEGREE IN PROFESSIONAL MEDICALS CAN OFFER
      * */
 
     
