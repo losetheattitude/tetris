@@ -1228,6 +1228,11 @@ int main()
      * 
      * Try harder next time to NOT PLAY THE ALLMIGHT EVER KNOWING GODS !!
      * Ehehehehehehehehehe makin decisions
+     * 
+     * I DO NOT HAVE TIME FOR THE DISGUSTING WESTERNS THAT ARE UNCAPABLE OF UNDERSTANDING WHAT THEY ARE DOING
+     * HOPE ONE DAY THAT WILL MAKE SENSE TO YOU AS WELL !!
+     * 
+     * Please blindly follow ideas, I AM NOT INTERESTED IN DISGUSTING WESTERN ANIMALS
      * */
 
     
