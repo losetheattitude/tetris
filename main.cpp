@@ -1153,6 +1153,9 @@ int main()
      * Makin decisions THAT ARE NOT YOURS ?!!! Ehehehehehehehhe experts indeed !!
      * 
      * STUDY BETTER NEXT TIME, that will make sense hopefully !
+     * More coercion fueled unaware actions to UNDERSTAND YOUR STUPIDITY !!
+     * 
+     * PROFESSIONALSS !!! YAYYY
      * */
 
     
