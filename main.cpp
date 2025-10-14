@@ -1206,6 +1206,9 @@ int main()
      * PLEASE DO PRETEND OUT OF MY VICINITY, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * HOPE THAT WILL ALSO MAKE SENSE ONE DAY !!! Ehehheh life good !!!! life a game !!! life short !!! MAKIN DECISIONS DECISIONSS !!!
      * Ehehehehe
+     * 
+     * Good job makin decisions !!
+     * GOOD JOB PERCEIVING !!! GOOD JOB DECIDING ASSUMPTIONS !!
      * */
 
     
