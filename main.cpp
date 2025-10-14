@@ -1142,6 +1142,11 @@ int main()
      * JUST THE FUNNIEST THING YOU WILL EVER HEAR !!
      * 
      * Ehehehehhehehehehhehehe, not perceiving ehehehehehehhehehehehehheheh GOOD JOB !! Intelligence !!
+     * Hope it will make sense !! HOPE WHAT YOU SEE WILL MAKE SENSE !!!
+     * 
+     * Eheheheh just a few tens of years of violence !!! THE INTELLIGENCE !!!! Ehehehehehehheheheh life a game !!!
+     * 
+     * I AM NOT INTERESTED IN YOUR STUPID DISGUSTING "PRETENDS", good job !
      * */
 
     
