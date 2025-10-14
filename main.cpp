@@ -1137,6 +1137,9 @@ int main()
      * 
      * NEXT TIME FIGURE EVERYTHING OUT BETTER !!!! Ehehehehheheh that seems like a major mistake !!!
      * Good job !! The western true intelligence people !!
+     * 
+     * A few tens of years ehehhe life a game people !!! ehehehhe makin decisions ehehehehhehehehehehheheheheh
+     * JUST THE FUNNIEST THING YOU WILL EVER HEAR !!
      * */
 
     
