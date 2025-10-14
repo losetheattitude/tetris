@@ -1219,6 +1219,11 @@ int main()
      * 
      * Wooooww, DELUDE ON OUT OF MY VICINITY, THANKS !!!
      * Da saviors !!! REALLY GREAT STUFF !! I AM NOT INTERESTED
+     * 
+     * Hope once you interact with the reality YOU WILL MAKE SENSE THAT I WILL NEVER HAVE ANYTHING FOR YOU
+     * I AM NOT INTERESTED IN YOUR DISGUSTING ANIMALITY!! 
+     * 
+     * Take more notes next time
      * */
 
     
