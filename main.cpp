@@ -1048,6 +1048,11 @@ int main()
      * Hope that will make sense as well
      * Hope that will make sense EVENTUALLY to the non delusional disgusting animals who are trying their hardest to CONVINCE PEOPLE
      * THEN SUDDENLY COERCING "MEDICINE" EHEHEHEHE THATS DEFINITELY NOT DELUSION!!! THATS YOUR DISGUSTING OUTCOME YOU HAVE TO PRETEND eheheheh
+     * 
+     * YOU HAVE TO PRETEND TO NOT ACKNOWLEDGE YOUR DISGUSTING ACTIONS HAVE CONSEQUENCES, hope that will make sense the genius western super intelligent NON DISGUSTING
+     * NON "DELUSIONAL ANIMALS"
+     * 
+     * Ehehehe WHATS THE PROBLEM ?
      * */
 
     
