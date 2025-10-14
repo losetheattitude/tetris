@@ -988,6 +988,13 @@ int main()
      * 
      * Hope that makes sense, the way you start things etc etc, good intelligence unseen level of perception
      * Thats what it is, GOOD JOB !!! The western great of the great eheheheheheheh
+     * 
+     * 
+     * Ehehehehehehehhe best of luck next time ehehh
+     * Back to your IMAGINATION MOVIES eheheheh Marvelous job great outcome
+     * A few tens years heheeheh
+     * 
+     * BEST OF LUCK, I HAVE GOT NOTHING FOR ANY OF THE IGNORANT ANIMALS
      * */
 
     
