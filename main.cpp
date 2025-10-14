@@ -1085,6 +1085,9 @@ int main()
      * 
      * Just in case NON DELUSIONAL western disgustings WILL MAKE SENSE OF IT EVENTUALLY eheheheh!!
      * I HAVE GOT NOTHING FOR YOU, eheheh a few tens of years
+     * 
+     * DA NUMBA ON WESTERN PROFESSIONAL MEDICAL EXPERTS EHEHEHEH NOT KNOWING NOT AWARE EHEHEHEHHEEH
+     * GOOOOOOOOODDDDDDD JOBBBBB !!!! THE OUTCOME !!!!!
      * */
 
     
