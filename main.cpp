@@ -1084,7 +1084,7 @@ int main()
      * with people WHO ARE UNAWARE AND DO NOT CARE ABOUT THE TIME THAT "DO NOT BELONG TO THEM", the disgusting western indeed
      * 
      * Just in case NON DELUSIONAL western disgustings WILL MAKE SENSE OF IT EVENTUALLY eheheheh!!
-     * I HAVE GOT NOTHING FOR YOU
+     * I HAVE GOT NOTHING FOR YOU, eheheh a few tens of years
      * */
 
     
