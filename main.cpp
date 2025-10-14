@@ -1158,6 +1158,10 @@ int main()
      * PROFESSIONALSS !!! YAYYY
      * Better luck next time foolin people 
      * Better luck next time drugging people !!!!! EHEHEHEHEHEHEHEHEHEHEHHEHEHEHEEHHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEH SO FUNNY !
+     * 
+     * 
+     * A FEW TENS OF YEARS WITHOUT RESOURCES !!! INDEED PROFESSIONAL MEDICALTY !! GOOD JOB !!
+     * I WILL EVER HAVE NOTHING FOR YOU
      * */
 
     
