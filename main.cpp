@@ -1130,6 +1130,8 @@ int main()
      * Hope the scene slowly starts making sense to you !!
      * Ehehehehhe, I WILL NEVER EVER HAVE ANYTHING FOR YOU
      * 
+     * Not interested ! Move on to your perfect TECH INNOVATIONS eheheh !! Eheheheh fun indeed
+     * 
      * */
 
     
