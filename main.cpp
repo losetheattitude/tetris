@@ -1374,6 +1374,11 @@ int main()
      * 
      * NOT GETTING THE PRICE eheheheheheh ehehehhehehe a few tens of years heehehehheheeh
      * The truly professional medical experts not GETTING THE PRICE eheheheh how come !!!
+     * 
+     * OMGGGG !!! YAYYYYYY WE HAVE DONE IT !!!! The outcome is inexplicable !!!!
+     * Never ask too many questions ehehehehehehehehehehehehe
+     * 
+     * The outcome and the chance and the nothing of a few tens of years with truly truly unique and talented people heeheheh
      * */
 
 
