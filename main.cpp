@@ -1569,6 +1569,15 @@ int main()
      * HOPE YOU WILL START TO MAKE SENSE OF THE LIFE YOU PRAISE TO UNDERSTAND AS WELL ONE DAY !!
      * Good outcome !! I HAVE GOT NOTHING FOR THE DISGUSTING WESTERN ANIMALS, thats the only thing you will ever have heard !!!
      * 
+     * Hope you will be wise enough TO UNDERSTAND THAT I WILL NEVER EVER HAVE ANOTHER SECOND WILLFULLY WITH ANY OF YOU
+     * Da best of da best civilization considerin it a success WHAT THEY ARE UNABLE TO EXPRESS!!!! GOOD JOB UNDERSTANDING EVERYTHING ABOUT LIFE !!
+     * 
+     * GOOD PEOPLE !! I HAVE GOT NOT THE TINIEST DISGUSTING ANIMALISTIC "UNDERSTANDINGS" FOR ANY OF YOU
+     * Stay inside your disgusting circle next time and DO NOT MAKE DECISIONS THAT YOU NEVER WERE SUPPOSED TO !!
+     * 
+     * Hope that will eventually make sense, I AM NOT INTERESTED IN THE TINIEST DISGUSTING ANIMALISTIC THING YOU CAN OFFER
+     * YOU WILL FIND THAT OUT !! GOOD JOB WESTERN HUMANS !! Eheheheheheh I am not interested
+     * 
      * Hope what is final now makes sense to you all !!
      * */
 
