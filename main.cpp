@@ -1472,6 +1472,7 @@ int main()
      * Hope you make sense to it one day as well, no ignorance unaware incapable animals !!
      * 
      * GOOD JOB NOT EVEN A SECOND FOR ANY OF YOU AROUND ME
+     * Next time pay more attention and respect to NOT YOUR DECISIONS EHEHEHEHEHEHEH
      * 
      * Hope what is final now makes sense to you all !!
      * */
