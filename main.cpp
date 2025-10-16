@@ -1405,6 +1405,9 @@ int main()
      * Not perceiving the outcome and the chance!!! eheheheheh
      * 
      * GOOD JOB !! I am not interested in anything your stupid minds can offer
+     * 
+     * NOT EVEN MAGIC CAN MAKE ME DO ANYTHING FOR ANY OF YOU
+     * Good job not realizing the problem !!
      * */
 
 
