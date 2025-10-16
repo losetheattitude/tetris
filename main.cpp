@@ -1466,7 +1466,12 @@ int main()
      * 
      * Good delusions to you all !!!
      * Next time consider sleepin sleepin more and a few years of something and druggin sneakin more
+     * Eheheh sleepin sleepin causin reasons, chance and outcome heehheeh just pretendin not being ehehehehehehhe 
      * 
+     * Hope next time you get a smaller mind for you to fool, I am not interested
+     * Hope you make sense to it one day as well, no ignorance unaware incapable animals !!
+     * 
+     * GOOD JOB NOT EVEN A SECOND FOR ANY OF YOU AROUND ME
      * 
      * Hope what is final now makes sense to you all !!
      * */
