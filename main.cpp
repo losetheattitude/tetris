@@ -1294,6 +1294,7 @@ int main()
      * 
      * GOOD JOB MAKIN DECISIONS WITH DELUSIONS !!
      * I AM NOT INTERESTED IN THE DISGUSTING  "WESTERN" *IGNORANT* ANIMALS
+     * There is nothing you can do about it !! eheheheheh
      * */
 
     
