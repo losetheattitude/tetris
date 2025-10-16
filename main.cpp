@@ -1440,6 +1440,35 @@ int main()
      * I do not have time for you
      * 
      * Please do delude on more marvelously !! hope that will not change
+     * 
+     * Never ever engage with me with any idea whatsoever possible
+     * I am not interested in anything you have in mind
+     * 
+     * I AM NOT INTERESTED IN THE PEOPLE WHO ARE UNAWARE STILL OF THE PROBLEM
+     * GOOD JOB !!
+     * 
+     * I HAVE GOT NOTHING FOR ANY OF YOU NOR AM I INTERESTED
+     * GO ON WITH YOUR DELUSIONS PLEASE,
+     * 
+     * Better luck and perception next time !!
+     * Life is a simulation a game !! good not easy eheheheheheh
+     * I HAVE GOT NOTHING FOR YOU
+     * 
+     * Professional EXPERT MEDICALS PRETENDING TO UNDERSTAND AND DEAL WITH A SITUATION THEY ARE NOT GIVEN
+     * Ehehehehehehhehehehehehehhehehe, I HAVE GOT NOTHING FOR THE DISGUSTING ANIMALS OF IGNORANT NATURE !!
+     * 
+     * Hope you will be grown enough to understand the problem !!!
+     * A few tens of years AND TALKING ABOUT PERCEPTION INTELLIGENT EHEHHEHEHEHEHEHEHEHHEHE MEDICAL PROFESSIONALS EHEHEHEHHEHE
+     * INDEED!! NOT PERCEIVING THE PROBLEM !!!!!!!!
+     * 
+     * PROFESSIONALLLLLL MEDICALLLSSSSS !!!!
+     * DO GO ON WITH YOUR DISGUSTING DELUSIONS, I AM NOT INTERESTED
+     * 
+     * Good delusions to you all !!!
+     * Next time consider sleepin sleepin more and a few years of something and druggin sneakin more
+     * 
+     * 
+     * Hope what is final now makes sense to you all !!
      * */
 
 
