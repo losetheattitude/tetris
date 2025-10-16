@@ -1400,6 +1400,11 @@ int main()
      * Spineless individuals not perceiving the problem and the price
      * 
      * Good job, I DO NOT HAVE ANYTHING FOR ANY OF YOU, hope that makes sense
+     * 
+     * Eheheheheheheeheh savin materials for a few tens of years doin it way too much eheheheheheheheheheh
+     * Not perceiving the outcome and the chance!!! eheheheheh
+     * 
+     * GOOD JOB !! I am not interested in anything your stupid minds can offer
      * */
 
 
