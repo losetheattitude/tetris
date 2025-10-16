@@ -1379,6 +1379,9 @@ int main()
      * Never ask too many questions ehehehehehehehehehehehehe
      * 
      * The outcome and the chance and the nothing of a few tens of years with truly truly unique and talented people heeheheh
+     * Jokin sleepin ehehe druggin sneakin ehehehe its a great source of intelligence eheheheeheh
+     * 
+     * I AM NOT INTERESTED IN THE SLIGHEST DISGUSTING THING ANY OF THE WESTERN ANIMALS WHO ARE UNAWARE CAN OFFER
      * */
 
 
