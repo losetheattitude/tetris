@@ -1336,6 +1336,13 @@ int main()
      * Not even a second for any of you
      * 
      * Lies shall cancel themselves eheheheh good people indeed
+     * 
+     * An outcome that you are hiding like the true animal you are to not mention ehehehehehehehehehehe
+     * Thats a really accurate reasonable intelligent plan !!
+     * 
+     * I HAVE GOT RIGHTFULLY NOTHING FOR YOU ALL !!! Good job !!k
+     * 
+     * NEXT TIME STAY WITHIN YOUR CIRCLES, I have got not even the tiniest amount of anything bullshit for any of you
      * */
 
     
