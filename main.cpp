@@ -1286,6 +1286,9 @@ int main()
      * Deluding to make decisions with assumptions ehehehehehehheheheh
      * 
      * I HAVE GOT NOTHING FOR YOU
+     * 
+     * Disgusting western non DELUSIONAL ANIMALS SURELY ARE NOT DELUDING !!
+     * Ehehehe what an outcome !! 
      * */
 
     
