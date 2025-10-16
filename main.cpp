@@ -1320,6 +1320,11 @@ int main()
      * THATS THE REASON I DO NOT HAVE ANYTHING FOR YOU !! GOOD JOB !!
      * 
      * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
+     * 
+     * STAY WITHIN YOUR DISGUSTING CIRCLE NEXT TIME, professionall medicalll expertsss !!!
+     * THE PERCEPTION AND ASSUMPTION ABILITY IS FROM ANOTHER PLANET LIKE PLUTONIUM !!!
+     * 
+     * REAL GOOD JOB, no thanks
      * */
 
     
