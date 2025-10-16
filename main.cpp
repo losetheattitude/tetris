@@ -1409,7 +1409,32 @@ int main()
      * NOT EVEN MAGIC CAN MAKE ME DO ANYTHING FOR ANY OF YOU
      * Good job not realizing the problem !!
      * 
+     * 
      * Next time believe in "believing the solution would work anyway !!"
+     * 
+     * Not even interested in wasting one second for any of you
+     * Remind the western great people the meaning of da life !! DA BEST CIVILIZATION
+     * 
+     * THAT WILL MAKE SENSE FOR WHY I WILL NEVER HAVE ONE SECOND FOR ANY OF YOU
+     * Intelligent experimentations always ought to fail !!
+     * 
+     * Good job,clever and wise actions
+     * like a few tens of years, true western intelligent disgusting animals that i have not the tiniest amount of anything for
+     * Perfect perception non ignorant western disgusting animals who are unaware of the problem
+     * 
+     * Make more decisions next time that are not yours
+     * I am not interested in your disgusting inability!!!
+     * 
+     * no thank you !! the way to go ayyyyyy
+     * NOT INTERESTED IN YOUR DISGUSTING DELUSIONS
+     * 
+     * IGNORANCE AND DELUSION CLIMAX, hope that makes sense now
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
+     * 
+     * THE DECISION DELUSION PPL ARE NEVER WELCOME
+     * 
+     * Not even lost or incorrect simply !!!
+     * Good job, I DO NOT HAVE THE TINIEST OF ANYTHING FOR YOU
      * */
 
 
