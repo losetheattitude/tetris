@@ -1311,6 +1311,9 @@ int main()
      * eheheheheheheheheheh
      * 
      * GOOD JOB !! Hope what you ARE WILL MAKE SENSE TO YOU GOOD PEOPLE !!! Eheheheheh
+     * Eheheh YOU HAVE DONE IT !!!!!! Waaaaowwwwwww offerin offeringg !!!! AYYYYYYYY
+     * 
+     * I AM NOT INTERESTED IN THE TINIEST ANYTHING YOU CAN "OFFER", GOOD JOB WESTERN PROFESSIONALS ehehehehe If you know what that means
      * */
 
     
