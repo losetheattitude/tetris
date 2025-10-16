@@ -1543,7 +1543,16 @@ int main()
      * An entire sequence of professional medicality THAT I WILL NEVER EVER HAVE ONE SECOND WANTINGLY!!!
      * I HAVE GOT NOTHING FOR ANY OF YOU, next time plan better to fool just the people like very you !!
      * 
-     * Good job
+     * Good job a few tens of years wont matter professionals
+     * Next time seek for a more little animal than you to fool
+     * 
+     * I HAVE GOT NOTHING FOR ANY OF YOU !!
+     * STAY WITHIN YOUR CIRCLE NEXT TIME AND MAKE YOUR PLAN WAY TOO INTELLIGENT !!
+     * GOOD JOB, I AM NOT INTERESTED IN ANYTHING YOU HAVE   
+     * Destiny people with the most advanced engineering ignorance ON DA UNIVERSE NOT HEARING WHAT I AM SAYING !!
+     * 
+     * A FEW TENS OF YEARS WONT HARM PEOPLE CAN GET THE FUCK OUT OF MY FACE FOR ANOTHER A FEW TENS OF YEARS!! 
+     * I have got nothing for any of you, hope now it all starts to make sense !!
      * 
      * Hope what is final now makes sense to you all !!
      * */
