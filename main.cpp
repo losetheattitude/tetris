@@ -1502,6 +1502,48 @@ int main()
      * 
      * I HAVE GOT NOTHING FOR YOU
      * Hope you fool better next time including yourselves !! I HAVE GOT NOTHING FOR ANY OF YOU
+     * Go back to your materials I DO BEG YOU !!! GOOD JOB !
+     * 
+     * I am not interested in anything you have in mind, GOOD JOB !! MOVE ON TO YOUR DISGUSTING IMAGINATIONS
+     * Better sleep more people !!!!! THE WESTERN GENIUS NATIONS ENGINEERS AND NON DELUSIONALS !!! WAAAOWWWWW
+     * 
+     * GO BACK TO YOUR DISGUSTING DELUSIONS AND MARVELOUS IDEAS TO ACHIEVE ANOTHER A FEW TENS OF YEARS OF NOTHING
+     * I am not interested
+     * 
+     * NEXT TIME STAY WITHIN YOUR DISGUSTING CIRCLE, little ignorant animals of not definitely prejudiced form !!
+     * GOOD JOB, HOPE IT WILL MAKE SENSE ONE DAY TO YOU THAT AS WELL
+     * 
+     * I do not have anything for any of you disgusting animals WHO ARE UNAWARE OF THEIR DELUSIONS !! GOOD JOB!
+     * Foolin foolin NOT KNOWING YOUR DISGUSTING LIMITS EHEHEHHEHEHEHEHEH NOT IGNORANCE ITSELF !! 
+     * 
+     * GOOD OUTCOME clever people !! wise individuals engineerings genius nations, marvelous imagination !!
+     * I have got nothing for any of you to consider!!
+     * 
+     * I am not interested, make better decisions NEXT TIME AND DO YOURS ONLY
+     * 
+     * I HAVE GOT NOTHING FOR ANY OF YOU, HOPE THAT WILL MAKE SENSE TO YOU ONE DAY, professional HUMANS THAT DO NOT UNDERSTAND THE WORLD !!!
+     * GO ON STICKING YOUR HEADS TO THE SAND, Western non delusional disgusting animals
+     * 
+     * No prejudiced pure intelligent community great skilled talented unique WESTERN HUMANS !! Waaaowww, good imagination !!
+     * Just like the outcome the kinds of your great people would build !!
+     * 
+     * I AM NOT INTERESTED IN THE TINIEST AMOUNT OF DISGUSTING CONTENT THAT THE WESTERN NON DELUSIONALS CAN OFFER
+     * I am not interested
+     * 
+     * Better play the wise that you are not next time !!
+     * Plan better next time for your pure materials, I AM NOT INTERESTED IN YOUR WESTERN DISGUSTING "DELUSIONS"
+     * Professional medicals not PERCEIVING THE PROBLEM !!!
+     * 
+     * Unreliable disgusting DELUSIONAL WESTERN ANIMALS acting like they are attributed to !!
+     * Eheheheh professional medical experts NOT UNDERSTANDING THE PROBLEM !!
+     * 
+     * Prejudice always blooms !!! A wonderful outcome built by TRULY NON DELUSIONAL DISGUSTING ANIMALS
+     * Ehehehehehheheheh not knowing what to do PEOPLE makin DECISIONS THAT ARE NOT THEIRS WITH DELUSIONS AND PREJUDICES !!
+     * 
+     * An entire sequence of professional medicality THAT I WILL NEVER EVER HAVE ONE SECOND WANTINGLY!!!
+     * I HAVE GOT NOTHING FOR ANY OF YOU, next time plan better to fool just the people like very you !!
+     * 
+     * Good job
      * 
      * Hope what is final now makes sense to you all !!
      * */
