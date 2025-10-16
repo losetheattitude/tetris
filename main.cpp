@@ -1391,8 +1391,18 @@ int main()
      * Next time more luck on absolutely doing nothing with what is not yours
      * Take more notes and NEVER DO CROSS YOUR BOUNDARY WITH PEOPLE
      * 
-     * Good job 
+     * Good job, the saver of da day will come to your disgusting rescue !!!!!  "THE DESTINY" NON IGNORANT ADVANCED WESTERN CIVILIZATION PEOPLE !!!
+     * 
+     * THE SAVIORS OF DA UNIVERSE MARVELOUS PEOPLE 
+     * 
+     * 
+     * No stubborn no delusional people NOT GETTING THE PROBLEM STILL !!!
+     * Spineless individuals not perceiving the problem and the price
+     * 
+     * Good job, I DO NOT HAVE ANYTHING FOR ANY OF YOU, hope that makes sense
      * */
+
+
 
 
     
