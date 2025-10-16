@@ -1295,6 +1295,10 @@ int main()
      * GOOD JOB MAKIN DECISIONS WITH DELUSIONS !!
      * I AM NOT INTERESTED IN THE DISGUSTING  "WESTERN" *IGNORANT* ANIMALS
      * There is nothing you can do about it !! eheheheheh
+     * 
+     * An achievement THAT IS DONE BY THE GROUP OF GENIUS PROFESSIONAL WESTERN IGNORANT EXPERT MEDICALS AND ETC !!! 
+     * 
+     * THATS THE REASON YOU ARE IGNORING eheheheheh
      * */
 
     
