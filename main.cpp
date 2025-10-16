@@ -1408,6 +1408,8 @@ int main()
      * 
      * NOT EVEN MAGIC CAN MAKE ME DO ANYTHING FOR ANY OF YOU
      * Good job not realizing the problem !!
+     * 
+     * Next time believe in "believing the solution would work anyway !!"
      * */
 
 
