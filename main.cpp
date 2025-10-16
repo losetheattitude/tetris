@@ -1351,6 +1351,22 @@ int main()
      * The only definition OF THE ONLY AND ONE OF DA BEST INTELLIGENCE EHEHEHEHEHHEHE MARKS 
      * 
      * NOTHING FOR ANY OF YOU
+     * Ehehehhehhe, electronics genius nation of da universe ONE OF DA BEST TECH ADVANCE MODERN EHEHEHEHEHEHEHEHEHEHEHEHEH
+     * 
+     * NOT INTERESTED IN THE "EHEH HAVE SOME MATERIAL WE TRYNA SUCK SO MUCH MATERIAL FOR OURSELVES OMMMMMHHHHHHGGGGGG"
+     * 
+     * NOT EVEN A FRACTION OF A SECOND FOR THE DISGUSTING NON DELUSIONAL ANIMALS
+     * Eheheh changin changin perceptions hehehehehehehehjehehehehehehehehehheheheheheh
+     * 
+     * Makin makin a few tens of years of decisions ehehehheheheheh sleepin etc drugging eheheheheheh
+     * 
+     * INTELLIGENCE PERCEPTION ADVANCED TECH MODERN CIVILIZATION NON IGNORANTS AND DELUSIONALS !! GOOOOODD JOBBBB !!!
+     * I HAVE NOT THE TINIEST AMOUNT OF ANYTHING SIGNIFICANT FOR YOU
+     * 
+     * 
+     * Ehehehe, stories stories for eheheheheehehehehehhehehehe good job
+     * The outcome !!! and the story !!! Ehehehehehehehehehhe clueless animals who do not understand shit ehehehehehh
+     * Materials materials please heheheheeheheheh
      * */
 
 
