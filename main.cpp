@@ -1564,6 +1564,7 @@ int main()
      * YOU WILL NOT EVEN FOR A SECOND EVER HAVE EXPERIENCED IT, GOOD JOB NOT INTERESTED
      * 
      * Hope you will one day make it sense FOR YOU ALL, I AM NOT INTERESTED IN ANYTHING YOU HAVE IN MIND
+     * Hope you will make it all sense ONE DAY, I AM NOT INTERESTED IN ANYTHING YOUR CULTURE CAN OFFER TO OTHER PEOPLE
      * 
      * Hope what is final now makes sense to you all !!
      * */
