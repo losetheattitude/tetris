@@ -1291,6 +1291,9 @@ int main()
      * Ehehehe what an outcome !! 
      * 
      * NOT INTERESTED IN ANYThING YOU HAVE IN MIND, that will make sense!!
+     * 
+     * GOOD JOB MAKIN DECISIONS WITH DELUSIONS !!
+     * I AM NOT INTERESTED IN THE DISGUSTING  "WESTERN" *IGNORANT* ANIMALS
      * */
 
     
