@@ -1315,6 +1315,11 @@ int main()
      * 
      * I AM NOT INTERESTED IN THE TINIEST ANYTHING YOU CAN "OFFER", GOOD JOB WESTERN PROFESSIONALS ehehehehe If you know what that means
      * Go on more drugging people
+     * 
+     * A few tens of years because the professional genius developed advanced society marvels OF DA WESTERN ANIMALS think so !!
+     * THATS THE REASON I DO NOT HAVE ANYTHING FOR YOU !! GOOD JOB !!
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * */
 
     
