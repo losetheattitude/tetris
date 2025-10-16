@@ -1474,6 +1474,35 @@ int main()
      * GOOD JOB NOT EVEN A SECOND FOR ANY OF YOU AROUND ME
      * Next time pay more attention and respect to NOT YOUR DECISIONS EHEHEHEHEHEHEH
      * 
+     * 
+     * AWWWWWWWWWWWWWWWWW, what a surprising OUTCOME built by the very very disgusting animals WHO ARE ALSO IGNORANT !!!!
+     * What a lovely outcome, I HAVE GOT NOTHING FOR YOU
+     * 
+     * I AM NOT INTERESTED IN THE SLIGHTEST OF ANYTHING YOU HAVE IN YOUR MIND, next time make that make sense for you
+     * Good decision making, great people indeed, No delusions
+     * 
+     * Professional disgusting medicals NOT GETTING THE PROBLEM !!! GOOD JOB !!
+     * Estimate the NOT YOUR CONSEQUENCES NEXT TIME ehehehehehehehehhe I HAVE GOT NOT EVEN THE MOST DISGUSTING THING FOR ANY OF THE WESTERN ANIMALS
+     * 
+     * The best of da best decision making GREAT WESTERN COMMUNITY INTELLIGENT DISGUSTING IGNORANT ANIMALS NOT GETTING THE PROBLEM
+     * What an outcome !!!
+     * 
+     * The people with the MOST ADVANCED UNDERSTANDING YET NOT THE PERCEPTION MAKING DECISIONS THEY DO NOT UNDERSTAND AND ANSWER FOR !!
+     * Good job !!
+     * 
+     * I AM NOT INTERESTED IN ANYTHING THAT YOU ARE AROUND !!! Good idea !!!
+     * Science ehehehehh
+     * 
+     * 
+     * Professional medicals makin a trullyy trullyyyy beneficial outcome for everyone !!!
+     * Eheheheh good job !! Raising people certain way to then ignore and prejudice hehehehehehehh
+     * 
+     * The great people NOT UNDERSTANDING WHAT THEY ARE EXPERIENCING !!
+     * Definitely unique and talented people ASCERTAIN AND KNOWING WHAT THEY ARE DOING !!
+     * 
+     * I HAVE GOT NOTHING FOR YOU
+     * Hope you fool better next time including yourselves !! I HAVE GOT NOTHING FOR ANY OF YOU
+     * 
      * Hope what is final now makes sense to you all !!
      * */
 
