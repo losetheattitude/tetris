@@ -1299,6 +1299,13 @@ int main()
      * An achievement THAT IS DONE BY THE GROUP OF GENIUS PROFESSIONAL WESTERN IGNORANT EXPERT MEDICALS AND ETC !!! 
      * 
      * THATS THE REASON YOU ARE IGNORING eheheheheh
+     * THERE IS NOTHING YOU COULD DO CHANGE THE DISGUSTING WESTERN IGNORANT IMAGE !! AND I HAVE NOTHING TO DO WITH ANY OF YOU INDEFINITELY
+     * Hope the materials you are disgustingly CRAVING will make you understand THAT I WILL NEVER EVER CONSIDER ANY OF YOU BECAUSE OF YOUR IGNORANCE ON THAT
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER, please do delude on EHEHEHEHHEHEHEHEHEHEHEH wumen wumen wumennnnn yayyyyy way to fool people ehehehe
+     * 
+     * wumen wumennn carss ehehe get a brand eheheheheh way to fool children ehehehehe drugginggg I HAVE NOTHING FOR YOU
+     * THE DISGUSTING WESTERN ANIMALS WHO WILL FIND OUT FOR THEMSELVES
      * */
 
     
