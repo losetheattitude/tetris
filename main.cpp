@@ -1325,6 +1325,8 @@ int main()
      * THE PERCEPTION AND ASSUMPTION ABILITY IS FROM ANOTHER PLANET LIKE PLUTONIUM !!!
      * 
      * REAL GOOD JOB, no thanks
+     * Definitely good job !! 
+     * So much so that you all are clueless animals who do not truly understand the reality !! GO GALS !!
      * */
 
     
