@@ -1387,6 +1387,11 @@ int main()
      * 
      * Still not UNDERSTANDING THE PROBLEM WITH THEIR GREAT BRAINS AND MINDS EHEHEHEHEHEHEH
      * I am not interested in anything you can offer, GO ON TO YOUR DELUSIONS AND GET THE FUCK OUT OF MY FACE WITH YOUR INEXPLICABLE INABILITY 
+     * 
+     * Next time more luck on absolutely doing nothing with what is not yours
+     * Take more notes and NEVER DO CROSS YOUR BOUNDARY WITH PEOPLE
+     * 
+     * Good job 
      * */
 
 
