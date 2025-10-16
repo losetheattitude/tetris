@@ -1334,6 +1334,8 @@ int main()
      * 
      * Ehehehehehehehehehehehehehhehehehehehehhehehehehhee, nothing at all !! Good intelligent super kind ppl !!
      * Not even a second for any of you
+     * 
+     * Lies shall cancel themselves eheheheh good people indeed
      * */
 
     
