@@ -1306,6 +1306,11 @@ int main()
      * 
      * wumen wumennn carss ehehe get a brand eheheheheh way to fool children ehehehehe drugginggg I HAVE NOTHING FOR YOU
      * THE DISGUSTING WESTERN ANIMALS WHO WILL FIND OUT FOR THEMSELVES
+     * 
+     * No deluding at all SOLVING PROBLEMS ehehehehehe !!! Da best of da best western community professional medical experts !!! MAKIN ASSUMPTIONS 
+     * eheheheheheheheheheh
+     * 
+     * GOOD JOB !!
      * */
 
     
