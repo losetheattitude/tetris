@@ -1566,6 +1566,9 @@ int main()
      * Hope you will one day make it sense FOR YOU ALL, I AM NOT INTERESTED IN ANYTHING YOU HAVE IN MIND
      * Hope you will make it all sense ONE DAY, I AM NOT INTERESTED IN ANYTHING YOUR CULTURE CAN OFFER TO OTHER PEOPLE
      * 
+     * HOPE YOU WILL START TO MAKE SENSE OF THE LIFE YOU PRAISE TO UNDERSTAND AS WELL ONE DAY !!
+     * Good outcome !! I HAVE GOT NOTHING FOR THE DISGUSTING WESTERN ANIMALS, thats the only thing you will ever have heard !!!
+     * 
      * Hope what is final now makes sense to you all !!
      * */
 
