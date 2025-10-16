@@ -1343,6 +1343,8 @@ int main()
      * I HAVE GOT RIGHTFULLY NOTHING FOR YOU ALL !!! Good job !!k
      * 
      * NEXT TIME STAY WITHIN YOUR CIRCLES, I have got not even the tiniest amount of anything bullshit for any of you
+     * 
+     * NOT INTERESTED IN YOUR "PERCEPTIONS", a few tens of years is nothing people !!!! talkin about life science heehhehe 
      * */
 
     
