@@ -1345,7 +1345,14 @@ int main()
      * NEXT TIME STAY WITHIN YOUR CIRCLES, I have got not even the tiniest amount of anything bullshit for any of you
      * 
      * NOT INTERESTED IN YOUR "PERCEPTIONS", a few tens of years is nothing people !!!! talkin about life science heehhehe 
+     * Who is what ehehehehehheehhehehehee, perceptionist non ignorant super highly intelligent disgusting animals who think they can fool anyone and everyone !!!
+     * 
+     * Makin makin decisions thinkin thinkin right at it ehehehhehehe
+     * The only definition OF THE ONLY AND ONE OF DA BEST INTELLIGENCE EHEHEHEHEHHEHE MARKS 
+     * 
+     * NOTHING FOR ANY OF YOU
      * */
+
 
     
    
