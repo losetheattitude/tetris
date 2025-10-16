@@ -1554,6 +1554,14 @@ int main()
      * A FEW TENS OF YEARS WONT HARM PEOPLE CAN GET THE FUCK OUT OF MY FACE FOR ANOTHER A FEW TENS OF YEARS!! 
      * I have got nothing for any of you, hope now it all starts to make sense !!
      * 
+     * Thats a success story for TRULY PROFESSIONAL MEDICAL EXPERTS, KEEP ON DELUDING PLEASE
+     * I HAVE GOT NOT EVEN A SECOND FOR THE WESTERN ANIMALS
+     * 
+     * MOVE ON WITH YOUR PRECIOUS LIVES THE UNIQUE TALENTED WESTERNS, I am not interested
+     * Hope that will make sense one day
+     * 
+     * Life is easy !!!! I HAVE GOT NOTHING FOR YOU, that will also make sense
+     * 
      * Hope what is final now makes sense to you all !!
      * */
 
