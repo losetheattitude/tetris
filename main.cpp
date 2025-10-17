@@ -1641,6 +1641,11 @@ int main()
      * Good job !! You have done a wonderful job !!!
      * 
      * I AM NOT INTERESTED IN THE DISGUSTING "WESTERN" ANIMALS
+     * BETTER LUCK NEXT TIME FINDING THE OPTIMAL DOZE FOR CHILDREN THEN OPTIMAL LIES TO YOUR DISGUSTING WESTERN CIVILIZATION !!
+     * I HAVE GOT NOTHING FOR ANY OF YOU
+     * 
+     * THAT WILL SURELY MAKE SENSE ONE DAY
+     * 
      * 
      * Hope what is final now makes sense to you all !!
      * That is final
