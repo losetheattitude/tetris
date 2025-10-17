@@ -1700,6 +1700,7 @@ int main()
      * See for yourself, professional medical experts with a great assuming and judging ability !!! NUMBER ONE WESTERN PEOPLE !!
      * 
      * YOU ARE FREE TO GET THE FUCK OUT OF MY FACE, I HAVE GOT NOTHNG FOR YOU
+     * Hope next time WHY ANY INDIVIDUAL WOULD CHOOSE THIS WILL MAKE SENSE TO YOU, THE DISGUSTING UNREASONABLE DELUSIONAL WESTERN ANIMALS
      * 
      * Hope what is final now makes sense to you all !!
      * That is final
