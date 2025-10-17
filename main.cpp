@@ -1672,6 +1672,13 @@ int main()
      * NEXT TIME THE WESTERN ASSUMING PROFESSIONAL NON IGNORANT ANIMALS WILL STAY IN THEIR DISGUSTING CIRCLE AND REACH, Hope that will eventually make sense
      * ehehehehhehe, I HAVE GOT NOTHING FOR YOU
      * 
+     * Hope you will have more time and materials and imagination TO DELUDE AND IGNORE MORE !!! I am not interested in the disgusting western PEOPLE !!!
+     * GOOD JOB!! 
+     * 
+     * DO NOT ENGAGE WITH ME !!! Thank you !
+     * Disgusting western animals ARE NOT AWARE THAT "EHEHEHEHHEHEHE" wasting time !!! ehehehhehehheheheheheh THAT YOU WERE NOT GIVEN !!!
+     * I AM NOT INTERESTED IN THE DISGUSTING CONTENT OF THE WESTERN ANIMALS !! WHO ARE NOT EVEN NEARLY IGNORANT !!!
+     * 
      * Hope what is final now makes sense to you all !!
      * That is final
      * */
