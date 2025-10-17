@@ -1636,6 +1636,11 @@ int main()
      * DISGUSTING LITTLE WESTERN ANIMALS STILL MAKIN OFFERS AND DECISIONS ehehehehehehehehehhehehehehehe
      * Waaaowwww, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
      * 
+     * A FEW TENS OF YEARS, REMEMBER ehehehehehehehhehehehehehehehehe
+     * THE ONLY THING YOU ALL CAN BE A DISGUSTING FAILING FOOLER !!
+     * Good job !! You have done a wonderful job !!!
+     * 
+     * I AM NOT INTERESTED IN THE DISGUSTING "WESTERN" ANIMALS
      * 
      * Hope what is final now makes sense to you all !!
      * That is final
