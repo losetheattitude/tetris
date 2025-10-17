@@ -1653,6 +1653,17 @@ int main()
      * I HAVE GOT NOT EVEN THE MOST INSIGNIFICANT THING FOR ANY OF THE DISGUSTING PROFESSIONAL WESTERN DELUDERS
      * 
      * GOOD JOB !! 
+     * Disgusting allmighty all knowing professional western civilized modern culture with technology and science AT THE TOP 
+     * making decisions THAT ARE NOT GIVEN TO THEM AT ALL !!! GOOD JOB !!!
+     * 
+     * I DO NOT HAVE EVEN A SECOND FOR ANY OF YOU, I AM NOT INTERESTED, I DO NOT WANT YOU IN MY SURROUNDINGS, THATS THE ONLY THING YOU WILL EVER HEAR!!
+     * 
+     * GOOD JOB, next time use more family and fun vibes to children so that YOU CAN skillfully fool people !!
+     * I HAVE GOT NOTHING FOR THE "WESTERN" true civilized modern science people !!!
+     * 
+     * Better perception next time
+     * Hope you will suddenly make sense ONE DAY, or JUST PLEASE FOR ME IGNORE !!! IGNORE YOU WILL BECOME BETTER THE TRUE GREAT WESTERN GENIUS ENGINEERING PROFESSIONALS
+     * PLEASE DO IGNORE !!! I HAVE GOT NOTHING FOR ANY OF YOU
      * 
      * Hope what is final now makes sense to you all !!
      * That is final
