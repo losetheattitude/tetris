@@ -1578,6 +1578,16 @@ int main()
      * Hope that will eventually make sense, I AM NOT INTERESTED IN THE TINIEST DISGUSTING ANIMALISTIC THING YOU CAN OFFER
      * YOU WILL FIND THAT OUT !! GOOD JOB WESTERN HUMANS !! Eheheheheheh I am not interested
      * 
+     * 
+     * Disgusting non self conscious animals WHO ARE STILL UNAWARE OF THE PROBLEM, I HAVE GOT NOT EVEN THE MOST INSIGNIFICANT THING FOR ANY OF YOU
+     * I DO NOT HAVE TIME FOR DISGUSTING ANIMALS WHO TAKE A FEW YEARS FOR A JOKE !!
+     * 
+     * GO BACK TO YOUR DELUSIONS DISGUSTING WESTERNS !!!! GOOD JOB
+     * GOOD JOB NOT GIVING A FUCK !! THE TRUE WESTERN WISE INTELLIGENT SMART PEOPLE !!!
+     * 
+     * I HAVE GOT NOTHING FOR ANY OF YOU, good job
+     * 
+     * 
      * Hope what is final now makes sense to you all !!
      * */
 
