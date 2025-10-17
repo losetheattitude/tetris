@@ -1645,7 +1645,8 @@ int main()
      * I HAVE GOT NOTHING FOR ANY OF YOU
      * 
      * THAT WILL SURELY MAKE SENSE ONE DAY
-     * 
+     * I DO NOT HAVE TIME FOR ANYONE WHO THINKS HE KNOWS BETTER
+     * I HAVE GOT NOTHING FOR THE WESTERNS
      * 
      * Hope what is final now makes sense to you all !!
      * That is final
