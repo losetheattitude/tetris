@@ -1684,6 +1684,11 @@ int main()
      * MAKING DECISIONS THAT YOU WERE NOT GIVEN FOR !!!! THE WESTERN GENIUS PROFESSIONAL MEDICAL EXPERTS WITH A DEGREE ON HOW TO BE A DISGUSTING ANIMAL
      * WHO IGNORE AND JUDGE !!!!! GOOD JOB !! I HAVE GOT NOTHING FOR THE DISGUSTING WESTERNS !!
      * 
+     * Better luck and listening ability next time !!
+     * One and only developed civilization, THE WESTERN !!!
+     * 
+     * I DO NOT HAVE TIME FOR YOU !!
+     * 
      * Hope what is final now makes sense to you all !!
      * That is final
      * */
