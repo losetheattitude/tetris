@@ -1616,6 +1616,18 @@ int main()
      * I HAVE GOT NOTHING FOR ANY OF YOU
      * I AM NOT INTERESTED !!
      * 
+     * Wise and clever western civilization genius intelligent PROFESSIONAL MEDICAL EXPERTS
+     * MAKING DECISIONS THAT ARE NOT GIVEN TO THEM AT ALL
+     * 
+     * Disgusting western monkeys NOT GETTING THE PROBLEM
+     * 
+     * Good job for a few tens of years of "professional guessing and assuming"
+     * 
+     * THE ONE AND ONLY CIVILIZATION THAT IS AS ADVANCED AS ANYTHING ON THE SURFACE OF UNIVERSE, NOT CAPABLE OF UNDERSTANDING THE PROBLEM
+     * 
+     * A FEW TENS OF YEARS OF PROFESSIONAL FAILURE AT ASSUMING AND GUESSING FOR SOMETHING THAT YOU WERE NOT EVEN CLOSELY GIVEN TO !!!
+     * The one and only genius nation one of da best of da best civilization grown DISGUSTING WESTERN ANIMALS
+     * 
      * Hope what is final now makes sense to you all !!
      * That is final
      * */
