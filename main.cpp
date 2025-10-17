@@ -1689,6 +1689,12 @@ int main()
      * 
      * I DO NOT HAVE TIME FOR YOU !!
      * 
+     * I AM NOT INTERESTED IN THE VERY ANIMALS WHO TAKE PEOPLE FOR WHAT THEY ARE NOT !!!
+     * Definitely full confidence on your disgusting animality with a great and great ignorance and prejudice capability !!
+     * I HAVE GOT NOTHING FOR THE DISGUSTING WESTERN ANIMALS
+     * 
+     * HOPE THAT WILL MAKE SENSE
+     * 
      * Hope what is final now makes sense to you all !!
      * That is final
      * */
