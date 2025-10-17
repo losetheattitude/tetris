@@ -1694,6 +1694,9 @@ int main()
      * I HAVE GOT NOTHING FOR THE DISGUSTING WESTERN ANIMALS
      * 
      * HOPE THAT WILL MAKE SENSE
+     * HOPE THAT WILL MAKE SENSE ONE DAY AS WELL !!
+     * 
+     * YOU ARE FREE TO DO WHATEVER YOU LIKE AS LONG AS YOU ARE NOT EVEN AN INCH CLOSE TO ME
      * 
      * Hope what is final now makes sense to you all !!
      * That is final
