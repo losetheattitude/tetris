@@ -1648,6 +1648,12 @@ int main()
      * I DO NOT HAVE TIME FOR ANYONE WHO THINKS HE KNOWS BETTER
      * I HAVE GOT NOTHING FOR THE WESTERNS
      * 
+     * 
+     * THINK AND PLAN BETTER NEXT TIME, use the correct DRUGS and "MEDICATIONS" eheheheh
+     * I HAVE GOT NOT EVEN THE MOST INSIGNIFICANT THING FOR ANY OF THE DISGUSTING PROFESSIONAL WESTERN DELUDERS
+     * 
+     * GOOD JOB !! 
+     * 
      * Hope what is final now makes sense to you all !!
      * That is final
      * */
