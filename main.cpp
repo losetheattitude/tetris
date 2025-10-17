@@ -1586,6 +1586,10 @@ int main()
      * GOOD JOB NOT GIVING A FUCK !! THE TRUE WESTERN WISE INTELLIGENT SMART PEOPLE !!!
      * 
      * I HAVE GOT NOTHING FOR ANY OF YOU, good job
+     * Hope you will make sense one day on WHAT YOU SHOULD NOT DO !!
+     * GOOD WESTERN GENIUS DECISION MAKERS OUTCOME BUILDERS WHO DO NOT HAVE ANY IDEA WHATSOEVER !!
+     * 
+     * I AM NOT INTERESTED IN ANYTHING THE DISGUSTING WESTERN ANIMALS CAN OFFER
      * 
      * 
      * Hope what is final now makes sense to you all !!
