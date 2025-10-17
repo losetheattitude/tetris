@@ -1621,12 +1621,21 @@ int main()
      * 
      * Disgusting western monkeys NOT GETTING THE PROBLEM
      * 
+     * 
      * Good job for a few tens of years of "professional guessing and assuming"
      * 
      * THE ONE AND ONLY CIVILIZATION THAT IS AS ADVANCED AS ANYTHING ON THE SURFACE OF UNIVERSE, NOT CAPABLE OF UNDERSTANDING THE PROBLEM
      * 
      * A FEW TENS OF YEARS OF PROFESSIONAL FAILURE AT ASSUMING AND GUESSING FOR SOMETHING THAT YOU WERE NOT EVEN CLOSELY GIVEN TO !!!
      * The one and only genius nation one of da best of da best civilization grown DISGUSTING WESTERN ANIMALS
+     * 
+     * 
+     * A few tens of years of failure AT FOOLING PEOPLE WITH DRUGS AND PROFESSIONAL ASSUMING THAT HAS GENERATED NOTHING BUT A FEW TENS OF YEARS OF WASTE
+     * BUILT BY THE TRUE WESTERN GENIUS MONKEY DISGUSTING PROFESSIONAL MEDICAL EXPERTS FAILING MISERABLY AT DRUGGING PEOPLE AT RIGHT TIME !!!
+     * 
+     * DISGUSTING LITTLE WESTERN ANIMALS STILL MAKIN OFFERS AND DECISIONS ehehehehehehehehehhehehehehehe
+     * Waaaowwww, I AM NOT INTERESTED IN ANYTHING YOU CAN OFFER
+     * 
      * 
      * Hope what is final now makes sense to you all !!
      * That is final
