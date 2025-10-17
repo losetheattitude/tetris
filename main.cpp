@@ -1665,6 +1665,13 @@ int main()
      * Hope you will suddenly make sense ONE DAY, or JUST PLEASE FOR ME IGNORE !!! IGNORE YOU WILL BECOME BETTER THE TRUE GREAT WESTERN GENIUS ENGINEERING PROFESSIONALS
      * PLEASE DO IGNORE !!! I HAVE GOT NOTHING FOR ANY OF YOU
      * 
+     * 
+     * Definitely not the western non delusionals coping !! NEXT TIME STAY WITHIN YOUR DISGUSTING CIRCLE !!
+     * I am not interested
+     * 
+     * NEXT TIME THE WESTERN ASSUMING PROFESSIONAL NON IGNORANT ANIMALS WILL STAY IN THEIR DISGUSTING CIRCLE AND REACH, Hope that will eventually make sense
+     * ehehehehhehe, I HAVE GOT NOTHING FOR YOU
+     * 
      * Hope what is final now makes sense to you all !!
      * That is final
      * */
