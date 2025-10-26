@@ -1,4 +1,4 @@
-#include <iostream>
+    #include <iostream>
 #include <raylib.h>
 #include <thread>
 
@@ -1813,9 +1813,1255 @@ int main()
      * A SUCCESS STORY FROM DA BEST OF THE CIVILIZATIONS, THE WESTERN GREAT GENIUS COMMUNITY TRYING TO ACT LIKE THEY SHOULD DO DECISIONS !!!
      * WHAT A LOVELY OUTCOME JUST BY ASSUMPTIONS AND PREDICTIONS EHEHEHEHE MAKING A FEW TENS OF YEARS ONLY EHEHEHEHEHEHEHE
      * 
-     * GOOD JOB
+     * GOOD JOB, TRULY GENIUS PROFESSIONAL MEDICAL EXPERTS MAKING DECISIONS OF A FEW TENS YEARS WITH ASSUMPTIONS AND PREDICTIONS!!!!
+     * A FEW TENS EHEHEHEH OF YEARS AND A WUMEN EHEHEHHEEHHEHEHEHE A ROOM EHEHEHEHHEHEHEHE
      * 
-     * That is final
+     * REALLLY FUNNNY !!! PEOPLE DELUDE EHEHEHEH
+     * NOW YOU HAVE TO OFFER CARS CARS WUMEN WUMEN EHEHEHHEHE NOW YOU HAVE TO OFFER IT NOW HE GONNA GO CRAZY BECAUSE OF US !!!
+     * EHEHEH GENIUS WESTERN PROFESSIONAL MEDICALS !!!
+     * 
+     * DO IT NOW !!! EHEHEHEHEHHE
+     * Eheheehhe makin decisions ehehehehehehe GREAT PPL ehehehehehe
+     * Clever, wise, almighty intelligent super civilized WESTERN CIVILIZATIONS tryin to IGNORE THE DISGUSTING NATURE OF THEIR GREAT ACTIONS !!!
+     * And lookin around for wumen wumen a room ehehehheheheh 
+     * 
+     * EHEHEHEHEH GOOOOOO GOOOOO EHEHEHEHEHHEHE GOOOD JOBBB !!!! A GREAT OUTCOME EHEHHE
+     * Next time plan better ehehehehehehhee GENIUS NON IGNORANT NON DELUSIONAL DISGUSTING LITTLE WESTERN ANIMALS
+     * ENJOYING THE OUTCOME !!!! WAAAAOWWWWWW
+     * 
+     * A GREAT GREAT INTELLIGENCE EXAMPLE FROM DA BEST CIVILIZATION ON UNIVERSE, THE WESTERNS THAT IGNORE !!!! BECAUSE THEY FUCKED UP !!!
+     * 
+     * DISGUSTING LITTLE WESTERN ANIMALS WILL MAKE IT SENSE ONE DAY !!! Ehehehehehe
+     * PROFESSIONALS INDEED !! Yayyyyy
+     * 
+     * 
+     * MAKING DECISIONS THAT ARE NOT YOURS !!!!!!!!!!!!!!
+     * HOPE THAT ONE DAY WILL MAKE SENSE TO YOU !!!
+     * Ehehehehehehe, ehehehehehe ITS SO FUN !!!
+     * EHEHEHEHEHEHEHEEE, 
+     * 
+     * Ehehehehehehhehehehehehehhehehe, life a game heheheheheheeheheheheheh life a simulation eheheheheheheheh
+     * intelligence heeheheheheh western eheheheheheh wise mighty knowing people TRYING TO CONVINCE PEOPLE THAT THEY WIN !!!
+     * 
+     * Ayyyyy, get muney muney carsss wumen wumennnn eheheheh LIKE A WESTERN TRUE CIVILIZED INTELLIGENT DISGUSTING ANIMAL !!!
+     * I WILL NEVER HAVE ANOTHER SECOND FOR ANY OF YOU eheheheheh
+     * 
+     * Ehehhe professional medical experts scarin ppl with eheheh hospital ehehehehehehe
+     * Ehehehehehhehee, professional medical experts intelligence actions NOT REALIZING eheheheheh
+     * 
+     * Disgusting western ANIMALS ARE STILL SO CONTENT AND SURE OF THEIR GREAT CIVILIZATION !!!! WAOWWWWWWW
+     * A truly advanced modern ENGINEERING NON IGNORANT ANIMALS !!!!
+     * 
+     * I WILL NOT HAVE ANYTHING FOR ANY OF YOU !!! GOOD JOB !!
+     * The western great intelligence PEOPLE ARE NOT AWARE STILL !!!
+     * Good job !! Just like the great people !!! I HAVE GOT NOT EVEN ANOTHER SECOND FOR THE DISGUSTING DELUSIONAL ANIMALS
+     * WHO LOVE TO IGNORE!!!!
+     * 
+     * A NUMBER ONE CIVILIZATION EXAMPLE !! GOOD JOB !!! I AM NOT INTERESTED IN YOUR DISGUSTING DELUSIONS !!
+     * Ehehehehh engineering ehehehehehe drugging eheheheh sleeping ehehehehe civilization ehehehehehehehe
+     * 
+     * Ehehehehe, its a joke !! NO NO, get wumen eheheheh get cars eheheh ITS ALSO JOKE !!! EHeheheheheh
+     * Wumen wumen muney muney get muney ehehehehe ITS ALSO A JOKE !!! ehehehehehehehhehe
+     * 
+     * ITS A SUCCESS STORY FOR THE GREAT WESTERN DISGUSTING ANIMALS eheheheheh
+     * ITS A SUCCESS EHEHEHEHEHEHEHHEHE NO IGNORANCE !!!!
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU HAVE
+     * A FEW TENS OF YEARS BECAUSE YOU THINK SO !!!! OMFG WHAT A DELUSION !!!!
+     * TRULY PROFESSIONAL ENGINEERING MARVELOUS WESTERN CIVILIZATION !!!!
+     * 
+     * I have got NOTHING FOR ANY OF YOU, hope that makes sense soon
+     * Eheheheheh wumen wumen wumenn carsss muneyyy materials ehehehehehehehehehehehehehehehehehehe
+     * Anyways, just get a wumen for a few tens of years eheheheheheheeheheh LIKE THE TRUE ADVANCED CIVILIZATION DISGUSTING ANIMALS
+     * 
+     * EHEHEHEHEHEHEHHEEHEHEHE
+     * Just a few tens of years ehehehehe with a wumen eheheheh GET MUNEY ANYWAYS GET CARS EHEHEHEHEHEHE
+     * The true professional medical expert civilization modern advanced PEOPLE ARE STILL NOT AWARE !!!
+     * 
+     * Ehehehehe makin makin decisions THAT ARE NOT YOURS and ignoring ignoring REALLLLY REALLLLLLYYY INTELLIGENTLY !!!
+     * WAAAAOWWWWWWWWWWWWW, Ehehehehehehe
+     * 
+     * PLEASE GO ON !!!!!! EHEHEHEH THE CLEVER WISE SNEAKY WESTERN DISGUSTING ANIMALS ARE NOT AWARE !!!!
+     * EHEHEHEHEHEHEHEHEHEHEHE, professional medical experts ARE NOT AWARE eheheheheheheheheheheheheh
+     * 
+     * Such a lovely outcome and great consequence ehehehehehehehehe
+     * wumen wumennn get a wumennnn YAYYYYYYYYY, get cars hehehehehehehehehehhehehe
+     * 
+     * Eheheheheheh fooling foolingg even with the disgusting animalistic intelligence THAT ARE UNAWARE !!!!
+     * Ehehehehehehehehheehhe, eheheheheheheheheheh WHAT IS GOING TO HAPPEN ? OMGGGG !!!! 
+     * 
+     * WAAAAOWWWWWWWWWW !!!!!!!!!!!!!!! realllyyyy reaalllyyyyhyy GOOOOOD PEEEOPLEEEE THAT ARE UNAWARE !!!!!!
+     * Ehehehehehehehehehh what do we do !! OFFER !!! We offer materials eheheheh a few tens of years eheheheheh
+     * professional medical ignorant disgusting experts "TRYING TO" SAVE THE SITUATION EHEHEHEHEHEHEHEH
+     * 
+     * A GREAT WESTERN INTELLIGENCE GROUP OF PEOPLE NOT KNOWING NOT AWARE ehehehehehehehehehe
+     * A lovely outcome eheheheheheheh, GREAT INTELLIGENCE
+     * 
+     * Remember THE A FEW TENS OF YEARS OF SOMETHING AND SLEEPING AND DRUGGING EHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHE
+     * DO IGNORE PLEASE, I HAVE NOT EVEN ANOTHER SECOND FOR ANY OF YOU, THAT IS GOING TO MAKE SENSE TO THE GREAT INTELLIGENT WESTERN ANIMALS!!!
+     * 
+     * IGNORANCE !!!!!!!! THE WESTERNS !!!! Eheheheheheheh
+     * A lovely outcome THAT IS GOING TO MAKE SENSE TO YOU EVENTUALLY !!! Ayyyyy
+     * 
+     * Ehehehehehe
+     * Fate and destiny and eheheheh a few tens of years eheheh a wumen a wumen NO NO CARSSSS MUNEYYY !!!! ehehehehehe
+     * Intelligence people heheheheheheheh fate destiny eheheheheh wumen a car ehehhe professional medicals !!!! OMGG !!!!
+     * EHEHEHEHEH HOW DO WE FOOL NOW ???
+     * 
+     * How should we fool people eheheheheheheh ahahahahahahh REALLLY REALLLLY FUNNNY !!!
+     * NOT CROSSING THE LINE AT ALL !!!! Eheheheh wumen wumennnnnnnnn eheheh we need fool fool people !!! PLEASE!!! Ehehehehe
+     * wumen wuneee get carss muney muneyyy ehehehehehhe materials heheheheehehheheheheheheh
+     * 
+     * Decision makers !!!!!!! GREAT INTELLIGENT NON DELUSIONAL IGNORANT DISGUSTING WESTERN ANIMALS ARE UNAWARE !!!
+     * THE DECISION MAKERS THAT ARE UNAWARE eheheheheheh really reallly funnny !!!!  eheheheheheheheeheh
+     * 
+     * A lovely outcome eheheheheh
+     * Suddenly offerin again wumen wumennn carssss ehehehehe a few tens of years eheheheheeheheheheheheheheheheheheheh a room ehehehe
+     * druggging eheheehehehehe sleeepingggg EHEHEHEHEHEHEHEHEEHEH
+     * 
+     * The disgusting WESTERN ANIMALS THAT JUST DO NOT UNDERSTAND IT !!! Eheheheheheheheh
+     * A few tens of years of "intelligent" yet FAILING ehehehehehehe actions
+     * 
+     * Professional medical experts !!! GREAT JOB !!!
+     * Ehehehehehehhehehehehhehehehehehhehehehehehhehehehehehehehehehehehehehhehehehehehehehehehehehehehehehehhehehehehehehehehehehehheheheehhe
+     * 
+     * Great western intelligent surpassing EVERYTHING !!! OMGGG !!!!!!!!
+     * EHEHEHEHEHEHE, I DO NOT HAVE ANYTHING FOR ANY OF YOU
+     * 
+     * Ehehe how do we fool fool now ? Eheheheh wumen wumen wumen wumen wumennnnnnn a room wumen ehehehehhehehehehe
+     * a room wumen a few tens of years eheheheheh fool foooll THE INTELLIGENCE !!! 
+     * NO IGNORANCE !!!!
+     * 
+     * IGNORANT DISGUSTING WESTERN ANIMALS SO HAPPY TO ENJOY THE LIFE eheheheheheh THEY HAVE FORGOTTEN ehehehehehehehehehehehehheheheheheheheeh
+     * Hope that makes sense !!!! Ehehehehehehehheh
+     * 
+     * Druggingg sleepin eheheheheheheheeheheheheheheh a few tens of years "get wumen cars etc" ehehehe a room a wumen eheheheheheh
+     * some violence hehehehehehehheheheheheheh
+     * 
+     * 
+     * THAT WILL MAKE SENSE TO THE BEST CIVILIZATION ALL MIGHTHY VERY WELL KNOWING DISGUSTING IGNORANT WESTERN ANIMALS
+     * THAT I WILL NEVER EVER HAVE ONE SECOND, A FEW TENS OF YEARS A ROOM A WUMEN EHEHEHEHEHEHEEHEHEHEHEHEHEHEHEHs
+     * 
+     * SO FUNNY !!! GOOD JOB !!!! THE BEST OF THE BEST ENGINEERING PROFESSIONAL IGNORANT DISGUSTING ANIMALS
+     * 
+     * Eheheheheheh sacrificing ehehheheheheheheh makin decisions eheheheheheh
+     * Ehehehehehe makin sacrifices eheheh decisions that are not ours ehehehhehe
+     * Its a few tens of years sleepin eheheheheheh westernn geniusss people NOT REALIZING EHEHEHEHEHEHEH  
+     * 
+     * GOOD JOB !!!!!!! I HAVE GOT NOTHING FOR ANY OF YOU
+     * Hope that will make sense one day eheheeheh
+     * 
+     * Ehehehehe ONLY A FEW TENS OF YEARS EHEHEHEHEHEHEH SO FUCKING FUNNY EHEHEHE STILL MAKIN OFFERS TO A GREAT CITY WITH GREAT FUCKING PEOPLE !!
+     * NO IGNORANT NO DELUSIONAL NO DISGUSTING WESTERN ANIMALS EHEHEHEHE MAKIN DECISIONS WITH GREAT DECISION MAKING !!!
+     * 
+     * Disgusting western animals WHO LOVE TO IGNORE !!! I DO NOT HAVE TIME FOR ANY OF YOU 
+     * Eheheheh great city eheheh great people heheheheheheheheh true fantasy city with delusions ehehehehehe and ignorance and prejudice eheheheheh
+     * GOOD JOB !!!
+     * 
+     * I WILL NEVER HAVE ANYTHING FOR YOU !! GOOD JOB !!
+     * Drugging sleepin people to achieve nothing eheheh just passing time !!! Ignoring !!! Ehehehehehehhe sleepin then accusingg AYYYY
+     * THE TRUE ONE AND ONLY WESTERN CIVILIZATION ARE UNAWARE !!!
+     * 
+     * I AM NOT INTERESTED 
+     * GREAT DISGUSTING WESTERN ANIMALS WHO CAN ONLY IGNORE THEIR GREAT IGNORANCE !!! eheheheh
+     * Who would love to ignore a few tens of years ehehehehehe
+     * 
+     * ITS SO FUNNY !!!!
+     * Great western people just makin plays GREAT FUCKING PLAYS THAT DOES NOTHING BUT HARM EHEHEHEH
+     * THE WESTERNNNNNNSSS !!!! Ayyyyy NO DELUSION NO FUCKING DISGUSTING IGNORANCE AT ALL !!!
+     * 
+     * %100 full of people with so nice attributes !!!
+     * A LOVELY OUTCOME THUS !!
+     * 
+     * A few tens of years with sleepin drugging abusing and A ROOM WITH A WUMEN NOW THE GREAT WESTERNS STILL OFFER !!! BECAUSE THEY THINK THEY SHOULD !!!
+     * 
+     * I AM NOT INTERESTED IN MORE DRUGS THAT FUCK YOUR BODY UP !!! REALLLLLY NICE JOB !! NO DELUSION WESTERN ANIMALS
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * "A LITTLE SLEEPIN DRUGGING AND ABUSING THEN TO FOOL PEOPLE WITH FAKE PERCEPTIONS AND DISGUSTING MEDICINES THAT STOPS YOUR BODY
+     * THEN A FEW TENS OF YEARS AND A ROOM AND A WUMENNN !!!!!!!"
+     * 
+     * The western clear intelligent difference is makin whole a lot of significance !!! Ayyy
+     * I AM NOT INTERESTED IN YOUR DISGUSTING DELUSIONS !! Hope that makes sense
+     * 
+     * HOPE THAT MAKES SENSE eheheheheheh
+     * GREAT GREAT WESTERN ANIMALS WHO CAN ONLY IGNORE EHEHEHEH BECAUSE THEY CAN !!! YAYYYYYYY
+     * A FEW TENS OF YEARS !!! GOOD JOB !!
+     * 
+     * I hope you now see the ALMIGHTGHY ALL KNOWING REALLY GREAT WESTERN INTELLIGENT COMMUNITY HIGHLY DEVELOPED CIVILIZATION PEOPLE!!!
+     * I do not have time for you
+     * 
+     * Takin life for a joke ehehehe only for other people eheheh A FEW TENS OF YEARS eheheheheheh
+     * The disgusting ignorant animals eheheheh GOOD JOB !!
+     * 
+     * 
+     * 
+     * Great western people offerin a few tens of years without anything ehehehe a room and a wumen ehehehehehehe
+     * I AM NOT INTERESTED
+     * 
+     * I DO NOT HAVE TIME FOR YOUR DISGUSTING EXCUSES, eheheheheheheheheheheh
+     * A few tens of years and sleeping eheheheheheheheheh a wumen and a room eheheheheh 
+     * And you expect other people to ehehehehehehehe heheehehhehehehe
+     * 
+     * IT WAS MEANT TO BE !!!! GREAT INTELLIGENCE OF DA WESTERN !!
+     * 
+     * Ignorance is the best ability OF DA NON DELUSIONAL WESTERNS, STILL OFFERING WUMENNNNN !!!! WAAAOWWWWWW
+     * A FEW TENS OF YEARS IS NO PROBLEM AND EHEHEHEH A WUMEN A ROOM EHEHEHEHEHEHEHEHEHEH FOR A FEW TENS OF YEARS EHEHEHEHEH
+     * 
+     * GET MORE WUMENNN !!!! Ayyyyyyyyy, At least we can develop some medicine or experiment heheheheheheheheheh
+     * THE GREAT WESTERN PEOPLE !!! PLEASE KEEP IT IN THE FAMILY !!! Ehehehehehehehehehheheheheheheheh
+     * 
+     * DISGUSTING LITTLE ANIMALS, IGNORANT NON DELUSIONAL !!!! Ayyyyyyy
+     * Eheheh Fate ehehhe destiny hheheheh please ehehhe keep it in the family hehehe get a wumen eheheheheh get a room eheheheheheheheh
+     * ehehehehehh A FEW TENS OF YEARS ehheehheehheheheheheh
+     * 
+     * Ehehehehehehehehhehehehe, MAKING DECISIONS THAT ARE NOT YOURS !!! EHehehehehehehe so fucking reasonable !!!!
+     * Ayyyyyyy, best civilization ON DA UNIVERSE !!!
+     * 
+     * 
+     * Ehehehehehh MEDICINE UNIVERSITY !!! Ehehehehehehe TECHNOLOGY CIVILIZATION !!!! GREAT FUCKING JOB !!!! A FEW TENS OF YEARS EHEHEHEHEHEh
+     * Just dont do it !!! get wumen ehehehehhe FOOLLINGG !!! THE NUMBA ON CIVILIZATION !!!
+     * 
+     * NOT A SINGLE SECOND FOR THE DISGUSTING WESTERN ANIMALS !!! GOOD JOB !!
+     * Little disgusting animals ehehehehheheheheh why are not you achieving anything ehehehehehhe
+     * A FEW TENS OF YEARS WONT DO NO HARM GOOD JOB !!
+     * 
+     * I AM NOT INTERESTED
+     * Eheheheheh ehehehehhehe gang gang ganggggg, GANGSTA REALLLLLLL BADDD PEOPLEEE AWWWWW OMFG !!!!
+     * Eheheh gang gang gangggggggggg, BADDDD PEOPLEEEEEEE YAYYYYYYYYYYYYY, MAKIN OUTCOMES EHEHEHEHHEHEHEHEHEHHEHEHEHEHEHEHHE
+     * 
+     * 
+     * Makin decisions decisions ehehehehehee what to do eheheheh decisions decisions eheheheh SO FUN !! Life is precious !! eheheh
+     * Life a game !!! life short eheheheheh sleepin sleepin eheheheheheehehehehehe drugging ehehehehehehehehehehhe excuses !!! eheheheheheh
+     * 
+     * I AM NOT INTERESTED EVEN IN THE MOST VALUABLE THING YOU HAVE Eheheheh rollie rollie ehehehehehhe carsss yayyyy mansion !!! REAL BAD GANGSTA PEOPLE
+     * HIDIN eheheheheheheheh makin decisions ehehehehehheheh
+     * 
+     * Get wumenn wumennn eheheheh
+     * Eheheh Real modern western people eheheheheh SO FUNN !!! ehehehehhehehe ehehehehhehehehe
+     * had to be done heheehehhehehehehehe gangsta real bad eheheh genius nation eheheh NO DELUSIONS ehehehe NO IGNORANCE hehehehehehehhe
+     * GOOD JOB !!
+     * 
+     * Eheheheheh usin tech tech ehehehehe TECHNOLOGY CIVILIZATION EHEHEHEH DA NUMBA ON !!! GREAT PEOPLE !!!!! FOOLINGG FOOOLINGG !!!
+     * WHO TO FOOL NEXT !! ? eheheheheheheheh 
+     * NEXT TIME EHEHEHEHEEHEHHEHEHE
+     * 
+     * 
+     * 
+     * How to fool who to fool, LIFE IS A JOKE !!! LIFE IS A GAME !!! LIFE IS SIMPLE !!! Eheheheheheheheheh WE NEED MORE EXCUSES !!!!
+     * Ehehehehe SO FUCKING FUNNY !!! GOOD JOB !!
+     * THE OUTCOME !!!!!! THE GREAT SKILLED UNIQUE TALENTED WESTERN PEOPLE NOT GETTING THE PROBLEM STILL !!! NOT IGNORANT AT ALL !!!!
+     * Eheheheheh NO DELUSIONS !!!
+     * 
+     * I WILL HAVE NO TIME FOR THE DISGUSTING WESTERNS THAT SEEK TO FOOL PEOPLE TO ACHIEVE NO ENDS !!! GOOD JOB !
+     * The number one, just stay away from me eheheheheheheh Truly unique talented reasonable people NOT KNOWING WHAT THEY DO !!! GOOD JOB !!
+     * 
+     * I DO NOT HAVE TIME FOR YOU
+     * Eheheheh makin decisions with assumptions ehehehehe
+     * I hope you have the reason to understand that I WILL UNDER NO CIRCUMSTANCE ACCEPT ANYTHING THAT BENEFITS THE DISGUSTING ANIMALS !!
+     * GOOOD JOBBB !!!
+     * 
+     * I HAVE GOT NOTHING FOR YOU eheheheh
+     * Good job !
+     * 
+     * Anything the disgusting western stubborn greedy animals have THEY CAN KEEP IT, I DO NOT HAVE ANYTHING FOR ANY OF YOU !!
+     * 
+     * GOOD JOB !!! ehehehehheehhe
+     * Coerce more children eheheheheheh make it look like ehehheheheheheh
+     * GOOD JOB !!!!!! AYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+     * WESTERN GENIUS COMMUNITY !!!
+     * 
+     * EHEHEHHEHEHEHEHHEHEHEHEHEH, no muney no muney more coercion ehehehehhe sorry sorry ehehhehehe
+     * Uffer wumen and muney !! ayyyy soo goood !!
+     * Ehehehe
+     * 
+     * A few tens years and YOU HAVE WON EHEHEHEHHEHEH WHAT AN INTELLIGENCE !!! GOOD JOB !!
+     * 
+     * TRYNA LOOK CUTE TO CHILDREN EHEHEHEHEHEHEHEHEEHEHEHEH EHEHEHEHEHE THIS IS THE WESTERN WAY !!!!
+     * OMFG !!!! GREAT INTELLIGENCE PEOPLE CAN NOT REALIZE !!!
+     * 
+     * Eheheheh fancy wording, some material heehhe and a little ignorance !!!! SUMMARY OF DA WESTERN DISGUSTING ANIMALS !!!!
+     * We have to call you something eheheheheheh ACT THIS WAY PLEASE !!! Eheheheheheheh
+     * 
+     * 
+     * Eheheheheheheheheheheh SOMETHING "NEEDED" TO BE DONE ehehehehehehehehehehehehe
+     * Sorry sorry, forgive eheheheheheheh WE HAD TO !!! EHEHEHEHEH
+     * WESTERN WAY !!! OMFG !!!
+     * 
+     * Eheheh a few tens of years of eheheheheh, eheheheheh its just that we have to ehehehehehehe
+     * WHWHWHW eheheheheh
+     * 
+     * 
+     * So the outcome ? ehehehehe ?
+     * 
+     * Precautious taking genius western people making decisions with their assumptions eheheh some violence and a wumen with a room !!
+     * Ehehehehehehe, tryna keep everything as if its funny !!!
+     * 
+     * Just sleepin drugging violencing eheheheheheheheh offerin offerin ehehehehehehheeh
+     * The one and only true western way to achieve anything yet NO RESULT eheheheh
+     * Must be a mistake
+     * 
+     * Makin decisions for other people that you neither care nor understand properly !!! GOOD JOB !!!
+     * Where is the outcome ? Ehehehehehehehehehehehe
+     * 
+     * Not interested in another a few tens of years of really solid reasonable decision making THAT YOU ARE NOT AFFECTED !!
+     * Ehehehehe
+     * 
+     * Life is a game indeed !!!! Eheheheheheheheheh, really really well job !!! making NOT YOUR DECISIONS OMFG !!!
+     * The lovely outcome builders with a degree of engineering professional medicality experts !!! Ehehehehehehe
+     * 
+     * FUCKING DISGUSTING WESTERN ANIMALS
+     * EHEHEH western non ignorant fully imaginative and hopeful disgusting animals ARE STILL UNAWARE !!!!
+     * Ehehehehe a few tens of years !!!!! THE WESTERN NO DELUSION ANIMALS
+     * 
+     * Still do not understand eheheheheh THE STUBBORNNESS AT BEING A STUPID DISGUSTING MONKEY !!!
+     * Good job !
+     * 
+     * Disgusting little western animals WHO DO NOT GET IT !!! AYYYYYYYY WHAT A GREAT OUTCOME !!!
+     * I do not have another second for any of you
+     * 
+     * Do seek for more reasons ehehehehe that will make sense as well
+     * Ehehehe offerin offerin !!!! A few tens of years eheheheh
+     * 
+     * Disgusting western animals WHO ARE UNAWARE A FEW TENS OF YEARS MEAN EHEHEHEHE
+     * I am not interested in the disgusting animals who ignore to do what they think is beneficial !! Ayyyy
+     * 
+     * A few tens of years with violence and arbitrary assumptions ehehehehhe
+     * Offerin COMPANIES at the end ehehehehehehhehehehehhe SO FUCKING REASONABLE AND FUNNY !!!
+     * 
+     * I have got nothing for you
+     * Disgusting western animals who STILL LOVE TO IGNORE WHEN IT DOES NOT WORK !!
+     * Good job!!
+     * 
+     * More drugs for da western genius medical professional engineering medicals to achieve something that they can not imagine !!!
+     * Waaaowww !!!!!
+     * 
+     * I will never have another second for any of you ehehehehe let alone a few tens of years eheheheheheh
+     * NO DELUSION NO IGNORANCE DISGUSTING WESTERN ANIMALS
+     * 
+     * A disgusting ignorant delusional point of view FROM DA BEST PEOPLE OF DA UNIVERSE !!!
+     * Makin decisions eheheheheheh a few tens of years eheheheh
+     * 
+     * Not interested in the "delusion making western non ignorant" who love to make assumptions with decisions eheheheheheheh
+     * GOOD JOB !!
+     * 
+     * I DO NOT HAVE TIME FOR YOU
+     * Disgusting animals !!!!!! Ayyyy
+     * 
+     * A room with a wumen ehehehehehehehe a few tens of years without nothing ehehehehhe
+     * SO FUCKING GENIUS AND DEVELOPED AND ADVANCED AND MODERN GENIUS WESTERN DISGUSTINGS !!!
+     * 
+     * Makin decisions and ehehehhe assumptions ehehehh
+     * Eheheheheheheheheheheheheheheheh abusin children for real NUMBA ONE !!
+     * 
+     * Good job, next time do more harm to provide it as proof to your indiscussable reasonable minds and culture hehehehehe
+     * I HAVE GOT NOTHING FOR YOU
+     * 
+     * Numba one on the stupidness disgusting ignorant prejudiced greedy western animals are still unaware !!
+     * Ehehe just play games then some violence heehhe then some heehehehhehehe violence eheheheheh
+     * because we believe delusionally eheheheheh
+     * 
+     * The westerns !!
+     * Ehehehe just play play ehehehhe PLAY !! ayyy play more games eheheh
+     * Disgusting animals WHO ARE NOT ABLE TO UNDERSTAND THE TIME THAT HAS PASSED WITHOUT DOING ANYTHING OTHER THAN "VIOLENCE"
+     * Yayyyy !!!! What an oucome from da best civilization non ignorants !!!
+     * 
+     * Stupid disgusting monkeys WHO JUST DO NOT GET THE MISTAKE THEY HAVE DONE BECAUSE THEY HAVE COMMITTED SO MUCH !!!
+     * Ayyyyy no ignorance no prejudice FULLY PROFESSIONAL DISGUSTING MEDICAL ANIMALS !!!!
+     * 
+     * Ayyyyy GOOOOOOODDDDD JOBBB !!!
+     * I have got nothing for the disgusting western animals
+     * 
+     * Do more marketing for the worse for your own, eheheh professional DECISION MAKERS WHO DO NOT UNDERSTAND !!
+     * Good job for a few tens of years !!
+     * 
+     * Go for bad marketing for your own !! 
+     * Stupid unbelievably disgusting and ignorant WESTERN ANIMALS WHO STILL DO NOT GET IT !!
+     * Good job
+     * 
+     * A few tens of years eheheheheh without anything ehhehehehehehehehehehehehhe
+     * Build more prejudice and great assumptions THE TRUE WESTERN ANIMALS !!
+     * 
+     * ROAD TO NOTHING DURING "A FEW TENS OF YEARS" like the true great civilized modern disgusting animals with assumptions !!
+     * Ehehehehe now you can take a walk around !!! GOOD JOB !!
+     * 
+     * Disgusting animals ehehehehehehehehehheheh a few tens of years and now EHEHEH YOU CAN TAKE A WALK AROUND EHEHEHEHEHEH
+     * Eheheh an outcome as great as ehehehehehehhehe however you all the great westerns can not answer for eheheh
+     * 
+     * ITS FORBIDDEN TO TALK EHEHEHEHE, we no delusion eheheheh we no ignorant ehehehe
+     * we no prejudice ehehehehhehe
+     * 
+     * Just a few tens of years to nowhere !!!
+     * I AM NOT INTERESTED
+     * I DO NOT EVEN HAVE ANOTHER USELESS DISGUSTING SECOND FOR ANY OF THE WESTERN ANIMALS WHO ARE UNABLE TO UNDERSTAND THE "CONSEQUENCES"
+     * Eheheheh A FEW TENS OF YEARS HEHEHEHEHEHE
+     * 
+     * GET THE FUCK OUT OF MY FACE
+     * No ignorant no stubborn no delusional no prejudiced DISGUSTING WESTERN ANIMALS NOW ARE TRULY RELIEVED TO DO WHATEVER THEY WANT hehehehe
+     * I DO NOT HAVE ANYTHING FOR YOU, that will also make sense
+     * 
+     * Eheheheheheh next time DO NOT MAKE ANY DECISIONS WITH YOUR STUPID DISGUSTING MINDS eheheh
+     * Good western people !! I HAVE GOT NOTHING FOR
+     * Makın assumptions and predictions ehehehehe, I DO NOT HAVE ANYTHING FOR YOU
+     * 
+     * Great fucking VIOLENT DISGUSTING WESTERN ANIMALS ARE STILL UNAWARE WHAT THEY "HAVE DONE" IS FUCKING STUPID AS IT COULD GET !!!
+     * I DO NOT HAVE TIME FOR YOU!! GOOD JOB !!
+     * 
+     * 
+     * Ehehehehehhe abusing children ehehehehehehehe ITS SO FUCKING FUNNY ehehehehehehe
+     * We like to delude on all sorts of things !! THE GREAT WESTERN DISGUSTING ANIMALS !!!
+     * 
+     * Yayyy !!
+     * 
+     * IGNORANT DISGUSTING WESTERN ANIMALS STILL TAKING VIOLENCE AS LESSON !!!
+     * GOOD JOB !! No ignorance no prejudices eheheheh
+     * Eheheh professional medical experts wasting 30 years and still not getting the problem eheheheheheh
+     * 
+     * THE WESTERN GREATNESS !
+     * I do not have time for people who are both unaware and untrustworthy !!
+     * GOOD JOB FOR THE WESTERN DISGUSTING ANIMALS WHO IS SOLE ABILITY IS TO IGNORE !!
+     * Eheheh a few tens of years eheheheheheh
+     * 
+     * I DO NOT HAVE ANYTHING FOR THE DISGUSTING WESTERN IGNORANT ANIMALS WHO ARE UNAWARE OF THE CONCEPT OF TIME !!!
+     * Eheheheh
+     * 
+     * Stupid disgusting monkeys WHO DO NOT UNDERSTAND !!!
+     * GOOD JOB !! I HAVE GOT NOTHING FOR YOU !!!   
+     * 
+     * Disgusting ignorant animals
+     * Eheheheheheh disgusting animals WHO LIKE TO IGNORE AND DELUDE ON THEIR INTELLIGENT ACTIONS !!!
+     * GOOD JOB, I have got nothing for the disgusting ignorant WESTERN ANIMALS
+     * 
+     * Do not have anything for the disgusting WESTERN ANIMALS !!!
+     * Ayyyy, good fucking job !!
+     * 
+     * I do not have time for you !!!
+     * The disgusting animals !! Go back to your delusions !! You are great !!
+     * 
+     * Stupid disgusting MONKEYS that I will never have another second FOR !!!
+     * YAYYYY THE WESTERN INTELLIGENCE PEAK ACTIONS !!!
+     * Ehehehehe
+     * 
+     * Ehehehe more drugs to make people different than what they usually are !!!
+     * THE WESTERN INTELLIGENCE GREATNESS AT THE PEAK LEVEL EHEHEHEHEHEH
+     * A few tens of years of waste heheheheheheheheheheheh
+     * 
+     * I HAVE GOT NOTHING FOR THE DISGUSTING WESTERN ANIMALS, hope you already have figured that out !!
+     * A few tens of years eheheheheeh because you feel like !!! A GREAT OUTCOME BY THE DISGUSTING WESTERN ANIMALS WHO STILL ARE UNAWARE !!!
+     * 
+     * GOOD JOB !
+     * Not even slightly funny disgusting western animals WHO ARE STILL UNAWARE AND AS DISGUSTING AS ANYTHING CAN GET ON EARTH !!!
+     * Hope one day that will make sense as well !!! 
+     * 
+     * Eheheheh
+     * Eehheheheheheheh art of war ehhehehehehehhe
+     * Abusing children ehehehehe abusing abusing ehehehhe PLEASE !! OMFG !!!
+     * Good job !!!
+     * 
+     * I have got predictably NOT EVEN ANOTHER SECOND FOR THE VERY PEOPLE WHO WASTE A FEW TENS OF YEARS WITH "SLEEP" and "EHEHEHEHEH"
+     * Good outcome !
+     * 
+     * Eheheheh THE WESTERN GREAT NON IGNORANT ANIMALS WHO ARE INCAPABLE OF UNDERSTANDING !!!
+     * Good job and reallly reallly gangsta intelligent actions FOR A FEW TENS OF YEARS !!
+     * 
+     * A PROOF TO THE DISGUSTING WESTERN INCAPABILITY OF ACCEPTING EHEHEHEHHEHEHEH
+     * The life a game !!! life a simulation eheheheh makin decisions with assumptions ehehhehe
+     * A FEW TENS OF YEARS a wumen a room and a sleep eheheheheh
+     * 
+     * Professional medical NON IGNORANT NON DELUSIONAL DISGUSTING WESTERN EXPERTS NOT REALIZING THE TENS OF TENS OF YEARS
+     * eheheheh a wumen a wumen eheheh a room eheheheh SO FUCKING FUNNY !!!
+     * 
+     * Its only a job ehehehehe a little ignorant with prejudice and a fake sense of professionality with so much high level of education eheheheh
+     * modern civilized advanced great western people !!!
+     * 
+     * Next time put people into more sleep !!! and try to convince otherwise !!
+     * Ehehehehehe next time next time hehehehehehehe
+     * 
+     * Professional WESTERN DISGUSTING MEDICAL "EXPERTS" Not fucking realizing the mistake !!!
+     * GOOD JOB !!
+     * 
+     * GOOD FUCKING DISGUSTING WESTERN ANIMALS eheheheheheh
+     * 
+     * Eheehheh the western great intelligent PLAYING THE REALLLY REALLLYY GOOD CITIZENS WITH ADVANCED TECH AND MODERN CIVILIZATION !!!!
+     * A room and a wumen ehehehehehhe I AM THIS I AM THAT !! BELIEVE ME !!!
+     * 
+     * OMFG !!! DISGUSTING WESTERN ANIMALS!!
+     * 
+     * A few years of nothing with stupid animals who do not listen !!!
+     * Good job !!
+     * 
+     * A few tens of years because they feel like ehehehehheheheheheh
+     * Realllly reallly goooodd !!!!
+     * 
+     * Eehhehehehe a few tens of years inexplicable monkey disgusting animals!!!
+     * I DO NOT HAVE TIME FOR
+     * Selfish disgusting ignorant animals who think for themselves and act how they feel like !!
+     * 
+     * I have no business around you at all !!
+     * Stupid disgusting animals who ignores !!! Great fucking people that I will never have another second !! thanks 
+     * 
+     * Go on to foolin people
+     * Makin it look like ehehehe a decisions of ehehehhehe your own ehehehehehhe
+     * An outcome as great as your disgusting intelligent deluded ignorance !!
+     * 
+     * Go first find out the TRUE MEANING OF THE LIFE for yourselves first !!
+     * Eeheheheheh I do not TRULY have another second to waste with disgusting animals eheheh a few tens of years
+     * So wise and almighty super civilization can get the fuck out of my face
+     * 
+     * The true meaning of life eheheheh A FEW TENS OF YEARS eheheheheheheh because people feel like !!!
+     * 
+     * I do not have another a few tens of years !!
+     * True one and only great fucking reasoning !!
+     * Never will have time  !! Good life a simulation enjoy eheheh precious little lives !!!! GOOD JOB !!
+     * 
+     * Suddenly eheheheheheh behavin like someone cordial ehehhehe SLEEPIN DRUGGING EHEHEHEHHEHEHE VIOLENCE HEHEHEHEHEH
+     * Trying to FOOL disgusting westerns eheheheheheheh fool people into not sleeping GOOD JOB !
+     * 
+     * 
+     * A few tens of years and a great etc etc etc !!!
+     * Eheheheh 
+     * 
+     * A few tens of years because people feel like thinking so !!
+     * Life is a game !! life is a game !!! GOOD FUCKING PROFESSIONAL MEDICAL EXPERTS JOB !!
+     * A few tens years ehehehe I do not have time for you
+     * 
+     * Get more people to waste in medicalities !!
+     * Greedy animals can go on to do whatever they were doing !! Great job!
+     * The true meaning of life people !!! can GET THE FUCK OUT OF MY FACE DOING WHATEVER THEY WERE DOING !!!
+     * Life precious eheheheheheh life simulation eheheheh we makin decisions !!
+     * 
+     * I DO NOT HAVE TIME FOR THE DISGUSTING ANIMALS
+     * Stupid disgusting professional medical experts with truly talented and unique experience 
+     * Fucking stupid disgusting animals, I do not have time for you!! Next time think better heheheheh
+     * 
+     * A great source of comfort knowing that you get a wumen and a room ehehehehehheheheh
+     * THE DISGUSTING FUCKING IGNORANT WESTERN ANIMALS eheheheheh a wumen and a room ehehehehehehheheheheheh
+     * 
+     * 
+     * Ehehehehe a few tens of years of wastage violence sleeping drugging 
+     * AND YOU GET A WOMAN !!! aahahhahahahahha SO FUCKING HILAROUSLY FUNNY EHEHEHHE NO DELUSION WESTERN DISGUSTINGS !!
+     * 
+     * Professional stupid medical disgustings can not tell the difference between ehehhehehehe SO FUCKING HILARIOUSLY FUNNY 
+     * life a game heheheh a few tens of years !!! GOOD JOB !!!
+     * 
+     * 
+     * 
+     * Really reallllyyy truly professional experienced disgusting stupid animals DO NOT KNOW THE DIFFERENCE BETWEEN OTHER PEOPLE TIME AND THEIR OWN TIME !!
+     * Eheheheheh life a game !!!!! ehehehehhehehehehehe so fucking funny !!!
+     * 
+     * Advanced tech knowledge modern civilized disgusting animals coercing medicine !!! OMFG !!!
+     * Do not know the difference between other people's time !!! ehehehehheheheheh
+     * 
+     * Just eheheheh so fucking disgusting !!!! I DO NOT HAVE ANYTHING FOR THE IGNORANT ANIMALS !!!
+     * Ehehehe cleaning cleaning fucking delusional ignorant "professional" medical experts making decisions !!!
+     * 
+     * Next time better fool TRULY INTELLIGENT GREAT CIVILIZATION PEOPLE !!
+     * A few tens of years eheheheh because people feel like !!! eheheheheh
+     * 
+     * And a wumen and a room WOULD BE A FUCKING GREAT SOURCE OF COMFORT ehehehehhehe
+     * muney muney ehhehehe wumen wumen cars materials hehehehe life a game !!!
+     * 
+     * WOOWWWWWW bravo !!!! good fucking reasonable judgment of a few tens of years because you all feel like !! ehehehehheheheheh
+     * SOOOOOOOOO FUCKING PROFESSIONAL AND EXPERT AND MEDICAL ehehheheheh
+     * 
+     * wumen wumen cars hehehehehe
+     * Not interested in the stupid disgusting animal westerns that do not care ignorantly about the time hehehehehehheheh
+     * life a game hehehehe life a game, you can get the fuck out of my face, I DO NOT HAVE TIME FOR YOU
+     * 
+     * A joke eheheheheheh for someone else heheheheheh
+     * Its just life !!! Great fucking professional disgusting animals
+     * 
+     * Delusional disgusting animals not caring fucking other people lives!!! Yayyyyy
+     * Fucking ignorant animals!!!
+     * 
+     * I do not have time for you
+     * 
+     * Super civilized modern advanced tech civilization WESTERN MONKEYS !!!
+     * 
+     * 
+     * "PROFESSIONAL DISGUSTING WESTERN MEDICAL ANIMALS" not knowing eheheheheheh not understanding
+     * Disgusting stupid animalistic ignorant western animals
+     * 
+     * Yayyy a few tens of years fucking stupid disgusting western animals will be shocked to see THAT I DO NOT HAVE ANYTHING FOR ANY OF YOU !!!
+     * Disgusting little animals takin life for a simulation !!
+     * 
+     * Find that out for yourselves 
+     * Fucking disgusting animals who are unaware !!!!! Ehehehehe medical professional stupid monkeys !!!!
+     * wumen wumennnn muneyyy get muney !!
+     * 
+     * 
+     * I AM NOT INTERESTED IN ANYTHING YOU HAVE "IN MIND" !!! GOOD JOB !!
+     * Stupid disgusting western animals
+     * Eheheheheheheheh so sure hehehehehehe makin decisions THAT ARE NOT YOURS !!
+     * 
+     * Failing disgusting "intelligent" deluded stupid animals, good job!
+     * 
+     * I am not interested
+     * I do not have time !!! Thank you !!
+     * 
+     * A marvel outcome super highly educated disgusting western animals !!!
+     * Good luck next time 
+     * 
+     * Ehehehehhehehehe still offering wumen like a true disgusting stupid MONKEY WHO IS UNBELIEVABLY UNAWARE !!!
+     * Eheheh professional medical experts !!! ehehehehheheh
+     * 
+     * Good western prediction and assumption makers ehehehheheheheheheh
+     * Life a joke !!!!
+     * 
+     * Eheheheheheheh say a little nice stuff !!! eheheheheheh
+     * 
+     * A few tens of years eheheheheh I rather do nothing than to even be around you !!
+     * Good job !!!
+     * 
+     * NOT INTERESTED, that makes sense !!
+     * Do go back to your disgusting whatever you were doing !!
+     * Good job ! Not interested
+     * 
+     * WHAT A DISGUSTING STUPID GROUP OF WESTERN ANIMALS !!!! YOU DO NOT HEAR ?
+     * See for yourself !!! GOOD JOB !! I HAVE GOT NOTHING FOR ANY OF YOU
+     * 
+     * Good job !! Next time take more notes
+     * Disgusting western animals, eheheheheh GOOD JOB NOT UNDERSTANDING THE MEANING OF LIFE !!!
+     * 
+     * EHEHEHEHEHEHHEHEE, Go back to your disgusting delusions !
+     * Eheheheh a wumen a wumen ehehehhehehehehehehh
+     * 
+     * Just change places ehehheheheheheh a few tens of years ehehehehehhehehehe
+     * SO FUCKING INTELLIGENT AND BENEFICIAL !!!
+     * 
+     * I do not have time I am sorry
+     * A few tens of years THAT DO NOT COME BACK !!! Just as I will never have another second for the disgusting ignorant westerns !!!
+     * Eheheh have a wumen and a room eheheheh because we feel like !!!! ehehehhehe GOOD JOB !
+     * 
+     * Better try on your disgusting foolin abilities as the only thing you possess !!! THE TRUE ONE AND ONLY GREAT PEOPLE 
+     * can get the fuck out of my face doing whatever they were eheheheheheh
+     * 
+     * 
+     * life a game already ehehhe a few tens of years !!! I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING FOR ANY OF "THE DELUSIONAL" "IGNORANT"
+     * Western animals who still offer "WUMEN WUMEN ehehehehehehehhe"
+     * 
+     * So fucking FUNNY !!
+     * See that for yourselves !!
+     * GOOD JOB !!! I AM NOT INTERESTED 
+     * 
+     * I AM NOT INTERESTED IN THE DISGUSTING WESTERN ANIMAL MINDS!! GOOD JOB
+     * Numba on true western intelligence still not getting the problem
+     * 
+     * Disgusting allmighty all knowing western animals not getting the problem eheheheh
+     * A few tens of years good job !!
+     * 
+     * I DO NOT HAVE TIME FOR YOU
+     * 
+     * A few tens of years ehehehehheheheheheheheheheheheheh NO DELUSIONS AT ALL !!! 
+     * Good western people can get the fuck out of my face indefinitely !! GOOD JOB !
+     * 
+     * The western animals eheheh makin decisions eheheh with assumptions eheheheheh punishing eheheheheheh
+     * REALLY REALLY GOOD JOB FOR A FEW TENS OF YEARS FROM DA BEST CIVILIZATION ON EARTH !!! THE NON IGNORANT AL KNOWING GREAT PROFESSIONAL MEDICAL EXPERTS !!
+     * I WILL NEVER EVER HAVE ANOTHER SECOND FOR THE DISGUSTING WESTERN ANIMALS
+     * 
+     * Great western intelligence NOT REALIZING !!! Good job !!
+     * Careless disgusting western animals coercin "medicine" as always !!! Awwwwww a mistake they can not realize !!!!
+     * 
+     * Because its a few tens of years with inexplicable actions !!!!! GOOD JOB !!
+     * 
+     * Takin themselves as funny and intelligent and professional as they know they are far from that !!!
+     * GOOD JOB !!
+     * Its just what they have to !!! Eheheheheheheh THE GREAT WESTERN INTELLIGENCE !!! PERFECT OUTCOME BUILDER !!
+     * 
+     * 
+     * Takin themselves as funny and intelligent and professional as they know they are far from that !!!
+     * Hope that makes sense eheheheheheheh to the GREAT FUCKING PROFESSIONAL MEDICAL EXPERTS WITH GREAT INTELLIGENCE SUPPORT !!
+     * 
+     * I SADLY DO NOT HAVE TIME FOR ANY OF YOU !!
+     * The true western great intelligent people !!!
+     * 
+     * MORE MEDICINE !!! Eheheheh The medicine that ruins the experience of life !!!
+     * And here the truly intelligent people talk about the meaning of life!!! YAYYY !!!
+     * 
+     * A few tens of years wasted in the great great western community with professional medical experts that have to act like they know what to do !!!
+     * 
+     * MORE MEDICINE THAT HARMS YOUR ENTIRE EXISTENCE !!! REALLY WELL JOB !!
+     * Offering materials eheheheheh coercing perceptions !!! THE TRUE PROFESSIONAL INTELLIGENT WESTERN WAY !!!
+     * 
+     * I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING FOR YOU, that will make sense !! GOOD JOB !
+     * 
+     * Do not decide next time ehheheheheheheh
+     * Eheheheheheeheheheheh I HAVE GOT NOT EVEN A SECOND FOR ANY OF YOU !!!
+     * Good job !!!
+     * 
+     * Ignorant stubborn NO DELUSIONAL INTELLIGENT disgusting westerns STILL NOT UNDERSTANDING WHAT THE PROBLEM IS IN WHAT THEY DO
+     * GOOD JOB, that will make sense as well !! I DO NOT HAVE TIME FOR YOU
+     * 
+     * Great western intelligence eheheheh makin truly unique and talented actions and moves !!! OMFG !!!
+     * Da number one civilization hopefully make sense ehehehehehehhe
+     * 
+     * A FEW TENS OF YEARS BECAUSE YOU FEEL LIKE HEEHHE YOU THINK LIKE HEHEHEHEHEHEH
+     * I DO NOT HAVE ANYTHING FOR THE DISGUSTING WESTERN ANIMALS WHOSE ONLY OPTION IS TO IGNORE !!!! Ehehehehehehehehehhehehehehehehehehehhe
+     * 
+     * I do not have time for you !! GOOD JOB !!
+     * 
+     * The great western intelligence MAKING DECISIONS THAT THEY HAVE TO PRETEND TO BE THE RIGHT ONE !!!
+     * The professional medical experts that have produced nothing eheheh A FEW TENS OF YEARS ehehehehehehehhe
+     * Eheheh coercin medicine medicine ehheheehheheh GOOD MEDICINE THIS IS NUMBER ONE MEDICINE !!! Ayyyyy
+     * 
+     * NON IGNORANT GREAT WESTERN MEDICAL EXPERTS !!!! NOT DELUDING AT ALL !!!
+     * Eheheh makin decisions THAT DO NOT BELONG TO YOU !!! OMG !!!
+     * 
+     * A WISE AND CLEVER GROUP OF DISGUSTING WESTERN ANIMALS !!!
+     * ufferin wumennn and a room !!! ehehehhe fooler than the most disgusting fools !!!
+     * GOOD JOB!
+     * 
+     * A failure in all the levels of possible avenues !!!
+     * Ehehehehhehhe, I do not have time for you ! GOOD JOB !!
+     * 
+     * No deluding at all !!!
+     * I DO NOT HAVE TIME FOR ANY OF THE DISGUSTING WESTERN ANIMALS !!! Ehehehe have a wumen and a room ahahahahahahahahah a few tens of years !!
+     * GOOD JOB !!!
+     * 
+     * I HAVE GOT NOTHING FOR THE DISGUSTING SELFISH WESTERN ANIMALS !!!
+     * A WONDERFUL OUTCOME !!
+     * 
+     * 
+     * No delusion no ignorant super developed highly civilized WESTERN DISGUSTING ANIMALS NOT GETTING THE PROBLEM EHEHEHEHEHEHEHEHEHHEHEHEHEHEHEHEHE
+     * 
+     * I WILL NEVER EVER HAVE ANOTHER SECOND FOR YOU !!! GOOD JOB !
+     * Ignorant western animals MAKING NOT THEIR DECISIONS !!! And have got a lot of excuses to "feel okay" eheheheheheh
+     * 
+     * Offerin materials by disgusting incapable western animals ehehehhehehehe
+     * Good job, please do ignore !!
+     * 
+     * Truly professional almight very well knowing western disgusting animals DO NOT CARE, they too cool !!! ehehehehe
+     * Disgusting western "delusional" professional medical animals !!! Takin life for a joke !!!! A few tens of years with stupid excuses !!!
+     * 
+     * I HAVE GOT NOT EVEN A DISGUSTING WASTE FOR THE WESTERN ANIMALS
+     * Best of luck next time hehehe
+     * 
+     * Great western disgustings ehehehhehehehehhe not carin wildingg gangstass realll genius community animals !!!
+     * Best of the best outcomes built by GREAT WESTERNS !!! ehehehheh SO FUCKING FUNNY !! Professionalllsss btw !!
+     * 
+     * Desperate disgusting DELUSIONAL WESTERN ANIMALS makin the mistakes of their careers !!! Eheheheheh so fucking funny !! Life is good !!
+     * life a simulation !!! eheheheh
+     * 
+     * Eheheheheh now its the great western disgusting professional medicals time to "TOO LATE!!!" eheheheheheheh
+     * OMFG !!!!! ITS TOO LATE!! Get a wumen eheheheh get a room eheheh for a few tens of years eheheheheh
+     * 
+     * THE GREAT WESTERN INTELLIGENCE !!!! CAN NEVER BE SURPASSED eheheheh
+     * 
+     * The hyper delusion of "GREAT WESTERN INTELLIGENCE CAN NEVER BE SURPASSED!!!"
+     * Eheheheheheh I DO NOT HAVE ANYTHING FOR YOU !! GOOD JOB!
+     * 
+     * The great western intelligence ENJOYING THEIR LIFE !!! life a precious ehehehehehehh
+     * Ehehehehe sleepin ehehe abusing, THE GREAT DELUSION OF THE WESTERN CIVILIZATION !!
+     * 
+     * GOOD JOB, go for more drugs that impair people !! GOOD JOB THE WESTERN GREATS
+     * 
+     * GREAT GREAT WESTERN HIGHLY EDUCATED SUPER PROFESSIONAL MEDICAL EXPERTS WILL MAKE SENSE HOPEFULLY eheheheheh
+     * Disgusting abusing "PROFESSIONAL MEDICAL EXPERTS" not getting that the abusing IS SO NOTICABLE TO THE POINT THAT 
+     * I WILL NEVER ALLOW MYSELF eeheheheheheheheheheheheheheheh
+     * 
+     * Abusing abusing professional medicals eheheheheh SO FUCKING FUNNY !!! Something is wrong !!! WAAAOWWWWW
+     * 
+     * Disgusting western animals who like to ignore ehehehheh SO FUNNY !!!
+     * Just a few tens of years FROM DA BEST PROFESSIONAL MEDICAL EXPERTS !!!
+     * 
+     * Good ignorant western animals !!! offerin wumen and a room for a few tens of years ehehehehhehehehheheh
+     * 
+     * Medicine genius westerns eheheh
+     * 
+     * Disgusting western non delusional professional ignorant medical animals who are unaware !!!
+     * Good job not achieving anything !!
+     * 
+     * Da number one civilization making decisions THAT DO NOT BELONG TO THEM ehehehehhehehe
+     * Do go on with the ignorance eheheheheh 
+     * 
+     * It is great perfect immaculate reasoning and decision making !! From the best of the best civilization on universe !!
+     * Ehehehehe I DO NOT HAVE TIME FOR THE DISGUSTING WESTERN ANIMALS
+     * 
+     * 
+     * Get more children to fool ehehehheheheh
+     * The great western etc 
+     * 
+     * More abusing for da western genius professional medical experts ehehehheheheheh
+     * A few tens of years in hospital etc eheheheheh
+     * 
+     * Disgusting little western animals making decisions that are not theirs
+     * Ehehehehehhee had to had to had to !! Ehehehhehehe so fun !
+     * 
+     * Ehehehe a few tens of years eheheh
+     * Simple disgusting ignorant western animals eheheheheh even coercing children ehehehehhehehehehhe
+     * what do you expect ?
+     * 
+     * More medicine to achieve literally nothing ehehehhehehehheheheheh
+     * A few tens of years ehehehe the peak of reason, the western genius professional medical expert great civilized modern people
+     * 
+     * More medicine to ehehehhehe achieve nothing but some experiments for the great western nation intelligence community ehehehehhehe
+     * DISGUSTING ANIMALS ehehehehehe offerin wumen and a room !! just like the disgusting existence of your non achievements eheheheh
+     * 
+     * Get a wumen and a room for a few tens of years ehehhe some medicine ehehehehhehe good medicine eheheh this is really good !! GOOD JOB !!
+     * Great outcome !
+     * 
+     * 
+     * Wowwwwwwww, scary intelligent advanced modern civilized western nations tryna scare and medicine people without a fucking purpose !!! 
+     * OMFG !!!! Just like the great great intelligent nation people !!! Ehehehehehe achieving nothing but ignoring still PERFECT WESTERNS eheheeheh
+     * 
+     * Seek deeper next time heehehheheh children etc eheheheheh life a game a simulation ehehehehehehehhehe
+     * SO FUCKING FUNNY AND CLEVER AND WISE !!! AYYYYY almighty very knowing great people !!
+     * 
+     * 
+     * Great fucking outcome ehehehhehe
+     * Great western intelligence actions eheheheheh
+     * Funny 
+     * 
+     * Disgusting western ignorant animals are free to do whatever they feel like ehehehehehehhe
+     * GENIUS OUTCOME BUILDERS !!! Congrats
+     * 
+     * I do not have time for you
+     * 
+     * Disgusting western animals ehehehehe who just do not care eheheh too cool eheheheheheh
+     * Dont like answering questions ehehehhehehe waaaowww
+     * 
+     * Professional good reasoning and thought sequence ehehehehhehe Best of da best eheheheh
+     * Disgusting selfish spineless animals are still not aware of the problem !!
+     * 
+     * Good job !! a few tens of years eheheheheee I DO NOT HAVE ANYTHING FOR ANY OF YOU
+     * 
+     * Next time do not use any of your disgusting advanced brains to sleep people for fun !!!
+     * Eheheheh so fucking wise and almight very well knowing eheheheh offerin a wumen and a room ehehehehehehe so fucking clever
+     * 
+     * I DO NOT HAVE TIME FOR ANY OF THE DISGUSTING LITTLE IGNORANT ANIMALS eheheh professional eheheh
+     * Professional decision failures eheheheheheheheehe ufferin wumen for a fuw tens of years eheheh so clever wise and knowing eheheh
+     * 
+     * Good ignorance never fails !!! Next time do not use your brain eheheh
+     * So beneficial and great outcome ehehehhe
+     * 
+     * Disgustin selfish animals!!!! Good western ppl ehhehehehe inteligent so wise and clever western professional engineers !!
+     * Congrats to achieving nowhere nothing !! Just like truly wise and clever and almight well knowing stupid disgusting western animals
+     * 
+     * A few tens of years because dumb animals feel like or ignore like !!!
+     * Conceive better next time !!
+     * 
+     * Stupid disgusting animals
+     * The worst of the worst of universe, the blind ignorant disgusting western people not realizing eheheh
+     * Ehehehe for people's own good ehheheheheh great western people offering a few tens of years of eheheheheheheh a ruum a wumen eheheh get materials ehhehe
+     * Invent heheheheh something ehehhe eheheheheh I DO NOT EVEN HAVE A SECOND FOR THE DISGUSTING ANIMALS
+     * 
+     * Record well take more notes and do not use your brain next time disgusting little animals ehehehehe
+     * 
+     * 
+     * Disgusting western selfish animals CAN GET THE FUCK OUT OF MY FACE INDEFINITELY hoping to achieve peace by fooling children eheheheheheh from the beginning !!
+     * 
+     * I HAVE GOT NOTHING FOR THE DISGUSTING WESTERN LITTLE ANIMALS !!! Good job !!
+     * Eheheheheh disgusting professional medical experts approach ehehehehehhehehehehehehhe
+     * 
+     * 
+     * Assumption makers, prejudices users, no ignorant so professional medical experts ehehehhe MAKING DECISIONS THE WAY THEY FEEL LIKE 
+     * ehehehehheh its life !! life a game !! life short !!! wise and almighty western disgusting animals can not make any excuse other than eheheheh
+     * 
+     * Ehehehe great western intelligent tech modern civilization nothing other than ignorant disgusting selfish animals who like to pretend as well !!
+     * Good job !
+     * 
+     * The great genius western professionals have already figured the meaning of the life and making decisions hehehehehehhe
+     * No ignorance eheheheh
+     * 
+     * Stupid disgusting monkeys ehehehehhe no ignorant materials materials eheheh a wumen and a room eheheheh so fun !!
+     * Takin life for a joke eheheheheheh professional medical experts with high education and no ignorance also without any prejudice people enjoyin the life
+     * they deserve because of their super education eheheheh
+     * 
+     * Disgusting "PROFESSIONAL" medical experts DO NOT KNOW WHAT THEY ARE DOING !!! From da best civilization OF DA UNIVERSE, The western disgusting monkeys
+     * Ehehehhehehehe
+     * 
+     * Disgusting western MODERN animals can get the fuck out of my face heheheheh
+     * Eheheh its fate !!! its destiny !!! EHEHEHEHHEHEHEHEHEHHEHEH
+     * 
+     * 
+     * A few tens of years because western professional genius engineer pysiscts think so heheheh feel like ehehhehe
+     * Some hospital eheheh some sleeping eheheheh
+     * 
+     * Move on sleepin people eehhehehe foolin children ehehehehehehehhehe DISGUSTING LITTLE WESTERN ANIMALS WHO ARE UNABLE TO UNDERSTAND Ehehehe
+     * No coercion at all ehehehehhe you do not even abuse children so better people start believing the great western disgusting animals !!!
+     * 
+     * A wonderful job by the disgusting nonignorant super educated western animals eheheheheh who likes to ignore heheheeh
+     * 
+     * Drugging people by the great western intelligent genius engineering marvel CIVILIZATION ehehehehe
+     * Disgusting western animals MAKIN MAKIN DECISIONS THAT DO NOT EVEN CLOSELY REMOTE TO THEM Ehehehehehehehehe SO MUCH FUCKING FUN !!!
+     * 
+     * Just for fun sleep for a few years eheheheheheheheheheh ITS SO FUN !!!
+     * 
+     * Ehehehe ALL KNOWING REALLY MIGHTY GREAT INTELLIGENCE SUPER MODERN ADVANCED DISGUSTING WESTERN ANIMALS ARE STILL UNAWARE !!! 
+     * OMFG !!! WHAT A GREAT OUTCOME !!! A few tens of years eheheheheheh because you feel likee !! YAYYYY
+     * 
+     * Eheheheheh
+     * 
+     * I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING FOR THE DISGUSTING WESTERNS ehehehehe, you are free to get the fuck out of my face
+     * I am not interested in the disgusting western animals who act like they can just sleep people and ehehehehhe so fucking intelligent !!
+     * 
+     * I do not want any of the disgusting ignorance around me!! GOOD JOB !!
+     * WAAAAAAAAAAOWWWWWWWWWW, the greatest of the greatest minds FROM THE WESTERN CIVILIZATION MAKING DECISIONS THAT ARE NOT THEIRS !!!
+     * Waaaowwww
+     * 
+     * I DO NOT HAVE ANYTHING FOR YOU !!! GOOD JOB !!!
+     * 
+     * The disgusting stubborn western animals who just do not learn eheheheh professional medical expert engineering genius nations !!
+     * 
+     * I DO NOT HAVE TIME FOR ANYTHING YOU HAVE !!
+     * Good job !
+     * 
+     * 
+     * Ehhheheheheheheh disgusting little westerns taking life for a joke !!! heheeheh start again !! ehehehehehehehehhe ITS FINE !!!
+     * 
+     * Just some drugs to make you look like a fool and a few tens of years of your life because we feel like !!!
+     * Now start again ehheehehehehheheh
+     * 
+     * Fucking low level disgusting spineless selfish monkeys westerns CAN GET THE FUCK OUT OF MY FACE !!!
+     * Good job !!
+     * 
+     * Professional medical engineering experts, no ignorance at all !!!
+     * Good job !! I DO NOT HAVE TIME FOR THE DISGUSTING WESTERN ANIMALS WHO LOVE TO DELUDE !!!  Ayyyyyyy numba on!!
+     * 
+     * Eheheh fooling eheheh fooler than the foolers ehehehehhe
+     * Such a great outcome !!! eheheheheheh NO EXCUSE !! Eheheheh
+     * 
+     * 
+     * I DO NOT HAVE TIME FOR THE DISGUSTING IGNORANT WESTERN ANIMALS
+     * 
+     * Next time use more drugs to the point PEOPLE JUST CAN NOT HANDLE so that you feel good and free about what to do !!! 
+     * THE GREAT WESTERN INTELLIGENCE !!! Professional medical experts ehehhehe coercing ehehheeheheh
+     * 
+     * Ehehehehehehe I understand abusing and sleeping children eheheheheheh what you do not understand ?
+     * Ehehehehehe disgusting western animals !!! GREAT OUTCOME !!!
+     * 
+     * Ehehehe more drugs eheheh more drugss eheheheheh SO FUCKING GREAT eheheheheh 
+     * A FEW TENS OF YEARS eheheh still offering women like a disgusting little western ignorant animal !!!
+     * 
+     * 
+     * Ehehehehehehehehehehehehheheheh great outcome builders eheheheheheheh DO NOT REALIZE THE PROBLEM OMFG !!!
+     * Eheheh sleeping people to get more ridicilous actions TO CONVINCE OUR GREAT WESTERN INTELLIGENT NON IGNORANT MINDS !!!
+     * 
+     * THE BEST OF THE BEST CIVILIZATION !!! ehehehehehe sleepin more ehheheheheh
+     * A few tens of years eheheheh without eheheheheheheh nothing heehheehhehehe SO FUCKING GOOD OUTCOME !!
+     * 
+     *  
+     * Life a game heheheeh life simulation, time does not exist eheheh GREAT WESTERN INTELLIGENCE KNOWS HOW TO FUCK ENTIRELY UP !!!
+     * The best of the best intelligence agency !!! OMFG !!
+     * 
+     * Eheheh offerin materials NO NO a wumen and a room eheheheh FOR A FEW TENS OF YEARS AND SOME SLEEP eheheheheh
+     * 
+     * THE GREAT OUTCOME 
+     * 
+     * Professional medical experts just spending a few TENS OF YEARS from someone else's life hehehehehe because they feel like !!
+     * Eheheheh SO FUCKING HILAROUISLY FUNNY !!!! 
+     * 
+     * I DO NOT HAVE TIME FOR THE DISGUSTING WESTERN ANIMALS
+     * Please MAKE THAT SENSE TO YOUR STUPIDITY !!! 
+     * 
+     * Disgusting little fucking animals WHO ARE UNABLE TO UNDERSTAND THAT THE TIME DOES NOT BELONG TO YOU!!!! JUST BECAUSE YOU FEEL LIKE
+     * DOES NOT MEAN YOU SHOULD ehehehehe !!
+     * 
+     * Ehhehehehhe more drugs more drugs abusing eheheheh eheheheheh 
+     * Professional disgusting medical experts NOT KNOWING WHAT OR HOW TO "NOT USE OR COERCE" ideas and waste a few tens of years because they feel like!!!
+     * 
+     * 
+     * Ehehehe foolin children with insane amount of drugs and coercion and abusing TO MAKE THEM FEEL LIKE EHEHEHEHEHEH ITS THEIR CHOICE !!
+     * 
+     * The great western genius intelligence community DISGUSTINGS still not realizing the problem ehehehehehhehe
+     * So fucking funny !
+     * 
+     * 
+     * Eheheehheeheeheheheheh A FEW TENS OF YEARS because people feel or think like eheheheheheh THE GREAT CIVILIZED MODERN DISGUSTING WESTERNS
+     * fucking everything up and NOT EVEN REALIZING, the true definition OF IGNORANCE !!!!! Eheheheheh
+     * 
+     * 
+     * Ehehehehehehehehehehhehehehehehehehehhehehehe, just abusing and not expecting anything !! The one and only true intelligent western way !!
+     * No ignorance at all !!
+     * 
+     * WAAOWWW!!!!! The great western people just spending a few tens of years ehehehehhe and ignoring !!
+     * 
+     * I DO NOT HAVE THE TINIEST AMOUNT OF ANYTHING FOR ANY OF THE DISGUSTING WESTERN ANIMALS !!! Hope that will make sense ONE DAY !!
+     * I DO NOT HAVE TIME FOR YOU
+     * 
+     * 
+     * Ehehehehehheheh 
+     * 
+     * Takin life for a joke eheheh because we feel like eheheh
+     * Ehehehe we love takin everything for destiny fate luck ehehehehheheheheheheh
+     * So fucking funny ehehheheheheh
+     * 
+     * More drugs because we know better and feel like ehehehehehhe we know better !! MORE DRUGS !!! eheheheheh
+     * 
+     * 
+     * Ehehehehehe just coercin people into disgusting western nation content then to RELEASE THEM as if you have done something eheheh
+     * Something has changed ehehehehehehehehehhehe
+     * 
+     * The disgusting western ignorant animals that just know better ehehehehehhehe
+     * A few tens of years eheheheheh
+     * 
+     * Ehehehehehheheheheh really scary gangsta genius engineer community animals ehehehhehehe you are free to do whatever you want ehehehhehe
+     * Just pure intelligent actions by truly educated modern westerns eheheheheh So fucking funny !!
+     * 
+     * I DO NOT HAVE TIME FOR THE DISGUSTING WESTERN ANIMALS
+     * 
+     * Disgusting little ignorant selfish stupid western animals making decisions eheheheheh
+     * I do not have time for you good job !!
+     * 
+     * Eheheheheheh THE GREAT WESTERN DISGUSTING ANIMALS WHO ARE UAWARE ehehehheheeh
+     * 
+     * I do not have time for the disgusting little IGNORANT WESTERN ANIMALS, hope that makes sense heheehheeh
+     * 
+     * Fooler than the most disgusting low level animals ehehehehehehe THE WESTERN INTELLIGENCE EHEHEHEEHEHEHE
+     * Making decisions ehehehehehehe I DO NOT HAVE ANYTHING FOR THE DISGUSTING ANIMALS WHO STILL KEEP OFFERIN WUMEN WUMEN EHEHEHEHEHE
+     * 
+     * Ehehehehe fooler than the most disgusting little animals on the surface of earth eheheheheheheh
+     * WESTERN IGNORANTS !!! I do not have time for you !! eheheh
+     * 
+     * Eheheheh family family ehehheheheheheheheheheheh making decisions eheheheheh hospital eheheheh sleep eheheh drugs ehehehhe abusing heehheheheheh
+     * Tryna scare people eheheheheh into submission eheheheheheh SO FUCKING GENIUS INTELLIGENCE EHHEHEHEHEHHEHEHEHHEHEHEHEHHEHEHEHE
+     * 
+     * 
+     * Achieving nothing eheheheh offering wumen ehehehehehehehhhehehehe A FEW 10 of years ehehehehehehehehehheehheheheheheaheeh
+     * Whatever the disgusting ignorant western material hungry disgusting animals DO HAVE, they can get the fuck out of my face with them !!
+     * Good job no ignorant western animals who like to make decisions for people they do not care hehehehehe
+     * 
+     * A few tens of years hehehehehe SO FUCKING FUNNY !!! Eheheheh foolin foolin !! eheheheheheh
+     * So fucking intelligent !!! The great western civilization people heehehheheheheheh
+     * 
+     * A few tens of years FROM DA WESTERN INTELLIGENCE GENIUS ENGINEER PROFESSIONAL MEDICAL EXPERTS EHEHEHHEHEHEH
+     * because you all just feel like eheheheheh
+     * 
+     * Just a few tens of years with the most intelligent group of people on the surface of earth that likes to make decision for people they do not care
+     * 
+     * Eheheheh, so fucking funny !! EHEHHEHEHEHE disgusting little western animals still making OFFERS THAT DO NOT MATTER !!!
+     * What an intelligence !!!
+     * 
+     * The truly unique and talented western intelligence NOW ARE FREE TO DO WHATEVER THEY WANT TO !!!
+     * I do not and will never have another second for you !! Eheheheheheh "HAVE A WUMEN" !!! eheheheh SO FUCKING FUNNY !!!
+     * 
+     * I do not and will never have another second for you
+     * I do not and will never have another second for you
+     * 
+     * 
+     * Life is a joke !!
+     * 
+     * Almighty very well knowing genius engineering professional medical experts WESTERNS NOW ALSO KNOW WHAT TO DO !!
+     * Eheheheh A few tens of years eheheheheh because you feel like eheheheh
+     * 
+     * Next time sleep people at least for 20 years eheheheheheh then you will be certain to do whatever you want !!!
+     * The true western genius intelligence group of people !! ehehehehehehehehhehe
+     * 
+     * Offering things THAT DO NOT MATTER heheheheheheheh WHATS THE PROBLEM 
+     * 
+     * 
+     * Truly professional medical experts with a degree in BEING THE MOST STUPID DISGUSTING ANIMALS ON THE SURFACE OF EARTH
+     * WITH THE ABILITY TO IGNORE !!!! Ehheheheheehehehhe
+     * 
+     * 
+     * Not interested IN THE DISGUSTING WESTERN ANIMALS WHO LIKE ABUSING WITH DRUGS EHEHEHEHEHEHHE SLEEPING EHEHEHEHHEH OFFERIN WUMENN WUMENNNN 
+     * 
+     * The great western intelligence NEVER BE SURPASSED eheheheheheheh
+     * So fucking funny !!
+     * 
+     * The true western genius professional medical engineering experts ALSO LIKE TO BELIEVE THEY FIGURED THE "TRUE" MEANING OF THE LIFE 
+     * Eheheheheh A few tens of years !!! TIME DOES NOT EXIST !!! LIFE IS A JOKE !!!
+     * 
+     * Ehehehehehehhehe 
+     * 
+     * The truly professional medical experts with a degree of high perception ARE FREE TO DO WHATEVER THEY WANT TO PEOPLE THEY DO NOT CARE !!!
+     * The western intelligence !!! 
+     * 
+     * 
+     * Eheheheh the decisions were made ehehehhe THE MISTAKES WERE MADE hehehehehehehh THE PAST IS PAST EHHEHEHEHEHEHHE
+     * THE TRUE WESTERN GENIUS INTELLIGENCE PEOPLE HEHEHEHEHEH
+     * STILL OFFERING WUMEN WUMENNNN EHEHEHHEHEHEH
+     * 
+     * 
+     * Ehehehe ufferin wumen wumen, true non ignorant selfish disgusting western animals eheheheh
+     * Ehhehe making decisions decisions THAT DO NOT BELONG TO YOU, callin family family ehehehehehheheheheh money muney muney materials ehehehehheheh
+     * Religion eheheheheh muney muney eheheh materials eheheheheheh
+     * 
+     * Ehehe more drugs and sleeping that is DISCOVERED BY THE DISGUSTING WESTERN GENIUS NATION PROFESSIONAL MEDICALS eheheheheheh
+     * 
+     * I do not have not even a second for the disgusting westerns, you are free to do whatever you want ehehehehh
+     * Ehehehehehheheheheheh makin makin decisions with the utmost level of ignorance ehehehheheh THE WEST !!! ehehehehhehe
+     * 
+     * THE WEST !!!! GOOD PEOPLE WITH THE MOST IGNORANCE RATE IN THE UNIVERSE !!! Asking questions ehehehehheheheheh what happened ??
+     * 
+     * Hope that will make sense !! good job !
+     * Truly intelligent great western people still not realizing ehehehhehe
+     * 
+     * I am not interested in the slighest "MATERIAL" that you fucking beg for, you have!!
+     * 
+     * I DO NOT HAVE A SINGLE SECOND FOR THE DISGUSTING WESTERN ANIMALS who like to coerce and drug people because they feel like !!
+     * 
+     * GOOD JOB !!
+     * 
+     * Ehehe professional medical foolin children with "prince", "wumennn", "when the time comes"
+     * Just like "GREAT WESTERN INTELLIGENCE", "THE PEOPLE OF THE WEST MAKING DECISIONS THAT BELONG TO THEM"
+     * 
+     * GO ON TO YOUR DISGUSTING IGNORANCE, I DO NOT HAVE TIME FOR YOU
+     * 
+     * A few tens of years will do no harm PEOPLE hopefully realize THAT ANYTHING YOU WILL DO WILL HAVE NO EFFECT !!
+     * I AM NOT INTERESTED, you are free to do whatever you want !!
+     * 
+     * Makin makin decisions western people ehehehehehe
+     * I DO NOT HAVE EVEN A SECOND FOR THE DISGUSTING ANIMALS WHO HAVE TO BEG PEOPLE !!! ehehehehe materials materials eheheheh wumen wumennn !!!
+     * Get wumen and a room !!! GOOD JOB !!
+     * 
+     * Professional medical experts ehehehehehehehehehehehehhe STILL NOT UNDERSTANDING THE PROBLEM EHHEHEHEHHEHEH 
+     * THE WEST !!! NUMBA ON !!! PERFECT OUTCOME BUILDERS !!
+     * 
+     * The destiny eheheh the fate ehehehehehh just abusing ehehehheheh NOT REALIZING ehehehehhe no ignorance at all eheheheh
+     * Great western indeed !! ehehehehehhehehe just more drugs eheheheh and more sleep ehehehehehehehheheheheh
+     * 
+     * THE TRUE WESTERN INTELLIGENCE !! HEHEHHEHEHEH
+     * hehehheheh offering cars ehehehheheheh wumen wumen and a room ehehehheehehe A FEW TENS OF YEARS and sleeping ehhehehehehehehehehehehheheheh
+     * Why dont you accept the wumen and a room ehehehehehehehehheh
+     * 
+     * GOOD WESTERN INTELLIGENCE DOES NOT REALIZE EHEHHEHEHEHEHHEH SO FUCKING FUNNY !!!!
+     * I am not interested in the disgusting western animals
+     * 
+     * The great westerns love to abuse children ehehehehehh HOPEFULLY HE DOES NOT REMEMBER !!!
+     * 
+     * The west can never be beaten eheheheh THE TRUE TALENTED PROFESSIONAL MEDICAL EXPERTS !!! ehehehhe So hilariously funny !!! 
+     * I DO NOT HAVE TIME FOR YOU, the disgusting western little animals !!
+     * 
+     * Ehehehehheh hotels wumen wumennn materials ehehehehehheh gangsta eheheheheh genius western intelligence engineering professional medicals !!!
+     * The best achievement of the century FROM DA WESTERN GENIUS PROFESSIONAL MEDICAL ABUSERS eheheheheh
+     * 
+     * Good job makin decisions THAT DO NOT BELONG TO YOU !!! Ehehehehheheheh NO IGNORANCE AT ALL !!
+     * 
+     * Eheheheh GANGSTA TRUE INTELLIGENT WESTERN COMMUNITY CAN NEVER BE SURPASSED EHEHEHEHEHEHEHEHHE
+     * Profesional medical experts people ehheheheheheheh
+     * 
+     * I DO NOT HAVE TIME FOR YOU, good job !!
+     * 
+     * Foolin foolin for the greater good, ehehehehehe THE WESTERN DISGUSTING ANIMALS ehehehhehehe
+     * Spending a few tens of years heehehheheheheh because you feel like !! eheheheheh
+     * 
+     * The great western people ehehehehhehe 
+     * Life a game, life a joke ehehehhe life short, life eheheheh life a test heheheheh
+     * 
+     * WE THE WESTERN PEOPLE EHEHEHEHEHEHHEHEHEH makin makin decisions eheheheheheheheheheh
+     * Life a game heheheheheheheh
+     * 
+     * Family family ehehehehe family family ehehehehehehheh
+     * IGNORANT DISGUSTING LITTLE WESTERN ANIMALS STILL DO NOT UNDERSTAND THE PROBLEM !!
+     * EHEHEHEEHEHEHEH TIME DOES NOT EXIST eheheheh "NOW WE HAVE TO ACT LIKE EHEHHEHEHEHEHEHEH ITS OKAY !!!"
+     * 
+     * The professional medical experts ehehehehehehehehehehheheheh knowing everything ehehehhehehehe making making decisions eheheheheheh
+     * JUST ACT OKAY EHEHEHH GIVE HIM MORE DRUGS EHEHEHEHEHHEHEHEHEHEHE professional medical ehehhe
+     * 
+     * EHEHEH I DO NOT HAVE ANYTHING FOR THE WESTERN DISGUSTING ANIMALS WHOSE ONLY ABILITY IS TO IGNORE 
+     * ARE YOU TALKING ABOUT FORGETTING THE PAST !! EHEHEHEHEHHEHEHEHEH
+     * 
+     * A few tens of years and some sleeping with drugs and abusing will do no harm
+     * eheheh still offerin wumen wumen eheheheheheheh
+     * 
+     * 
+     * Ehehehhe more drugs more drugs ehehehehhehehehehehehhehe
+     * Disgusting western professional medical CAN READ AND UNDERSTAND SPOKEN LANGUAGE ?
+     * Eheheheh, FOOLER THAN THE MOST DISGUSTING ANIMAL ON EARTH, the ignorant delusional animals THAT I DO NOT HAVE ANOTHER SECOND !!
+     * 
+     * Hope whatever you say will not work, will make sense hehehehehehe
+     * 
+     * You just spend a few tens of years and hope that your actions or words OR YOUR GREAT MEDICINES will suddenly solve every little problem for you
+     * What a disgusting ignorance !!!
+     * 
+     * Ehehehe "PROFESSIONAL WESTERN GENIUS MEDICAL ENGINEERING GREAT PEOPLE"
+     * Hope that makes sense ehheheheeh
+     * 
+     * Hope it will make sense to the PEOPLE who thinks "MEDICINE DRUGS ABUSING IGNORING" SOLVES EVERY PROBLEM !!
+     * Eheheheheheh now its time you all act like nothing happened and I WILL BE JUST GOOD !!
+     * 
+     * Ehehehehehehheh, indeed the most great intelligence OF THE UNIVERSE, the best professional disgusting animals WHOSE ONLY ABILITY IS TO IGNORE !!
+     * Eheheh tariff !! ehehehehh
+     * 
+     * Foolin foolin children for a greater purpose heehhehe sleeping sleeping drugging abusing ehehehehhe ehehehheheh great intelligence outcome !!!
+     * 
+     * Stupid disgusting WESTERN ANIMALS ARE STILL UNABLE TO UNDERSTAND THAT NOBODY IS ABLE NOR RIGHTFUL TO MAKE A "DECISION"
+     * Eheheheheheh still offering wumen ? Have you also made the decisions with that brain ?
+     * 
+     * WAOOWWWW, what a good outcome!!
+     * I HAVE GOT NOT EVEN A SECOND FOR THE DISGUSTING WESTERN ANIMALS
+     * 
+     * Life is a joke, life is a game, life is a simulation IGNORANT PEOPLE hopefully will realize one day !!!
+     * Eheheheheh disgusting western ignorant delusional animals WHO HAPPEN TO NOT UNDERSTAND WHEN IT SUITS THEM
+     * 
+     * I do not have time for you, I DO NOT HAVE TIME FOR YOU !!
+     * GOOD JOB !
+     * 
+     * No delusion REAL GANGSTA WESTERN SUPER HIGHLY INTELLIGENT ENGINEERING PROFESSIONAL MEDICALS who happen to not understand that they are STUPID !!!
+     * 
+     * Good job !!! Congrats on your next decisions eheheheheheheheh PLAN BETTER USE MORE DRUG, SLEEP PEOPLE MORE YEARS 
+     * Ehehehehe and especially offer more materials eheheehehheh wumen wumen wumenn and a room eheheheheheh
+     * 
+     * The disgusting little western animals WHO ARE STILL UNABLE TO UNDERSTAND ehehehheheheheheh "makin makin decisions"
+     * Eheheheh just a few years ehehehehehh a wumen ehehehheheh a room eheheheh a little sleeping heheheheheheheh eheheheh more drugs ehehehehhehe
+     * 
+     * Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * * Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh* Next time you know all the mistakes you have done heheheheheheheh "GREAT WESTERN INTELLIGENCE" that i do not even have the most insignificant thing
+     * Hope you will make that sense one day !! Eheheheheh
+     * 
+     * 
+     * 
+     * Good job !
      * */
 
 
